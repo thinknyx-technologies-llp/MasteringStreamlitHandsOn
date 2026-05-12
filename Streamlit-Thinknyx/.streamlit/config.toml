@@ -1,0 +1,13 @@
+[theme]
+
+base = "light"
+
+# Primary accent color.
+primaryColor = "#00bfff"
+
+# Background color of the app.
+backgroundColor = "#fff"
+
+textColor = "#000320"
+
+font = "sans serif"
