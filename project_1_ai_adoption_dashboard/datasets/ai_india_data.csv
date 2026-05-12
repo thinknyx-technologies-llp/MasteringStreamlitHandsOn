@@ -1,0 +1,3000 @@
+city,industry,role,experience_years,salary_lpa,primary_ai_tool,ai_adopted
+Mumbai,Healthcare,Data Analyst,6,14.78,PyTorch,1
+Chennai,EdTech,AI Engineer,3,11.64,TensorFlow,1
+Hyderabad,Finance,ML Engineer,5,17.07,AWS AI,0
+Mumbai,Healthcare,Data Scientist,8,20.07,TensorFlow,0
+Bangalore,Healthcare,AI Engineer,11,27.28,Azure AI,1
+Delhi,E-commerce,Data Scientist,4,12.93,ChatGPT,1
+Hyderabad,E-commerce,ML Engineer,1,8.8,Scikit-learn,0
+Chennai,IT,AI Engineer,7,18.42,Scikit-learn,0
+Hyderabad,Manufacturing,ML Engineer,3,11.24,Azure AI,1
+Delhi,Finance,Data Analyst,9,22.29,AWS AI,1
+Pune,Finance,Data Analyst,7,18.77,Azure AI,1
+Hyderabad,E-commerce,Data Analyst,8,20.4,Azure AI,0
+Mumbai,Healthcare,Data Scientist,0,6.16,ChatGPT,1
+Bangalore,E-commerce,ML Engineer,9,27.78,ChatGPT,1
+Pune,Healthcare,Data Scientist,1,6.64,Scikit-learn,1
+Bangalore,Healthcare,AI Engineer,10,24.18,Azure AI,1
+Chennai,Healthcare,Data Scientist,2,7.13,ChatGPT,1
+Hyderabad,EdTech,ML Engineer,9,27.57,PyTorch,0
+Chennai,EdTech,Data Scientist,6,17.18,Azure AI,1
+Mumbai,Healthcare,AI Researcher,3,12.02,AWS AI,1
+Hyderabad,E-commerce,AI Researcher,9,26.78,Scikit-learn,0
+Hyderabad,IT,ML Engineer,10,27.37,AWS AI,0
+Bangalore,Healthcare,AI Engineer,8,23.55,AWS AI,1
+Bangalore,Healthcare,AI Researcher,8,25.42,TensorFlow,1
+Delhi,E-commerce,Data Scientist,10,23.67,Scikit-learn,0
+Bangalore,EdTech,AI Engineer,1,6.71,ChatGPT,1
+Pune,IT,Data Scientist,10,24.87,ChatGPT,0
+Hyderabad,Finance,AI Researcher,1,12.69,AWS AI,0
+Chennai,EdTech,AI Engineer,3,8.36,Scikit-learn,1
+Bangalore,IT,AI Engineer,5,13.66,Scikit-learn,1
+Delhi,Healthcare,Data Analyst,2,6.81,PyTorch,1
+Bangalore,IT,Data Analyst,6,15.64,TensorFlow,1
+Chennai,Finance,Data Analyst,10,23.32,PyTorch,0
+Hyderabad,E-commerce,Data Scientist,9,24.35,ChatGPT,0
+Bangalore,IT,AI Researcher,11,32.52,PyTorch,1
+Chennai,IT,Data Analyst,2,10.56,Scikit-learn,0
+Mumbai,Manufacturing,Data Analyst,7,19.45,ChatGPT,1
+Delhi,Manufacturing,ML Engineer,1,11.69,PyTorch,1
+Pune,E-commerce,Data Analyst,8,19.05,PyTorch,1
+Mumbai,Healthcare,Data Analyst,0,6.57,AWS AI,0
+Mumbai,Finance,AI Researcher,5,21.82,Azure AI,1
+Pune,E-commerce,Data Scientist,11,26.94,Azure AI,1
+Chennai,EdTech,AI Engineer,3,10.98,AWS AI,1
+Pune,IT,AI Researcher,8,26.38,AWS AI,1
+Pune,IT,Data Analyst,2,8.1,PyTorch,0
+Chennai,Finance,ML Engineer,8,25.55,PyTorch,1
+Delhi,Finance,ML Engineer,7,22.12,ChatGPT,1
+Chennai,EdTech,AI Engineer,8,18.71,TensorFlow,1
+Pune,E-commerce,ML Engineer,2,13.03,ChatGPT,0
+Hyderabad,Finance,AI Engineer,11,34.71,TensorFlow,1
+Pune,Manufacturing,AI Engineer,5,19.63,TensorFlow,1
+Delhi,Manufacturing,Data Analyst,0,3.0,AWS AI,1
+Hyderabad,EdTech,Data Scientist,4,11.92,Scikit-learn,1
+Hyderabad,EdTech,AI Engineer,3,12.55,TensorFlow,1
+Delhi,Finance,Data Scientist,2,6.38,Azure AI,0
+Hyderabad,EdTech,Data Scientist,6,13.02,ChatGPT,0
+Bangalore,EdTech,ML Engineer,0,7.36,Azure AI,1
+Chennai,EdTech,AI Researcher,6,21.59,PyTorch,0
+Hyderabad,EdTech,AI Researcher,2,13.32,ChatGPT,1
+Hyderabad,Finance,AI Researcher,3,14.37,TensorFlow,1
+Delhi,Finance,Data Analyst,6,16.49,AWS AI,1
+Delhi,Finance,Data Analyst,1,4.5,PyTorch,1
+Delhi,IT,AI Researcher,0,11.95,Scikit-learn,1
+Hyderabad,Finance,Data Analyst,10,28.09,PyTorch,1
+Mumbai,IT,AI Researcher,0,11.37,ChatGPT,1
+Pune,EdTech,Data Analyst,10,25.14,Scikit-learn,0
+Bangalore,Finance,AI Researcher,1,12.56,Azure AI,1
+Mumbai,IT,ML Engineer,9,24.75,Scikit-learn,1
+Hyderabad,Finance,AI Researcher,1,12.9,Azure AI,1
+Mumbai,E-commerce,Data Scientist,2,8.84,TensorFlow,0
+Bangalore,Healthcare,AI Researcher,7,25.53,ChatGPT,1
+Bangalore,Manufacturing,Data Analyst,0,3.0,Azure AI,1
+Chennai,E-commerce,Data Analyst,0,4.46,PyTorch,1
+Mumbai,E-commerce,AI Researcher,4,16.77,ChatGPT,1
+Hyderabad,IT,Data Analyst,4,16.63,TensorFlow,1
+Chennai,Manufacturing,AI Researcher,0,10.81,Azure AI,0
+Pune,IT,ML Engineer,8,20.84,AWS AI,1
+Pune,E-commerce,Data Scientist,6,17.16,Scikit-learn,1
+Delhi,Finance,AI Researcher,2,16.96,PyTorch,0
+Pune,Finance,AI Researcher,2,12.24,Scikit-learn,1
+Bangalore,Healthcare,Data Analyst,3,12.3,Azure AI,0
+Bangalore,IT,Data Analyst,8,22.07,ChatGPT,0
+Pune,E-commerce,ML Engineer,5,18.45,PyTorch,1
+Bangalore,IT,ML Engineer,8,24.03,AWS AI,0
+Bangalore,Healthcare,AI Researcher,0,8.21,Scikit-learn,1
+Hyderabad,EdTech,Data Analyst,7,22.05,TensorFlow,0
+Pune,IT,ML Engineer,9,24.49,Scikit-learn,1
+Bangalore,IT,Data Scientist,5,13.25,Azure AI,1
+Pune,IT,AI Researcher,11,31.75,TensorFlow,0
+Pune,EdTech,AI Engineer,1,8.3,ChatGPT,1
+Bangalore,Manufacturing,Data Scientist,1,9.74,PyTorch,1
+Bangalore,Healthcare,ML Engineer,0,6.64,ChatGPT,0
+Pune,EdTech,Data Analyst,6,17.01,Azure AI,1
+Pune,Manufacturing,Data Scientist,2,9.09,ChatGPT,0
+Bangalore,Finance,AI Researcher,2,11.26,Scikit-learn,0
+Delhi,Finance,ML Engineer,6,21.07,AWS AI,1
+Pune,Manufacturing,ML Engineer,10,28.34,AWS AI,1
+Pune,Manufacturing,AI Researcher,0,12.31,TensorFlow,1
+Delhi,Manufacturing,Data Analyst,6,17.11,PyTorch,0
+Bangalore,Manufacturing,Data Analyst,1,7.48,ChatGPT,1
+Pune,Finance,ML Engineer,11,26.59,AWS AI,1
+Mumbai,Healthcare,AI Engineer,10,24.89,ChatGPT,1
+Mumbai,Healthcare,Data Analyst,10,23.97,PyTorch,1
+Delhi,Healthcare,AI Researcher,1,9.88,PyTorch,1
+Chennai,IT,Data Analyst,1,6.53,Azure AI,1
+Bangalore,Manufacturing,ML Engineer,9,25.85,TensorFlow,1
+Chennai,Healthcare,ML Engineer,8,25.03,Azure AI,0
+Bangalore,Healthcare,Data Scientist,3,13.41,Azure AI,1
+Delhi,EdTech,ML Engineer,7,22.38,TensorFlow,0
+Mumbai,Manufacturing,AI Engineer,7,22.19,PyTorch,1
+Bangalore,EdTech,ML Engineer,1,7.66,Scikit-learn,0
+Chennai,Finance,Data Scientist,8,17.68,AWS AI,0
+Mumbai,IT,AI Researcher,0,13.37,Azure AI,1
+Bangalore,E-commerce,ML Engineer,3,15.76,PyTorch,1
+Mumbai,EdTech,Data Analyst,4,14.85,AWS AI,1
+Chennai,EdTech,AI Researcher,0,13.82,AWS AI,1
+Mumbai,E-commerce,AI Engineer,3,11.35,AWS AI,1
+Chennai,IT,AI Engineer,7,20.82,TensorFlow,1
+Chennai,Finance,ML Engineer,7,23.87,AWS AI,1
+Hyderabad,IT,Data Scientist,3,9.48,Scikit-learn,0
+Pune,Healthcare,AI Researcher,9,29.53,PyTorch,0
+Pune,Finance,ML Engineer,1,10.02,Scikit-learn,0
+Mumbai,Manufacturing,ML Engineer,7,26.78,ChatGPT,1
+Delhi,Manufacturing,Data Analyst,11,25.79,Azure AI,1
+Pune,Healthcare,ML Engineer,8,24.98,ChatGPT,1
+Pune,EdTech,AI Engineer,11,30.16,Azure AI,0
+Delhi,Manufacturing,Data Analyst,9,24.64,PyTorch,1
+Bangalore,IT,Data Scientist,0,3.0,ChatGPT,1
+Mumbai,Manufacturing,AI Researcher,1,12.47,AWS AI,1
+Hyderabad,EdTech,ML Engineer,2,13.54,ChatGPT,1
+Bangalore,EdTech,AI Engineer,6,16.03,Azure AI,1
+Chennai,Finance,Data Analyst,0,5.81,TensorFlow,1
+Hyderabad,EdTech,Data Scientist,9,23.17,Scikit-learn,1
+Pune,E-commerce,AI Researcher,7,22.11,Scikit-learn,1
+Mumbai,Healthcare,AI Engineer,10,25.83,Azure AI,1
+Chennai,Healthcare,ML Engineer,9,29.75,Scikit-learn,1
+Hyderabad,Healthcare,ML Engineer,7,21.59,Scikit-learn,0
+Pune,Finance,AI Researcher,3,16.09,ChatGPT,1
+Bangalore,Manufacturing,Data Scientist,9,26.19,PyTorch,1
+Delhi,Manufacturing,AI Researcher,4,16.98,Scikit-learn,0
+Pune,IT,Data Scientist,8,21.11,Azure AI,1
+Pune,Finance,Data Scientist,3,13.19,ChatGPT,0
+Mumbai,IT,Data Scientist,3,7.89,PyTorch,0
+Chennai,IT,AI Engineer,10,19.43,Scikit-learn,1
+Chennai,Finance,Data Scientist,7,21.16,Scikit-learn,0
+Hyderabad,IT,Data Scientist,0,3.0,ChatGPT,1
+Bangalore,EdTech,Data Analyst,5,12.32,AWS AI,1
+Chennai,Manufacturing,AI Engineer,10,25.3,Azure AI,1
+Hyderabad,IT,AI Engineer,7,21.78,TensorFlow,1
+Bangalore,EdTech,Data Analyst,2,3.68,PyTorch,1
+Hyderabad,Finance,AI Engineer,9,20.78,Azure AI,1
+Mumbai,EdTech,AI Engineer,8,24.5,AWS AI,1
+Delhi,Healthcare,AI Engineer,4,13.29,AWS AI,1
+Hyderabad,EdTech,Data Analyst,10,26.96,AWS AI,0
+Hyderabad,Finance,ML Engineer,6,20.65,TensorFlow,1
+Mumbai,Finance,Data Analyst,4,10.5,TensorFlow,1
+Chennai,IT,Data Analyst,6,16.05,TensorFlow,1
+Delhi,Manufacturing,Data Analyst,2,11.03,Scikit-learn,0
+Bangalore,Finance,AI Engineer,9,23.23,PyTorch,1
+Pune,IT,ML Engineer,8,24.3,ChatGPT,0
+Chennai,Finance,Data Analyst,10,27.21,Azure AI,1
+Bangalore,EdTech,ML Engineer,8,26.3,ChatGPT,1
+Bangalore,EdTech,AI Researcher,11,35.24,TensorFlow,1
+Hyderabad,Manufacturing,AI Researcher,9,31.14,TensorFlow,1
+Pune,EdTech,Data Analyst,1,7.29,PyTorch,0
+Mumbai,Healthcare,Data Scientist,3,10.55,AWS AI,1
+Hyderabad,Healthcare,AI Researcher,7,20.49,PyTorch,1
+Pune,Healthcare,AI Engineer,0,4.75,TensorFlow,1
+Bangalore,IT,AI Researcher,1,9.46,Azure AI,1
+Mumbai,Healthcare,Data Scientist,9,20.34,TensorFlow,1
+Mumbai,EdTech,AI Engineer,11,28.24,Scikit-learn,1
+Bangalore,Finance,AI Researcher,0,6.86,ChatGPT,1
+Pune,Manufacturing,AI Engineer,11,28.63,AWS AI,1
+Hyderabad,Healthcare,Data Scientist,1,8.24,TensorFlow,0
+Chennai,EdTech,ML Engineer,9,23.5,ChatGPT,0
+Mumbai,EdTech,ML Engineer,7,27.21,TensorFlow,1
+Bangalore,Manufacturing,AI Engineer,3,12.88,PyTorch,1
+Pune,Healthcare,AI Engineer,1,5.97,TensorFlow,1
+Pune,Finance,Data Scientist,11,31.08,ChatGPT,1
+Chennai,Finance,Data Analyst,9,23.97,PyTorch,1
+Mumbai,Healthcare,AI Researcher,10,31.43,AWS AI,1
+Chennai,EdTech,AI Researcher,0,10.09,Scikit-learn,1
+Pune,IT,Data Analyst,7,15.64,AWS AI,0
+Hyderabad,Finance,ML Engineer,7,18.48,AWS AI,1
+Bangalore,IT,AI Researcher,0,9.93,Scikit-learn,0
+Pune,EdTech,AI Researcher,9,28.47,PyTorch,1
+Hyderabad,EdTech,AI Engineer,6,16.81,AWS AI,1
+Delhi,IT,AI Engineer,9,23.11,TensorFlow,0
+Chennai,IT,AI Engineer,9,23.94,ChatGPT,1
+Pune,Healthcare,Data Scientist,9,24.02,TensorFlow,1
+Chennai,EdTech,Data Scientist,1,7.69,Azure AI,1
+Chennai,EdTech,Data Analyst,8,20.25,TensorFlow,1
+Mumbai,IT,AI Engineer,7,18.64,TensorFlow,1
+Pune,Healthcare,Data Scientist,8,17.48,PyTorch,0
+Chennai,EdTech,AI Engineer,11,26.93,Scikit-learn,0
+Pune,IT,AI Researcher,11,35.59,TensorFlow,1
+Mumbai,EdTech,ML Engineer,2,15.73,Azure AI,1
+Hyderabad,IT,AI Engineer,7,20.64,PyTorch,1
+Delhi,E-commerce,AI Researcher,8,27.0,PyTorch,1
+Mumbai,EdTech,AI Researcher,6,23.71,TensorFlow,1
+Chennai,Finance,ML Engineer,6,19.26,Scikit-learn,1
+Pune,Manufacturing,ML Engineer,11,28.33,PyTorch,1
+Mumbai,Manufacturing,ML Engineer,0,9.29,PyTorch,1
+Delhi,E-commerce,Data Scientist,9,27.33,Scikit-learn,0
+Hyderabad,Finance,AI Researcher,4,16.89,Scikit-learn,1
+Chennai,IT,Data Analyst,0,5.98,TensorFlow,1
+Hyderabad,EdTech,ML Engineer,5,22.04,Scikit-learn,0
+Chennai,Healthcare,Data Scientist,10,23.52,PyTorch,1
+Pune,EdTech,ML Engineer,9,23.1,PyTorch,0
+Chennai,Healthcare,Data Analyst,1,3.0,PyTorch,1
+Pune,Healthcare,Data Analyst,11,27.86,Scikit-learn,1
+Mumbai,Healthcare,AI Researcher,8,26.49,ChatGPT,1
+Hyderabad,Healthcare,ML Engineer,5,15.5,Scikit-learn,0
+Pune,Healthcare,AI Researcher,0,12.89,AWS AI,1
+Hyderabad,Finance,AI Engineer,6,15.7,PyTorch,0
+Chennai,E-commerce,Data Scientist,8,22.87,Scikit-learn,1
+Pune,EdTech,Data Scientist,5,15.89,TensorFlow,1
+Bangalore,EdTech,AI Researcher,10,28.01,TensorFlow,1
+Chennai,IT,AI Engineer,1,8.57,PyTorch,1
+Bangalore,E-commerce,Data Scientist,7,19.85,ChatGPT,1
+Delhi,E-commerce,Data Analyst,5,16.05,ChatGPT,1
+Pune,Manufacturing,Data Scientist,0,8.56,ChatGPT,1
+Delhi,E-commerce,ML Engineer,9,27.84,ChatGPT,1
+Chennai,IT,AI Engineer,2,10.11,AWS AI,1
+Mumbai,Healthcare,ML Engineer,8,26.53,Scikit-learn,1
+Chennai,Finance,ML Engineer,5,19.12,PyTorch,0
+Hyderabad,E-commerce,ML Engineer,11,33.37,Azure AI,1
+Mumbai,Manufacturing,ML Engineer,2,11.08,Scikit-learn,1
+Delhi,Manufacturing,AI Researcher,6,21.95,TensorFlow,1
+Mumbai,Healthcare,Data Scientist,4,17.28,Scikit-learn,0
+Chennai,EdTech,AI Researcher,2,13.49,TensorFlow,1
+Hyderabad,E-commerce,AI Researcher,3,12.66,Scikit-learn,1
+Hyderabad,Finance,ML Engineer,11,30.45,Azure AI,1
+Delhi,E-commerce,ML Engineer,3,16.09,AWS AI,1
+Mumbai,EdTech,AI Engineer,2,7.22,TensorFlow,1
+Delhi,E-commerce,AI Engineer,0,3.0,AWS AI,0
+Pune,IT,ML Engineer,11,30.65,AWS AI,0
+Hyderabad,Finance,Data Scientist,7,18.42,AWS AI,1
+Pune,IT,Data Scientist,8,23.09,Scikit-learn,0
+Delhi,Healthcare,AI Engineer,6,16.41,AWS AI,0
+Bangalore,EdTech,AI Researcher,9,29.99,Scikit-learn,1
+Bangalore,Manufacturing,Data Scientist,11,26.01,Scikit-learn,1
+Bangalore,IT,AI Researcher,10,31.01,Scikit-learn,1
+Mumbai,EdTech,Data Analyst,5,10.69,Scikit-learn,0
+Pune,IT,Data Scientist,1,8.46,PyTorch,1
+Pune,IT,AI Engineer,4,13.1,ChatGPT,1
+Mumbai,Healthcare,ML Engineer,11,29.04,AWS AI,1
+Bangalore,Healthcare,AI Researcher,1,7.09,TensorFlow,1
+Pune,IT,Data Analyst,5,13.53,Azure AI,1
+Bangalore,Finance,ML Engineer,4,17.01,PyTorch,1
+Bangalore,E-commerce,ML Engineer,1,11.93,PyTorch,1
+Bangalore,Healthcare,Data Scientist,3,11.62,AWS AI,1
+Delhi,Manufacturing,Data Scientist,4,13.61,ChatGPT,1
+Bangalore,EdTech,AI Researcher,8,24.49,Azure AI,0
+Hyderabad,Manufacturing,Data Analyst,10,27.45,PyTorch,1
+Bangalore,Healthcare,AI Researcher,1,13.39,Azure AI,1
+Delhi,EdTech,Data Scientist,7,21.22,PyTorch,1
+Bangalore,IT,Data Scientist,8,18.08,PyTorch,0
+Delhi,Finance,AI Engineer,9,26.28,AWS AI,1
+Delhi,Manufacturing,ML Engineer,4,18.02,Scikit-learn,0
+Pune,E-commerce,Data Scientist,9,20.22,Scikit-learn,1
+Hyderabad,Healthcare,ML Engineer,6,16.71,PyTorch,0
+Mumbai,Healthcare,AI Engineer,6,16.49,Scikit-learn,1
+Delhi,Manufacturing,AI Engineer,5,15.78,Azure AI,1
+Hyderabad,Healthcare,Data Analyst,4,14.04,TensorFlow,1
+Bangalore,EdTech,ML Engineer,1,10.41,Scikit-learn,1
+Bangalore,Finance,Data Analyst,10,25.21,Azure AI,0
+Hyderabad,Manufacturing,Data Analyst,3,8.33,AWS AI,1
+Chennai,Manufacturing,AI Researcher,7,24.94,Azure AI,1
+Bangalore,Finance,ML Engineer,8,24.28,TensorFlow,1
+Delhi,Healthcare,Data Scientist,9,24.49,Scikit-learn,1
+Delhi,Healthcare,Data Scientist,9,21.6,Scikit-learn,0
+Hyderabad,Finance,ML Engineer,6,19.11,ChatGPT,0
+Mumbai,E-commerce,AI Researcher,0,8.83,PyTorch,0
+Chennai,EdTech,Data Scientist,8,19.39,ChatGPT,1
+Chennai,Healthcare,Data Analyst,6,20.28,Scikit-learn,1
+Bangalore,E-commerce,AI Researcher,9,25.8,Azure AI,1
+Pune,E-commerce,Data Analyst,1,5.58,PyTorch,1
+Delhi,Healthcare,ML Engineer,7,19.81,AWS AI,1
+Delhi,Manufacturing,Data Analyst,6,18.47,ChatGPT,1
+Hyderabad,EdTech,Data Analyst,6,17.19,Azure AI,1
+Chennai,Manufacturing,ML Engineer,8,22.64,ChatGPT,1
+Hyderabad,Healthcare,Data Scientist,11,22.33,AWS AI,1
+Bangalore,IT,Data Analyst,7,18.0,AWS AI,1
+Pune,E-commerce,ML Engineer,5,18.85,AWS AI,0
+Delhi,EdTech,Data Scientist,3,11.67,TensorFlow,1
+Mumbai,E-commerce,AI Engineer,1,7.12,AWS AI,1
+Chennai,Healthcare,ML Engineer,3,10.78,AWS AI,1
+Bangalore,Finance,Data Analyst,5,14.23,AWS AI,1
+Chennai,Manufacturing,ML Engineer,2,12.93,AWS AI,0
+Mumbai,Finance,Data Analyst,6,15.91,PyTorch,1
+Delhi,Finance,Data Analyst,1,8.96,ChatGPT,1
+Chennai,Manufacturing,Data Scientist,5,14.95,AWS AI,0
+Bangalore,Manufacturing,AI Engineer,2,10.64,ChatGPT,1
+Hyderabad,EdTech,AI Researcher,1,12.11,AWS AI,1
+Mumbai,Manufacturing,AI Researcher,11,33.06,TensorFlow,1
+Bangalore,Finance,AI Engineer,2,6.34,AWS AI,1
+Mumbai,IT,Data Scientist,7,19.56,PyTorch,0
+Bangalore,E-commerce,AI Engineer,11,28.1,Scikit-learn,1
+Hyderabad,E-commerce,AI Researcher,0,8.16,Azure AI,1
+Mumbai,E-commerce,ML Engineer,11,27.27,AWS AI,1
+Chennai,EdTech,AI Researcher,4,17.55,AWS AI,0
+Pune,IT,AI Researcher,10,28.91,Azure AI,0
+Pune,EdTech,AI Researcher,1,12.78,TensorFlow,0
+Pune,E-commerce,Data Scientist,3,11.24,Azure AI,1
+Hyderabad,E-commerce,ML Engineer,3,12.05,TensorFlow,1
+Pune,Finance,AI Researcher,8,24.25,Azure AI,0
+Bangalore,IT,Data Scientist,0,3.0,TensorFlow,1
+Pune,E-commerce,ML Engineer,0,7.82,PyTorch,1
+Chennai,IT,AI Engineer,7,19.31,ChatGPT,0
+Bangalore,EdTech,AI Researcher,7,24.92,Azure AI,0
+Bangalore,EdTech,AI Engineer,6,15.64,PyTorch,0
+Mumbai,E-commerce,Data Scientist,7,16.31,PyTorch,1
+Mumbai,Finance,AI Engineer,11,25.06,Azure AI,1
+Delhi,Finance,ML Engineer,5,19.21,PyTorch,0
+Bangalore,IT,Data Scientist,3,13.62,TensorFlow,1
+Delhi,Manufacturing,ML Engineer,1,8.71,Azure AI,1
+Mumbai,Finance,ML Engineer,11,31.86,ChatGPT,1
+Hyderabad,Finance,Data Scientist,6,14.91,ChatGPT,0
+Pune,E-commerce,Data Analyst,3,7.07,PyTorch,1
+Bangalore,E-commerce,AI Researcher,7,25.72,ChatGPT,1
+Chennai,EdTech,AI Researcher,4,16.83,AWS AI,1
+Chennai,Healthcare,Data Analyst,7,18.71,ChatGPT,1
+Pune,EdTech,ML Engineer,1,9.27,Scikit-learn,1
+Pune,IT,Data Analyst,2,9.62,PyTorch,0
+Chennai,E-commerce,AI Researcher,2,17.4,ChatGPT,1
+Hyderabad,EdTech,ML Engineer,7,24.65,PyTorch,1
+Delhi,Finance,AI Engineer,7,19.49,PyTorch,1
+Pune,IT,AI Engineer,4,11.97,Scikit-learn,1
+Delhi,Manufacturing,ML Engineer,9,23.78,Scikit-learn,1
+Mumbai,Manufacturing,ML Engineer,8,25.55,PyTorch,1
+Hyderabad,E-commerce,AI Researcher,3,18.24,TensorFlow,1
+Pune,Finance,ML Engineer,2,9.16,AWS AI,0
+Pune,E-commerce,Data Scientist,11,23.48,ChatGPT,1
+Delhi,E-commerce,AI Researcher,3,14.87,Scikit-learn,0
+Chennai,Finance,ML Engineer,7,22.37,PyTorch,0
+Chennai,EdTech,AI Engineer,11,25.36,Scikit-learn,1
+Hyderabad,Healthcare,AI Researcher,5,19.99,Azure AI,0
+Hyderabad,IT,Data Scientist,6,15.31,PyTorch,1
+Hyderabad,Manufacturing,Data Scientist,10,24.73,Azure AI,0
+Chennai,Manufacturing,Data Analyst,5,12.34,Scikit-learn,1
+Pune,IT,ML Engineer,8,23.97,Scikit-learn,1
+Bangalore,Healthcare,AI Engineer,1,5.94,Azure AI,1
+Mumbai,Manufacturing,ML Engineer,2,13.54,TensorFlow,1
+Pune,E-commerce,Data Analyst,4,12.62,AWS AI,1
+Mumbai,IT,ML Engineer,6,22.78,ChatGPT,0
+Hyderabad,IT,Data Analyst,8,20.45,Scikit-learn,0
+Delhi,Manufacturing,Data Analyst,7,17.0,AWS AI,0
+Bangalore,EdTech,Data Analyst,2,6.86,AWS AI,0
+Hyderabad,Finance,AI Engineer,3,7.13,TensorFlow,1
+Chennai,Finance,Data Analyst,4,15.14,PyTorch,1
+Delhi,Finance,AI Researcher,6,20.54,Scikit-learn,1
+Bangalore,Healthcare,AI Researcher,8,23.78,PyTorch,1
+Pune,IT,Data Scientist,11,28.13,ChatGPT,0
+Bangalore,IT,ML Engineer,3,14.53,Azure AI,0
+Mumbai,IT,ML Engineer,11,28.82,AWS AI,1
+Delhi,Manufacturing,ML Engineer,1,7.47,ChatGPT,1
+Pune,Manufacturing,AI Engineer,1,6.88,Scikit-learn,0
+Mumbai,IT,Data Analyst,7,19.14,Azure AI,0
+Chennai,EdTech,Data Analyst,3,10.96,AWS AI,0
+Delhi,IT,AI Researcher,10,30.63,TensorFlow,0
+Bangalore,Finance,Data Analyst,2,8.94,Scikit-learn,1
+Mumbai,Healthcare,Data Analyst,6,12.59,Azure AI,1
+Delhi,E-commerce,Data Analyst,7,16.93,Scikit-learn,1
+Chennai,Finance,AI Researcher,4,20.1,TensorFlow,1
+Delhi,Healthcare,Data Analyst,5,12.24,Azure AI,1
+Pune,E-commerce,AI Engineer,1,5.91,PyTorch,1
+Bangalore,E-commerce,AI Engineer,5,13.97,PyTorch,1
+Chennai,Finance,AI Researcher,0,7.88,PyTorch,0
+Bangalore,Healthcare,AI Researcher,10,30.86,ChatGPT,0
+Mumbai,EdTech,ML Engineer,3,12.95,Scikit-learn,1
+Chennai,Healthcare,ML Engineer,3,11.49,Scikit-learn,1
+Pune,Finance,ML Engineer,10,27.67,AWS AI,1
+Pune,E-commerce,ML Engineer,11,32.61,TensorFlow,0
+Delhi,Finance,AI Engineer,4,12.22,PyTorch,1
+Pune,E-commerce,Data Scientist,5,13.16,PyTorch,1
+Hyderabad,Manufacturing,AI Engineer,10,24.36,ChatGPT,1
+Hyderabad,Finance,AI Engineer,0,3.65,ChatGPT,0
+Hyderabad,Manufacturing,AI Engineer,4,11.99,Scikit-learn,1
+Mumbai,E-commerce,Data Scientist,6,19.89,Azure AI,1
+Chennai,Manufacturing,Data Scientist,2,8.24,AWS AI,1
+Mumbai,Manufacturing,AI Engineer,7,16.72,AWS AI,1
+Chennai,Manufacturing,Data Scientist,0,4.19,ChatGPT,0
+Delhi,Healthcare,AI Engineer,2,8.87,ChatGPT,1
+Hyderabad,Healthcare,Data Scientist,6,18.78,Scikit-learn,0
+Pune,E-commerce,AI Researcher,5,18.95,ChatGPT,0
+Mumbai,IT,Data Analyst,0,6.6,PyTorch,1
+Mumbai,E-commerce,Data Analyst,8,17.77,Scikit-learn,1
+Pune,Manufacturing,AI Researcher,8,27.8,ChatGPT,0
+Mumbai,Manufacturing,AI Engineer,11,27.43,TensorFlow,1
+Hyderabad,IT,AI Researcher,4,16.38,Azure AI,0
+Mumbai,IT,Data Analyst,8,19.57,TensorFlow,1
+Chennai,E-commerce,AI Researcher,0,8.96,AWS AI,1
+Delhi,E-commerce,AI Engineer,8,21.48,Azure AI,0
+Mumbai,E-commerce,AI Engineer,4,15.86,Scikit-learn,0
+Pune,Healthcare,Data Analyst,5,14.46,AWS AI,0
+Chennai,Manufacturing,ML Engineer,7,22.71,AWS AI,0
+Hyderabad,Manufacturing,AI Researcher,0,9.96,TensorFlow,1
+Pune,IT,Data Analyst,2,4.0,PyTorch,0
+Hyderabad,IT,AI Researcher,2,10.93,Azure AI,1
+Pune,EdTech,Data Scientist,0,4.38,ChatGPT,0
+Chennai,Manufacturing,AI Engineer,9,21.5,ChatGPT,1
+Mumbai,Healthcare,Data Scientist,4,11.23,ChatGPT,0
+Mumbai,EdTech,AI Engineer,10,25.54,AWS AI,0
+Pune,EdTech,Data Analyst,7,20.16,Azure AI,1
+Delhi,E-commerce,AI Researcher,0,10.7,TensorFlow,1
+Hyderabad,Manufacturing,AI Engineer,8,20.25,ChatGPT,1
+Mumbai,E-commerce,AI Researcher,1,13.15,Scikit-learn,1
+Delhi,EdTech,ML Engineer,11,32.27,ChatGPT,1
+Pune,Finance,AI Engineer,2,7.38,AWS AI,1
+Hyderabad,Manufacturing,Data Scientist,5,16.91,PyTorch,1
+Chennai,Finance,AI Engineer,5,15.57,ChatGPT,1
+Delhi,EdTech,AI Engineer,11,25.33,Azure AI,1
+Chennai,E-commerce,Data Scientist,8,20.79,Azure AI,1
+Pune,Manufacturing,Data Analyst,1,4.61,TensorFlow,1
+Mumbai,Healthcare,ML Engineer,11,31.84,Scikit-learn,1
+Bangalore,Manufacturing,AI Engineer,8,17.33,Scikit-learn,1
+Hyderabad,EdTech,ML Engineer,7,24.34,Scikit-learn,0
+Delhi,E-commerce,Data Scientist,0,4.69,TensorFlow,1
+Chennai,Healthcare,AI Engineer,10,25.86,ChatGPT,0
+Chennai,IT,ML Engineer,4,16.54,Scikit-learn,0
+Chennai,Healthcare,AI Researcher,1,14.32,PyTorch,1
+Delhi,Manufacturing,ML Engineer,3,11.8,PyTorch,0
+Pune,Finance,ML Engineer,4,15.28,Azure AI,1
+Delhi,E-commerce,AI Researcher,11,26.75,ChatGPT,1
+Bangalore,EdTech,Data Analyst,10,22.56,AWS AI,1
+Chennai,EdTech,Data Scientist,4,16.47,PyTorch,1
+Delhi,EdTech,ML Engineer,2,16.46,PyTorch,0
+Hyderabad,Healthcare,Data Analyst,4,14.27,ChatGPT,1
+Mumbai,EdTech,AI Researcher,7,22.98,TensorFlow,1
+Delhi,Healthcare,AI Researcher,2,16.2,Azure AI,1
+Pune,IT,Data Analyst,7,22.92,Azure AI,1
+Pune,E-commerce,AI Engineer,2,9.51,AWS AI,0
+Pune,IT,Data Analyst,10,25.94,Scikit-learn,1
+Hyderabad,Manufacturing,Data Analyst,9,21.18,TensorFlow,1
+Chennai,Healthcare,Data Scientist,10,25.06,PyTorch,1
+Mumbai,Finance,ML Engineer,2,13.07,Scikit-learn,1
+Mumbai,IT,AI Researcher,3,16.61,Scikit-learn,0
+Chennai,Healthcare,Data Scientist,0,3.0,PyTorch,0
+Chennai,EdTech,ML Engineer,6,18.41,AWS AI,1
+Hyderabad,Finance,ML Engineer,5,17.18,ChatGPT,0
+Chennai,Healthcare,Data Scientist,7,17.51,PyTorch,0
+Pune,IT,Data Scientist,9,22.75,Azure AI,0
+Hyderabad,IT,AI Researcher,7,23.29,ChatGPT,1
+Hyderabad,Manufacturing,Data Scientist,1,5.08,AWS AI,1
+Chennai,E-commerce,AI Engineer,7,20.95,Azure AI,1
+Delhi,IT,AI Researcher,1,12.06,TensorFlow,1
+Delhi,Finance,Data Analyst,5,16.22,TensorFlow,1
+Chennai,Manufacturing,ML Engineer,11,31.75,PyTorch,0
+Bangalore,IT,AI Researcher,6,20.74,ChatGPT,0
+Chennai,IT,AI Engineer,4,15.72,AWS AI,1
+Hyderabad,Finance,Data Analyst,3,8.38,AWS AI,1
+Hyderabad,EdTech,AI Researcher,3,16.47,PyTorch,1
+Chennai,Finance,Data Analyst,1,9.74,TensorFlow,1
+Bangalore,Finance,Data Scientist,10,23.36,Azure AI,0
+Delhi,IT,Data Scientist,5,17.24,AWS AI,0
+Delhi,E-commerce,AI Researcher,8,26.37,Scikit-learn,1
+Mumbai,IT,AI Researcher,2,11.89,AWS AI,1
+Delhi,EdTech,AI Engineer,11,27.53,ChatGPT,1
+Pune,EdTech,ML Engineer,8,22.83,PyTorch,1
+Bangalore,Manufacturing,Data Analyst,0,5.76,ChatGPT,0
+Hyderabad,EdTech,AI Engineer,2,7.39,TensorFlow,0
+Delhi,Manufacturing,Data Analyst,5,14.85,PyTorch,1
+Pune,Finance,Data Scientist,11,29.22,Azure AI,1
+Chennai,IT,Data Scientist,1,6.26,Scikit-learn,1
+Hyderabad,Finance,Data Scientist,1,11.21,PyTorch,1
+Chennai,IT,Data Analyst,11,30.1,Scikit-learn,0
+Pune,IT,AI Engineer,10,23.48,ChatGPT,0
+Chennai,EdTech,AI Researcher,9,29.48,Azure AI,1
+Hyderabad,Manufacturing,Data Scientist,1,5.97,TensorFlow,0
+Pune,Healthcare,Data Scientist,2,8.49,ChatGPT,1
+Chennai,IT,ML Engineer,11,30.89,Scikit-learn,1
+Chennai,EdTech,Data Analyst,0,4.52,ChatGPT,1
+Bangalore,Manufacturing,Data Analyst,9,23.38,Scikit-learn,0
+Mumbai,IT,AI Researcher,10,30.33,PyTorch,1
+Pune,Manufacturing,Data Scientist,6,17.1,PyTorch,1
+Hyderabad,EdTech,AI Researcher,2,12.51,Scikit-learn,1
+Delhi,IT,Data Analyst,9,21.41,Azure AI,1
+Chennai,IT,ML Engineer,3,15.68,ChatGPT,0
+Bangalore,Finance,ML Engineer,11,33.96,ChatGPT,1
+Hyderabad,E-commerce,AI Engineer,2,9.04,PyTorch,0
+Chennai,Manufacturing,Data Analyst,0,5.76,Scikit-learn,1
+Hyderabad,E-commerce,ML Engineer,8,24.9,ChatGPT,1
+Delhi,Manufacturing,Data Scientist,5,15.4,PyTorch,1
+Chennai,Manufacturing,AI Researcher,9,28.22,AWS AI,1
+Chennai,Healthcare,AI Researcher,9,28.82,AWS AI,1
+Bangalore,Healthcare,Data Analyst,7,19.6,Azure AI,1
+Chennai,IT,Data Analyst,11,28.38,Scikit-learn,1
+Mumbai,EdTech,AI Engineer,7,19.1,ChatGPT,1
+Delhi,Manufacturing,ML Engineer,6,20.66,Scikit-learn,1
+Pune,Finance,AI Researcher,10,30.85,AWS AI,1
+Bangalore,Healthcare,AI Engineer,0,5.04,Scikit-learn,1
+Delhi,E-commerce,AI Researcher,5,19.37,Azure AI,1
+Mumbai,EdTech,ML Engineer,11,30.0,TensorFlow,1
+Pune,Healthcare,AI Engineer,1,5.31,Scikit-learn,1
+Bangalore,Manufacturing,Data Analyst,9,21.36,PyTorch,1
+Hyderabad,E-commerce,Data Scientist,0,3.7,Azure AI,0
+Mumbai,Finance,Data Scientist,2,11.64,AWS AI,1
+Hyderabad,IT,AI Researcher,3,12.06,TensorFlow,1
+Hyderabad,E-commerce,AI Researcher,9,29.79,TensorFlow,1
+Bangalore,EdTech,Data Scientist,8,21.88,Scikit-learn,1
+Pune,Healthcare,AI Engineer,10,23.27,Scikit-learn,1
+Delhi,EdTech,AI Researcher,2,15.56,Azure AI,1
+Hyderabad,Finance,ML Engineer,6,19.42,Scikit-learn,0
+Chennai,E-commerce,Data Scientist,7,20.49,AWS AI,0
+Mumbai,EdTech,ML Engineer,3,10.75,ChatGPT,1
+Delhi,EdTech,AI Engineer,7,18.04,TensorFlow,1
+Bangalore,EdTech,Data Scientist,1,8.92,Scikit-learn,1
+Pune,IT,AI Researcher,4,19.38,TensorFlow,0
+Pune,E-commerce,AI Researcher,6,16.88,PyTorch,1
+Pune,EdTech,Data Analyst,5,17.43,TensorFlow,1
+Mumbai,Healthcare,Data Scientist,4,14.64,AWS AI,0
+Bangalore,Healthcare,Data Analyst,10,27.92,TensorFlow,1
+Chennai,IT,ML Engineer,10,24.56,ChatGPT,1
+Bangalore,Healthcare,Data Scientist,9,23.95,Azure AI,1
+Bangalore,Healthcare,Data Scientist,0,4.71,Scikit-learn,1
+Mumbai,Manufacturing,ML Engineer,7,24.16,ChatGPT,0
+Chennai,IT,AI Researcher,9,29.99,ChatGPT,0
+Hyderabad,E-commerce,AI Researcher,8,25.26,Azure AI,1
+Pune,IT,Data Analyst,0,4.08,ChatGPT,1
+Hyderabad,Healthcare,Data Analyst,3,10.41,AWS AI,1
+Hyderabad,Healthcare,AI Researcher,1,11.86,Azure AI,1
+Chennai,EdTech,Data Scientist,8,24.64,AWS AI,1
+Mumbai,Finance,AI Engineer,11,27.08,ChatGPT,0
+Mumbai,IT,Data Analyst,3,12.39,Azure AI,0
+Delhi,Healthcare,AI Engineer,7,18.22,PyTorch,0
+Hyderabad,IT,Data Analyst,7,16.55,AWS AI,1
+Chennai,EdTech,Data Analyst,8,20.13,AWS AI,0
+Pune,Healthcare,ML Engineer,0,11.63,TensorFlow,0
+Bangalore,EdTech,Data Analyst,6,15.69,Scikit-learn,1
+Hyderabad,EdTech,AI Engineer,6,17.95,TensorFlow,1
+Delhi,Manufacturing,Data Scientist,8,23.67,Azure AI,1
+Pune,Finance,ML Engineer,1,9.54,TensorFlow,1
+Bangalore,E-commerce,AI Engineer,0,3.15,PyTorch,1
+Delhi,Manufacturing,Data Scientist,1,8.49,AWS AI,0
+Pune,Manufacturing,AI Engineer,6,19.73,Scikit-learn,0
+Delhi,Manufacturing,Data Analyst,5,18.35,Azure AI,0
+Delhi,IT,AI Engineer,2,11.68,ChatGPT,1
+Delhi,EdTech,Data Scientist,5,11.7,Scikit-learn,1
+Delhi,EdTech,Data Scientist,9,23.34,PyTorch,1
+Chennai,IT,AI Engineer,4,14.2,Azure AI,1
+Hyderabad,IT,AI Researcher,0,12.6,ChatGPT,1
+Delhi,Manufacturing,ML Engineer,0,10.25,AWS AI,0
+Chennai,Finance,AI Engineer,1,6.33,PyTorch,1
+Pune,Healthcare,Data Scientist,4,9.79,ChatGPT,1
+Bangalore,Healthcare,Data Analyst,2,8.12,ChatGPT,1
+Pune,E-commerce,Data Analyst,1,8.17,ChatGPT,0
+Delhi,Healthcare,AI Engineer,4,10.74,Azure AI,1
+Delhi,Finance,Data Scientist,9,21.84,AWS AI,1
+Pune,Manufacturing,AI Engineer,3,11.48,PyTorch,1
+Delhi,IT,AI Engineer,0,3.47,ChatGPT,0
+Bangalore,E-commerce,Data Scientist,10,25.08,Scikit-learn,1
+Mumbai,E-commerce,Data Scientist,4,15.0,AWS AI,1
+Hyderabad,Healthcare,ML Engineer,3,13.53,Azure AI,1
+Delhi,IT,ML Engineer,1,13.0,Azure AI,1
+Mumbai,Manufacturing,AI Researcher,6,22.0,Scikit-learn,0
+Bangalore,Manufacturing,AI Engineer,0,8.5,AWS AI,0
+Delhi,E-commerce,Data Scientist,4,10.96,Azure AI,1
+Hyderabad,EdTech,AI Researcher,2,13.58,ChatGPT,1
+Delhi,IT,AI Engineer,11,29.54,Azure AI,1
+Chennai,EdTech,Data Analyst,9,23.22,Scikit-learn,1
+Delhi,IT,ML Engineer,0,8.25,ChatGPT,0
+Bangalore,Manufacturing,AI Engineer,8,20.05,Azure AI,1
+Mumbai,Manufacturing,Data Analyst,0,7.07,ChatGPT,0
+Chennai,E-commerce,AI Researcher,8,21.36,Azure AI,0
+Delhi,EdTech,AI Researcher,7,21.87,AWS AI,1
+Delhi,Healthcare,Data Scientist,5,13.02,AWS AI,0
+Hyderabad,Finance,AI Engineer,11,23.43,ChatGPT,0
+Mumbai,EdTech,AI Engineer,10,27.4,ChatGPT,1
+Mumbai,Finance,AI Engineer,0,3.42,TensorFlow,0
+Delhi,EdTech,ML Engineer,1,12.03,Azure AI,1
+Pune,Finance,AI Researcher,4,17.52,ChatGPT,0
+Bangalore,EdTech,ML Engineer,4,15.74,ChatGPT,0
+Bangalore,Healthcare,AI Engineer,0,5.35,Azure AI,1
+Bangalore,Manufacturing,AI Engineer,4,10.81,Scikit-learn,1
+Pune,IT,Data Scientist,7,20.68,AWS AI,1
+Chennai,EdTech,Data Analyst,2,11.19,PyTorch,1
+Mumbai,Healthcare,AI Researcher,8,24.75,Azure AI,1
+Chennai,Manufacturing,ML Engineer,8,23.91,Scikit-learn,0
+Hyderabad,E-commerce,Data Analyst,7,19.12,ChatGPT,1
+Hyderabad,EdTech,ML Engineer,1,10.59,PyTorch,0
+Mumbai,Manufacturing,AI Engineer,2,9.02,AWS AI,1
+Delhi,Healthcare,Data Analyst,10,28.52,PyTorch,1
+Bangalore,E-commerce,Data Scientist,1,6.43,Scikit-learn,0
+Delhi,EdTech,Data Scientist,7,15.68,Azure AI,1
+Bangalore,Healthcare,Data Analyst,9,26.64,Azure AI,0
+Hyderabad,Manufacturing,AI Researcher,11,35.16,Azure AI,0
+Pune,Finance,AI Engineer,6,14.8,Scikit-learn,1
+Mumbai,Manufacturing,ML Engineer,4,14.5,PyTorch,0
+Chennai,Manufacturing,ML Engineer,10,24.6,Scikit-learn,1
+Mumbai,Finance,Data Scientist,10,22.92,TensorFlow,1
+Mumbai,Manufacturing,Data Scientist,0,5.48,PyTorch,1
+Chennai,EdTech,AI Researcher,0,9.71,PyTorch,1
+Pune,E-commerce,ML Engineer,5,20.58,AWS AI,1
+Bangalore,EdTech,AI Researcher,9,26.72,AWS AI,0
+Pune,E-commerce,AI Engineer,4,13.91,AWS AI,1
+Pune,Manufacturing,Data Scientist,5,16.34,TensorFlow,1
+Chennai,EdTech,Data Scientist,10,24.42,AWS AI,0
+Pune,Finance,Data Analyst,3,13.32,PyTorch,1
+Pune,IT,AI Researcher,2,12.38,PyTorch,0
+Hyderabad,EdTech,AI Researcher,10,30.67,PyTorch,0
+Bangalore,E-commerce,ML Engineer,7,24.86,PyTorch,0
+Bangalore,E-commerce,AI Researcher,2,14.5,Azure AI,1
+Delhi,Finance,AI Engineer,2,11.09,Azure AI,1
+Delhi,E-commerce,AI Engineer,3,10.37,Azure AI,1
+Pune,E-commerce,AI Engineer,4,14.92,TensorFlow,1
+Mumbai,Healthcare,ML Engineer,0,9.38,Azure AI,1
+Mumbai,EdTech,ML Engineer,6,23.19,Scikit-learn,1
+Delhi,Manufacturing,AI Engineer,8,23.02,PyTorch,1
+Bangalore,E-commerce,Data Analyst,6,19.68,AWS AI,1
+Chennai,E-commerce,AI Researcher,0,9.64,AWS AI,1
+Chennai,EdTech,ML Engineer,11,27.46,Azure AI,1
+Hyderabad,Healthcare,ML Engineer,0,8.3,AWS AI,1
+Chennai,IT,ML Engineer,7,23.53,Scikit-learn,1
+Bangalore,Healthcare,AI Researcher,10,32.43,PyTorch,0
+Bangalore,EdTech,Data Scientist,9,21.99,AWS AI,0
+Delhi,E-commerce,AI Researcher,11,31.59,TensorFlow,0
+Chennai,Finance,ML Engineer,3,12.51,Scikit-learn,1
+Pune,Manufacturing,AI Engineer,3,10.18,Scikit-learn,1
+Hyderabad,EdTech,Data Scientist,11,26.03,Azure AI,0
+Chennai,Manufacturing,ML Engineer,4,15.24,TensorFlow,1
+Chennai,Manufacturing,Data Analyst,10,25.66,Azure AI,1
+Delhi,IT,AI Engineer,9,22.68,TensorFlow,0
+Chennai,EdTech,Data Scientist,1,9.07,ChatGPT,1
+Pune,IT,Data Analyst,2,9.96,ChatGPT,1
+Pune,Finance,AI Engineer,9,23.74,Azure AI,1
+Bangalore,Healthcare,Data Analyst,11,29.18,TensorFlow,0
+Mumbai,IT,Data Analyst,6,19.58,AWS AI,1
+Bangalore,E-commerce,Data Scientist,0,5.52,TensorFlow,1
+Hyderabad,IT,Data Analyst,5,12.49,Azure AI,1
+Mumbai,EdTech,Data Analyst,5,15.47,AWS AI,1
+Chennai,Manufacturing,AI Researcher,5,19.56,ChatGPT,1
+Bangalore,Healthcare,ML Engineer,2,10.56,Azure AI,1
+Bangalore,Manufacturing,Data Scientist,3,10.54,Azure AI,1
+Pune,IT,Data Analyst,6,18.07,AWS AI,0
+Bangalore,Finance,AI Researcher,0,12.46,TensorFlow,1
+Pune,IT,AI Engineer,6,17.58,Scikit-learn,1
+Chennai,Finance,ML Engineer,6,19.63,ChatGPT,1
+Mumbai,EdTech,AI Researcher,1,11.57,AWS AI,0
+Mumbai,E-commerce,Data Scientist,6,20.71,ChatGPT,1
+Chennai,IT,AI Researcher,11,27.83,Scikit-learn,0
+Hyderabad,IT,Data Scientist,1,10.45,Azure AI,0
+Delhi,Manufacturing,AI Engineer,8,20.17,PyTorch,1
+Bangalore,Finance,Data Scientist,10,22.74,Azure AI,1
+Mumbai,Manufacturing,ML Engineer,7,24.24,ChatGPT,0
+Bangalore,EdTech,AI Engineer,2,7.36,PyTorch,0
+Chennai,Healthcare,AI Engineer,7,21.42,AWS AI,0
+Mumbai,E-commerce,AI Researcher,5,23.41,Scikit-learn,1
+Delhi,IT,AI Engineer,0,3.88,ChatGPT,1
+Delhi,E-commerce,AI Engineer,11,22.96,PyTorch,0
+Hyderabad,Finance,AI Engineer,7,19.04,Scikit-learn,0
+Hyderabad,Manufacturing,Data Scientist,10,25.46,Azure AI,1
+Delhi,IT,AI Engineer,1,6.63,TensorFlow,1
+Mumbai,Healthcare,ML Engineer,7,18.74,Azure AI,0
+Delhi,Finance,Data Scientist,10,23.1,Scikit-learn,1
+Chennai,IT,Data Scientist,3,14.49,TensorFlow,0
+Chennai,EdTech,AI Researcher,9,30.45,AWS AI,1
+Delhi,Finance,AI Researcher,3,15.48,AWS AI,1
+Chennai,IT,AI Researcher,8,22.39,PyTorch,1
+Mumbai,Finance,Data Analyst,6,19.75,Azure AI,1
+Hyderabad,IT,AI Engineer,5,17.79,PyTorch,1
+Pune,EdTech,ML Engineer,4,11.9,Azure AI,0
+Delhi,IT,AI Researcher,5,20.64,Scikit-learn,1
+Hyderabad,E-commerce,Data Analyst,10,24.55,TensorFlow,1
+Chennai,IT,AI Researcher,7,23.08,TensorFlow,1
+Bangalore,E-commerce,Data Analyst,1,3.95,ChatGPT,1
+Delhi,Manufacturing,AI Researcher,7,21.17,TensorFlow,1
+Pune,Manufacturing,AI Engineer,0,6.31,ChatGPT,1
+Chennai,EdTech,AI Researcher,9,27.86,AWS AI,1
+Chennai,EdTech,AI Researcher,7,22.3,PyTorch,1
+Delhi,Finance,AI Engineer,4,12.72,Azure AI,1
+Delhi,Finance,AI Engineer,5,13.48,Scikit-learn,1
+Mumbai,E-commerce,Data Analyst,6,17.53,PyTorch,0
+Hyderabad,Healthcare,Data Analyst,2,7.19,TensorFlow,1
+Delhi,IT,AI Researcher,7,25.82,PyTorch,1
+Chennai,EdTech,ML Engineer,5,17.72,AWS AI,0
+Delhi,Healthcare,Data Analyst,10,25.2,AWS AI,1
+Pune,Finance,Data Scientist,10,21.97,Scikit-learn,1
+Delhi,Manufacturing,AI Researcher,9,25.46,TensorFlow,0
+Hyderabad,Finance,AI Researcher,4,21.41,PyTorch,1
+Pune,Manufacturing,AI Researcher,6,21.21,TensorFlow,1
+Bangalore,EdTech,ML Engineer,7,21.47,TensorFlow,1
+Mumbai,IT,AI Engineer,7,21.5,Scikit-learn,1
+Mumbai,EdTech,Data Scientist,0,5.45,AWS AI,1
+Mumbai,EdTech,Data Scientist,2,11.69,PyTorch,1
+Hyderabad,Manufacturing,Data Analyst,8,20.05,ChatGPT,1
+Hyderabad,Manufacturing,Data Scientist,10,24.61,ChatGPT,0
+Delhi,Manufacturing,Data Scientist,7,20.9,TensorFlow,0
+Mumbai,Healthcare,Data Scientist,9,21.84,Azure AI,1
+Chennai,Finance,Data Scientist,6,16.55,Scikit-learn,0
+Delhi,Healthcare,AI Engineer,1,7.17,Azure AI,1
+Hyderabad,Healthcare,Data Scientist,5,13.96,TensorFlow,1
+Chennai,E-commerce,ML Engineer,3,14.12,Scikit-learn,1
+Pune,IT,Data Scientist,10,23.57,Scikit-learn,1
+Pune,E-commerce,ML Engineer,4,15.78,Azure AI,0
+Hyderabad,E-commerce,AI Researcher,9,26.21,Azure AI,1
+Pune,Finance,Data Analyst,2,10.0,Azure AI,1
+Pune,E-commerce,Data Analyst,10,28.69,ChatGPT,0
+Pune,Manufacturing,ML Engineer,3,17.4,Scikit-learn,1
+Pune,Healthcare,ML Engineer,2,10.27,AWS AI,1
+Mumbai,Healthcare,Data Analyst,3,10.37,AWS AI,0
+Bangalore,E-commerce,Data Analyst,8,22.22,TensorFlow,1
+Pune,E-commerce,AI Engineer,3,13.8,TensorFlow,0
+Hyderabad,Healthcare,ML Engineer,8,21.72,TensorFlow,1
+Pune,Finance,Data Scientist,2,13.53,PyTorch,1
+Hyderabad,IT,ML Engineer,1,10.23,AWS AI,0
+Hyderabad,IT,Data Scientist,10,26.11,ChatGPT,1
+Pune,Finance,Data Analyst,0,9.86,TensorFlow,1
+Delhi,Healthcare,Data Analyst,3,10.72,PyTorch,1
+Delhi,Healthcare,AI Engineer,11,26.43,ChatGPT,1
+Chennai,E-commerce,ML Engineer,0,4.56,ChatGPT,0
+Delhi,IT,Data Analyst,9,26.66,Azure AI,1
+Pune,Manufacturing,ML Engineer,5,19.52,ChatGPT,1
+Bangalore,Finance,AI Engineer,10,22.48,TensorFlow,1
+Bangalore,Finance,Data Scientist,11,26.37,Scikit-learn,1
+Mumbai,E-commerce,Data Scientist,1,6.95,Scikit-learn,0
+Pune,E-commerce,ML Engineer,10,28.44,Azure AI,1
+Delhi,Manufacturing,AI Researcher,6,22.15,AWS AI,1
+Chennai,E-commerce,ML Engineer,7,21.65,Azure AI,0
+Bangalore,EdTech,Data Scientist,3,12.54,Scikit-learn,1
+Mumbai,EdTech,AI Engineer,5,16.68,Scikit-learn,1
+Bangalore,EdTech,Data Analyst,2,7.38,AWS AI,0
+Hyderabad,Healthcare,Data Scientist,11,25.48,AWS AI,0
+Mumbai,IT,AI Researcher,0,10.57,Scikit-learn,0
+Bangalore,EdTech,AI Researcher,5,20.16,AWS AI,1
+Pune,EdTech,ML Engineer,5,19.11,Scikit-learn,0
+Mumbai,Manufacturing,Data Scientist,7,17.74,PyTorch,1
+Hyderabad,Manufacturing,AI Engineer,9,22.42,PyTorch,1
+Pune,E-commerce,AI Researcher,9,26.36,AWS AI,1
+Mumbai,E-commerce,Data Scientist,2,5.73,PyTorch,1
+Hyderabad,Healthcare,Data Analyst,11,23.84,AWS AI,1
+Mumbai,EdTech,AI Researcher,10,30.94,Azure AI,0
+Chennai,Healthcare,Data Analyst,5,19.17,PyTorch,0
+Delhi,Healthcare,ML Engineer,7,19.97,TensorFlow,0
+Chennai,Healthcare,Data Scientist,11,27.39,TensorFlow,0
+Mumbai,Healthcare,ML Engineer,10,26.19,AWS AI,0
+Mumbai,E-commerce,Data Scientist,5,16.67,AWS AI,1
+Pune,E-commerce,AI Engineer,6,17.48,ChatGPT,1
+Chennai,EdTech,Data Analyst,5,16.41,ChatGPT,1
+Hyderabad,Manufacturing,Data Scientist,5,14.51,Scikit-learn,1
+Pune,Finance,ML Engineer,0,9.36,Scikit-learn,1
+Bangalore,Manufacturing,ML Engineer,8,23.73,Azure AI,1
+Pune,EdTech,AI Engineer,3,6.87,AWS AI,1
+Mumbai,EdTech,ML Engineer,2,10.63,AWS AI,1
+Delhi,IT,Data Scientist,5,15.35,ChatGPT,0
+Delhi,Manufacturing,AI Researcher,8,27.02,PyTorch,1
+Bangalore,E-commerce,Data Analyst,0,3.0,PyTorch,1
+Chennai,Finance,Data Scientist,3,10.28,ChatGPT,0
+Hyderabad,Healthcare,AI Researcher,7,22.29,PyTorch,1
+Hyderabad,E-commerce,ML Engineer,8,21.94,Azure AI,0
+Chennai,Finance,AI Engineer,10,27.75,ChatGPT,1
+Delhi,E-commerce,AI Engineer,5,11.91,Scikit-learn,1
+Bangalore,Finance,ML Engineer,1,10.39,TensorFlow,1
+Chennai,Healthcare,Data Analyst,5,14.8,Azure AI,1
+Bangalore,Manufacturing,Data Scientist,4,14.06,Azure AI,0
+Chennai,EdTech,AI Engineer,0,7.56,TensorFlow,1
+Mumbai,Finance,Data Analyst,4,13.26,Scikit-learn,1
+Hyderabad,Healthcare,Data Scientist,9,21.82,TensorFlow,1
+Chennai,Finance,ML Engineer,10,28.05,Scikit-learn,1
+Bangalore,EdTech,Data Scientist,9,19.53,PyTorch,1
+Bangalore,IT,Data Analyst,6,16.53,TensorFlow,0
+Delhi,EdTech,AI Researcher,4,17.92,PyTorch,0
+Mumbai,Healthcare,ML Engineer,6,19.78,TensorFlow,0
+Chennai,EdTech,Data Analyst,2,7.39,Azure AI,1
+Pune,Healthcare,ML Engineer,7,22.04,Azure AI,1
+Hyderabad,Manufacturing,Data Scientist,2,6.66,Azure AI,0
+Pune,E-commerce,ML Engineer,6,20.35,ChatGPT,1
+Bangalore,Finance,Data Scientist,7,16.33,Scikit-learn,1
+Hyderabad,IT,ML Engineer,11,31.57,PyTorch,1
+Bangalore,Finance,AI Engineer,4,15.23,AWS AI,1
+Hyderabad,Healthcare,ML Engineer,11,28.08,PyTorch,1
+Hyderabad,IT,Data Analyst,8,22.0,Scikit-learn,0
+Chennai,EdTech,AI Engineer,1,7.1,Azure AI,0
+Delhi,Finance,ML Engineer,3,14.98,TensorFlow,1
+Bangalore,Healthcare,Data Analyst,1,6.63,PyTorch,1
+Chennai,Manufacturing,ML Engineer,4,15.29,AWS AI,1
+Chennai,Manufacturing,Data Scientist,7,21.73,PyTorch,1
+Hyderabad,E-commerce,Data Analyst,6,18.49,PyTorch,1
+Chennai,EdTech,AI Engineer,11,25.9,AWS AI,1
+Mumbai,E-commerce,Data Analyst,5,19.16,Azure AI,0
+Bangalore,IT,AI Researcher,11,29.92,AWS AI,1
+Mumbai,Manufacturing,AI Engineer,6,16.63,Azure AI,1
+Mumbai,EdTech,Data Scientist,6,14.79,Scikit-learn,0
+Delhi,Finance,AI Engineer,2,10.15,Scikit-learn,1
+Pune,Finance,Data Scientist,10,23.91,Azure AI,1
+Pune,Manufacturing,Data Analyst,6,20.05,Azure AI,0
+Bangalore,Manufacturing,Data Scientist,11,25.89,PyTorch,0
+Mumbai,Manufacturing,AI Researcher,5,18.05,TensorFlow,1
+Delhi,IT,AI Researcher,6,20.22,Scikit-learn,1
+Hyderabad,IT,Data Scientist,2,8.88,Azure AI,1
+Mumbai,Healthcare,ML Engineer,10,28.45,ChatGPT,1
+Bangalore,Finance,Data Scientist,2,10.81,PyTorch,0
+Chennai,EdTech,ML Engineer,11,31.05,TensorFlow,0
+Delhi,Finance,AI Engineer,8,17.33,AWS AI,1
+Bangalore,EdTech,Data Analyst,1,3.82,ChatGPT,0
+Bangalore,E-commerce,AI Engineer,0,7.96,Azure AI,1
+Hyderabad,Finance,ML Engineer,3,14.12,Azure AI,1
+Chennai,IT,AI Engineer,8,21.15,AWS AI,0
+Delhi,E-commerce,AI Researcher,2,18.1,ChatGPT,1
+Pune,EdTech,Data Analyst,1,7.0,AWS AI,1
+Bangalore,EdTech,Data Scientist,4,12.11,TensorFlow,1
+Delhi,Manufacturing,Data Analyst,9,21.19,PyTorch,1
+Mumbai,Manufacturing,AI Engineer,1,9.58,PyTorch,0
+Hyderabad,IT,Data Scientist,7,20.53,Scikit-learn,1
+Chennai,Healthcare,Data Scientist,6,19.48,ChatGPT,0
+Delhi,E-commerce,AI Engineer,5,17.76,Scikit-learn,1
+Delhi,Manufacturing,AI Researcher,0,8.87,Azure AI,1
+Chennai,Healthcare,Data Scientist,6,17.85,TensorFlow,0
+Chennai,Healthcare,Data Analyst,1,7.75,TensorFlow,0
+Mumbai,E-commerce,AI Engineer,5,15.62,AWS AI,1
+Chennai,E-commerce,AI Researcher,8,28.06,PyTorch,1
+Mumbai,IT,AI Researcher,5,21.74,PyTorch,0
+Delhi,EdTech,Data Analyst,6,18.01,ChatGPT,0
+Bangalore,Healthcare,AI Researcher,3,15.04,ChatGPT,1
+Hyderabad,Manufacturing,AI Engineer,4,11.81,Azure AI,1
+Hyderabad,Finance,Data Analyst,0,5.63,TensorFlow,1
+Mumbai,Manufacturing,AI Engineer,1,9.13,Azure AI,0
+Chennai,E-commerce,AI Researcher,7,26.91,ChatGPT,0
+Delhi,Manufacturing,Data Analyst,1,4.43,Azure AI,0
+Chennai,Finance,AI Engineer,8,21.22,ChatGPT,1
+Chennai,Healthcare,AI Researcher,8,21.15,Azure AI,1
+Mumbai,IT,Data Scientist,9,21.26,TensorFlow,0
+Bangalore,IT,AI Researcher,3,18.44,Azure AI,0
+Pune,IT,Data Scientist,2,10.59,Azure AI,1
+Chennai,Manufacturing,Data Scientist,1,8.39,TensorFlow,0
+Chennai,IT,AI Engineer,5,20.77,TensorFlow,1
+Delhi,Healthcare,Data Scientist,0,5.07,PyTorch,1
+Delhi,IT,Data Analyst,0,3.0,Scikit-learn,1
+Pune,IT,ML Engineer,1,12.51,Azure AI,1
+Delhi,Manufacturing,Data Scientist,9,22.1,PyTorch,0
+Chennai,Manufacturing,ML Engineer,1,11.29,TensorFlow,1
+Delhi,Healthcare,Data Analyst,0,3.0,Azure AI,1
+Mumbai,Manufacturing,AI Engineer,8,21.62,Scikit-learn,1
+Chennai,IT,Data Scientist,5,14.76,ChatGPT,0
+Hyderabad,Healthcare,AI Engineer,6,15.64,AWS AI,1
+Hyderabad,Manufacturing,AI Engineer,5,14.78,Azure AI,1
+Delhi,Finance,ML Engineer,9,25.09,ChatGPT,1
+Chennai,Manufacturing,Data Scientist,6,18.93,PyTorch,1
+Pune,Manufacturing,Data Scientist,2,9.97,Azure AI,0
+Pune,EdTech,AI Engineer,0,4.06,Scikit-learn,1
+Delhi,Healthcare,ML Engineer,5,21.14,ChatGPT,1
+Pune,E-commerce,Data Analyst,6,17.14,TensorFlow,1
+Bangalore,EdTech,AI Engineer,3,9.13,Scikit-learn,1
+Bangalore,Manufacturing,Data Analyst,8,22.23,Azure AI,1
+Delhi,EdTech,ML Engineer,2,10.76,Scikit-learn,1
+Pune,Healthcare,Data Analyst,0,3.89,ChatGPT,1
+Delhi,Healthcare,ML Engineer,1,12.63,PyTorch,0
+Bangalore,IT,Data Scientist,1,5.87,PyTorch,1
+Chennai,E-commerce,AI Engineer,1,6.59,AWS AI,1
+Delhi,Manufacturing,ML Engineer,6,18.94,Scikit-learn,1
+Delhi,Healthcare,Data Scientist,11,27.92,Scikit-learn,1
+Hyderabad,IT,AI Engineer,8,20.85,AWS AI,1
+Pune,IT,ML Engineer,9,26.67,Scikit-learn,0
+Mumbai,Finance,Data Scientist,9,18.31,ChatGPT,1
+Chennai,IT,AI Researcher,10,28.55,ChatGPT,0
+Bangalore,E-commerce,ML Engineer,8,23.61,AWS AI,1
+Chennai,Finance,Data Scientist,3,11.35,PyTorch,0
+Delhi,EdTech,AI Researcher,1,10.09,ChatGPT,0
+Chennai,IT,AI Researcher,3,13.42,Azure AI,1
+Hyderabad,Healthcare,AI Engineer,1,7.86,Scikit-learn,0
+Hyderabad,Finance,Data Analyst,10,26.49,ChatGPT,1
+Delhi,EdTech,Data Scientist,11,25.33,PyTorch,1
+Bangalore,Healthcare,AI Engineer,9,26.03,PyTorch,1
+Hyderabad,E-commerce,AI Engineer,9,23.8,Azure AI,1
+Bangalore,Finance,AI Researcher,3,15.28,AWS AI,1
+Hyderabad,Manufacturing,AI Researcher,9,31.25,Scikit-learn,0
+Bangalore,Finance,AI Engineer,8,21.46,ChatGPT,1
+Hyderabad,EdTech,Data Analyst,2,7.16,TensorFlow,1
+Pune,Manufacturing,Data Scientist,11,27.12,AWS AI,1
+Hyderabad,E-commerce,AI Researcher,9,29.9,TensorFlow,0
+Hyderabad,Finance,AI Researcher,6,23.92,Scikit-learn,1
+Delhi,E-commerce,Data Analyst,2,9.92,AWS AI,1
+Hyderabad,Manufacturing,Data Analyst,1,5.86,TensorFlow,1
+Mumbai,Healthcare,AI Researcher,10,30.39,AWS AI,0
+Pune,Healthcare,AI Engineer,4,12.53,PyTorch,0
+Pune,IT,AI Researcher,6,20.65,PyTorch,0
+Mumbai,Manufacturing,ML Engineer,0,7.81,TensorFlow,1
+Hyderabad,Manufacturing,ML Engineer,2,11.52,Scikit-learn,0
+Bangalore,E-commerce,Data Scientist,1,8.16,Scikit-learn,0
+Pune,Manufacturing,ML Engineer,1,11.09,ChatGPT,1
+Delhi,Manufacturing,AI Engineer,4,13.15,Azure AI,1
+Bangalore,Finance,Data Analyst,8,21.25,TensorFlow,1
+Hyderabad,EdTech,Data Analyst,4,14.11,TensorFlow,1
+Pune,Manufacturing,ML Engineer,5,16.9,Azure AI,0
+Bangalore,Finance,Data Analyst,6,17.01,AWS AI,1
+Delhi,Manufacturing,Data Analyst,11,28.64,TensorFlow,0
+Pune,Manufacturing,ML Engineer,2,11.63,Azure AI,0
+Mumbai,Finance,Data Scientist,6,16.09,Scikit-learn,0
+Hyderabad,Finance,ML Engineer,11,30.05,TensorFlow,1
+Bangalore,E-commerce,ML Engineer,10,25.19,AWS AI,1
+Bangalore,EdTech,Data Scientist,6,16.04,TensorFlow,1
+Pune,Manufacturing,ML Engineer,2,13.39,TensorFlow,1
+Hyderabad,IT,AI Researcher,7,23.42,PyTorch,1
+Bangalore,EdTech,Data Analyst,9,23.83,ChatGPT,0
+Mumbai,Manufacturing,ML Engineer,2,9.7,ChatGPT,0
+Bangalore,Finance,AI Researcher,1,6.32,ChatGPT,1
+Mumbai,Finance,AI Researcher,9,25.87,TensorFlow,1
+Hyderabad,E-commerce,AI Engineer,1,5.61,TensorFlow,1
+Delhi,Finance,Data Analyst,5,15.47,Scikit-learn,0
+Bangalore,EdTech,Data Analyst,7,17.92,Azure AI,1
+Delhi,Finance,Data Analyst,9,21.1,Scikit-learn,1
+Chennai,IT,AI Researcher,3,16.64,Scikit-learn,0
+Pune,EdTech,AI Researcher,9,27.81,ChatGPT,1
+Mumbai,Manufacturing,AI Researcher,7,23.51,Azure AI,1
+Bangalore,E-commerce,AI Researcher,7,20.98,ChatGPT,1
+Chennai,E-commerce,Data Analyst,5,13.2,PyTorch,0
+Delhi,Manufacturing,AI Researcher,1,10.74,PyTorch,1
+Bangalore,IT,AI Researcher,3,10.22,Azure AI,1
+Pune,EdTech,AI Engineer,9,24.3,PyTorch,0
+Chennai,E-commerce,Data Analyst,9,24.62,TensorFlow,0
+Pune,Healthcare,Data Scientist,3,8.12,ChatGPT,1
+Mumbai,Manufacturing,AI Engineer,1,5.95,ChatGPT,1
+Delhi,E-commerce,Data Analyst,8,18.77,TensorFlow,1
+Delhi,Finance,AI Researcher,3,15.93,ChatGPT,0
+Mumbai,Manufacturing,Data Scientist,9,21.78,TensorFlow,1
+Chennai,Manufacturing,Data Scientist,9,22.73,AWS AI,0
+Bangalore,Manufacturing,Data Scientist,10,21.93,PyTorch,1
+Hyderabad,Finance,Data Scientist,6,18.08,ChatGPT,1
+Chennai,E-commerce,Data Analyst,10,24.7,PyTorch,1
+Bangalore,Finance,ML Engineer,5,18.64,Scikit-learn,0
+Delhi,Manufacturing,AI Researcher,6,23.98,Azure AI,0
+Pune,EdTech,Data Analyst,6,16.57,ChatGPT,1
+Hyderabad,E-commerce,AI Researcher,2,13.41,Scikit-learn,1
+Hyderabad,EdTech,Data Scientist,11,26.51,Scikit-learn,1
+Bangalore,EdTech,AI Researcher,1,11.96,Azure AI,1
+Hyderabad,Healthcare,AI Engineer,9,22.59,Azure AI,0
+Pune,IT,Data Scientist,11,25.31,ChatGPT,0
+Chennai,E-commerce,Data Scientist,9,21.83,Azure AI,1
+Pune,Healthcare,AI Engineer,10,25.79,ChatGPT,1
+Chennai,IT,ML Engineer,11,30.53,ChatGPT,1
+Pune,EdTech,AI Researcher,10,31.95,TensorFlow,1
+Mumbai,IT,AI Researcher,8,26.24,ChatGPT,1
+Bangalore,EdTech,AI Researcher,9,25.91,AWS AI,0
+Hyderabad,EdTech,Data Analyst,3,6.7,TensorFlow,1
+Bangalore,IT,AI Engineer,6,15.4,Azure AI,1
+Delhi,Healthcare,ML Engineer,2,9.47,Scikit-learn,1
+Bangalore,EdTech,ML Engineer,10,31.71,TensorFlow,0
+Hyderabad,EdTech,Data Scientist,10,24.04,Scikit-learn,1
+Pune,Finance,Data Analyst,4,11.96,TensorFlow,1
+Bangalore,Manufacturing,ML Engineer,11,29.4,PyTorch,0
+Hyderabad,E-commerce,Data Scientist,0,3.3,Azure AI,1
+Pune,E-commerce,AI Engineer,10,21.18,Scikit-learn,0
+Mumbai,Manufacturing,AI Researcher,0,6.57,Scikit-learn,1
+Delhi,Healthcare,Data Analyst,10,25.06,ChatGPT,1
+Chennai,Healthcare,ML Engineer,11,28.49,ChatGPT,1
+Mumbai,Finance,AI Engineer,7,18.52,Azure AI,1
+Delhi,Healthcare,Data Analyst,3,12.44,AWS AI,1
+Pune,Manufacturing,Data Analyst,6,16.34,Scikit-learn,1
+Delhi,Manufacturing,Data Scientist,8,21.16,Scikit-learn,1
+Delhi,Manufacturing,ML Engineer,1,10.33,Scikit-learn,1
+Delhi,Manufacturing,Data Scientist,3,12.52,TensorFlow,1
+Chennai,Finance,AI Engineer,9,26.06,Scikit-learn,1
+Mumbai,Manufacturing,ML Engineer,5,14.56,AWS AI,1
+Hyderabad,EdTech,AI Researcher,2,12.51,ChatGPT,1
+Bangalore,E-commerce,ML Engineer,7,21.24,AWS AI,1
+Mumbai,EdTech,Data Scientist,9,21.64,PyTorch,0
+Hyderabad,IT,Data Analyst,5,14.55,Azure AI,0
+Hyderabad,IT,AI Engineer,5,17.04,Azure AI,1
+Bangalore,IT,Data Scientist,10,23.89,TensorFlow,0
+Hyderabad,E-commerce,ML Engineer,3,12.68,PyTorch,1
+Delhi,E-commerce,AI Engineer,5,13.81,Azure AI,1
+Bangalore,IT,AI Researcher,6,23.8,Azure AI,1
+Pune,Healthcare,ML Engineer,7,22.95,PyTorch,0
+Chennai,EdTech,AI Engineer,9,21.71,TensorFlow,1
+Bangalore,E-commerce,AI Engineer,1,3.07,ChatGPT,0
+Bangalore,EdTech,Data Analyst,8,20.83,PyTorch,0
+Chennai,E-commerce,AI Engineer,6,14.01,ChatGPT,1
+Pune,IT,AI Researcher,0,11.83,Scikit-learn,0
+Pune,EdTech,AI Researcher,1,12.19,AWS AI,1
+Mumbai,E-commerce,ML Engineer,9,25.35,TensorFlow,0
+Pune,IT,AI Engineer,5,21.19,PyTorch,1
+Pune,E-commerce,AI Researcher,11,29.07,Azure AI,0
+Chennai,EdTech,AI Researcher,9,27.19,Scikit-learn,1
+Bangalore,EdTech,AI Engineer,9,21.77,AWS AI,1
+Pune,E-commerce,Data Analyst,2,11.92,PyTorch,0
+Mumbai,IT,AI Engineer,9,22.64,Azure AI,1
+Mumbai,Healthcare,ML Engineer,5,20.66,Scikit-learn,1
+Chennai,E-commerce,AI Engineer,8,23.64,PyTorch,0
+Delhi,EdTech,ML Engineer,1,10.28,ChatGPT,1
+Delhi,Finance,AI Researcher,11,30.67,Scikit-learn,1
+Mumbai,Finance,Data Scientist,4,14.28,Azure AI,1
+Delhi,Manufacturing,AI Researcher,4,17.5,Scikit-learn,0
+Pune,Healthcare,AI Engineer,4,13.86,Azure AI,1
+Delhi,Manufacturing,ML Engineer,10,26.57,PyTorch,0
+Chennai,EdTech,AI Engineer,8,19.53,PyTorch,1
+Delhi,Manufacturing,Data Analyst,4,8.96,TensorFlow,1
+Hyderabad,E-commerce,ML Engineer,8,25.66,Azure AI,0
+Pune,Manufacturing,Data Scientist,5,16.85,Scikit-learn,0
+Mumbai,EdTech,Data Scientist,4,9.44,TensorFlow,1
+Hyderabad,E-commerce,AI Engineer,0,5.68,Azure AI,1
+Chennai,Finance,ML Engineer,6,18.26,ChatGPT,1
+Delhi,Finance,Data Scientist,10,24.31,Scikit-learn,1
+Delhi,Finance,AI Researcher,2,16.18,TensorFlow,1
+Hyderabad,E-commerce,AI Researcher,11,30.6,ChatGPT,0
+Mumbai,Manufacturing,Data Scientist,10,26.26,Scikit-learn,0
+Mumbai,E-commerce,ML Engineer,0,6.73,Scikit-learn,1
+Bangalore,Finance,Data Scientist,10,25.9,PyTorch,1
+Hyderabad,Healthcare,AI Engineer,9,22.44,Azure AI,1
+Delhi,Finance,AI Engineer,9,20.94,PyTorch,1
+Delhi,IT,Data Scientist,11,24.91,Azure AI,1
+Hyderabad,Finance,Data Scientist,1,4.35,Azure AI,1
+Bangalore,E-commerce,AI Researcher,11,33.09,PyTorch,1
+Mumbai,Manufacturing,Data Analyst,5,17.72,PyTorch,1
+Hyderabad,E-commerce,AI Researcher,4,17.29,Scikit-learn,1
+Chennai,Finance,ML Engineer,4,18.69,Azure AI,0
+Chennai,Finance,AI Researcher,11,29.48,Azure AI,1
+Chennai,Manufacturing,AI Engineer,11,28.0,PyTorch,1
+Mumbai,E-commerce,ML Engineer,9,24.24,TensorFlow,0
+Hyderabad,EdTech,AI Engineer,2,8.56,AWS AI,1
+Bangalore,Finance,AI Researcher,2,15.53,TensorFlow,1
+Delhi,IT,Data Scientist,10,24.04,AWS AI,1
+Chennai,Finance,Data Scientist,1,11.59,Azure AI,1
+Mumbai,Manufacturing,ML Engineer,3,12.19,PyTorch,1
+Delhi,Finance,AI Researcher,9,27.81,TensorFlow,0
+Hyderabad,EdTech,Data Scientist,9,26.46,Scikit-learn,1
+Pune,IT,AI Researcher,4,16.33,TensorFlow,0
+Bangalore,EdTech,ML Engineer,2,13.62,AWS AI,0
+Chennai,E-commerce,AI Engineer,1,5.83,ChatGPT,1
+Delhi,Finance,Data Analyst,6,19.53,Azure AI,1
+Hyderabad,Finance,ML Engineer,9,27.75,PyTorch,1
+Chennai,Healthcare,AI Researcher,1,9.83,Azure AI,0
+Chennai,Healthcare,AI Researcher,8,26.0,Scikit-learn,1
+Delhi,Finance,Data Analyst,9,26.46,TensorFlow,0
+Chennai,E-commerce,Data Analyst,7,16.05,AWS AI,0
+Delhi,IT,AI Engineer,1,5.25,ChatGPT,0
+Mumbai,EdTech,Data Scientist,7,21.3,PyTorch,1
+Delhi,Finance,AI Engineer,7,16.66,Azure AI,1
+Mumbai,EdTech,Data Scientist,8,25.55,PyTorch,0
+Delhi,E-commerce,ML Engineer,6,19.02,Azure AI,1
+Chennai,EdTech,AI Researcher,9,25.87,Scikit-learn,1
+Chennai,Finance,Data Scientist,6,14.11,Azure AI,1
+Bangalore,Manufacturing,Data Scientist,9,22.88,TensorFlow,1
+Hyderabad,Finance,ML Engineer,1,11.27,ChatGPT,1
+Hyderabad,Healthcare,ML Engineer,9,29.23,AWS AI,1
+Delhi,EdTech,ML Engineer,6,19.85,PyTorch,0
+Bangalore,EdTech,ML Engineer,3,15.52,TensorFlow,1
+Mumbai,Manufacturing,AI Engineer,1,5.29,ChatGPT,1
+Hyderabad,E-commerce,Data Scientist,1,7.07,Azure AI,1
+Pune,Finance,Data Analyst,8,22.39,Scikit-learn,0
+Pune,Healthcare,AI Researcher,1,14.21,AWS AI,1
+Chennai,E-commerce,ML Engineer,6,18.65,TensorFlow,1
+Mumbai,Finance,Data Scientist,9,21.51,TensorFlow,1
+Delhi,IT,ML Engineer,2,12.62,AWS AI,1
+Pune,Healthcare,Data Scientist,8,19.23,TensorFlow,0
+Mumbai,Finance,Data Analyst,6,18.91,Scikit-learn,0
+Delhi,Manufacturing,Data Analyst,6,16.92,AWS AI,1
+Bangalore,Manufacturing,Data Scientist,4,9.05,AWS AI,0
+Mumbai,IT,Data Analyst,11,29.17,TensorFlow,1
+Delhi,EdTech,AI Engineer,10,25.24,Scikit-learn,1
+Chennai,E-commerce,AI Researcher,3,14.89,TensorFlow,0
+Bangalore,IT,ML Engineer,8,21.62,PyTorch,1
+Bangalore,IT,Data Analyst,2,8.9,PyTorch,1
+Chennai,Healthcare,ML Engineer,4,13.27,Scikit-learn,1
+Delhi,E-commerce,Data Scientist,4,14.4,Scikit-learn,1
+Hyderabad,IT,Data Analyst,3,10.74,TensorFlow,0
+Hyderabad,Healthcare,AI Researcher,1,12.16,TensorFlow,1
+Delhi,IT,AI Researcher,0,11.56,TensorFlow,1
+Hyderabad,Healthcare,AI Researcher,9,26.07,TensorFlow,1
+Bangalore,EdTech,AI Researcher,6,22.03,ChatGPT,1
+Delhi,Manufacturing,Data Scientist,10,23.05,Azure AI,1
+Chennai,Manufacturing,AI Researcher,2,7.45,ChatGPT,1
+Bangalore,EdTech,Data Scientist,1,5.36,AWS AI,1
+Bangalore,E-commerce,AI Engineer,10,26.27,TensorFlow,0
+Mumbai,Finance,AI Engineer,4,17.78,Azure AI,1
+Hyderabad,Healthcare,AI Engineer,0,9.3,ChatGPT,1
+Bangalore,IT,Data Analyst,10,28.67,AWS AI,1
+Pune,Manufacturing,Data Scientist,3,12.32,PyTorch,1
+Bangalore,EdTech,Data Scientist,6,15.14,AWS AI,1
+Chennai,Finance,Data Scientist,9,23.61,PyTorch,1
+Chennai,E-commerce,Data Scientist,9,22.5,TensorFlow,0
+Delhi,Manufacturing,AI Engineer,5,16.36,TensorFlow,1
+Mumbai,E-commerce,Data Analyst,8,20.6,AWS AI,1
+Mumbai,IT,AI Researcher,2,13.48,Scikit-learn,1
+Mumbai,EdTech,Data Analyst,2,7.26,Azure AI,1
+Delhi,Manufacturing,AI Engineer,1,6.6,PyTorch,1
+Delhi,Healthcare,Data Analyst,10,23.24,Azure AI,0
+Bangalore,Healthcare,ML Engineer,1,9.85,PyTorch,1
+Pune,Manufacturing,AI Engineer,11,26.26,Scikit-learn,1
+Hyderabad,E-commerce,AI Researcher,8,25.83,TensorFlow,1
+Hyderabad,Manufacturing,Data Analyst,4,17.2,ChatGPT,0
+Mumbai,IT,AI Researcher,2,11.33,ChatGPT,1
+Hyderabad,E-commerce,AI Engineer,1,9.02,Scikit-learn,0
+Hyderabad,Manufacturing,AI Researcher,1,11.37,Scikit-learn,0
+Chennai,Healthcare,AI Engineer,5,14.52,TensorFlow,0
+Delhi,E-commerce,ML Engineer,7,20.09,Scikit-learn,0
+Pune,Finance,Data Analyst,11,27.74,PyTorch,1
+Delhi,Manufacturing,Data Analyst,2,6.97,Azure AI,1
+Hyderabad,EdTech,AI Engineer,3,7.63,ChatGPT,1
+Hyderabad,Manufacturing,ML Engineer,7,22.76,Scikit-learn,0
+Chennai,E-commerce,ML Engineer,4,15.11,TensorFlow,1
+Delhi,Finance,Data Analyst,8,21.0,Scikit-learn,0
+Mumbai,EdTech,AI Engineer,11,26.64,AWS AI,0
+Bangalore,EdTech,ML Engineer,2,6.67,TensorFlow,0
+Mumbai,Healthcare,Data Scientist,11,27.02,TensorFlow,1
+Chennai,IT,AI Engineer,2,12.07,TensorFlow,1
+Pune,IT,AI Engineer,5,17.24,TensorFlow,1
+Chennai,Finance,Data Analyst,1,8.97,ChatGPT,1
+Delhi,E-commerce,ML Engineer,0,5.2,Azure AI,1
+Mumbai,IT,Data Analyst,0,7.77,PyTorch,1
+Bangalore,Manufacturing,AI Researcher,7,24.38,ChatGPT,0
+Chennai,Finance,AI Engineer,8,23.02,AWS AI,0
+Mumbai,IT,AI Engineer,7,16.58,AWS AI,1
+Hyderabad,IT,AI Researcher,5,17.06,ChatGPT,1
+Bangalore,IT,AI Researcher,3,13.25,Scikit-learn,0
+Mumbai,IT,ML Engineer,4,15.56,Azure AI,1
+Bangalore,IT,ML Engineer,8,24.14,ChatGPT,1
+Pune,Finance,ML Engineer,11,30.63,AWS AI,1
+Chennai,E-commerce,Data Scientist,7,22.56,Azure AI,0
+Mumbai,E-commerce,AI Engineer,7,21.69,Scikit-learn,0
+Mumbai,IT,AI Researcher,5,22.59,TensorFlow,1
+Delhi,IT,Data Analyst,10,24.42,ChatGPT,1
+Bangalore,E-commerce,Data Analyst,6,19.98,ChatGPT,1
+Bangalore,E-commerce,Data Analyst,1,8.04,TensorFlow,1
+Bangalore,EdTech,AI Engineer,8,23.37,Azure AI,1
+Hyderabad,Healthcare,ML Engineer,4,16.46,ChatGPT,1
+Chennai,EdTech,AI Engineer,6,18.8,Azure AI,1
+Bangalore,Finance,Data Scientist,5,16.62,Scikit-learn,0
+Delhi,EdTech,Data Analyst,10,27.76,ChatGPT,1
+Chennai,Manufacturing,Data Analyst,1,7.21,Azure AI,0
+Hyderabad,E-commerce,ML Engineer,3,14.6,Scikit-learn,0
+Delhi,Manufacturing,ML Engineer,8,24.54,TensorFlow,1
+Delhi,Manufacturing,AI Engineer,3,11.76,AWS AI,0
+Chennai,Finance,ML Engineer,4,18.61,Scikit-learn,1
+Bangalore,E-commerce,ML Engineer,10,26.97,Azure AI,1
+Mumbai,EdTech,Data Analyst,10,23.01,AWS AI,0
+Hyderabad,Healthcare,AI Engineer,7,19.27,AWS AI,1
+Mumbai,Manufacturing,ML Engineer,1,9.97,Scikit-learn,1
+Bangalore,Manufacturing,ML Engineer,6,21.01,AWS AI,1
+Hyderabad,Finance,Data Scientist,7,17.14,ChatGPT,0
+Mumbai,Finance,Data Scientist,11,28.52,PyTorch,1
+Mumbai,IT,AI Researcher,1,10.47,Scikit-learn,1
+Chennai,Manufacturing,AI Engineer,9,23.14,PyTorch,1
+Chennai,E-commerce,Data Analyst,1,4.94,Azure AI,1
+Pune,Healthcare,ML Engineer,2,12.09,PyTorch,1
+Bangalore,IT,ML Engineer,7,24.51,Scikit-learn,0
+Bangalore,E-commerce,Data Scientist,6,16.94,Azure AI,0
+Pune,Manufacturing,Data Scientist,7,19.16,ChatGPT,1
+Bangalore,E-commerce,AI Engineer,7,16.67,PyTorch,1
+Bangalore,E-commerce,Data Analyst,3,10.33,TensorFlow,1
+Mumbai,Finance,Data Scientist,1,7.28,Scikit-learn,0
+Pune,EdTech,AI Researcher,1,11.15,TensorFlow,0
+Delhi,IT,AI Researcher,10,32.12,PyTorch,1
+Bangalore,IT,ML Engineer,10,25.56,Azure AI,1
+Bangalore,IT,Data Scientist,6,17.84,ChatGPT,1
+Pune,EdTech,ML Engineer,1,6.14,Scikit-learn,0
+Bangalore,Manufacturing,ML Engineer,2,10.65,PyTorch,1
+Pune,IT,AI Researcher,3,16.47,TensorFlow,1
+Hyderabad,Manufacturing,Data Analyst,4,14.91,Scikit-learn,0
+Hyderabad,IT,AI Researcher,5,22.45,AWS AI,0
+Chennai,Manufacturing,AI Researcher,0,8.43,Scikit-learn,1
+Delhi,Manufacturing,AI Engineer,7,18.26,AWS AI,1
+Delhi,EdTech,AI Researcher,0,10.43,PyTorch,1
+Chennai,Healthcare,AI Engineer,7,21.06,AWS AI,0
+Mumbai,IT,AI Researcher,11,31.33,ChatGPT,1
+Delhi,Finance,Data Analyst,6,17.21,TensorFlow,0
+Hyderabad,Healthcare,Data Analyst,5,12.04,PyTorch,1
+Bangalore,EdTech,Data Scientist,4,13.58,TensorFlow,0
+Chennai,Manufacturing,AI Researcher,7,22.99,PyTorch,1
+Hyderabad,Finance,Data Analyst,11,26.27,TensorFlow,1
+Hyderabad,IT,Data Analyst,10,24.63,Azure AI,1
+Bangalore,Finance,Data Scientist,9,23.36,Scikit-learn,1
+Chennai,Healthcare,AI Engineer,2,10.68,PyTorch,1
+Delhi,Finance,Data Analyst,3,11.62,TensorFlow,1
+Hyderabad,Finance,ML Engineer,8,25.32,PyTorch,0
+Bangalore,Healthcare,ML Engineer,5,18.87,TensorFlow,1
+Hyderabad,E-commerce,AI Researcher,6,25.34,AWS AI,1
+Mumbai,E-commerce,Data Scientist,0,6.75,Azure AI,1
+Delhi,Manufacturing,ML Engineer,7,22.69,AWS AI,1
+Bangalore,Finance,AI Engineer,10,25.03,AWS AI,1
+Mumbai,Healthcare,AI Researcher,11,31.25,Scikit-learn,1
+Delhi,Finance,Data Analyst,9,25.05,PyTorch,1
+Delhi,IT,ML Engineer,9,27.2,AWS AI,0
+Chennai,IT,Data Analyst,6,16.04,ChatGPT,1
+Hyderabad,E-commerce,AI Engineer,4,10.19,Azure AI,0
+Bangalore,Manufacturing,ML Engineer,8,24.57,PyTorch,1
+Bangalore,Healthcare,AI Researcher,6,22.52,Azure AI,1
+Chennai,Manufacturing,AI Researcher,5,20.16,Azure AI,1
+Hyderabad,Finance,Data Analyst,1,6.03,PyTorch,1
+Pune,Finance,Data Analyst,7,21.5,Azure AI,0
+Delhi,Healthcare,Data Scientist,1,8.97,ChatGPT,1
+Bangalore,E-commerce,AI Researcher,8,27.1,PyTorch,1
+Chennai,IT,ML Engineer,8,24.69,Scikit-learn,1
+Chennai,EdTech,ML Engineer,8,22.46,TensorFlow,1
+Hyderabad,EdTech,Data Analyst,9,22.0,TensorFlow,0
+Chennai,Finance,Data Analyst,4,15.5,Azure AI,1
+Delhi,Finance,ML Engineer,1,10.84,ChatGPT,1
+Bangalore,Finance,Data Analyst,0,3.64,Scikit-learn,1
+Pune,Finance,ML Engineer,0,4.93,AWS AI,0
+Pune,Healthcare,AI Researcher,0,6.39,ChatGPT,1
+Delhi,Healthcare,Data Analyst,10,24.45,Azure AI,1
+Mumbai,Finance,Data Scientist,0,3.0,Azure AI,0
+Hyderabad,IT,AI Engineer,0,3.37,TensorFlow,0
+Delhi,Finance,Data Analyst,3,10.69,PyTorch,1
+Delhi,Manufacturing,ML Engineer,5,21.71,TensorFlow,1
+Pune,EdTech,Data Scientist,11,28.37,Scikit-learn,1
+Mumbai,Manufacturing,ML Engineer,4,15.7,PyTorch,1
+Delhi,Finance,Data Analyst,10,28.43,TensorFlow,0
+Delhi,E-commerce,AI Engineer,8,24.22,Azure AI,1
+Mumbai,EdTech,ML Engineer,3,10.05,PyTorch,0
+Mumbai,Finance,Data Scientist,10,22.64,AWS AI,1
+Pune,IT,ML Engineer,9,22.21,TensorFlow,1
+Pune,Healthcare,Data Analyst,8,21.62,ChatGPT,0
+Delhi,Manufacturing,ML Engineer,4,15.59,AWS AI,1
+Bangalore,IT,AI Researcher,11,34.24,ChatGPT,0
+Mumbai,EdTech,AI Engineer,3,10.88,ChatGPT,1
+Chennai,Finance,Data Analyst,1,9.46,ChatGPT,1
+Bangalore,EdTech,ML Engineer,9,26.27,PyTorch,1
+Mumbai,E-commerce,AI Engineer,7,21.82,AWS AI,0
+Hyderabad,EdTech,AI Engineer,0,6.58,PyTorch,1
+Hyderabad,E-commerce,AI Engineer,4,12.52,PyTorch,1
+Hyderabad,E-commerce,Data Analyst,5,14.65,Scikit-learn,1
+Hyderabad,IT,Data Analyst,8,21.39,Azure AI,1
+Mumbai,Healthcare,ML Engineer,9,25.69,ChatGPT,1
+Pune,Finance,Data Analyst,9,21.28,TensorFlow,1
+Hyderabad,IT,Data Scientist,9,23.78,ChatGPT,1
+Bangalore,Healthcare,ML Engineer,10,29.65,Scikit-learn,0
+Pune,IT,Data Analyst,11,28.24,AWS AI,1
+Chennai,Healthcare,Data Scientist,2,4.74,Scikit-learn,1
+Hyderabad,Finance,Data Scientist,11,26.46,AWS AI,1
+Chennai,E-commerce,Data Scientist,7,21.22,PyTorch,0
+Bangalore,Manufacturing,Data Analyst,8,21.33,ChatGPT,1
+Pune,IT,AI Researcher,6,19.24,AWS AI,0
+Chennai,Manufacturing,AI Researcher,3,14.43,AWS AI,1
+Mumbai,Finance,ML Engineer,8,22.43,ChatGPT,1
+Pune,Healthcare,AI Engineer,0,3.0,ChatGPT,1
+Hyderabad,Manufacturing,AI Researcher,2,17.23,Scikit-learn,0
+Mumbai,EdTech,ML Engineer,8,24.73,ChatGPT,1
+Hyderabad,IT,AI Engineer,10,22.72,AWS AI,1
+Pune,Healthcare,AI Engineer,1,7.92,Scikit-learn,1
+Mumbai,IT,Data Analyst,0,7.6,TensorFlow,0
+Delhi,Manufacturing,AI Researcher,8,28.45,Scikit-learn,0
+Hyderabad,EdTech,Data Scientist,3,10.6,ChatGPT,1
+Hyderabad,IT,ML Engineer,8,23.65,AWS AI,0
+Pune,EdTech,AI Engineer,8,22.28,ChatGPT,1
+Bangalore,Finance,Data Scientist,6,14.91,AWS AI,1
+Bangalore,Finance,ML Engineer,9,25.95,Scikit-learn,1
+Delhi,Healthcare,AI Engineer,7,16.21,ChatGPT,0
+Chennai,EdTech,Data Analyst,6,15.79,TensorFlow,1
+Hyderabad,EdTech,Data Scientist,3,14.29,Scikit-learn,0
+Mumbai,Healthcare,AI Researcher,2,14.78,AWS AI,1
+Hyderabad,Finance,AI Engineer,8,19.49,Azure AI,1
+Chennai,E-commerce,Data Scientist,1,7.77,Azure AI,1
+Delhi,IT,ML Engineer,6,18.82,TensorFlow,1
+Chennai,EdTech,Data Analyst,6,15.05,PyTorch,1
+Bangalore,Finance,Data Analyst,4,11.66,Azure AI,1
+Chennai,Healthcare,Data Analyst,7,21.04,TensorFlow,0
+Delhi,Finance,Data Scientist,0,3.0,TensorFlow,1
+Mumbai,IT,ML Engineer,6,19.83,Azure AI,1
+Hyderabad,Finance,Data Scientist,6,17.7,ChatGPT,1
+Pune,IT,AI Researcher,7,23.06,Scikit-learn,1
+Chennai,Healthcare,AI Researcher,11,31.36,PyTorch,1
+Bangalore,EdTech,Data Analyst,5,16.09,Scikit-learn,1
+Bangalore,Healthcare,ML Engineer,9,28.9,Azure AI,1
+Delhi,EdTech,Data Analyst,5,16.88,Azure AI,1
+Delhi,EdTech,AI Engineer,2,7.95,Scikit-learn,1
+Hyderabad,Finance,Data Analyst,1,9.25,Azure AI,0
+Delhi,IT,AI Researcher,11,33.39,PyTorch,1
+Bangalore,Manufacturing,Data Scientist,8,22.43,TensorFlow,1
+Mumbai,E-commerce,Data Scientist,10,26.59,ChatGPT,0
+Mumbai,Finance,ML Engineer,7,23.59,TensorFlow,0
+Mumbai,E-commerce,Data Scientist,0,4.83,TensorFlow,1
+Pune,Manufacturing,Data Scientist,1,3.25,AWS AI,1
+Chennai,EdTech,AI Engineer,10,25.05,PyTorch,1
+Pune,IT,Data Analyst,9,22.47,TensorFlow,0
+Hyderabad,Finance,ML Engineer,7,20.48,ChatGPT,1
+Bangalore,Healthcare,Data Analyst,11,27.22,AWS AI,1
+Hyderabad,Finance,Data Scientist,9,25.56,PyTorch,1
+Bangalore,E-commerce,ML Engineer,10,27.47,Azure AI,1
+Mumbai,Manufacturing,ML Engineer,10,28.38,ChatGPT,0
+Pune,IT,AI Researcher,9,29.27,PyTorch,1
+Pune,Healthcare,AI Researcher,0,12.33,TensorFlow,1
+Delhi,E-commerce,AI Researcher,9,26.35,TensorFlow,0
+Hyderabad,EdTech,ML Engineer,9,25.24,ChatGPT,1
+Delhi,EdTech,Data Scientist,0,6.43,PyTorch,1
+Bangalore,IT,Data Scientist,4,19.18,Scikit-learn,1
+Bangalore,IT,Data Scientist,5,15.56,ChatGPT,0
+Pune,Finance,AI Engineer,9,22.91,TensorFlow,1
+Chennai,E-commerce,Data Analyst,0,3.0,Azure AI,1
+Delhi,EdTech,Data Analyst,11,28.93,AWS AI,1
+Hyderabad,Manufacturing,AI Engineer,0,3.65,Azure AI,1
+Hyderabad,IT,Data Scientist,1,8.61,AWS AI,1
+Chennai,Finance,AI Engineer,2,8.21,Azure AI,1
+Bangalore,Healthcare,Data Analyst,10,22.18,Azure AI,0
+Hyderabad,Healthcare,ML Engineer,4,16.73,Scikit-learn,1
+Bangalore,EdTech,Data Analyst,10,28.2,PyTorch,0
+Mumbai,Healthcare,AI Researcher,8,24.29,PyTorch,1
+Delhi,IT,AI Engineer,0,11.2,Scikit-learn,1
+Delhi,Manufacturing,AI Researcher,0,9.48,TensorFlow,0
+Delhi,IT,Data Scientist,11,24.72,AWS AI,0
+Mumbai,EdTech,AI Researcher,8,29.21,PyTorch,1
+Bangalore,Healthcare,AI Engineer,11,23.58,AWS AI,1
+Mumbai,EdTech,Data Scientist,2,7.69,AWS AI,0
+Mumbai,IT,AI Researcher,1,15.67,AWS AI,1
+Chennai,Manufacturing,AI Researcher,0,11.2,AWS AI,0
+Bangalore,E-commerce,AI Engineer,10,22.76,AWS AI,1
+Hyderabad,Healthcare,AI Engineer,4,15.14,Scikit-learn,1
+Pune,E-commerce,Data Scientist,7,16.09,ChatGPT,1
+Delhi,Healthcare,Data Analyst,4,16.73,Scikit-learn,0
+Pune,E-commerce,Data Analyst,0,5.54,TensorFlow,1
+Pune,E-commerce,AI Engineer,3,9.2,ChatGPT,1
+Mumbai,EdTech,ML Engineer,9,23.52,TensorFlow,0
+Mumbai,Healthcare,Data Scientist,11,28.92,Azure AI,1
+Delhi,Healthcare,Data Scientist,8,20.46,ChatGPT,1
+Bangalore,E-commerce,AI Researcher,2,17.0,Azure AI,1
+Mumbai,IT,ML Engineer,4,12.7,Azure AI,1
+Bangalore,E-commerce,AI Engineer,11,26.11,Azure AI,1
+Bangalore,EdTech,Data Scientist,0,4.54,AWS AI,1
+Chennai,IT,AI Engineer,6,18.43,ChatGPT,1
+Hyderabad,Finance,Data Scientist,5,18.39,TensorFlow,1
+Delhi,E-commerce,AI Engineer,2,10.41,TensorFlow,1
+Bangalore,EdTech,AI Researcher,2,17.34,PyTorch,1
+Pune,Manufacturing,AI Researcher,6,20.2,Scikit-learn,1
+Hyderabad,E-commerce,AI Researcher,7,25.29,TensorFlow,1
+Chennai,Finance,AI Researcher,8,23.8,TensorFlow,1
+Pune,EdTech,ML Engineer,3,11.38,TensorFlow,1
+Hyderabad,IT,ML Engineer,3,14.51,TensorFlow,1
+Delhi,Manufacturing,AI Engineer,11,28.81,Azure AI,1
+Bangalore,EdTech,ML Engineer,0,10.54,TensorFlow,0
+Bangalore,EdTech,AI Engineer,4,12.51,Scikit-learn,1
+Bangalore,IT,Data Scientist,4,13.46,ChatGPT,0
+Hyderabad,Manufacturing,ML Engineer,3,10.85,Scikit-learn,1
+Delhi,E-commerce,ML Engineer,2,11.51,ChatGPT,1
+Delhi,Manufacturing,Data Scientist,8,17.9,PyTorch,1
+Pune,E-commerce,Data Scientist,6,17.49,PyTorch,1
+Hyderabad,Manufacturing,Data Analyst,8,20.78,ChatGPT,1
+Hyderabad,EdTech,AI Engineer,3,10.24,PyTorch,1
+Bangalore,IT,Data Scientist,3,9.0,ChatGPT,1
+Pune,Finance,Data Scientist,11,30.25,Azure AI,1
+Mumbai,Finance,Data Analyst,0,5.87,ChatGPT,0
+Mumbai,Finance,AI Researcher,2,13.21,ChatGPT,1
+Bangalore,Finance,AI Engineer,6,17.61,Azure AI,1
+Chennai,Healthcare,Data Scientist,5,12.53,Azure AI,0
+Hyderabad,IT,AI Engineer,8,21.22,Azure AI,1
+Pune,E-commerce,AI Researcher,8,25.25,ChatGPT,1
+Bangalore,IT,Data Scientist,0,3.0,TensorFlow,1
+Hyderabad,EdTech,AI Engineer,6,19.96,ChatGPT,1
+Chennai,Finance,AI Researcher,2,13.36,Azure AI,0
+Bangalore,EdTech,ML Engineer,10,28.23,ChatGPT,1
+Chennai,E-commerce,AI Researcher,4,19.41,ChatGPT,1
+Pune,Healthcare,ML Engineer,1,12.57,AWS AI,1
+Pune,EdTech,AI Engineer,7,17.96,Azure AI,0
+Pune,IT,AI Researcher,6,23.03,AWS AI,1
+Pune,EdTech,AI Engineer,8,23.75,Azure AI,0
+Delhi,E-commerce,AI Engineer,7,21.04,TensorFlow,1
+Mumbai,Healthcare,AI Researcher,0,7.96,Scikit-learn,1
+Pune,Manufacturing,AI Engineer,7,17.17,TensorFlow,1
+Delhi,E-commerce,Data Analyst,0,6.73,ChatGPT,0
+Mumbai,IT,Data Analyst,2,8.01,ChatGPT,1
+Pune,EdTech,Data Analyst,9,24.81,AWS AI,1
+Hyderabad,Healthcare,Data Analyst,7,16.99,AWS AI,1
+Hyderabad,Manufacturing,Data Scientist,2,8.81,AWS AI,1
+Chennai,Finance,AI Engineer,4,12.33,TensorFlow,1
+Chennai,EdTech,ML Engineer,2,9.57,TensorFlow,0
+Bangalore,Healthcare,AI Engineer,6,16.3,PyTorch,1
+Delhi,Manufacturing,Data Analyst,5,14.77,Azure AI,1
+Hyderabad,Manufacturing,AI Engineer,10,25.9,Scikit-learn,0
+Bangalore,E-commerce,AI Engineer,9,27.68,Scikit-learn,0
+Hyderabad,IT,Data Scientist,9,21.28,Scikit-learn,1
+Chennai,Manufacturing,Data Analyst,8,26.42,ChatGPT,1
+Hyderabad,EdTech,ML Engineer,5,19.62,PyTorch,1
+Mumbai,IT,Data Scientist,8,23.95,Azure AI,1
+Chennai,IT,AI Researcher,5,20.28,Azure AI,1
+Pune,Finance,AI Engineer,9,23.06,TensorFlow,1
+Hyderabad,E-commerce,Data Scientist,3,11.04,AWS AI,1
+Mumbai,EdTech,AI Researcher,5,20.13,Scikit-learn,1
+Mumbai,E-commerce,AI Engineer,9,22.26,ChatGPT,0
+Pune,IT,Data Scientist,5,13.45,TensorFlow,1
+Pune,E-commerce,AI Researcher,11,30.26,Scikit-learn,1
+Pune,Healthcare,AI Engineer,11,24.04,Scikit-learn,1
+Mumbai,Healthcare,AI Researcher,6,21.25,TensorFlow,1
+Hyderabad,Healthcare,ML Engineer,6,22.27,PyTorch,1
+Bangalore,E-commerce,Data Analyst,8,21.36,TensorFlow,1
+Pune,Manufacturing,AI Researcher,5,19.69,AWS AI,1
+Delhi,EdTech,AI Engineer,8,18.58,PyTorch,0
+Delhi,EdTech,AI Researcher,7,26.25,Scikit-learn,0
+Hyderabad,Healthcare,Data Scientist,9,23.77,PyTorch,0
+Delhi,Finance,AI Researcher,9,29.59,Azure AI,1
+Hyderabad,Finance,Data Analyst,8,21.67,TensorFlow,1
+Delhi,E-commerce,ML Engineer,8,28.58,AWS AI,1
+Mumbai,Finance,ML Engineer,3,17.73,ChatGPT,1
+Mumbai,Finance,AI Researcher,2,12.99,Azure AI,1
+Mumbai,Healthcare,Data Scientist,0,6.12,Scikit-learn,1
+Mumbai,Finance,Data Analyst,2,6.03,ChatGPT,0
+Hyderabad,IT,AI Researcher,6,18.46,PyTorch,1
+Chennai,Healthcare,Data Analyst,8,23.09,PyTorch,1
+Bangalore,IT,Data Scientist,6,16.96,Azure AI,1
+Hyderabad,Manufacturing,AI Researcher,10,33.53,Scikit-learn,1
+Mumbai,IT,Data Analyst,0,3.0,TensorFlow,1
+Pune,E-commerce,Data Scientist,7,19.53,AWS AI,1
+Pune,EdTech,AI Researcher,2,13.06,AWS AI,1
+Bangalore,IT,ML Engineer,7,19.67,Scikit-learn,1
+Mumbai,EdTech,ML Engineer,11,31.19,TensorFlow,1
+Mumbai,Manufacturing,ML Engineer,6,18.8,TensorFlow,1
+Delhi,Manufacturing,AI Engineer,6,17.28,Scikit-learn,1
+Pune,Healthcare,Data Analyst,3,12.29,AWS AI,1
+Delhi,Healthcare,AI Engineer,2,9.31,Azure AI,1
+Mumbai,Healthcare,AI Researcher,8,26.93,PyTorch,0
+Pune,EdTech,ML Engineer,3,16.45,PyTorch,0
+Pune,E-commerce,AI Researcher,7,24.82,PyTorch,1
+Delhi,Healthcare,ML Engineer,8,22.4,PyTorch,1
+Delhi,Healthcare,ML Engineer,8,24.61,Azure AI,1
+Hyderabad,E-commerce,Data Scientist,7,17.9,Azure AI,0
+Pune,E-commerce,ML Engineer,10,27.63,PyTorch,1
+Chennai,Manufacturing,ML Engineer,6,22.42,TensorFlow,1
+Delhi,EdTech,ML Engineer,9,24.43,ChatGPT,0
+Hyderabad,EdTech,AI Researcher,1,9.6,Azure AI,1
+Delhi,IT,AI Engineer,5,17.64,Azure AI,1
+Delhi,Manufacturing,AI Engineer,4,10.28,TensorFlow,1
+Delhi,Healthcare,Data Scientist,6,18.37,Scikit-learn,1
+Bangalore,E-commerce,AI Engineer,4,12.87,PyTorch,1
+Pune,E-commerce,Data Scientist,2,10.03,ChatGPT,1
+Pune,IT,Data Analyst,7,19.51,AWS AI,1
+Bangalore,IT,Data Analyst,6,16.97,Scikit-learn,1
+Delhi,IT,AI Engineer,1,6.31,TensorFlow,0
+Delhi,Finance,Data Scientist,6,18.25,Azure AI,1
+Hyderabad,IT,Data Scientist,10,22.15,TensorFlow,0
+Chennai,EdTech,AI Engineer,3,10.66,AWS AI,0
+Mumbai,E-commerce,AI Researcher,7,26.2,TensorFlow,0
+Hyderabad,E-commerce,Data Analyst,0,3.97,TensorFlow,0
+Delhi,Finance,Data Analyst,9,22.75,Azure AI,1
+Hyderabad,Healthcare,AI Engineer,9,22.97,TensorFlow,1
+Chennai,IT,AI Engineer,11,26.24,TensorFlow,1
+Mumbai,Finance,AI Engineer,4,11.5,ChatGPT,1
+Bangalore,E-commerce,ML Engineer,2,11.38,TensorFlow,1
+Hyderabad,EdTech,Data Analyst,4,12.12,ChatGPT,1
+Delhi,EdTech,ML Engineer,10,28.36,TensorFlow,1
+Mumbai,Healthcare,Data Scientist,9,21.72,ChatGPT,0
+Hyderabad,Healthcare,AI Researcher,1,12.69,PyTorch,0
+Mumbai,EdTech,ML Engineer,9,23.17,PyTorch,0
+Bangalore,Manufacturing,Data Scientist,0,3.0,AWS AI,0
+Mumbai,E-commerce,AI Engineer,2,6.75,ChatGPT,0
+Mumbai,Healthcare,Data Scientist,7,20.13,Azure AI,0
+Pune,Finance,Data Scientist,6,14.12,Scikit-learn,1
+Delhi,EdTech,Data Scientist,11,27.23,TensorFlow,0
+Mumbai,Manufacturing,AI Researcher,0,11.23,PyTorch,1
+Pune,Finance,AI Researcher,1,8.64,Azure AI,1
+Delhi,E-commerce,Data Scientist,0,4.69,Azure AI,1
+Hyderabad,Finance,Data Scientist,11,26.31,PyTorch,1
+Chennai,Finance,AI Researcher,11,33.23,Azure AI,1
+Mumbai,IT,ML Engineer,0,8.77,TensorFlow,1
+Pune,IT,AI Engineer,5,12.13,Azure AI,1
+Chennai,EdTech,AI Engineer,4,13.24,AWS AI,1
+Delhi,EdTech,AI Engineer,1,8.99,AWS AI,1
+Pune,EdTech,AI Engineer,4,15.36,Azure AI,0
+Chennai,Finance,Data Analyst,2,10.2,TensorFlow,1
+Bangalore,IT,ML Engineer,0,9.16,Azure AI,0
+Hyderabad,E-commerce,ML Engineer,10,29.79,Azure AI,1
+Chennai,Finance,Data Analyst,6,13.67,AWS AI,1
+Mumbai,IT,AI Researcher,9,31.38,ChatGPT,1
+Bangalore,Healthcare,AI Researcher,1,12.29,AWS AI,1
+Pune,E-commerce,AI Researcher,10,29.32,Azure AI,1
+Hyderabad,EdTech,Data Analyst,1,6.92,Azure AI,1
+Delhi,Finance,ML Engineer,11,33.08,ChatGPT,0
+Chennai,Manufacturing,Data Scientist,9,25.51,Azure AI,0
+Mumbai,Finance,AI Engineer,11,25.19,PyTorch,0
+Mumbai,Finance,ML Engineer,9,22.4,Scikit-learn,0
+Mumbai,E-commerce,Data Scientist,6,18.23,ChatGPT,1
+Chennai,EdTech,Data Scientist,7,19.85,AWS AI,0
+Chennai,Manufacturing,Data Analyst,4,14.79,AWS AI,1
+Delhi,Finance,AI Researcher,4,18.26,Azure AI,1
+Delhi,Healthcare,AI Engineer,7,21.12,Scikit-learn,0
+Pune,IT,ML Engineer,6,16.77,AWS AI,0
+Mumbai,E-commerce,ML Engineer,6,22.09,ChatGPT,1
+Chennai,Healthcare,Data Analyst,0,5.93,PyTorch,1
+Bangalore,E-commerce,AI Engineer,5,15.75,AWS AI,1
+Hyderabad,Manufacturing,ML Engineer,3,13.18,ChatGPT,1
+Chennai,IT,AI Engineer,6,16.57,TensorFlow,1
+Mumbai,Healthcare,ML Engineer,1,7.64,PyTorch,0
+Hyderabad,IT,ML Engineer,2,13.72,AWS AI,1
+Hyderabad,EdTech,Data Analyst,5,11.53,ChatGPT,1
+Mumbai,E-commerce,AI Researcher,6,23.84,AWS AI,1
+Pune,Manufacturing,AI Researcher,7,25.37,TensorFlow,1
+Chennai,Healthcare,AI Researcher,9,28.12,ChatGPT,1
+Mumbai,E-commerce,AI Engineer,11,23.76,TensorFlow,0
+Pune,E-commerce,AI Engineer,11,25.82,AWS AI,1
+Delhi,E-commerce,AI Engineer,9,23.88,PyTorch,1
+Bangalore,E-commerce,AI Researcher,0,10.76,AWS AI,0
+Hyderabad,Manufacturing,AI Engineer,3,8.38,PyTorch,0
+Chennai,IT,Data Analyst,8,18.52,AWS AI,1
+Bangalore,Healthcare,ML Engineer,0,7.35,Azure AI,1
+Pune,EdTech,Data Scientist,7,19.9,ChatGPT,1
+Chennai,EdTech,AI Researcher,10,29.21,PyTorch,1
+Chennai,IT,Data Scientist,2,10.88,TensorFlow,1
+Pune,E-commerce,AI Researcher,5,22.35,ChatGPT,1
+Pune,EdTech,AI Researcher,3,16.18,AWS AI,0
+Hyderabad,EdTech,ML Engineer,3,14.13,ChatGPT,0
+Chennai,Finance,AI Engineer,8,17.49,AWS AI,0
+Bangalore,EdTech,AI Researcher,10,28.61,Scikit-learn,1
+Delhi,EdTech,AI Researcher,0,9.75,Scikit-learn,0
+Delhi,Healthcare,AI Researcher,8,28.01,Scikit-learn,1
+Chennai,Finance,Data Analyst,2,6.68,TensorFlow,0
+Hyderabad,EdTech,AI Engineer,8,20.49,Azure AI,1
+Pune,IT,AI Researcher,6,19.11,TensorFlow,1
+Hyderabad,Finance,AI Researcher,3,12.6,Scikit-learn,1
+Hyderabad,Manufacturing,AI Researcher,3,12.59,Scikit-learn,0
+Pune,Manufacturing,Data Scientist,10,26.96,TensorFlow,1
+Pune,E-commerce,Data Analyst,9,24.23,ChatGPT,1
+Mumbai,Healthcare,Data Analyst,7,20.02,Azure AI,1
+Bangalore,Manufacturing,AI Researcher,4,14.58,AWS AI,0
+Delhi,EdTech,AI Engineer,1,6.21,AWS AI,1
+Delhi,Finance,Data Analyst,1,5.99,PyTorch,1
+Bangalore,Finance,Data Scientist,3,10.64,ChatGPT,1
+Pune,Healthcare,AI Engineer,2,9.88,Azure AI,1
+Bangalore,IT,Data Scientist,4,11.68,AWS AI,1
+Delhi,E-commerce,AI Researcher,9,29.44,ChatGPT,1
+Bangalore,Finance,Data Scientist,10,25.85,Scikit-learn,1
+Mumbai,Manufacturing,AI Researcher,6,25.42,AWS AI,1
+Mumbai,EdTech,ML Engineer,11,26.35,AWS AI,0
+Mumbai,Finance,Data Analyst,0,5.02,Scikit-learn,1
+Delhi,Healthcare,Data Analyst,8,18.33,AWS AI,1
+Chennai,Healthcare,AI Researcher,5,19.82,PyTorch,1
+Mumbai,Healthcare,ML Engineer,2,11.09,TensorFlow,1
+Delhi,EdTech,Data Analyst,4,13.53,ChatGPT,1
+Mumbai,E-commerce,AI Researcher,11,28.59,PyTorch,1
+Hyderabad,Finance,ML Engineer,11,28.33,TensorFlow,1
+Chennai,Healthcare,AI Engineer,2,4.79,PyTorch,1
+Mumbai,E-commerce,ML Engineer,2,11.81,TensorFlow,0
+Mumbai,Finance,ML Engineer,3,14.06,PyTorch,1
+Bangalore,Manufacturing,AI Engineer,11,26.03,TensorFlow,1
+Delhi,IT,AI Researcher,3,16.92,Scikit-learn,0
+Bangalore,Finance,Data Analyst,0,3.0,AWS AI,1
+Chennai,E-commerce,Data Scientist,8,16.33,Azure AI,1
+Hyderabad,Finance,AI Engineer,5,16.7,TensorFlow,1
+Mumbai,IT,ML Engineer,2,13.24,Scikit-learn,1
+Delhi,E-commerce,Data Scientist,4,14.07,ChatGPT,1
+Mumbai,IT,Data Analyst,11,28.9,ChatGPT,0
+Delhi,E-commerce,ML Engineer,7,20.33,ChatGPT,1
+Bangalore,Healthcare,ML Engineer,11,28.89,Azure AI,1
+Delhi,EdTech,AI Engineer,11,23.8,PyTorch,0
+Hyderabad,Healthcare,Data Analyst,8,17.18,Azure AI,0
+Bangalore,Manufacturing,ML Engineer,2,10.47,Scikit-learn,1
+Hyderabad,Manufacturing,AI Engineer,9,24.25,ChatGPT,1
+Hyderabad,Finance,AI Researcher,6,20.77,PyTorch,1
+Pune,EdTech,AI Researcher,0,11.53,AWS AI,1
+Chennai,EdTech,AI Engineer,4,8.78,TensorFlow,0
+Delhi,Manufacturing,Data Analyst,7,21.68,Scikit-learn,1
+Pune,Finance,AI Researcher,4,14.77,PyTorch,0
+Pune,IT,ML Engineer,2,7.65,AWS AI,1
+Delhi,IT,Data Analyst,3,8.93,TensorFlow,1
+Chennai,E-commerce,Data Analyst,2,8.45,TensorFlow,1
+Delhi,E-commerce,Data Analyst,7,21.89,Azure AI,1
+Chennai,Manufacturing,AI Engineer,6,16.08,Scikit-learn,1
+Mumbai,EdTech,Data Analyst,11,23.41,AWS AI,1
+Mumbai,EdTech,ML Engineer,7,24.17,Azure AI,1
+Mumbai,Manufacturing,AI Researcher,0,8.0,AWS AI,1
+Pune,Manufacturing,AI Researcher,6,18.49,Azure AI,0
+Bangalore,Finance,AI Researcher,3,15.14,Scikit-learn,1
+Delhi,Manufacturing,ML Engineer,2,13.18,ChatGPT,1
+Bangalore,IT,AI Researcher,9,27.1,Scikit-learn,1
+Mumbai,E-commerce,AI Researcher,7,30.83,AWS AI,1
+Chennai,E-commerce,AI Engineer,6,17.6,AWS AI,1
+Hyderabad,EdTech,AI Engineer,4,13.53,Azure AI,1
+Mumbai,Finance,AI Researcher,2,13.47,PyTorch,0
+Chennai,IT,AI Researcher,9,27.63,Azure AI,1
+Delhi,Manufacturing,Data Scientist,0,6.99,AWS AI,1
+Chennai,Finance,Data Analyst,3,9.84,PyTorch,1
+Chennai,IT,Data Analyst,11,26.17,Azure AI,1
+Pune,Manufacturing,ML Engineer,8,22.32,PyTorch,0
+Pune,E-commerce,AI Engineer,1,9.16,ChatGPT,0
+Chennai,Manufacturing,ML Engineer,1,10.18,TensorFlow,0
+Pune,Healthcare,Data Scientist,0,5.14,Scikit-learn,1
+Bangalore,IT,AI Researcher,10,30.66,AWS AI,1
+Delhi,Manufacturing,Data Scientist,9,20.27,AWS AI,1
+Bangalore,Finance,AI Researcher,3,14.94,Scikit-learn,1
+Chennai,EdTech,Data Scientist,11,28.53,Azure AI,0
+Chennai,EdTech,Data Scientist,3,10.17,TensorFlow,1
+Pune,Finance,AI Researcher,4,20.24,TensorFlow,1
+Bangalore,Healthcare,AI Engineer,11,24.26,TensorFlow,1
+Chennai,Manufacturing,AI Researcher,8,26.29,PyTorch,1
+Bangalore,Manufacturing,AI Researcher,3,18.79,AWS AI,0
+Pune,E-commerce,Data Scientist,0,7.04,Azure AI,1
+Mumbai,E-commerce,ML Engineer,8,26.72,Scikit-learn,1
+Mumbai,IT,Data Analyst,2,9.26,Azure AI,0
+Hyderabad,EdTech,Data Analyst,3,14.94,Azure AI,1
+Delhi,E-commerce,AI Researcher,7,22.81,Azure AI,1
+Bangalore,IT,Data Scientist,1,7.16,Scikit-learn,0
+Bangalore,Healthcare,Data Scientist,4,11.25,ChatGPT,1
+Chennai,IT,AI Engineer,10,22.19,AWS AI,0
+Hyderabad,E-commerce,ML Engineer,6,21.27,PyTorch,1
+Hyderabad,Manufacturing,ML Engineer,8,23.22,AWS AI,1
+Mumbai,IT,ML Engineer,6,18.09,Azure AI,1
+Chennai,EdTech,Data Scientist,1,5.36,Scikit-learn,0
+Delhi,EdTech,AI Researcher,7,23.04,AWS AI,1
+Delhi,Healthcare,ML Engineer,9,25.91,TensorFlow,1
+Chennai,Manufacturing,Data Scientist,7,20.04,PyTorch,1
+Chennai,Finance,Data Analyst,4,12.66,AWS AI,1
+Pune,EdTech,Data Scientist,10,24.13,PyTorch,1
+Hyderabad,IT,ML Engineer,7,23.33,ChatGPT,1
+Delhi,EdTech,AI Researcher,5,22.34,Azure AI,1
+Hyderabad,Healthcare,AI Researcher,5,18.45,Azure AI,1
+Pune,IT,ML Engineer,11,30.44,Scikit-learn,0
+Delhi,Manufacturing,Data Analyst,10,23.28,Scikit-learn,0
+Bangalore,EdTech,ML Engineer,6,18.95,ChatGPT,1
+Hyderabad,Finance,AI Researcher,8,23.81,Azure AI,1
+Hyderabad,Healthcare,Data Scientist,2,11.04,PyTorch,1
+Pune,Manufacturing,ML Engineer,11,34.04,AWS AI,1
+Delhi,E-commerce,AI Researcher,0,11.26,ChatGPT,0
+Chennai,E-commerce,Data Analyst,4,16.24,TensorFlow,1
+Pune,Healthcare,AI Engineer,0,3.0,TensorFlow,1
+Delhi,EdTech,ML Engineer,9,28.31,TensorFlow,1
+Pune,EdTech,AI Engineer,7,19.55,TensorFlow,1
+Hyderabad,Finance,ML Engineer,0,3.0,TensorFlow,1
+Pune,IT,AI Researcher,3,18.14,ChatGPT,0
+Chennai,Finance,Data Scientist,1,4.4,AWS AI,1
+Bangalore,EdTech,Data Scientist,7,18.49,Azure AI,0
+Chennai,Healthcare,Data Analyst,4,13.56,ChatGPT,0
+Pune,Healthcare,AI Researcher,2,15.4,ChatGPT,0
+Bangalore,Finance,ML Engineer,8,22.74,ChatGPT,1
+Mumbai,E-commerce,AI Researcher,2,14.87,AWS AI,1
+Delhi,E-commerce,Data Scientist,2,9.8,AWS AI,1
+Chennai,Manufacturing,Data Scientist,2,9.0,PyTorch,1
+Delhi,IT,AI Researcher,5,18.37,ChatGPT,0
+Chennai,EdTech,AI Engineer,2,10.75,Scikit-learn,0
+Bangalore,EdTech,Data Analyst,2,9.16,Scikit-learn,1
+Hyderabad,Healthcare,AI Engineer,2,10.81,ChatGPT,0
+Hyderabad,E-commerce,AI Engineer,2,8.55,PyTorch,1
+Pune,E-commerce,Data Analyst,10,24.98,TensorFlow,1
+Pune,Manufacturing,Data Analyst,2,7.11,TensorFlow,1
+Hyderabad,E-commerce,AI Researcher,4,20.52,Scikit-learn,0
+Hyderabad,Manufacturing,ML Engineer,2,12.26,PyTorch,1
+Mumbai,Finance,Data Analyst,7,19.91,ChatGPT,0
+Pune,Finance,AI Researcher,10,23.91,AWS AI,0
+Chennai,EdTech,AI Researcher,7,22.45,ChatGPT,1
+Hyderabad,Manufacturing,Data Scientist,7,20.45,Azure AI,1
+Delhi,E-commerce,Data Scientist,4,15.44,TensorFlow,1
+Pune,Manufacturing,Data Scientist,1,10.21,ChatGPT,1
+Mumbai,Healthcare,AI Engineer,5,14.93,Azure AI,0
+Hyderabad,Manufacturing,ML Engineer,9,22.52,ChatGPT,1
+Bangalore,Finance,AI Researcher,3,18.65,Scikit-learn,1
+Mumbai,EdTech,Data Scientist,10,23.09,PyTorch,0
+Chennai,IT,ML Engineer,10,27.96,AWS AI,1
+Mumbai,Healthcare,Data Scientist,1,7.55,Azure AI,0
+Chennai,Finance,AI Researcher,4,16.39,AWS AI,1
+Mumbai,IT,AI Researcher,3,17.1,ChatGPT,1
+Bangalore,EdTech,AI Engineer,9,24.88,AWS AI,1
+Bangalore,Finance,ML Engineer,10,28.52,Scikit-learn,1
+Delhi,IT,Data Analyst,8,18.53,TensorFlow,1
+Chennai,EdTech,Data Scientist,2,9.66,Scikit-learn,0
+Hyderabad,Finance,ML Engineer,1,11.14,Azure AI,1
+Mumbai,Healthcare,Data Analyst,9,24.19,AWS AI,1
+Hyderabad,Healthcare,Data Scientist,3,12.59,Azure AI,1
+Pune,Manufacturing,AI Researcher,6,24.99,Azure AI,1
+Chennai,Healthcare,AI Engineer,8,18.19,AWS AI,1
+Delhi,Healthcare,AI Engineer,7,20.76,PyTorch,1
+Chennai,E-commerce,ML Engineer,0,7.48,ChatGPT,1
+Bangalore,Finance,Data Scientist,3,10.76,Azure AI,1
+Pune,EdTech,ML Engineer,2,12.4,TensorFlow,1
+Chennai,IT,AI Researcher,0,6.57,Azure AI,1
+Pune,Finance,Data Analyst,4,11.64,Scikit-learn,0
+Mumbai,Manufacturing,Data Scientist,8,21.18,ChatGPT,0
+Chennai,Manufacturing,AI Researcher,5,18.27,AWS AI,0
+Pune,E-commerce,Data Analyst,6,18.01,ChatGPT,1
+Chennai,Manufacturing,AI Researcher,1,12.78,PyTorch,1
+Bangalore,EdTech,ML Engineer,11,29.06,PyTorch,1
+Hyderabad,E-commerce,ML Engineer,1,8.73,TensorFlow,1
+Pune,E-commerce,AI Engineer,8,24.96,Azure AI,1
+Hyderabad,Manufacturing,AI Researcher,6,23.41,PyTorch,1
+Bangalore,IT,AI Engineer,6,17.7,TensorFlow,0
+Mumbai,Manufacturing,Data Analyst,2,11.46,ChatGPT,0
+Hyderabad,E-commerce,AI Researcher,3,16.92,Azure AI,0
+Chennai,Finance,AI Engineer,11,30.73,PyTorch,1
+Mumbai,Finance,AI Researcher,4,21.2,AWS AI,1
+Chennai,Finance,Data Scientist,11,25.67,ChatGPT,0
+Mumbai,EdTech,Data Analyst,4,8.52,TensorFlow,1
+Delhi,IT,AI Researcher,0,9.73,AWS AI,1
+Hyderabad,Healthcare,AI Researcher,9,25.27,AWS AI,0
+Bangalore,Healthcare,AI Researcher,11,34.03,PyTorch,1
+Pune,Healthcare,AI Engineer,8,20.19,Scikit-learn,1
+Pune,Manufacturing,Data Analyst,6,12.9,TensorFlow,1
+Bangalore,Healthcare,AI Engineer,7,18.24,PyTorch,1
+Pune,Finance,AI Researcher,1,15.86,Scikit-learn,0
+Chennai,Manufacturing,AI Researcher,11,32.09,PyTorch,1
+Mumbai,Finance,ML Engineer,0,7.98,ChatGPT,0
+Hyderabad,Manufacturing,Data Scientist,1,8.98,AWS AI,1
+Mumbai,EdTech,ML Engineer,0,4.58,Azure AI,1
+Mumbai,Manufacturing,Data Analyst,5,13.01,Scikit-learn,1
+Delhi,IT,AI Researcher,7,21.83,AWS AI,0
+Chennai,Finance,AI Researcher,9,28.06,PyTorch,1
+Delhi,EdTech,Data Analyst,8,19.78,ChatGPT,1
+Mumbai,E-commerce,Data Analyst,1,8.01,TensorFlow,0
+Mumbai,Healthcare,Data Scientist,7,14.21,ChatGPT,1
+Bangalore,E-commerce,ML Engineer,4,14.38,Azure AI,0
+Mumbai,Healthcare,Data Scientist,2,7.65,AWS AI,1
+Hyderabad,EdTech,AI Engineer,0,7.87,PyTorch,1
+Mumbai,EdTech,ML Engineer,1,7.51,PyTorch,1
+Delhi,Healthcare,AI Engineer,9,24.92,ChatGPT,1
+Mumbai,IT,Data Analyst,1,4.5,Azure AI,1
+Bangalore,E-commerce,AI Researcher,4,18.06,AWS AI,1
+Delhi,Healthcare,ML Engineer,4,17.58,TensorFlow,0
+Hyderabad,Healthcare,ML Engineer,8,23.5,PyTorch,0
+Pune,Healthcare,Data Scientist,5,16.42,PyTorch,1
+Mumbai,Finance,AI Researcher,2,12.06,AWS AI,1
+Pune,IT,ML Engineer,7,17.86,Scikit-learn,1
+Pune,Healthcare,Data Analyst,3,11.18,TensorFlow,1
+Delhi,Manufacturing,Data Scientist,2,4.89,Azure AI,0
+Hyderabad,Healthcare,Data Analyst,2,6.64,PyTorch,1
+Mumbai,EdTech,AI Researcher,0,14.13,AWS AI,0
+Chennai,Finance,Data Scientist,11,27.15,Azure AI,0
+Delhi,EdTech,Data Scientist,5,13.04,TensorFlow,1
+Hyderabad,E-commerce,AI Engineer,4,16.7,ChatGPT,1
+Pune,Finance,ML Engineer,9,24.56,Scikit-learn,1
+Chennai,E-commerce,ML Engineer,8,25.68,Scikit-learn,0
+Mumbai,Finance,Data Analyst,2,10.78,PyTorch,0
+Hyderabad,E-commerce,Data Analyst,2,8.02,ChatGPT,1
+Delhi,E-commerce,AI Researcher,9,25.32,PyTorch,0
+Delhi,Manufacturing,AI Engineer,11,29.49,ChatGPT,0
+Delhi,Healthcare,Data Scientist,8,22.77,PyTorch,1
+Hyderabad,Healthcare,AI Researcher,5,22.54,TensorFlow,1
+Delhi,Manufacturing,Data Scientist,1,8.13,Scikit-learn,1
+Bangalore,EdTech,Data Analyst,10,23.04,Scikit-learn,0
+Bangalore,IT,AI Researcher,3,18.49,ChatGPT,0
+Bangalore,Manufacturing,AI Researcher,1,14.68,Scikit-learn,1
+Hyderabad,IT,Data Analyst,0,3.0,AWS AI,1
+Delhi,Manufacturing,Data Analyst,7,22.6,ChatGPT,1
+Hyderabad,Finance,AI Engineer,9,24.46,PyTorch,0
+Mumbai,Finance,ML Engineer,7,24.78,Azure AI,1
+Hyderabad,EdTech,Data Scientist,11,22.68,TensorFlow,1
+Pune,E-commerce,AI Engineer,5,13.74,PyTorch,1
+Hyderabad,IT,Data Scientist,11,28.39,Azure AI,1
+Chennai,EdTech,Data Analyst,4,15.33,ChatGPT,1
+Delhi,EdTech,AI Engineer,8,20.14,Scikit-learn,1
+Bangalore,Healthcare,Data Scientist,4,15.71,ChatGPT,1
+Chennai,EdTech,Data Scientist,6,19.15,AWS AI,1
+Pune,IT,AI Researcher,6,22.44,ChatGPT,1
+Pune,EdTech,Data Analyst,5,12.26,PyTorch,0
+Mumbai,Manufacturing,Data Scientist,1,9.39,AWS AI,1
+Delhi,Manufacturing,Data Scientist,6,19.83,ChatGPT,1
+Mumbai,EdTech,AI Researcher,5,19.17,TensorFlow,0
+Hyderabad,EdTech,AI Researcher,6,23.26,TensorFlow,1
+Bangalore,EdTech,Data Analyst,9,24.53,Azure AI,0
+Chennai,Healthcare,Data Analyst,2,10.64,TensorFlow,1
+Bangalore,Manufacturing,Data Analyst,3,11.23,PyTorch,1
+Pune,EdTech,ML Engineer,9,27.49,ChatGPT,1
+Mumbai,Healthcare,ML Engineer,8,23.51,Scikit-learn,1
+Bangalore,IT,Data Scientist,0,3.57,TensorFlow,0
+Chennai,IT,ML Engineer,6,22.09,Azure AI,0
+Pune,E-commerce,Data Analyst,0,3.0,AWS AI,1
+Bangalore,Manufacturing,ML Engineer,1,11.94,TensorFlow,1
+Mumbai,Finance,Data Analyst,9,22.46,TensorFlow,1
+Hyderabad,Healthcare,Data Scientist,4,15.78,Azure AI,1
+Hyderabad,EdTech,ML Engineer,10,27.02,Azure AI,1
+Chennai,EdTech,AI Researcher,1,17.97,TensorFlow,0
+Mumbai,Finance,AI Engineer,10,22.36,Azure AI,1
+Hyderabad,E-commerce,AI Engineer,6,16.52,Scikit-learn,1
+Chennai,Manufacturing,AI Engineer,0,3.0,ChatGPT,1
+Pune,Manufacturing,ML Engineer,0,9.03,Scikit-learn,1
+Hyderabad,Finance,Data Scientist,7,18.74,Azure AI,1
+Mumbai,Manufacturing,AI Engineer,10,26.15,ChatGPT,1
+Chennai,Healthcare,Data Analyst,2,10.55,TensorFlow,1
+Pune,Manufacturing,AI Researcher,10,33.21,AWS AI,1
+Chennai,IT,Data Analyst,10,25.6,Azure AI,1
+Bangalore,Finance,AI Researcher,1,13.54,Scikit-learn,0
+Chennai,EdTech,Data Scientist,4,13.98,ChatGPT,0
+Mumbai,Healthcare,ML Engineer,2,12.72,AWS AI,0
+Pune,E-commerce,Data Analyst,2,10.59,PyTorch,1
+Hyderabad,Finance,Data Analyst,4,13.58,TensorFlow,1
+Delhi,E-commerce,ML Engineer,5,18.15,Azure AI,1
+Pune,Manufacturing,AI Researcher,10,31.7,Scikit-learn,1
+Chennai,E-commerce,AI Engineer,1,8.02,AWS AI,0
+Delhi,Healthcare,Data Analyst,6,19.31,PyTorch,0
+Chennai,Manufacturing,ML Engineer,1,11.88,AWS AI,1
+Mumbai,Manufacturing,Data Analyst,1,8.54,ChatGPT,1
+Mumbai,Manufacturing,Data Analyst,6,16.62,Scikit-learn,1
+Bangalore,IT,Data Scientist,9,18.66,Scikit-learn,0
+Chennai,Manufacturing,ML Engineer,3,8.85,Scikit-learn,0
+Mumbai,Healthcare,Data Scientist,3,10.37,TensorFlow,0
+Bangalore,Finance,AI Researcher,0,8.17,AWS AI,1
+Mumbai,Finance,Data Analyst,4,12.96,ChatGPT,1
+Chennai,IT,AI Engineer,5,17.42,Scikit-learn,1
+Hyderabad,IT,Data Scientist,1,6.95,Scikit-learn,1
+Delhi,EdTech,Data Analyst,8,20.08,AWS AI,1
+Pune,EdTech,Data Analyst,4,13.38,Scikit-learn,1
+Hyderabad,EdTech,ML Engineer,11,32.3,TensorFlow,0
+Hyderabad,EdTech,Data Analyst,4,13.12,Scikit-learn,1
+Pune,Finance,Data Scientist,2,8.74,Scikit-learn,1
+Bangalore,E-commerce,AI Engineer,5,12.84,ChatGPT,1
+Bangalore,EdTech,Data Scientist,7,16.72,AWS AI,1
+Delhi,Finance,AI Researcher,2,14.12,PyTorch,1
+Hyderabad,IT,ML Engineer,7,21.35,AWS AI,1
+Mumbai,E-commerce,AI Engineer,3,14.97,ChatGPT,0
+Mumbai,E-commerce,AI Researcher,1,11.48,Azure AI,1
+Mumbai,Finance,AI Engineer,10,25.74,PyTorch,1
+Hyderabad,IT,Data Analyst,7,18.53,PyTorch,1
+Pune,E-commerce,AI Researcher,7,26.26,ChatGPT,1
+Hyderabad,IT,ML Engineer,7,22.04,Azure AI,0
+Mumbai,EdTech,ML Engineer,6,23.83,Azure AI,0
+Mumbai,Finance,AI Researcher,5,23.62,Azure AI,1
+Pune,EdTech,Data Analyst,3,11.8,PyTorch,1
+Delhi,IT,Data Analyst,2,11.88,ChatGPT,0
+Pune,E-commerce,ML Engineer,11,30.85,PyTorch,1
+Delhi,Manufacturing,Data Scientist,5,16.32,AWS AI,0
+Bangalore,E-commerce,AI Engineer,6,16.71,Azure AI,1
+Bangalore,Finance,AI Researcher,0,9.93,TensorFlow,1
+Delhi,Healthcare,AI Engineer,11,25.83,Azure AI,1
+Bangalore,Finance,AI Engineer,8,21.19,Azure AI,1
+Delhi,IT,ML Engineer,11,28.96,TensorFlow,1
+Hyderabad,Manufacturing,Data Scientist,0,3.39,AWS AI,0
+Pune,E-commerce,AI Engineer,10,26.02,AWS AI,1
+Chennai,Healthcare,Data Analyst,2,6.62,PyTorch,1
+Pune,Manufacturing,ML Engineer,9,26.3,ChatGPT,1
+Mumbai,Finance,AI Researcher,11,32.2,Scikit-learn,0
+Chennai,EdTech,AI Researcher,0,9.57,ChatGPT,0
+Hyderabad,EdTech,ML Engineer,0,6.82,TensorFlow,1
+Chennai,Finance,AI Researcher,9,29.85,PyTorch,0
+Delhi,Manufacturing,ML Engineer,8,22.55,ChatGPT,0
+Bangalore,Finance,Data Analyst,9,19.83,AWS AI,1
+Chennai,IT,Data Analyst,1,5.71,Scikit-learn,1
+Chennai,Manufacturing,ML Engineer,4,14.21,Scikit-learn,1
+Chennai,E-commerce,AI Engineer,7,18.06,Azure AI,1
+Hyderabad,Healthcare,Data Scientist,0,7.24,PyTorch,1
+Delhi,IT,AI Researcher,1,13.49,PyTorch,1
+Mumbai,EdTech,Data Scientist,5,13.7,PyTorch,1
+Pune,IT,AI Researcher,4,19.3,Azure AI,1
+Hyderabad,Finance,Data Analyst,7,15.43,TensorFlow,1
+Mumbai,Healthcare,Data Scientist,8,21.17,ChatGPT,1
+Chennai,Healthcare,Data Analyst,1,7.75,TensorFlow,0
+Pune,Finance,Data Analyst,8,19.16,Scikit-learn,0
+Chennai,Healthcare,AI Engineer,3,9.77,AWS AI,1
+Hyderabad,Healthcare,AI Researcher,9,29.09,PyTorch,1
+Hyderabad,E-commerce,AI Researcher,3,16.9,PyTorch,0
+Delhi,Healthcare,AI Engineer,8,19.6,Scikit-learn,1
+Chennai,Finance,AI Engineer,9,25.93,AWS AI,1
+Bangalore,Manufacturing,Data Scientist,10,24.45,TensorFlow,1
+Bangalore,Finance,AI Researcher,2,18.02,AWS AI,0
+Pune,EdTech,AI Researcher,5,17.6,AWS AI,0
+Bangalore,Healthcare,AI Engineer,7,19.59,TensorFlow,1
+Mumbai,Finance,Data Scientist,7,19.81,ChatGPT,1
+Hyderabad,IT,AI Engineer,2,7.61,PyTorch,1
+Bangalore,Healthcare,AI Researcher,6,20.43,TensorFlow,1
+Pune,Finance,ML Engineer,11,29.68,TensorFlow,0
+Chennai,Healthcare,Data Scientist,3,9.94,TensorFlow,1
+Chennai,IT,AI Engineer,5,14.22,Scikit-learn,0
+Pune,IT,Data Scientist,8,23.05,AWS AI,1
+Delhi,IT,Data Scientist,7,17.74,Azure AI,1
+Hyderabad,Manufacturing,Data Scientist,6,21.77,Scikit-learn,0
+Chennai,E-commerce,AI Engineer,11,26.77,PyTorch,0
+Pune,Manufacturing,AI Engineer,1,5.56,Azure AI,0
+Hyderabad,EdTech,ML Engineer,11,30.28,AWS AI,1
+Pune,E-commerce,Data Scientist,0,5.26,AWS AI,1
+Hyderabad,IT,Data Scientist,3,9.29,ChatGPT,1
+Chennai,E-commerce,Data Scientist,4,11.35,PyTorch,1
+Hyderabad,E-commerce,AI Engineer,10,24.01,PyTorch,1
+Mumbai,Finance,Data Analyst,0,3.0,AWS AI,1
+Hyderabad,IT,Data Scientist,8,22.58,Azure AI,1
+Hyderabad,EdTech,ML Engineer,1,9.05,AWS AI,1
+Chennai,E-commerce,Data Analyst,11,28.62,ChatGPT,1
+Pune,Manufacturing,Data Scientist,7,16.52,PyTorch,1
+Mumbai,EdTech,Data Analyst,6,16.83,PyTorch,1
+Hyderabad,E-commerce,AI Researcher,8,26.87,TensorFlow,0
+Delhi,Finance,AI Researcher,7,27.67,ChatGPT,1
+Chennai,Manufacturing,ML Engineer,1,10.98,Azure AI,1
+Bangalore,EdTech,AI Engineer,2,8.83,Azure AI,1
+Hyderabad,Manufacturing,Data Scientist,3,10.63,TensorFlow,1
+Bangalore,Manufacturing,ML Engineer,3,13.59,AWS AI,0
+Pune,EdTech,ML Engineer,11,33.73,TensorFlow,1
+Bangalore,Manufacturing,Data Scientist,11,29.51,PyTorch,1
+Bangalore,Finance,AI Engineer,3,12.85,Scikit-learn,0
+Hyderabad,Healthcare,Data Scientist,5,15.34,ChatGPT,1
+Pune,E-commerce,AI Engineer,4,13.47,Scikit-learn,1
+Pune,Finance,ML Engineer,9,28.33,AWS AI,1
+Pune,Healthcare,Data Scientist,9,22.71,ChatGPT,1
+Chennai,IT,Data Scientist,9,25.01,PyTorch,1
+Hyderabad,Healthcare,Data Analyst,0,6.45,Scikit-learn,1
+Bangalore,Healthcare,Data Scientist,7,17.38,Azure AI,0
+Chennai,IT,Data Scientist,5,11.44,Azure AI,1
+Delhi,Finance,Data Analyst,11,25.93,TensorFlow,0
+Bangalore,E-commerce,AI Researcher,6,25.52,TensorFlow,0
+Bangalore,Manufacturing,Data Scientist,2,8.66,AWS AI,1
+Delhi,Healthcare,ML Engineer,6,19.07,ChatGPT,1
+Delhi,Manufacturing,Data Scientist,1,7.52,AWS AI,0
+Pune,E-commerce,Data Analyst,3,8.8,TensorFlow,0
+Pune,E-commerce,ML Engineer,7,23.46,PyTorch,1
+Delhi,E-commerce,Data Analyst,0,4.16,PyTorch,1
+Pune,Healthcare,AI Engineer,8,21.09,Scikit-learn,0
+Delhi,EdTech,AI Researcher,4,18.96,PyTorch,0
+Pune,IT,Data Scientist,11,25.85,AWS AI,1
+Bangalore,Manufacturing,ML Engineer,9,24.09,TensorFlow,0
+Pune,IT,AI Researcher,2,15.99,AWS AI,0
+Mumbai,E-commerce,Data Scientist,4,11.02,ChatGPT,1
+Delhi,Healthcare,ML Engineer,8,25.48,ChatGPT,1
+Pune,E-commerce,AI Researcher,4,19.77,Azure AI,1
+Mumbai,IT,AI Researcher,1,9.58,PyTorch,1
+Mumbai,EdTech,ML Engineer,5,15.43,TensorFlow,1
+Pune,Healthcare,AI Researcher,8,27.27,ChatGPT,0
+Chennai,EdTech,ML Engineer,0,4.51,ChatGPT,1
+Delhi,Finance,AI Engineer,4,10.89,Scikit-learn,0
+Delhi,IT,AI Engineer,5,18.43,PyTorch,0
+Mumbai,EdTech,AI Engineer,4,15.28,Azure AI,0
+Hyderabad,E-commerce,ML Engineer,3,12.63,TensorFlow,1
+Hyderabad,IT,Data Scientist,9,22.98,PyTorch,0
+Bangalore,Manufacturing,AI Researcher,5,22.81,AWS AI,1
+Bangalore,Finance,ML Engineer,3,14.46,ChatGPT,0
+Delhi,Finance,Data Analyst,5,15.78,AWS AI,1
+Mumbai,EdTech,AI Researcher,8,24.38,Azure AI,1
+Delhi,IT,Data Analyst,0,5.82,Scikit-learn,0
+Hyderabad,IT,ML Engineer,0,10.43,TensorFlow,0
+Bangalore,E-commerce,ML Engineer,7,22.35,TensorFlow,1
+Mumbai,EdTech,AI Engineer,4,11.76,Scikit-learn,1
+Hyderabad,Manufacturing,AI Researcher,3,14.6,Scikit-learn,1
+Mumbai,E-commerce,AI Engineer,11,26.58,ChatGPT,1
+Mumbai,Manufacturing,AI Researcher,9,29.08,Scikit-learn,0
+Delhi,Healthcare,ML Engineer,0,6.16,ChatGPT,1
+Chennai,E-commerce,ML Engineer,8,25.23,Azure AI,0
+Pune,EdTech,AI Researcher,6,24.28,PyTorch,0
+Chennai,Finance,Data Scientist,11,31.93,AWS AI,1
+Hyderabad,IT,AI Researcher,11,31.78,TensorFlow,1
+Pune,E-commerce,Data Scientist,9,25.04,PyTorch,0
+Delhi,EdTech,AI Researcher,10,30.42,AWS AI,0
+Chennai,IT,Data Analyst,9,23.1,PyTorch,1
+Delhi,Healthcare,Data Scientist,10,24.61,PyTorch,0
+Bangalore,E-commerce,ML Engineer,2,13.02,Scikit-learn,0
+Bangalore,Healthcare,Data Analyst,2,7.77,Azure AI,1
+Pune,E-commerce,Data Analyst,1,4.86,TensorFlow,1
+Chennai,Manufacturing,ML Engineer,9,29.27,Scikit-learn,0
+Delhi,Manufacturing,Data Scientist,6,19.39,PyTorch,1
+Hyderabad,Manufacturing,ML Engineer,11,31.68,AWS AI,1
+Hyderabad,Healthcare,AI Researcher,11,35.26,TensorFlow,1
+Mumbai,Healthcare,AI Researcher,4,16.29,ChatGPT,0
+Mumbai,EdTech,Data Scientist,8,22.0,PyTorch,1
+Bangalore,E-commerce,AI Engineer,10,26.32,ChatGPT,1
+Mumbai,Finance,ML Engineer,10,29.74,ChatGPT,0
+Chennai,Finance,AI Researcher,9,28.65,ChatGPT,0
+Delhi,EdTech,AI Researcher,9,28.45,TensorFlow,0
+Bangalore,E-commerce,Data Analyst,3,12.11,PyTorch,1
+Chennai,Healthcare,Data Analyst,1,6.79,Scikit-learn,0
+Pune,Finance,AI Engineer,6,14.64,Scikit-learn,0
+Pune,IT,Data Analyst,11,30.49,TensorFlow,1
+Pune,IT,Data Analyst,8,22.33,AWS AI,1
+Delhi,Finance,Data Scientist,7,21.22,AWS AI,1
+Delhi,IT,AI Researcher,6,23.13,ChatGPT,0
+Pune,EdTech,AI Researcher,5,17.63,AWS AI,0
+Hyderabad,E-commerce,AI Researcher,0,11.29,PyTorch,1
+Chennai,EdTech,Data Analyst,1,7.06,PyTorch,0
+Chennai,IT,AI Researcher,2,13.41,Azure AI,1
+Hyderabad,IT,AI Researcher,3,16.26,Azure AI,1
+Chennai,Manufacturing,AI Researcher,11,33.77,PyTorch,1
+Mumbai,E-commerce,Data Analyst,7,18.69,AWS AI,0
+Chennai,Healthcare,Data Scientist,7,19.06,Azure AI,1
+Mumbai,Finance,Data Analyst,2,10.94,ChatGPT,0
+Bangalore,E-commerce,Data Analyst,4,10.41,Azure AI,1
+Hyderabad,Healthcare,AI Researcher,8,29.2,Azure AI,1
+Chennai,EdTech,AI Engineer,4,12.21,AWS AI,1
+Delhi,Healthcare,ML Engineer,11,24.78,PyTorch,1
+Pune,Finance,Data Analyst,5,15.49,TensorFlow,1
+Hyderabad,IT,ML Engineer,7,21.27,AWS AI,1
+Delhi,IT,Data Scientist,4,13.55,Scikit-learn,0
+Hyderabad,Finance,Data Scientist,6,17.13,PyTorch,1
+Pune,Finance,AI Engineer,4,12.45,Azure AI,1
+Chennai,Manufacturing,Data Analyst,3,11.0,AWS AI,0
+Delhi,IT,AI Engineer,4,12.38,Scikit-learn,1
+Chennai,EdTech,ML Engineer,9,30.27,ChatGPT,0
+Hyderabad,EdTech,Data Scientist,2,11.32,AWS AI,1
+Chennai,IT,AI Engineer,7,19.53,TensorFlow,1
+Pune,IT,Data Analyst,11,25.7,Scikit-learn,0
+Delhi,E-commerce,AI Researcher,3,15.72,Scikit-learn,1
+Chennai,EdTech,ML Engineer,0,3.89,AWS AI,1
+Pune,E-commerce,AI Researcher,8,25.86,Scikit-learn,0
+Pune,Healthcare,AI Researcher,6,21.43,ChatGPT,1
+Bangalore,EdTech,ML Engineer,4,12.67,TensorFlow,0
+Chennai,Finance,Data Analyst,6,13.0,Azure AI,1
+Mumbai,IT,AI Researcher,5,17.47,ChatGPT,0
+Mumbai,Healthcare,AI Researcher,10,33.25,Azure AI,1
+Mumbai,E-commerce,ML Engineer,10,33.27,PyTorch,0
+Pune,EdTech,AI Engineer,5,15.12,PyTorch,1
+Bangalore,Healthcare,Data Scientist,5,15.31,ChatGPT,1
+Mumbai,E-commerce,Data Scientist,2,10.79,PyTorch,1
+Chennai,Manufacturing,Data Analyst,3,8.88,Azure AI,0
+Pune,EdTech,AI Engineer,11,28.25,PyTorch,1
+Hyderabad,Manufacturing,ML Engineer,2,10.24,Azure AI,1
+Hyderabad,Finance,ML Engineer,9,24.36,TensorFlow,1
+Pune,Healthcare,AI Engineer,5,11.57,TensorFlow,0
+Bangalore,IT,Data Scientist,8,22.65,AWS AI,0
+Chennai,E-commerce,Data Analyst,3,8.99,ChatGPT,1
+Chennai,EdTech,Data Analyst,7,19.25,Azure AI,1
+Pune,Healthcare,AI Engineer,9,21.02,ChatGPT,1
+Pune,EdTech,ML Engineer,0,12.48,ChatGPT,1
+Chennai,Manufacturing,AI Engineer,1,5.02,AWS AI,1
+Hyderabad,EdTech,AI Researcher,0,9.71,ChatGPT,0
+Mumbai,Healthcare,ML Engineer,1,8.12,TensorFlow,1
+Mumbai,E-commerce,Data Analyst,11,25.91,PyTorch,1
+Chennai,EdTech,Data Analyst,2,8.45,ChatGPT,0
+Mumbai,E-commerce,AI Engineer,3,10.4,Scikit-learn,0
+Mumbai,Manufacturing,ML Engineer,10,27.22,PyTorch,0
+Chennai,IT,Data Scientist,5,17.96,Azure AI,0
+Pune,Finance,ML Engineer,7,20.61,Scikit-learn,1
+Pune,E-commerce,AI Engineer,0,5.25,Scikit-learn,1
+Chennai,Healthcare,ML Engineer,1,8.05,TensorFlow,0
+Hyderabad,IT,AI Researcher,7,20.96,Scikit-learn,1
+Pune,EdTech,AI Engineer,1,3.9,AWS AI,1
+Mumbai,E-commerce,ML Engineer,3,15.87,Azure AI,1
+Chennai,IT,ML Engineer,8,24.76,ChatGPT,1
+Chennai,Manufacturing,Data Analyst,9,25.05,ChatGPT,1
+Delhi,E-commerce,AI Engineer,7,18.61,Azure AI,0
+Bangalore,Manufacturing,ML Engineer,4,17.33,PyTorch,1
+Hyderabad,Healthcare,AI Researcher,1,10.44,Scikit-learn,1
+Hyderabad,IT,Data Analyst,11,26.47,Azure AI,1
+Delhi,E-commerce,Data Scientist,8,17.21,AWS AI,1
+Pune,Finance,AI Engineer,10,32.09,PyTorch,1
+Mumbai,EdTech,AI Engineer,7,18.61,TensorFlow,0
+Pune,E-commerce,Data Scientist,6,18.79,AWS AI,0
+Bangalore,E-commerce,Data Analyst,3,12.19,Scikit-learn,1
+Delhi,IT,Data Analyst,8,20.43,Azure AI,0
+Delhi,E-commerce,ML Engineer,6,20.91,PyTorch,0
+Pune,Finance,Data Analyst,8,20.27,Scikit-learn,1
+Hyderabad,E-commerce,Data Analyst,0,6.85,AWS AI,0
+Mumbai,Finance,Data Analyst,7,17.96,Scikit-learn,0
+Bangalore,Finance,AI Researcher,3,17.9,Azure AI,1
+Hyderabad,Manufacturing,Data Scientist,9,25.23,Azure AI,1
+Hyderabad,E-commerce,AI Researcher,1,13.39,AWS AI,1
+Delhi,IT,Data Scientist,9,22.3,PyTorch,1
+Pune,E-commerce,ML Engineer,10,27.61,AWS AI,1
+Pune,EdTech,Data Analyst,6,18.2,ChatGPT,1
+Delhi,IT,AI Researcher,6,24.82,TensorFlow,1
+Bangalore,IT,AI Engineer,7,19.07,Scikit-learn,0
+Chennai,Finance,AI Researcher,5,19.45,Scikit-learn,1
+Delhi,IT,Data Analyst,6,15.07,Scikit-learn,0
+Pune,Healthcare,Data Analyst,9,18.62,Scikit-learn,1
+Pune,E-commerce,Data Scientist,0,3.0,AWS AI,1
+Pune,IT,AI Researcher,8,26.49,ChatGPT,0
+Mumbai,EdTech,Data Analyst,9,23.55,TensorFlow,0
+Bangalore,Healthcare,AI Researcher,11,32.18,Scikit-learn,1
+Bangalore,EdTech,ML Engineer,2,14.77,TensorFlow,1
+Pune,Healthcare,AI Engineer,5,14.41,TensorFlow,1
+Hyderabad,Healthcare,AI Researcher,3,15.07,Azure AI,1
+Mumbai,Finance,Data Scientist,5,16.17,TensorFlow,0
+Bangalore,Healthcare,AI Researcher,5,21.41,PyTorch,1
+Mumbai,Manufacturing,AI Engineer,3,12.13,Azure AI,1
+Pune,Manufacturing,ML Engineer,11,30.35,ChatGPT,1
+Bangalore,IT,ML Engineer,5,15.86,Scikit-learn,1
+Delhi,Finance,AI Researcher,9,30.07,ChatGPT,1
+Hyderabad,EdTech,ML Engineer,1,10.87,TensorFlow,1
+Chennai,Finance,AI Engineer,7,20.6,TensorFlow,1
+Chennai,EdTech,ML Engineer,11,29.0,TensorFlow,1
+Pune,IT,ML Engineer,4,18.23,TensorFlow,1
+Pune,E-commerce,Data Analyst,8,23.43,TensorFlow,1
+Bangalore,Healthcare,Data Analyst,3,12.07,PyTorch,0
+Bangalore,Finance,AI Researcher,0,9.18,TensorFlow,0
+Bangalore,Healthcare,AI Engineer,6,15.9,TensorFlow,1
+Hyderabad,EdTech,ML Engineer,1,10.03,Azure AI,1
+Hyderabad,IT,ML Engineer,5,14.8,ChatGPT,1
+Hyderabad,Finance,ML Engineer,11,31.07,Scikit-learn,0
+Mumbai,E-commerce,AI Researcher,6,18.66,PyTorch,1
+Delhi,Manufacturing,Data Analyst,4,13.68,TensorFlow,1
+Bangalore,Finance,ML Engineer,3,13.95,TensorFlow,1
+Bangalore,EdTech,Data Analyst,0,3.39,ChatGPT,1
+Pune,EdTech,ML Engineer,1,13.35,Azure AI,1
+Delhi,E-commerce,ML Engineer,9,25.96,TensorFlow,1
+Mumbai,Healthcare,AI Researcher,4,20.25,TensorFlow,0
+Pune,EdTech,ML Engineer,10,22.81,TensorFlow,1
+Delhi,E-commerce,AI Researcher,3,15.81,Azure AI,1
+Mumbai,E-commerce,Data Analyst,10,21.38,ChatGPT,0
+Bangalore,E-commerce,ML Engineer,4,14.83,Scikit-learn,1
+Bangalore,Finance,AI Researcher,3,15.05,AWS AI,1
+Bangalore,E-commerce,ML Engineer,5,15.32,Azure AI,0
+Bangalore,Healthcare,AI Researcher,10,30.69,ChatGPT,1
+Bangalore,Healthcare,Data Analyst,10,26.83,Azure AI,1
+Pune,Finance,ML Engineer,9,24.52,AWS AI,1
+Hyderabad,E-commerce,Data Scientist,8,20.23,Scikit-learn,1
+Chennai,E-commerce,Data Analyst,7,19.44,ChatGPT,1
+Chennai,Healthcare,Data Analyst,0,7.06,PyTorch,1
+Hyderabad,IT,AI Engineer,11,24.79,ChatGPT,0
+Hyderabad,Manufacturing,AI Researcher,7,23.86,Azure AI,1
+Hyderabad,E-commerce,Data Analyst,7,21.07,TensorFlow,0
+Hyderabad,E-commerce,AI Researcher,8,24.39,Azure AI,1
+Pune,EdTech,AI Engineer,5,17.82,Azure AI,0
+Chennai,Finance,ML Engineer,7,21.38,AWS AI,1
+Chennai,Finance,ML Engineer,9,26.66,Azure AI,0
+Bangalore,Manufacturing,ML Engineer,7,23.83,ChatGPT,1
+Pune,Finance,AI Engineer,7,20.22,Scikit-learn,1
+Mumbai,Manufacturing,Data Analyst,7,18.34,AWS AI,1
+Bangalore,Healthcare,Data Scientist,0,4.63,Scikit-learn,1
+Chennai,Finance,AI Researcher,1,15.72,Scikit-learn,1
+Hyderabad,Healthcare,AI Researcher,0,8.97,ChatGPT,1
+Bangalore,E-commerce,ML Engineer,0,7.93,TensorFlow,1
+Bangalore,IT,AI Researcher,3,13.93,ChatGPT,1
+Delhi,Healthcare,ML Engineer,0,7.84,Azure AI,1
+Hyderabad,EdTech,Data Scientist,2,4.77,PyTorch,1
+Delhi,Healthcare,Data Analyst,10,24.98,PyTorch,1
+Hyderabad,E-commerce,ML Engineer,11,32.05,AWS AI,0
+Pune,EdTech,Data Analyst,7,20.62,PyTorch,0
+Pune,IT,ML Engineer,9,26.68,AWS AI,1
+Chennai,Finance,Data Scientist,9,23.72,PyTorch,1
+Hyderabad,Finance,AI Researcher,7,21.6,TensorFlow,1
+Chennai,E-commerce,ML Engineer,9,25.15,PyTorch,0
+Mumbai,EdTech,Data Analyst,4,10.79,AWS AI,1
+Pune,Healthcare,ML Engineer,4,15.12,AWS AI,1
+Hyderabad,EdTech,AI Engineer,1,7.92,TensorFlow,0
+Mumbai,IT,AI Researcher,4,19.78,Scikit-learn,1
+Bangalore,Finance,Data Analyst,4,14.73,TensorFlow,1
+Mumbai,Healthcare,Data Analyst,8,19.34,ChatGPT,1
+Bangalore,E-commerce,Data Scientist,5,14.87,Azure AI,0
+Chennai,EdTech,AI Engineer,3,12.69,Azure AI,1
+Hyderabad,EdTech,AI Engineer,5,16.04,PyTorch,0
+Chennai,Manufacturing,AI Researcher,1,10.77,TensorFlow,1
+Pune,IT,Data Analyst,8,19.75,TensorFlow,1
+Delhi,Finance,Data Scientist,8,21.46,Scikit-learn,1
+Delhi,Finance,AI Researcher,2,13.81,ChatGPT,0
+Pune,Finance,AI Engineer,8,21.52,TensorFlow,0
+Hyderabad,Healthcare,ML Engineer,7,24.04,AWS AI,0
+Mumbai,Manufacturing,ML Engineer,11,31.17,PyTorch,0
+Hyderabad,Healthcare,Data Scientist,0,4.86,AWS AI,1
+Pune,Healthcare,ML Engineer,1,9.7,PyTorch,0
+Delhi,Healthcare,Data Analyst,10,24.25,AWS AI,1
+Hyderabad,IT,AI Engineer,8,20.49,Scikit-learn,0
+Mumbai,IT,ML Engineer,5,16.73,PyTorch,1
+Hyderabad,Healthcare,AI Engineer,1,5.75,TensorFlow,1
+Bangalore,Healthcare,Data Scientist,6,13.99,Scikit-learn,1
+Pune,Manufacturing,Data Scientist,1,6.03,TensorFlow,1
+Hyderabad,Healthcare,ML Engineer,0,9.13,ChatGPT,1
+Chennai,EdTech,AI Researcher,9,26.91,ChatGPT,1
+Pune,Healthcare,AI Researcher,2,16.33,Azure AI,0
+Hyderabad,Finance,Data Scientist,9,21.3,Azure AI,0
+Hyderabad,Finance,Data Scientist,1,6.66,Scikit-learn,1
+Delhi,IT,AI Researcher,2,12.07,Scikit-learn,1
+Mumbai,Finance,Data Scientist,3,9.58,AWS AI,1
+Chennai,EdTech,AI Engineer,3,8.58,AWS AI,0
+Pune,Healthcare,ML Engineer,6,19.63,Azure AI,0
+Bangalore,Finance,Data Analyst,1,7.67,TensorFlow,0
+Bangalore,EdTech,AI Engineer,10,25.93,TensorFlow,1
+Pune,EdTech,ML Engineer,1,12.45,ChatGPT,1
+Pune,Manufacturing,ML Engineer,8,25.77,PyTorch,0
+Delhi,Manufacturing,ML Engineer,11,32.2,TensorFlow,1
+Chennai,EdTech,Data Scientist,1,7.92,Scikit-learn,1
+Chennai,Manufacturing,ML Engineer,5,20.48,ChatGPT,1
+Bangalore,E-commerce,AI Engineer,11,27.61,Azure AI,1
+Delhi,EdTech,AI Researcher,2,9.1,ChatGPT,1
+Bangalore,EdTech,AI Researcher,0,12.19,ChatGPT,0
+Pune,E-commerce,Data Scientist,0,5.95,Scikit-learn,1
+Bangalore,EdTech,AI Researcher,4,20.03,Azure AI,1
+Pune,IT,Data Scientist,4,10.66,TensorFlow,1
+Delhi,Healthcare,Data Analyst,2,7.05,PyTorch,1
+Pune,Manufacturing,ML Engineer,8,25.81,TensorFlow,0
+Bangalore,Manufacturing,Data Scientist,9,19.08,TensorFlow,0
+Bangalore,E-commerce,AI Engineer,7,20.16,ChatGPT,0
+Hyderabad,EdTech,Data Scientist,8,21.53,AWS AI,0
+Hyderabad,Manufacturing,Data Analyst,10,25.13,AWS AI,1
+Bangalore,Healthcare,ML Engineer,0,7.68,ChatGPT,0
+Chennai,IT,AI Researcher,4,17.56,AWS AI,1
+Hyderabad,E-commerce,Data Analyst,3,10.24,Azure AI,1
+Delhi,Finance,ML Engineer,0,4.91,ChatGPT,0
+Chennai,IT,ML Engineer,5,15.99,ChatGPT,1
+Delhi,Healthcare,AI Engineer,6,19.44,Scikit-learn,1
+Bangalore,Manufacturing,Data Analyst,11,28.52,AWS AI,1
+Delhi,Finance,AI Engineer,0,6.53,Azure AI,1
+Bangalore,Healthcare,ML Engineer,9,26.97,TensorFlow,1
+Mumbai,Manufacturing,AI Researcher,11,31.4,PyTorch,1
+Hyderabad,EdTech,ML Engineer,11,29.35,Azure AI,0
+Chennai,Manufacturing,ML Engineer,5,19.47,AWS AI,1
+Delhi,IT,AI Engineer,4,11.19,Azure AI,0
+Chennai,Healthcare,Data Analyst,7,14.39,TensorFlow,1
+Hyderabad,IT,Data Scientist,6,16.76,TensorFlow,1
+Mumbai,IT,AI Researcher,8,26.7,ChatGPT,1
+Bangalore,E-commerce,Data Scientist,1,7.84,ChatGPT,1
+Mumbai,Manufacturing,Data Scientist,10,24.01,ChatGPT,1
+Delhi,IT,Data Analyst,6,16.23,TensorFlow,1
+Hyderabad,E-commerce,Data Analyst,8,16.1,ChatGPT,1
+Mumbai,EdTech,Data Scientist,1,4.32,Azure AI,1
+Bangalore,IT,Data Analyst,4,11.23,TensorFlow,0
+Chennai,Finance,Data Scientist,2,8.27,ChatGPT,0
+Hyderabad,E-commerce,Data Analyst,0,5.44,ChatGPT,1
+Pune,E-commerce,Data Scientist,10,26.67,ChatGPT,0
+Bangalore,Healthcare,AI Researcher,1,12.74,ChatGPT,1
+Delhi,EdTech,Data Analyst,1,5.99,PyTorch,1
+Hyderabad,Healthcare,Data Analyst,4,12.0,Scikit-learn,0
+Delhi,EdTech,ML Engineer,11,30.91,Azure AI,1
+Pune,Healthcare,Data Scientist,4,14.49,AWS AI,1
+Mumbai,Finance,Data Analyst,4,9.92,Azure AI,1
+Hyderabad,E-commerce,Data Scientist,9,24.24,TensorFlow,1
+Pune,IT,ML Engineer,4,16.06,ChatGPT,0
+Pune,Finance,Data Analyst,0,3.0,Scikit-learn,1
+Hyderabad,E-commerce,Data Analyst,5,13.85,AWS AI,0
+Pune,Healthcare,AI Engineer,1,8.82,Azure AI,1
+Chennai,IT,AI Engineer,5,12.96,PyTorch,1
+Bangalore,Manufacturing,Data Analyst,11,25.37,PyTorch,0
+Bangalore,Healthcare,Data Scientist,1,4.79,AWS AI,0
+Delhi,E-commerce,ML Engineer,1,12.67,Scikit-learn,1
+Hyderabad,Manufacturing,ML Engineer,7,23.18,TensorFlow,0
+Delhi,IT,Data Analyst,7,20.14,Scikit-learn,1
+Hyderabad,EdTech,Data Analyst,11,25.06,TensorFlow,1
+Pune,Manufacturing,AI Engineer,6,19.24,Azure AI,0
+Chennai,EdTech,AI Engineer,9,25.92,TensorFlow,1
+Bangalore,Manufacturing,Data Analyst,6,17.16,Azure AI,1
+Delhi,E-commerce,AI Engineer,2,8.54,AWS AI,1
+Hyderabad,EdTech,Data Scientist,6,16.91,ChatGPT,1
+Pune,E-commerce,AI Researcher,10,27.5,Scikit-learn,1
+Chennai,Manufacturing,AI Researcher,10,29.15,Scikit-learn,0
+Pune,E-commerce,AI Researcher,9,26.74,Scikit-learn,0
+Hyderabad,Finance,AI Researcher,2,15.95,AWS AI,1
+Mumbai,Finance,Data Scientist,4,11.61,AWS AI,0
+Mumbai,Healthcare,Data Scientist,4,14.92,Scikit-learn,1
+Mumbai,EdTech,AI Researcher,9,29.2,ChatGPT,1
+Delhi,EdTech,AI Engineer,10,29.02,PyTorch,1
+Chennai,Healthcare,Data Analyst,8,21.39,Azure AI,1
+Delhi,EdTech,AI Engineer,7,17.75,TensorFlow,1
+Hyderabad,IT,Data Scientist,1,6.59,PyTorch,1
+Hyderabad,E-commerce,Data Analyst,5,11.46,TensorFlow,1
+Chennai,E-commerce,Data Scientist,2,10.31,PyTorch,0
+Hyderabad,Finance,Data Scientist,7,19.3,ChatGPT,1
+Delhi,IT,Data Scientist,5,17.75,Scikit-learn,1
+Hyderabad,Manufacturing,ML Engineer,3,15.53,ChatGPT,1
+Delhi,Healthcare,Data Scientist,4,12.57,Azure AI,0
+Pune,Manufacturing,Data Analyst,10,24.14,TensorFlow,1
+Delhi,E-commerce,AI Researcher,7,22.84,Azure AI,0
+Delhi,EdTech,ML Engineer,4,18.97,TensorFlow,1
+Mumbai,E-commerce,AI Researcher,8,22.4,PyTorch,1
+Delhi,Healthcare,Data Analyst,9,22.23,PyTorch,1
+Hyderabad,Manufacturing,AI Researcher,7,22.61,Azure AI,1
+Pune,Finance,Data Scientist,9,26.98,AWS AI,1
+Chennai,EdTech,ML Engineer,3,12.35,Azure AI,0
+Chennai,IT,AI Researcher,2,16.03,Scikit-learn,1
+Mumbai,Manufacturing,AI Engineer,10,23.57,Scikit-learn,1
+Bangalore,Finance,Data Scientist,11,30.59,Scikit-learn,1
+Mumbai,Finance,ML Engineer,3,15.98,ChatGPT,1
+Chennai,Healthcare,AI Engineer,1,5.17,TensorFlow,1
+Chennai,Finance,AI Engineer,10,22.11,Azure AI,0
+Mumbai,EdTech,AI Engineer,0,8.4,ChatGPT,1
+Hyderabad,E-commerce,Data Analyst,9,21.34,ChatGPT,1
+Mumbai,Finance,AI Researcher,2,14.24,TensorFlow,0
+Delhi,IT,ML Engineer,9,24.98,PyTorch,1
+Pune,Healthcare,ML Engineer,2,9.35,Azure AI,1
+Chennai,Finance,AI Researcher,7,22.69,AWS AI,0
+Bangalore,IT,Data Analyst,6,19.6,ChatGPT,0
+Hyderabad,Manufacturing,AI Researcher,6,23.98,TensorFlow,1
+Pune,E-commerce,Data Scientist,1,7.92,PyTorch,0
+Mumbai,E-commerce,AI Researcher,4,14.65,Scikit-learn,1
+Mumbai,IT,ML Engineer,0,7.0,PyTorch,1
+Delhi,EdTech,AI Engineer,5,13.91,AWS AI,1
+Chennai,EdTech,ML Engineer,4,14.89,Scikit-learn,0
+Chennai,Healthcare,AI Researcher,4,21.13,PyTorch,1
+Bangalore,Manufacturing,AI Researcher,1,10.19,Azure AI,1
+Pune,Healthcare,Data Scientist,6,18.23,PyTorch,1
+Bangalore,IT,ML Engineer,2,10.5,ChatGPT,1
+Pune,Manufacturing,ML Engineer,4,16.89,PyTorch,1
+Pune,Finance,AI Researcher,5,20.87,Scikit-learn,0
+Hyderabad,IT,AI Engineer,4,13.25,AWS AI,1
+Chennai,E-commerce,Data Scientist,5,14.66,Scikit-learn,1
+Hyderabad,Finance,ML Engineer,11,30.76,Scikit-learn,0
+Hyderabad,E-commerce,AI Researcher,5,19.08,PyTorch,0
+Delhi,IT,AI Engineer,1,5.77,PyTorch,1
+Pune,IT,Data Scientist,2,7.35,Azure AI,1
+Bangalore,Healthcare,Data Scientist,11,28.19,PyTorch,1
+Chennai,Healthcare,AI Engineer,5,17.11,ChatGPT,0
+Mumbai,Healthcare,AI Researcher,5,20.05,Scikit-learn,1
+Mumbai,Healthcare,AI Researcher,10,31.15,AWS AI,0
+Hyderabad,E-commerce,Data Scientist,8,26.2,ChatGPT,1
+Delhi,Manufacturing,Data Analyst,1,9.62,ChatGPT,1
+Bangalore,Finance,ML Engineer,8,23.69,AWS AI,1
+Delhi,Finance,Data Scientist,10,24.42,Scikit-learn,1
+Hyderabad,Healthcare,AI Engineer,11,26.97,Scikit-learn,0
+Bangalore,E-commerce,ML Engineer,4,14.04,Azure AI,1
+Hyderabad,IT,Data Scientist,9,26.56,Scikit-learn,0
+Chennai,Finance,Data Scientist,9,24.72,PyTorch,1
+Pune,Manufacturing,AI Engineer,2,9.02,Azure AI,1
+Hyderabad,Manufacturing,Data Analyst,1,5.62,PyTorch,0
+Hyderabad,Finance,Data Analyst,10,24.56,PyTorch,1
+Pune,Manufacturing,AI Engineer,5,17.78,Scikit-learn,0
+Bangalore,Manufacturing,Data Analyst,5,16.88,Scikit-learn,0
+Pune,Finance,AI Engineer,8,22.3,Scikit-learn,1
+Pune,E-commerce,AI Engineer,7,18.21,Scikit-learn,1
+Bangalore,Finance,ML Engineer,6,20.17,Scikit-learn,1
+Mumbai,Manufacturing,AI Researcher,4,17.16,Azure AI,1
+Bangalore,Manufacturing,Data Scientist,0,3.0,Azure AI,1
+Delhi,Healthcare,AI Researcher,11,33.06,Scikit-learn,0
+Chennai,E-commerce,Data Scientist,10,23.46,TensorFlow,0
+Chennai,Manufacturing,Data Analyst,3,11.46,AWS AI,0
+Delhi,Healthcare,Data Scientist,3,13.99,TensorFlow,1
+Delhi,Manufacturing,Data Scientist,9,22.7,TensorFlow,1
+Bangalore,Finance,AI Engineer,2,10.01,ChatGPT,1
+Pune,IT,AI Engineer,4,11.48,ChatGPT,1
+Pune,Manufacturing,Data Analyst,6,18.14,TensorFlow,1
+Hyderabad,Finance,Data Analyst,6,16.81,TensorFlow,0
+Pune,IT,ML Engineer,0,8.02,AWS AI,0
+Delhi,IT,Data Scientist,8,19.6,Scikit-learn,1
+Chennai,EdTech,Data Scientist,3,13.64,Scikit-learn,1
+Pune,Finance,ML Engineer,8,24.85,Azure AI,1
+Chennai,Manufacturing,AI Engineer,10,23.13,TensorFlow,1
+Pune,E-commerce,Data Analyst,11,28.74,ChatGPT,1
+Hyderabad,EdTech,AI Engineer,1,5.69,Azure AI,1
+Hyderabad,EdTech,Data Scientist,8,21.36,TensorFlow,0
+Hyderabad,Finance,Data Analyst,2,6.37,PyTorch,1
+Chennai,IT,AI Engineer,10,25.47,Scikit-learn,0
+Mumbai,E-commerce,AI Researcher,3,15.27,PyTorch,1
+Hyderabad,Finance,ML Engineer,7,21.1,TensorFlow,1
+Pune,Finance,Data Scientist,4,9.0,ChatGPT,1
+Mumbai,Manufacturing,AI Engineer,2,9.28,ChatGPT,1
+Chennai,E-commerce,Data Scientist,3,7.95,TensorFlow,1
+Bangalore,Manufacturing,ML Engineer,2,13.12,Scikit-learn,0
+Pune,Manufacturing,Data Analyst,1,7.53,TensorFlow,1
+Hyderabad,Manufacturing,ML Engineer,1,11.8,Azure AI,1
+Pune,IT,AI Researcher,10,27.98,AWS AI,1
+Bangalore,IT,Data Analyst,10,25.17,PyTorch,0
+Chennai,Finance,Data Scientist,4,13.09,AWS AI,0
+Chennai,Healthcare,Data Analyst,9,25.74,TensorFlow,1
+Delhi,E-commerce,ML Engineer,9,27.92,TensorFlow,1
+Bangalore,Manufacturing,AI Engineer,6,18.04,Azure AI,1
+Mumbai,EdTech,AI Engineer,4,14.54,Azure AI,1
+Pune,EdTech,Data Scientist,5,14.87,Azure AI,0
+Hyderabad,Manufacturing,AI Engineer,0,4.84,AWS AI,1
+Hyderabad,EdTech,AI Engineer,10,23.74,AWS AI,0
+Bangalore,Healthcare,ML Engineer,3,13.6,PyTorch,0
+Bangalore,Finance,AI Researcher,6,27.83,PyTorch,1
+Hyderabad,Finance,AI Researcher,10,30.96,PyTorch,0
+Mumbai,E-commerce,Data Analyst,8,20.95,ChatGPT,1
+Hyderabad,EdTech,Data Scientist,1,5.35,TensorFlow,1
+Hyderabad,Healthcare,Data Scientist,9,19.97,TensorFlow,0
+Chennai,EdTech,Data Analyst,6,16.3,TensorFlow,0
+Bangalore,IT,AI Engineer,8,21.97,Azure AI,1
+Bangalore,EdTech,Data Scientist,11,27.39,PyTorch,0
+Chennai,EdTech,ML Engineer,0,9.83,ChatGPT,0
+Mumbai,Finance,Data Analyst,6,19.37,AWS AI,1
+Delhi,IT,ML Engineer,11,28.36,Scikit-learn,1
+Mumbai,Healthcare,AI Engineer,2,11.32,Azure AI,1
+Delhi,Healthcare,ML Engineer,11,28.06,PyTorch,1
+Pune,Manufacturing,Data Analyst,3,9.98,Azure AI,0
+Hyderabad,Manufacturing,AI Researcher,4,16.22,Azure AI,1
+Bangalore,Manufacturing,AI Engineer,7,14.79,TensorFlow,1
+Bangalore,Finance,AI Engineer,7,16.82,Azure AI,1
+Pune,Manufacturing,Data Scientist,8,19.63,AWS AI,1
+Pune,E-commerce,AI Researcher,1,12.05,Azure AI,0
+Chennai,Finance,Data Scientist,3,12.53,PyTorch,0
+Bangalore,Finance,Data Scientist,6,17.33,ChatGPT,1
+Delhi,E-commerce,AI Researcher,9,29.93,TensorFlow,0
+Chennai,EdTech,AI Engineer,2,6.95,PyTorch,1
+Pune,EdTech,Data Scientist,0,3.0,TensorFlow,1
+Bangalore,Manufacturing,ML Engineer,8,21.87,ChatGPT,1
+Mumbai,EdTech,ML Engineer,11,28.36,PyTorch,0
+Pune,Healthcare,Data Analyst,0,6.88,PyTorch,1
+Chennai,E-commerce,Data Scientist,0,5.01,Azure AI,1
+Pune,EdTech,AI Engineer,7,16.92,Scikit-learn,1
+Pune,EdTech,Data Analyst,3,9.26,AWS AI,0
+Bangalore,Finance,AI Researcher,6,24.94,ChatGPT,1
+Delhi,Manufacturing,Data Scientist,8,21.38,Azure AI,1
+Chennai,Healthcare,ML Engineer,0,9.0,Scikit-learn,1
+Delhi,Healthcare,Data Analyst,3,9.55,Azure AI,1
+Bangalore,Finance,Data Scientist,6,17.23,ChatGPT,1
+Delhi,E-commerce,Data Scientist,6,17.45,Scikit-learn,1
+Bangalore,Manufacturing,Data Scientist,6,15.32,Scikit-learn,1
+Delhi,Manufacturing,AI Researcher,11,29.47,Scikit-learn,0
+Pune,Healthcare,AI Researcher,0,9.84,PyTorch,1
+Pune,EdTech,AI Engineer,8,22.67,Scikit-learn,1
+Delhi,EdTech,Data Analyst,10,23.39,Scikit-learn,1
+Chennai,IT,ML Engineer,8,26.98,Azure AI,0
+Chennai,Manufacturing,Data Scientist,4,12.64,AWS AI,1
+Delhi,EdTech,ML Engineer,2,7.13,PyTorch,1
+Delhi,EdTech,AI Researcher,7,23.63,Scikit-learn,1
+Mumbai,EdTech,Data Analyst,11,29.64,TensorFlow,1
+Chennai,EdTech,AI Engineer,6,16.03,ChatGPT,0
+Bangalore,Finance,Data Analyst,11,24.78,Scikit-learn,1
+Pune,IT,AI Researcher,10,30.15,Scikit-learn,1
+Mumbai,Manufacturing,ML Engineer,5,13.13,PyTorch,1
+Chennai,Healthcare,Data Scientist,2,9.03,AWS AI,1
+Delhi,IT,AI Researcher,8,26.49,Azure AI,1
+Pune,Healthcare,Data Scientist,3,13.71,TensorFlow,0
+Hyderabad,Finance,AI Engineer,8,20.09,AWS AI,1
+Chennai,Finance,AI Engineer,1,4.76,Scikit-learn,1
+Chennai,IT,AI Researcher,3,18.34,PyTorch,1
+Mumbai,Finance,Data Scientist,2,7.25,AWS AI,1
+Mumbai,Finance,Data Analyst,8,19.16,Scikit-learn,0
+Delhi,EdTech,AI Engineer,11,23.67,AWS AI,0
+Pune,Manufacturing,AI Engineer,1,4.01,TensorFlow,0
+Hyderabad,EdTech,ML Engineer,5,19.55,ChatGPT,1
+Pune,IT,ML Engineer,2,12.65,Scikit-learn,1
+Hyderabad,Finance,Data Scientist,5,18.34,Scikit-learn,1
+Delhi,E-commerce,AI Researcher,5,22.76,PyTorch,1
+Chennai,Healthcare,ML Engineer,0,6.49,Scikit-learn,0
+Mumbai,Healthcare,AI Engineer,2,7.35,Scikit-learn,1
+Chennai,Finance,AI Engineer,10,26.68,Scikit-learn,1
+Bangalore,E-commerce,ML Engineer,1,10.6,TensorFlow,1
+Chennai,E-commerce,AI Engineer,10,23.46,AWS AI,0
+Hyderabad,Manufacturing,Data Scientist,0,3.48,AWS AI,1
+Bangalore,Manufacturing,AI Researcher,3,14.96,ChatGPT,0
+Pune,Healthcare,AI Researcher,0,8.92,AWS AI,0
+Mumbai,Finance,AI Engineer,8,22.94,Azure AI,1
+Hyderabad,IT,Data Scientist,11,27.29,Azure AI,0
+Chennai,Finance,Data Scientist,5,17.0,Scikit-learn,1
+Mumbai,Manufacturing,Data Scientist,5,15.47,Azure AI,1
+Delhi,Healthcare,Data Analyst,7,19.91,TensorFlow,0
+Pune,Manufacturing,AI Researcher,10,31.26,PyTorch,1
+Mumbai,Finance,Data Analyst,11,24.28,ChatGPT,1
+Delhi,IT,AI Researcher,11,29.57,Azure AI,1
+Delhi,Healthcare,Data Analyst,7,22.41,PyTorch,0
+Hyderabad,Manufacturing,AI Researcher,5,20.87,TensorFlow,1
+Pune,EdTech,Data Analyst,10,21.52,Azure AI,0
+Mumbai,Manufacturing,Data Scientist,6,16.09,ChatGPT,1
+Bangalore,Healthcare,ML Engineer,5,19.71,TensorFlow,1
+Mumbai,Finance,ML Engineer,0,7.44,Azure AI,1
+Delhi,IT,ML Engineer,6,20.58,ChatGPT,0
+Mumbai,Manufacturing,ML Engineer,9,26.09,AWS AI,0
+Delhi,Manufacturing,Data Analyst,4,16.77,ChatGPT,1
+Chennai,EdTech,Data Analyst,10,21.77,ChatGPT,0
+Delhi,Finance,AI Engineer,5,13.66,ChatGPT,1
+Hyderabad,EdTech,Data Analyst,5,17.07,AWS AI,1
+Mumbai,Manufacturing,Data Scientist,4,10.44,PyTorch,0
+Chennai,E-commerce,AI Researcher,9,25.75,PyTorch,1
+Pune,EdTech,ML Engineer,7,24.3,ChatGPT,1
+Chennai,E-commerce,ML Engineer,6,21.26,Scikit-learn,1
+Bangalore,Healthcare,Data Analyst,7,17.11,TensorFlow,0
+Bangalore,Healthcare,Data Analyst,1,5.32,TensorFlow,1
+Pune,Manufacturing,AI Researcher,0,9.9,Azure AI,1
+Delhi,Finance,Data Analyst,0,7.94,PyTorch,1
+Hyderabad,Healthcare,AI Engineer,10,24.72,ChatGPT,1
+Chennai,Finance,ML Engineer,2,13.3,TensorFlow,1
+Mumbai,IT,Data Scientist,6,18.05,Azure AI,1
+Bangalore,E-commerce,Data Analyst,9,24.18,ChatGPT,1
+Chennai,Finance,AI Researcher,11,32.17,TensorFlow,1
+Chennai,E-commerce,Data Scientist,4,13.95,AWS AI,1
+Mumbai,Finance,AI Engineer,4,9.49,PyTorch,0
+Hyderabad,E-commerce,ML Engineer,5,18.43,TensorFlow,0
+Delhi,E-commerce,Data Analyst,1,10.11,PyTorch,0
+Hyderabad,Manufacturing,Data Analyst,5,11.77,ChatGPT,1
+Mumbai,IT,Data Scientist,8,19.52,PyTorch,0
+Hyderabad,Healthcare,Data Analyst,2,12.7,ChatGPT,1
+Pune,Healthcare,AI Engineer,6,18.54,ChatGPT,1
+Delhi,IT,AI Engineer,4,14.06,Azure AI,1
+Delhi,Manufacturing,Data Scientist,8,19.63,Scikit-learn,1
+Pune,Finance,AI Researcher,10,28.18,PyTorch,1
+Mumbai,EdTech,ML Engineer,4,17.37,AWS AI,1
+Pune,EdTech,AI Engineer,0,3.0,Scikit-learn,1
+Hyderabad,Healthcare,AI Engineer,9,23.7,Scikit-learn,1
+Delhi,Manufacturing,AI Researcher,6,22.27,Scikit-learn,1
+Pune,IT,ML Engineer,8,23.92,AWS AI,0
+Bangalore,Healthcare,ML Engineer,3,13.33,PyTorch,0
+Pune,EdTech,Data Scientist,1,8.5,Azure AI,1
+Delhi,IT,AI Engineer,7,17.82,PyTorch,1
+Mumbai,IT,Data Scientist,2,10.89,Azure AI,1
+Pune,EdTech,AI Researcher,0,10.39,AWS AI,0
+Pune,EdTech,ML Engineer,0,5.57,Scikit-learn,1
+Bangalore,Finance,ML Engineer,5,21.63,AWS AI,1
+Hyderabad,IT,AI Engineer,1,9.25,TensorFlow,1
+Delhi,Healthcare,AI Engineer,4,9.93,ChatGPT,0
+Bangalore,Healthcare,ML Engineer,4,18.21,PyTorch,0
+Pune,IT,AI Researcher,0,5.05,AWS AI,0
+Mumbai,IT,Data Scientist,4,10.34,Scikit-learn,1
+Hyderabad,IT,Data Analyst,7,21.62,TensorFlow,1
+Hyderabad,Finance,AI Engineer,2,8.42,ChatGPT,1
+Pune,Healthcare,Data Scientist,9,24.43,AWS AI,0
+Delhi,IT,AI Engineer,9,22.03,PyTorch,1
+Pune,EdTech,Data Scientist,7,20.37,PyTorch,0
+Mumbai,E-commerce,AI Engineer,5,14.42,Azure AI,1
+Hyderabad,Manufacturing,ML Engineer,8,23.68,TensorFlow,0
+Chennai,Manufacturing,ML Engineer,10,30.94,Azure AI,1
+Pune,EdTech,ML Engineer,2,11.87,TensorFlow,0
+Chennai,Healthcare,Data Scientist,5,13.32,TensorFlow,0
+Pune,EdTech,AI Researcher,5,18.65,PyTorch,0
+Bangalore,Manufacturing,ML Engineer,11,32.62,PyTorch,1
+Pune,IT,AI Engineer,9,20.47,PyTorch,1
+Hyderabad,EdTech,Data Scientist,9,25.95,PyTorch,0
+Bangalore,IT,AI Researcher,1,12.82,TensorFlow,0
+Bangalore,EdTech,AI Engineer,8,23.87,Azure AI,1
+Chennai,EdTech,AI Researcher,6,24.24,AWS AI,1
+Hyderabad,EdTech,ML Engineer,7,21.62,PyTorch,1
+Mumbai,Finance,AI Researcher,7,24.37,PyTorch,1
+Pune,Finance,AI Researcher,0,8.99,ChatGPT,1
+Mumbai,E-commerce,Data Scientist,3,8.88,PyTorch,1
+Hyderabad,Manufacturing,Data Scientist,7,17.8,Azure AI,1
+Pune,E-commerce,Data Scientist,0,3.9,ChatGPT,1
+Pune,IT,Data Analyst,7,24.68,ChatGPT,1
+Hyderabad,Finance,Data Analyst,1,3.41,PyTorch,1
+Mumbai,Manufacturing,AI Researcher,6,23.84,Azure AI,1
+Hyderabad,Manufacturing,AI Researcher,11,29.26,AWS AI,0
+Pune,Manufacturing,AI Researcher,2,12.92,TensorFlow,0
+Hyderabad,E-commerce,AI Researcher,2,13.63,TensorFlow,1
+Delhi,Finance,AI Researcher,4,14.95,Azure AI,1
+Mumbai,Manufacturing,Data Analyst,5,11.1,Scikit-learn,1
+Chennai,Healthcare,AI Researcher,9,30.28,PyTorch,0
+Mumbai,IT,Data Scientist,9,16.8,PyTorch,1
+Mumbai,Finance,Data Analyst,8,22.81,TensorFlow,1
+Pune,Finance,Data Analyst,0,4.05,PyTorch,0
+Delhi,EdTech,ML Engineer,0,4.12,Azure AI,0
+Chennai,Healthcare,Data Analyst,11,26.44,ChatGPT,1
+Hyderabad,E-commerce,AI Researcher,8,25.68,PyTorch,1
+Chennai,E-commerce,ML Engineer,8,23.44,PyTorch,0
+Hyderabad,Healthcare,AI Researcher,3,15.98,AWS AI,0
+Bangalore,E-commerce,Data Analyst,2,6.82,AWS AI,0
+Delhi,Manufacturing,Data Scientist,7,19.73,Scikit-learn,0
+Pune,EdTech,AI Engineer,10,25.11,ChatGPT,0
+Chennai,Manufacturing,AI Engineer,1,7.12,PyTorch,0
+Pune,IT,AI Engineer,8,22.94,Azure AI,1
+Mumbai,Healthcare,AI Engineer,0,6.75,TensorFlow,0
+Pune,IT,AI Engineer,8,21.68,PyTorch,1
+Pune,E-commerce,Data Scientist,5,15.15,Scikit-learn,1
+Mumbai,E-commerce,Data Scientist,11,23.46,TensorFlow,1
+Hyderabad,Healthcare,ML Engineer,6,19.87,Scikit-learn,0
+Delhi,EdTech,ML Engineer,11,32.33,ChatGPT,1
+Mumbai,Healthcare,AI Engineer,6,20.54,PyTorch,1
+Delhi,IT,Data Scientist,2,9.66,Scikit-learn,1
+Mumbai,Healthcare,Data Scientist,11,25.89,TensorFlow,1
+Mumbai,IT,Data Analyst,3,9.85,ChatGPT,1
+Bangalore,EdTech,ML Engineer,1,9.09,ChatGPT,0
+Bangalore,Manufacturing,ML Engineer,2,12.4,PyTorch,0
+Pune,Healthcare,AI Researcher,0,12.05,PyTorch,1
+Delhi,EdTech,ML Engineer,5,19.46,Azure AI,1
+Bangalore,EdTech,ML Engineer,10,28.68,ChatGPT,1
+Chennai,E-commerce,AI Engineer,7,20.47,PyTorch,0
+Hyderabad,Healthcare,ML Engineer,9,26.11,AWS AI,1
+Mumbai,Finance,ML Engineer,7,21.61,Azure AI,1
+Chennai,Finance,Data Scientist,8,21.44,AWS AI,0
+Mumbai,IT,AI Engineer,6,17.07,Scikit-learn,0
+Hyderabad,Finance,ML Engineer,3,11.43,AWS AI,0
+Mumbai,EdTech,Data Scientist,2,8.37,TensorFlow,1
+Hyderabad,Finance,AI Engineer,4,14.24,AWS AI,0
+Hyderabad,EdTech,AI Engineer,2,11.25,AWS AI,1
+Pune,Finance,AI Researcher,10,31.61,PyTorch,1
+Bangalore,Manufacturing,AI Researcher,3,16.09,ChatGPT,1
+Bangalore,Healthcare,AI Researcher,7,24.53,ChatGPT,1
+Chennai,Healthcare,AI Engineer,8,20.43,Scikit-learn,1
+Mumbai,E-commerce,Data Analyst,6,17.14,Azure AI,1
+Pune,E-commerce,Data Analyst,6,21.63,ChatGPT,1
+Pune,Healthcare,ML Engineer,0,8.3,TensorFlow,0
+Chennai,E-commerce,Data Analyst,6,19.93,ChatGPT,1
+Bangalore,EdTech,AI Researcher,6,25.11,TensorFlow,1
+Bangalore,IT,ML Engineer,2,14.74,AWS AI,0
+Hyderabad,EdTech,ML Engineer,9,28.66,PyTorch,1
+Delhi,Manufacturing,AI Researcher,7,22.82,Scikit-learn,1
+Mumbai,Finance,ML Engineer,8,23.49,PyTorch,1
+Pune,E-commerce,AI Engineer,1,4.53,AWS AI,1
+Bangalore,Manufacturing,AI Researcher,5,20.02,PyTorch,1
+Hyderabad,Finance,AI Researcher,11,29.67,Azure AI,0
+Pune,Healthcare,AI Researcher,1,12.73,AWS AI,0
+Mumbai,Finance,AI Engineer,8,23.03,Scikit-learn,1
+Pune,E-commerce,AI Engineer,9,24.72,Azure AI,0
+Hyderabad,Healthcare,ML Engineer,1,10.1,Azure AI,1
+Pune,Manufacturing,Data Scientist,4,12.09,Scikit-learn,1
+Mumbai,Healthcare,ML Engineer,7,23.05,ChatGPT,1
+Delhi,EdTech,ML Engineer,8,24.3,ChatGPT,1
+Bangalore,Manufacturing,AI Researcher,8,26.97,PyTorch,1
+Delhi,E-commerce,Data Scientist,8,20.2,TensorFlow,1
+Mumbai,Healthcare,Data Scientist,11,27.52,Azure AI,1
+Bangalore,EdTech,AI Researcher,4,16.06,Azure AI,1
+Hyderabad,Manufacturing,AI Researcher,2,11.04,PyTorch,1
+Pune,IT,AI Researcher,3,19.1,TensorFlow,0
+Pune,EdTech,Data Scientist,4,12.86,AWS AI,0
+Chennai,Healthcare,ML Engineer,5,18.74,AWS AI,0
+Bangalore,Finance,Data Analyst,2,4.65,Azure AI,1
+Chennai,Manufacturing,ML Engineer,11,26.71,ChatGPT,1
+Delhi,IT,ML Engineer,7,26.05,AWS AI,0
+Bangalore,Manufacturing,Data Analyst,1,4.7,ChatGPT,0
+Pune,Manufacturing,Data Analyst,11,28.74,Scikit-learn,1
+Pune,Manufacturing,Data Scientist,7,18.25,AWS AI,0
+Pune,Manufacturing,ML Engineer,6,19.04,Scikit-learn,1
+Hyderabad,Healthcare,Data Scientist,9,21.37,Azure AI,1
+Mumbai,Healthcare,Data Analyst,6,17.36,Scikit-learn,1
+Bangalore,IT,Data Scientist,4,12.05,PyTorch,1
+Chennai,Healthcare,ML Engineer,6,18.67,TensorFlow,1
+Mumbai,E-commerce,Data Analyst,11,26.39,Azure AI,1
+Pune,Finance,AI Engineer,11,28.3,ChatGPT,0
+Bangalore,Manufacturing,Data Scientist,8,21.26,Scikit-learn,1
+Pune,Manufacturing,AI Researcher,7,23.23,Scikit-learn,0
+Bangalore,EdTech,ML Engineer,6,17.81,TensorFlow,0
+Chennai,EdTech,ML Engineer,2,10.4,Azure AI,1
+Pune,EdTech,Data Scientist,4,15.9,AWS AI,1
+Hyderabad,Finance,Data Analyst,3,9.1,ChatGPT,1
+Delhi,Healthcare,Data Analyst,11,24.76,ChatGPT,1
+Delhi,Finance,AI Engineer,5,15.22,TensorFlow,1
+Pune,Finance,AI Researcher,3,14.93,TensorFlow,1
+Mumbai,Finance,ML Engineer,0,8.95,TensorFlow,1
+Mumbai,Manufacturing,ML Engineer,7,20.93,Scikit-learn,1
+Mumbai,Manufacturing,ML Engineer,7,22.94,PyTorch,1
+Chennai,EdTech,AI Engineer,11,27.97,Scikit-learn,1
+Hyderabad,Finance,ML Engineer,1,12.38,AWS AI,1
+Bangalore,Healthcare,Data Scientist,4,19.17,TensorFlow,1
+Pune,EdTech,AI Engineer,5,15.85,PyTorch,1
+Bangalore,Healthcare,ML Engineer,9,25.94,TensorFlow,1
+Delhi,Finance,AI Researcher,4,18.51,ChatGPT,1
+Chennai,Finance,Data Scientist,3,12.54,Azure AI,0
+Bangalore,Finance,AI Researcher,4,18.07,ChatGPT,1
+Bangalore,EdTech,ML Engineer,4,15.68,Azure AI,1
+Mumbai,EdTech,Data Analyst,3,9.17,AWS AI,1
+Hyderabad,Healthcare,AI Engineer,7,18.52,Scikit-learn,1
+Pune,EdTech,Data Scientist,9,17.79,ChatGPT,1
+Mumbai,EdTech,AI Engineer,5,16.44,AWS AI,1
+Pune,Manufacturing,Data Analyst,1,6.68,ChatGPT,1
+Hyderabad,Finance,Data Analyst,6,18.02,ChatGPT,1
+Delhi,Healthcare,AI Researcher,3,17.44,PyTorch,1
+Pune,Finance,AI Engineer,8,22.15,ChatGPT,0
+Mumbai,IT,Data Scientist,4,12.7,Azure AI,1
+Bangalore,Finance,AI Engineer,3,7.97,ChatGPT,0
+Mumbai,E-commerce,Data Scientist,2,9.45,TensorFlow,0
+Chennai,E-commerce,ML Engineer,0,6.08,AWS AI,1
+Hyderabad,EdTech,ML Engineer,2,12.62,Scikit-learn,1
+Bangalore,E-commerce,AI Engineer,1,6.98,Scikit-learn,1
+Hyderabad,Manufacturing,Data Scientist,5,11.96,Scikit-learn,1
+Bangalore,IT,ML Engineer,7,21.34,TensorFlow,1
+Pune,E-commerce,Data Analyst,6,18.27,AWS AI,1
+Bangalore,E-commerce,AI Engineer,9,21.99,Azure AI,1
+Pune,EdTech,AI Researcher,5,17.97,PyTorch,1
+Bangalore,Manufacturing,Data Scientist,10,26.83,PyTorch,1
+Chennai,IT,AI Researcher,0,11.69,Scikit-learn,1
+Delhi,Healthcare,AI Researcher,2,14.74,Scikit-learn,1
+Hyderabad,IT,AI Engineer,0,3.53,Azure AI,0
+Pune,E-commerce,AI Engineer,11,26.61,Scikit-learn,1
+Bangalore,IT,Data Scientist,11,27.5,Azure AI,1
+Hyderabad,Healthcare,ML Engineer,8,23.69,Scikit-learn,1
+Hyderabad,E-commerce,AI Researcher,8,27.92,ChatGPT,1
+Chennai,E-commerce,ML Engineer,11,32.92,Scikit-learn,0
+Bangalore,Healthcare,Data Analyst,5,11.48,TensorFlow,0
+Chennai,E-commerce,Data Analyst,0,5.79,TensorFlow,1
+Pune,Finance,ML Engineer,6,16.55,Scikit-learn,0
+Pune,E-commerce,Data Scientist,4,15.7,AWS AI,1
+Pune,EdTech,Data Analyst,4,11.44,AWS AI,0
+Chennai,Manufacturing,AI Engineer,11,27.01,TensorFlow,1
+Chennai,E-commerce,ML Engineer,2,9.83,Azure AI,1
+Bangalore,Manufacturing,Data Analyst,11,24.14,Scikit-learn,1
+Chennai,EdTech,AI Researcher,0,9.86,TensorFlow,1
+Pune,EdTech,Data Analyst,11,26.85,AWS AI,1
+Chennai,Manufacturing,AI Engineer,4,11.95,Scikit-learn,1
+Hyderabad,IT,Data Analyst,11,27.9,Azure AI,1
+Pune,IT,AI Engineer,6,17.64,PyTorch,1
+Chennai,Finance,Data Scientist,3,11.59,Scikit-learn,1
+Pune,Manufacturing,AI Researcher,11,32.9,ChatGPT,1
+Hyderabad,IT,AI Researcher,6,24.01,Scikit-learn,0
+Bangalore,IT,AI Researcher,10,36.2,ChatGPT,1
+Pune,Healthcare,AI Engineer,11,27.43,AWS AI,0
+Chennai,Finance,ML Engineer,11,27.23,Scikit-learn,1
+Mumbai,Healthcare,Data Analyst,3,14.24,PyTorch,1
+Bangalore,IT,AI Researcher,0,9.22,PyTorch,0
+Bangalore,IT,Data Analyst,2,10.67,ChatGPT,1
+Bangalore,Finance,AI Researcher,7,25.06,TensorFlow,0
+Delhi,Healthcare,Data Scientist,3,13.07,Azure AI,1
+Mumbai,E-commerce,AI Engineer,10,22.38,TensorFlow,1
+Mumbai,Healthcare,Data Scientist,10,27.19,TensorFlow,1
+Delhi,EdTech,Data Scientist,2,8.83,PyTorch,1
+Hyderabad,Healthcare,Data Scientist,4,12.65,AWS AI,1
+Pune,Healthcare,Data Analyst,2,6.74,AWS AI,1
+Delhi,IT,ML Engineer,7,21.9,TensorFlow,0
+Pune,E-commerce,AI Researcher,2,13.02,TensorFlow,1
+Hyderabad,E-commerce,ML Engineer,0,3.45,Azure AI,1
+Chennai,E-commerce,ML Engineer,6,19.58,TensorFlow,1
+Hyderabad,Manufacturing,AI Researcher,8,26.37,Scikit-learn,0
+Chennai,Healthcare,Data Analyst,3,12.96,TensorFlow,1
+Pune,EdTech,AI Engineer,1,7.44,PyTorch,1
+Pune,IT,AI Engineer,4,11.8,PyTorch,1
+Hyderabad,IT,AI Engineer,9,20.84,AWS AI,1
+Bangalore,Healthcare,ML Engineer,5,18.15,Scikit-learn,0
+Delhi,Finance,AI Researcher,5,21.02,Azure AI,1
+Delhi,Manufacturing,AI Researcher,4,19.96,PyTorch,1
+Bangalore,IT,Data Analyst,0,4.02,AWS AI,1
+Delhi,EdTech,AI Engineer,7,23.35,AWS AI,0
+Hyderabad,Manufacturing,ML Engineer,10,25.89,TensorFlow,1
+Delhi,IT,Data Scientist,4,14.45,Azure AI,0
+Bangalore,EdTech,Data Scientist,11,24.75,Azure AI,1
+Delhi,EdTech,AI Researcher,7,25.61,TensorFlow,1
+Bangalore,Manufacturing,AI Researcher,2,15.9,PyTorch,0
+Delhi,Finance,Data Analyst,3,10.37,PyTorch,0
+Hyderabad,Healthcare,Data Analyst,6,14.55,Scikit-learn,0
+Pune,Finance,ML Engineer,0,8.44,ChatGPT,1
+Pune,IT,Data Analyst,4,11.07,ChatGPT,1
+Hyderabad,Manufacturing,AI Researcher,7,22.38,AWS AI,1
+Pune,IT,AI Engineer,6,16.89,ChatGPT,1
+Bangalore,IT,AI Engineer,2,6.22,Scikit-learn,1
+Chennai,Finance,AI Engineer,3,10.26,Scikit-learn,0
+Hyderabad,Manufacturing,AI Researcher,3,17.28,ChatGPT,1
+Pune,Healthcare,ML Engineer,6,19.19,PyTorch,1
+Hyderabad,Healthcare,AI Researcher,6,20.11,Scikit-learn,1
+Bangalore,Manufacturing,ML Engineer,2,14.77,Azure AI,1
+Mumbai,E-commerce,Data Scientist,9,22.18,PyTorch,1
+Delhi,Finance,AI Researcher,6,23.4,PyTorch,1
+Delhi,Healthcare,Data Scientist,1,9.56,Scikit-learn,1
+Chennai,Manufacturing,Data Analyst,3,9.24,PyTorch,0
+Hyderabad,Healthcare,ML Engineer,2,11.07,AWS AI,1
+Hyderabad,Finance,ML Engineer,5,17.48,Scikit-learn,1
+Delhi,Finance,AI Researcher,9,23.33,Azure AI,1
+Bangalore,EdTech,Data Scientist,10,28.34,AWS AI,1
+Bangalore,EdTech,Data Scientist,8,21.5,AWS AI,1
+Hyderabad,EdTech,AI Engineer,0,4.09,Scikit-learn,0
+Hyderabad,IT,Data Scientist,10,26.22,ChatGPT,1
+Delhi,Finance,Data Analyst,8,21.35,TensorFlow,0
+Chennai,Healthcare,AI Engineer,0,3.57,TensorFlow,0
+Bangalore,E-commerce,Data Analyst,0,5.99,TensorFlow,0
+Bangalore,Manufacturing,ML Engineer,2,14.97,Scikit-learn,1
+Delhi,IT,Data Analyst,8,20.98,ChatGPT,0
+Chennai,Manufacturing,Data Scientist,6,17.88,TensorFlow,1
+Delhi,Manufacturing,Data Scientist,2,5.14,PyTorch,0
+Chennai,EdTech,ML Engineer,10,26.18,TensorFlow,0
+Delhi,E-commerce,Data Scientist,1,7.46,AWS AI,1
+Delhi,IT,Data Analyst,0,3.85,AWS AI,1
+Chennai,Healthcare,Data Analyst,6,16.7,ChatGPT,0
+Chennai,EdTech,ML Engineer,2,14.22,ChatGPT,1
+Bangalore,IT,AI Researcher,2,16.2,PyTorch,1
+Pune,E-commerce,AI Engineer,0,7.06,AWS AI,1
+Pune,Finance,AI Researcher,4,18.57,TensorFlow,1
+Bangalore,EdTech,ML Engineer,10,27.39,PyTorch,1
+Delhi,E-commerce,AI Engineer,6,17.42,ChatGPT,1
+Chennai,Healthcare,AI Engineer,9,22.58,AWS AI,1
+Mumbai,Healthcare,ML Engineer,0,7.29,Scikit-learn,1
+Delhi,Manufacturing,ML Engineer,9,27.4,PyTorch,1
+Hyderabad,E-commerce,Data Analyst,6,14.81,Scikit-learn,1
+Mumbai,Manufacturing,Data Scientist,0,5.78,Azure AI,1
+Mumbai,IT,Data Scientist,8,22.36,AWS AI,1
+Pune,IT,Data Analyst,11,22.71,TensorFlow,1
+Delhi,Manufacturing,ML Engineer,2,11.99,ChatGPT,0
+Bangalore,Finance,Data Scientist,1,7.45,Azure AI,1
+Bangalore,EdTech,Data Scientist,11,28.52,TensorFlow,1
+Bangalore,EdTech,Data Scientist,1,6.54,Scikit-learn,1
+Delhi,Healthcare,Data Analyst,9,23.03,Scikit-learn,1
+Pune,IT,AI Engineer,11,25.45,Scikit-learn,1
+Delhi,Finance,ML Engineer,8,26.96,ChatGPT,1
+Mumbai,IT,AI Engineer,1,8.52,Azure AI,0
+Pune,EdTech,Data Analyst,8,17.58,Azure AI,1
+Chennai,Healthcare,Data Scientist,0,3.0,PyTorch,1
+Bangalore,Manufacturing,Data Scientist,9,23.91,PyTorch,0
+Bangalore,IT,Data Scientist,7,20.18,Scikit-learn,1
+Hyderabad,EdTech,Data Analyst,5,14.69,TensorFlow,1
+Mumbai,EdTech,Data Analyst,8,19.9,TensorFlow,1
+Mumbai,E-commerce,Data Analyst,0,3.91,AWS AI,1
+Bangalore,E-commerce,Data Analyst,6,14.27,Azure AI,0
+Chennai,Finance,Data Analyst,5,16.63,AWS AI,1
+Mumbai,IT,Data Analyst,3,11.18,Azure AI,1
+Pune,IT,ML Engineer,5,16.68,PyTorch,1
+Hyderabad,E-commerce,Data Scientist,9,21.97,PyTorch,1
+Pune,Manufacturing,AI Researcher,3,12.99,ChatGPT,0
+Mumbai,IT,Data Analyst,9,23.29,PyTorch,1
+Bangalore,E-commerce,AI Researcher,5,23.93,PyTorch,1
+Delhi,Finance,AI Engineer,11,25.62,ChatGPT,1
+Hyderabad,IT,ML Engineer,4,14.05,Azure AI,1
+Delhi,E-commerce,Data Scientist,3,11.26,PyTorch,0
+Mumbai,E-commerce,AI Researcher,8,23.53,ChatGPT,1
+Delhi,Manufacturing,ML Engineer,10,31.82,PyTorch,1
+Delhi,EdTech,AI Researcher,9,28.09,ChatGPT,1
+Bangalore,Finance,AI Researcher,11,30.81,AWS AI,1
+Pune,Finance,ML Engineer,5,18.91,TensorFlow,1
+Hyderabad,Finance,Data Analyst,9,19.24,TensorFlow,1
+Delhi,EdTech,AI Researcher,2,17.6,PyTorch,1
+Hyderabad,E-commerce,AI Researcher,7,23.59,ChatGPT,0
+Hyderabad,E-commerce,AI Researcher,2,14.72,Scikit-learn,0
+Hyderabad,E-commerce,Data Scientist,9,22.39,ChatGPT,0
+Mumbai,EdTech,AI Engineer,0,5.98,Scikit-learn,1
+Bangalore,Healthcare,AI Researcher,0,10.94,TensorFlow,0
+Bangalore,Healthcare,AI Researcher,8,25.42,AWS AI,1
+Hyderabad,E-commerce,Data Scientist,1,3.0,AWS AI,0
+Hyderabad,Healthcare,ML Engineer,0,9.46,ChatGPT,0
+Bangalore,EdTech,Data Scientist,0,4.87,PyTorch,1
+Mumbai,Healthcare,ML Engineer,1,11.94,PyTorch,1
+Mumbai,Healthcare,AI Researcher,6,20.91,ChatGPT,1
+Chennai,Finance,Data Scientist,5,13.59,PyTorch,1
+Mumbai,Manufacturing,ML Engineer,7,23.73,ChatGPT,1
+Bangalore,Manufacturing,ML Engineer,2,13.42,PyTorch,0
+Pune,E-commerce,AI Engineer,10,24.87,ChatGPT,0
+Delhi,Manufacturing,Data Analyst,11,29.67,AWS AI,0
+Bangalore,E-commerce,AI Engineer,8,19.45,ChatGPT,1
+Mumbai,Finance,Data Analyst,7,20.51,ChatGPT,1
+Delhi,Finance,AI Researcher,4,19.38,Azure AI,1
+Pune,Healthcare,Data Analyst,9,25.05,Azure AI,1
+Bangalore,IT,ML Engineer,2,14.35,Scikit-learn,1
+Chennai,IT,AI Engineer,7,20.97,AWS AI,1
+Chennai,Manufacturing,Data Analyst,0,4.77,AWS AI,1
+Delhi,Finance,AI Researcher,4,16.33,ChatGPT,1
+Mumbai,Finance,Data Scientist,7,18.82,Scikit-learn,1
+Delhi,IT,AI Researcher,5,20.59,PyTorch,1
+Mumbai,Finance,Data Scientist,11,25.71,PyTorch,1
+Mumbai,IT,ML Engineer,7,19.2,Azure AI,0
+Chennai,Healthcare,ML Engineer,10,27.61,ChatGPT,0
+Mumbai,Finance,ML Engineer,0,7.12,AWS AI,1
+Chennai,Healthcare,Data Scientist,11,27.87,Scikit-learn,1
+Delhi,Manufacturing,Data Analyst,3,13.96,ChatGPT,0
+Delhi,Manufacturing,Data Scientist,2,6.91,Scikit-learn,1
+Hyderabad,EdTech,Data Analyst,4,11.12,AWS AI,0
+Hyderabad,IT,ML Engineer,3,11.89,Azure AI,0
+Pune,EdTech,AI Engineer,4,14.79,PyTorch,0
+Hyderabad,EdTech,AI Researcher,4,18.29,ChatGPT,1
+Pune,Manufacturing,ML Engineer,10,28.49,ChatGPT,1
+Hyderabad,Finance,Data Scientist,6,13.44,PyTorch,0
+Delhi,Healthcare,AI Researcher,8,25.99,TensorFlow,1
+Hyderabad,E-commerce,Data Scientist,7,18.11,AWS AI,1
+Chennai,Manufacturing,AI Researcher,1,11.29,AWS AI,1
+Hyderabad,Finance,ML Engineer,10,29.68,Scikit-learn,0
+Mumbai,E-commerce,AI Researcher,8,22.02,Azure AI,1
+Chennai,IT,AI Engineer,1,7.06,Azure AI,1
+Delhi,Finance,AI Researcher,2,15.77,AWS AI,1
+Hyderabad,Finance,AI Engineer,8,22.78,TensorFlow,1
+Pune,IT,ML Engineer,7,19.68,TensorFlow,0
+Delhi,E-commerce,Data Scientist,11,26.94,Scikit-learn,0
+Chennai,EdTech,Data Scientist,3,7.48,Azure AI,1
+Pune,Healthcare,AI Researcher,5,21.73,Scikit-learn,1
+Bangalore,Healthcare,AI Researcher,4,18.02,Azure AI,0
+Delhi,Finance,Data Analyst,11,26.98,PyTorch,0
+Bangalore,Finance,ML Engineer,0,5.79,PyTorch,1
+Pune,Healthcare,AI Researcher,2,13.13,TensorFlow,0
+Mumbai,IT,ML Engineer,1,9.51,Scikit-learn,0
+Chennai,Finance,ML Engineer,1,9.56,Scikit-learn,1
+Delhi,Finance,Data Scientist,11,29.84,AWS AI,0
+Hyderabad,IT,AI Researcher,11,32.54,Scikit-learn,1
+Chennai,EdTech,ML Engineer,10,24.39,Scikit-learn,1
+Hyderabad,Manufacturing,AI Researcher,4,20.69,AWS AI,1
+Chennai,Manufacturing,Data Scientist,0,5.77,Azure AI,1
+Pune,Finance,Data Scientist,2,13.37,AWS AI,1
+Mumbai,IT,ML Engineer,9,26.04,Azure AI,1
+Mumbai,E-commerce,Data Scientist,3,10.73,TensorFlow,0
+Mumbai,Manufacturing,ML Engineer,4,17.72,ChatGPT,1
+Bangalore,EdTech,Data Scientist,5,14.16,ChatGPT,1
+Chennai,IT,ML Engineer,5,16.68,PyTorch,1
+Mumbai,EdTech,AI Engineer,5,15.66,AWS AI,1
+Hyderabad,Finance,Data Analyst,6,17.62,AWS AI,1
+Mumbai,IT,ML Engineer,6,23.22,Azure AI,0
+Hyderabad,Finance,Data Scientist,4,10.86,AWS AI,1
+Bangalore,IT,ML Engineer,8,25.71,ChatGPT,1
+Delhi,Finance,Data Scientist,11,26.12,TensorFlow,1
+Delhi,Healthcare,Data Scientist,8,23.28,TensorFlow,0
+Mumbai,E-commerce,Data Analyst,6,16.81,TensorFlow,1
+Pune,Healthcare,Data Analyst,10,24.64,PyTorch,1
+Hyderabad,Finance,AI Engineer,8,20.48,PyTorch,0
+Pune,EdTech,AI Researcher,0,11.51,Azure AI,1
+Chennai,Manufacturing,AI Researcher,5,21.05,PyTorch,1
+Bangalore,EdTech,AI Engineer,10,25.26,PyTorch,1
+Chennai,IT,AI Engineer,3,11.79,ChatGPT,1
+Mumbai,Healthcare,ML Engineer,7,23.92,PyTorch,1
+Bangalore,E-commerce,AI Engineer,6,16.63,ChatGPT,1
+Hyderabad,E-commerce,AI Engineer,5,16.01,Scikit-learn,1
+Mumbai,IT,AI Researcher,0,9.01,Azure AI,0
+Delhi,Finance,AI Engineer,10,24.15,ChatGPT,0
+Chennai,Finance,Data Scientist,1,5.55,AWS AI,1
+Bangalore,Finance,ML Engineer,10,24.01,PyTorch,0
+Mumbai,Healthcare,ML Engineer,4,14.41,Azure AI,0
+Bangalore,Manufacturing,ML Engineer,6,20.94,Scikit-learn,1
+Delhi,EdTech,ML Engineer,11,32.39,PyTorch,1
+Pune,EdTech,AI Researcher,9,27.44,ChatGPT,0
+Hyderabad,E-commerce,Data Analyst,8,22.15,TensorFlow,0
+Hyderabad,Finance,AI Engineer,11,23.67,Scikit-learn,1
+Delhi,Finance,Data Scientist,11,24.75,ChatGPT,1
+Bangalore,Manufacturing,AI Researcher,10,31.8,Azure AI,1
+Hyderabad,Healthcare,ML Engineer,3,17.63,ChatGPT,1
+Delhi,Manufacturing,AI Researcher,10,30.65,Scikit-learn,1
+Chennai,IT,AI Researcher,9,26.26,ChatGPT,1
+Hyderabad,Finance,AI Engineer,8,19.47,Scikit-learn,0
+Chennai,IT,Data Scientist,5,15.74,ChatGPT,0
+Bangalore,Manufacturing,AI Researcher,7,24.63,TensorFlow,0
+Chennai,E-commerce,Data Analyst,9,23.2,AWS AI,0
+Hyderabad,Finance,ML Engineer,11,30.85,Scikit-learn,1
+Pune,EdTech,ML Engineer,9,22.82,AWS AI,1
+Mumbai,EdTech,Data Scientist,3,12.68,Azure AI,0
+Pune,Finance,AI Engineer,11,25.29,ChatGPT,1
+Pune,Healthcare,Data Scientist,6,16.63,ChatGPT,1
+Delhi,Manufacturing,Data Analyst,8,23.15,PyTorch,1
+Pune,Finance,AI Engineer,4,16.3,TensorFlow,1
+Chennai,Finance,Data Scientist,7,18.72,TensorFlow,0
+Chennai,EdTech,AI Engineer,10,25.53,AWS AI,0
+Delhi,EdTech,AI Engineer,11,26.68,AWS AI,1
+Hyderabad,Healthcare,AI Engineer,1,9.74,ChatGPT,0
+Hyderabad,EdTech,ML Engineer,1,11.74,ChatGPT,0
+Mumbai,IT,AI Engineer,0,6.51,TensorFlow,1
+Hyderabad,EdTech,AI Researcher,1,8.85,PyTorch,0
+Pune,IT,ML Engineer,9,23.76,Scikit-learn,1
+Pune,Finance,Data Scientist,2,13.38,PyTorch,1
+Hyderabad,Finance,Data Analyst,2,9.16,ChatGPT,0
+Chennai,Healthcare,Data Scientist,3,10.96,Scikit-learn,1
+Delhi,Healthcare,Data Scientist,4,13.16,ChatGPT,1
+Hyderabad,Finance,Data Analyst,3,11.44,Azure AI,1
+Bangalore,E-commerce,AI Engineer,7,17.28,AWS AI,1
+Delhi,IT,ML Engineer,6,18.57,TensorFlow,1
+Hyderabad,Manufacturing,Data Scientist,2,10.1,Scikit-learn,1
+Hyderabad,IT,ML Engineer,9,27.96,AWS AI,1
+Delhi,EdTech,AI Engineer,1,6.14,ChatGPT,1
+Mumbai,Finance,AI Engineer,5,15.25,ChatGPT,1
+Chennai,IT,AI Researcher,9,26.75,PyTorch,1
+Mumbai,Finance,ML Engineer,4,17.29,Scikit-learn,0
+Hyderabad,Healthcare,AI Engineer,11,31.85,ChatGPT,1
+Bangalore,EdTech,ML Engineer,5,19.87,Azure AI,0
+Chennai,EdTech,Data Analyst,7,15.94,Scikit-learn,1
+Mumbai,EdTech,Data Analyst,5,16.5,TensorFlow,0
+Pune,Finance,Data Scientist,0,4.2,TensorFlow,1
+Mumbai,E-commerce,ML Engineer,0,8.85,ChatGPT,1
+Bangalore,E-commerce,Data Scientist,5,14.82,TensorFlow,0
+Bangalore,IT,Data Scientist,3,13.4,Azure AI,1
+Hyderabad,EdTech,AI Researcher,8,26.26,Azure AI,1
+Hyderabad,E-commerce,Data Analyst,9,21.12,TensorFlow,0
+Hyderabad,EdTech,AI Researcher,8,29.2,Scikit-learn,1
+Bangalore,Finance,Data Analyst,3,13.11,Scikit-learn,1
+Bangalore,Finance,ML Engineer,10,26.99,Scikit-learn,1
+Pune,E-commerce,AI Engineer,3,11.81,AWS AI,1
+Pune,E-commerce,AI Engineer,6,15.99,PyTorch,1
+Hyderabad,Healthcare,ML Engineer,11,32.33,ChatGPT,1
+Chennai,Finance,ML Engineer,10,27.1,Scikit-learn,1
+Mumbai,Finance,Data Analyst,10,21.05,AWS AI,1
+Mumbai,EdTech,Data Analyst,11,24.71,TensorFlow,1
+Pune,IT,Data Scientist,8,21.27,AWS AI,1
+Chennai,E-commerce,AI Engineer,1,7.81,Azure AI,1
+Bangalore,E-commerce,Data Analyst,3,12.58,TensorFlow,0
+Delhi,Healthcare,Data Analyst,0,5.17,AWS AI,0
+Hyderabad,E-commerce,Data Scientist,5,16.07,PyTorch,1
+Mumbai,Finance,AI Engineer,11,27.91,Scikit-learn,1
+Delhi,Manufacturing,AI Engineer,7,18.39,Scikit-learn,1
+Hyderabad,Manufacturing,AI Engineer,1,4.7,Azure AI,1
+Pune,Finance,Data Analyst,8,21.48,ChatGPT,1
+Chennai,IT,Data Scientist,1,11.33,PyTorch,0
+Bangalore,Healthcare,AI Researcher,4,17.31,AWS AI,1
+Pune,Healthcare,AI Engineer,1,7.36,Scikit-learn,1
+Chennai,Healthcare,Data Scientist,10,25.1,AWS AI,0
+Chennai,Finance,Data Scientist,5,16.79,AWS AI,0
+Bangalore,Manufacturing,ML Engineer,8,26.15,PyTorch,0
+Pune,Manufacturing,ML Engineer,6,18.1,ChatGPT,1
+Bangalore,EdTech,Data Analyst,10,27.27,PyTorch,1
+Mumbai,IT,AI Researcher,3,15.59,Scikit-learn,1
+Chennai,Manufacturing,AI Engineer,3,10.46,PyTorch,1
+Bangalore,IT,AI Engineer,9,22.75,Azure AI,0
+Mumbai,Manufacturing,Data Scientist,9,26.24,TensorFlow,1
+Delhi,Healthcare,Data Scientist,11,23.42,Scikit-learn,0
+Mumbai,Manufacturing,AI Researcher,4,16.69,AWS AI,0
+Chennai,E-commerce,Data Scientist,7,18.09,Scikit-learn,0
+Mumbai,EdTech,ML Engineer,8,23.5,Scikit-learn,1
+Delhi,E-commerce,Data Scientist,0,9.95,AWS AI,1
+Bangalore,Healthcare,Data Analyst,8,20.95,ChatGPT,1
+Pune,EdTech,Data Analyst,3,13.43,ChatGPT,0
+Delhi,IT,AI Engineer,7,22.19,Scikit-learn,1
+Mumbai,Healthcare,AI Engineer,3,13.89,TensorFlow,1
+Delhi,Finance,AI Engineer,2,13.69,TensorFlow,1
+Mumbai,IT,Data Analyst,5,15.9,TensorFlow,1
+Delhi,Finance,AI Engineer,11,26.98,TensorFlow,0
+Hyderabad,Healthcare,Data Scientist,6,19.74,Scikit-learn,1
+Mumbai,E-commerce,Data Scientist,3,11.81,PyTorch,1
+Delhi,E-commerce,ML Engineer,0,3.09,TensorFlow,0
+Delhi,Manufacturing,AI Engineer,2,11.51,ChatGPT,0
+Hyderabad,IT,Data Analyst,8,23.25,PyTorch,1
+Chennai,EdTech,AI Engineer,5,15.15,PyTorch,1
+Bangalore,Finance,AI Engineer,3,11.67,PyTorch,0
+Chennai,E-commerce,AI Engineer,5,13.96,TensorFlow,0
+Hyderabad,EdTech,AI Researcher,9,24.43,Azure AI,1
+Hyderabad,E-commerce,Data Analyst,8,21.33,Azure AI,1
+Pune,E-commerce,Data Scientist,10,27.92,Azure AI,1
+Mumbai,Healthcare,ML Engineer,9,24.78,PyTorch,1
+Delhi,EdTech,AI Researcher,6,23.49,PyTorch,1
+Delhi,E-commerce,AI Researcher,5,22.8,Azure AI,0
+Delhi,Healthcare,AI Researcher,0,10.26,TensorFlow,0
+Chennai,E-commerce,AI Engineer,10,24.61,ChatGPT,1
+Delhi,Healthcare,Data Scientist,6,15.21,TensorFlow,1
+Hyderabad,E-commerce,AI Researcher,5,21.86,Scikit-learn,0
+Delhi,Manufacturing,ML Engineer,7,22.56,Azure AI,0
+Bangalore,Healthcare,Data Analyst,6,17.14,ChatGPT,1
+Bangalore,EdTech,Data Analyst,3,7.07,Scikit-learn,1
+Mumbai,E-commerce,AI Engineer,0,4.36,Azure AI,1
+Bangalore,IT,Data Analyst,4,13.33,ChatGPT,1
+Chennai,EdTech,Data Analyst,5,17.68,Scikit-learn,0
+Pune,E-commerce,Data Analyst,1,7.18,TensorFlow,0
+Chennai,Healthcare,ML Engineer,3,13.2,AWS AI,1
+Hyderabad,EdTech,AI Engineer,8,21.15,Scikit-learn,1
+Chennai,EdTech,ML Engineer,2,11.63,AWS AI,1
+Mumbai,IT,Data Scientist,0,3.71,ChatGPT,1
+Bangalore,Manufacturing,Data Scientist,0,3.91,Azure AI,0
+Bangalore,Healthcare,ML Engineer,1,11.65,TensorFlow,0
+Hyderabad,Healthcare,AI Researcher,6,24.46,TensorFlow,1
+Bangalore,Finance,Data Analyst,3,13.41,ChatGPT,0
+Mumbai,EdTech,AI Engineer,11,28.13,Scikit-learn,1
+Hyderabad,Finance,ML Engineer,9,29.03,Azure AI,1
+Delhi,IT,Data Scientist,9,25.01,AWS AI,1
+Pune,Finance,AI Engineer,7,21.53,TensorFlow,1
+Pune,EdTech,AI Researcher,5,18.88,Scikit-learn,0
+Delhi,Healthcare,AI Engineer,10,24.65,AWS AI,1
+Delhi,IT,AI Researcher,6,20.06,TensorFlow,1
+Delhi,Healthcare,AI Engineer,7,19.93,PyTorch,0
+Chennai,Finance,ML Engineer,2,10.97,Scikit-learn,1
+Delhi,EdTech,AI Engineer,9,21.4,TensorFlow,1
+Delhi,IT,Data Analyst,6,18.27,ChatGPT,0
+Pune,Finance,AI Researcher,8,25.84,Scikit-learn,1
+Hyderabad,Healthcare,Data Analyst,7,18.95,AWS AI,1
+Chennai,E-commerce,AI Researcher,10,30.83,PyTorch,1
+Chennai,E-commerce,ML Engineer,6,20.71,PyTorch,1
+Pune,Healthcare,ML Engineer,2,15.89,Scikit-learn,1
+Hyderabad,E-commerce,AI Engineer,6,18.65,TensorFlow,0
+Delhi,Finance,Data Analyst,4,12.17,AWS AI,0
+Hyderabad,Finance,Data Scientist,1,8.02,Azure AI,0
+Hyderabad,Finance,ML Engineer,11,29.31,PyTorch,1
+Pune,Finance,Data Analyst,0,4.64,ChatGPT,1
+Chennai,Healthcare,Data Scientist,10,27.16,ChatGPT,1
+Hyderabad,E-commerce,ML Engineer,3,11.72,PyTorch,0
+Delhi,E-commerce,AI Researcher,0,12.83,AWS AI,1
+Pune,Finance,ML Engineer,7,22.69,TensorFlow,1
+Mumbai,EdTech,Data Analyst,8,21.81,ChatGPT,1
+Chennai,Healthcare,AI Engineer,1,7.58,Azure AI,0
+Bangalore,IT,AI Researcher,2,19.23,AWS AI,0
+Chennai,Manufacturing,Data Analyst,7,16.98,Scikit-learn,0
+Pune,IT,ML Engineer,8,24.88,Azure AI,1
+Bangalore,E-commerce,AI Researcher,7,25.39,TensorFlow,1
+Bangalore,EdTech,AI Engineer,11,24.79,AWS AI,0
+Bangalore,Healthcare,AI Engineer,1,11.23,Azure AI,1
+Hyderabad,EdTech,AI Researcher,11,33.99,PyTorch,1
+Pune,Finance,Data Scientist,11,31.22,Azure AI,1
+Bangalore,E-commerce,AI Researcher,3,14.75,AWS AI,1
+Delhi,Finance,AI Researcher,4,14.62,ChatGPT,1
+Pune,Healthcare,Data Scientist,1,5.78,TensorFlow,1
+Hyderabad,Manufacturing,Data Scientist,11,25.03,PyTorch,0
+Chennai,Finance,ML Engineer,3,12.29,Scikit-learn,0
+Mumbai,E-commerce,AI Engineer,7,20.62,Azure AI,0
+Mumbai,EdTech,AI Engineer,9,18.92,Azure AI,0
+Hyderabad,Healthcare,Data Analyst,0,10.38,PyTorch,1
+Pune,IT,Data Scientist,4,11.86,Scikit-learn,1
+Mumbai,Manufacturing,ML Engineer,8,25.28,PyTorch,0
+Mumbai,EdTech,Data Analyst,11,28.74,PyTorch,0
+Delhi,Healthcare,AI Engineer,5,15.17,Azure AI,1
+Delhi,EdTech,Data Scientist,11,26.99,Scikit-learn,0
+Chennai,Healthcare,Data Scientist,1,6.41,PyTorch,1
+Delhi,IT,AI Engineer,6,16.37,PyTorch,0
+Mumbai,EdTech,AI Researcher,5,22.1,PyTorch,1
+Mumbai,Finance,ML Engineer,5,19.12,AWS AI,1
+Chennai,Finance,Data Analyst,5,14.14,ChatGPT,1
+Bangalore,Healthcare,AI Researcher,7,21.28,Scikit-learn,1
+Hyderabad,Finance,AI Researcher,9,24.83,ChatGPT,1
+Hyderabad,Finance,AI Researcher,1,10.6,ChatGPT,1
+Pune,EdTech,AI Engineer,11,26.76,ChatGPT,1
+Pune,Manufacturing,Data Scientist,9,23.9,ChatGPT,1
+Mumbai,E-commerce,AI Engineer,6,16.68,Scikit-learn,0

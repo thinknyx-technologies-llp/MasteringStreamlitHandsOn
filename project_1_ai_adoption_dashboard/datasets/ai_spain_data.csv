@@ -1,0 +1,3964 @@
+city,industry,role,experience_years,salary_lpa,primary_ai_tool,ai_adopted
+Madrid,Manufacturing,Data Scientist,7,15.8,TensorFlow,1
+Barcelona,E-commerce,AI Engineer,10,26.11,Azure AI,0
+Barcelona,EdTech,ML Engineer,2,12.26,Scikit-learn,1
+Alicante,Finance,ML Engineer,9,26.02,Scikit-learn,1
+Palma,Manufacturing,AI Engineer,11,25.54,Azure AI,1
+Seville,Finance,AI Researcher,6,21.99,PyTorch,1
+Palma,Healthcare,AI Engineer,11,26.35,ChatGPT,0
+Murcia,Finance,Data Scientist,4,7.08,PyTorch,0
+Palma,Healthcare,AI Engineer,6,21.42,ChatGPT,1
+Madrid,EdTech,Data Scientist,5,16.55,AWS AI,1
+Zaragoza,IT,Data Analyst,4,9.39,Scikit-learn,1
+Alicante,Finance,ML Engineer,8,23.6,ChatGPT,1
+Murcia,IT,ML Engineer,11,29.33,PyTorch,0
+Murcia,Manufacturing,AI Engineer,11,26.1,PyTorch,1
+Valencia,Finance,ML Engineer,11,27.78,TensorFlow,1
+Alicante,Healthcare,AI Researcher,11,34.57,TensorFlow,1
+Palma,E-commerce,Data Scientist,9,22.65,AWS AI,1
+Zaragoza,IT,Data Scientist,10,24.33,Azure AI,1
+Malaga,E-commerce,AI Researcher,6,21.55,PyTorch,0
+Madrid,E-commerce,Data Analyst,5,13.26,AWS AI,1
+Bilbao,Manufacturing,AI Engineer,7,17.4,AWS AI,1
+Zaragoza,Manufacturing,Data Analyst,9,21.49,PyTorch,0
+Palma,Finance,Data Analyst,5,15.42,Azure AI,1
+Barcelona,EdTech,Data Analyst,2,4.76,AWS AI,1
+Palma,Manufacturing,AI Engineer,2,7.36,AWS AI,1
+Barcelona,EdTech,AI Engineer,2,8.48,PyTorch,0
+Zaragoza,Healthcare,Data Analyst,3,10.34,AWS AI,1
+Barcelona,Manufacturing,ML Engineer,10,23.63,TensorFlow,0
+Seville,E-commerce,ML Engineer,9,24.78,PyTorch,1
+Murcia,IT,AI Researcher,4,17.16,AWS AI,1
+Palma,Manufacturing,Data Scientist,1,6.52,TensorFlow,1
+Bilbao,Healthcare,ML Engineer,9,24.35,TensorFlow,1
+Barcelona,Manufacturing,AI Engineer,6,16.58,Azure AI,1
+Palma,Manufacturing,AI Engineer,1,6.51,PyTorch,0
+Valencia,Healthcare,ML Engineer,6,20.3,PyTorch,1
+Alicante,E-commerce,AI Engineer,8,19.75,PyTorch,1
+Alicante,Healthcare,Data Analyst,9,20.89,TensorFlow,1
+Murcia,Manufacturing,Data Analyst,3,15.16,PyTorch,0
+Seville,E-commerce,AI Engineer,9,23.21,TensorFlow,1
+Madrid,IT,AI Researcher,2,9.53,ChatGPT,1
+Malaga,E-commerce,AI Researcher,7,23.91,ChatGPT,0
+Palma,Finance,ML Engineer,3,10.67,TensorFlow,0
+Alicante,E-commerce,AI Researcher,0,7.46,Azure AI,1
+Palma,E-commerce,AI Researcher,3,16.67,ChatGPT,0
+Zaragoza,Finance,AI Engineer,9,23.23,PyTorch,1
+Barcelona,EdTech,ML Engineer,9,23.3,PyTorch,1
+Madrid,E-commerce,AI Researcher,3,13.56,AWS AI,1
+Zaragoza,Manufacturing,ML Engineer,2,14.74,AWS AI,0
+Madrid,IT,Data Scientist,2,8.18,AWS AI,0
+Murcia,IT,Data Scientist,0,5.94,Azure AI,1
+Valencia,EdTech,AI Researcher,5,17.75,PyTorch,1
+Murcia,IT,ML Engineer,4,12.08,ChatGPT,0
+Seville,E-commerce,Data Scientist,9,19.4,AWS AI,1
+Zaragoza,EdTech,Data Analyst,5,17.21,ChatGPT,1
+Madrid,Finance,Data Scientist,10,22.12,TensorFlow,1
+Malaga,EdTech,ML Engineer,6,16.22,AWS AI,1
+Zaragoza,Manufacturing,Data Analyst,11,24.2,Azure AI,1
+Bilbao,Healthcare,AI Researcher,11,29.58,AWS AI,0
+Madrid,Manufacturing,Data Scientist,2,4.81,Scikit-learn,1
+Seville,Finance,ML Engineer,4,11.34,AWS AI,0
+Murcia,Healthcare,Data Scientist,1,5.26,ChatGPT,1
+Palma,Finance,AI Researcher,0,8.79,AWS AI,1
+Valencia,EdTech,AI Engineer,11,25.45,PyTorch,1
+Madrid,Manufacturing,Data Scientist,7,15.23,TensorFlow,1
+Alicante,E-commerce,AI Engineer,2,4.95,PyTorch,1
+Zaragoza,Finance,Data Analyst,3,11.4,ChatGPT,0
+Murcia,IT,Data Scientist,2,4.85,ChatGPT,1
+Barcelona,EdTech,AI Engineer,4,12.13,TensorFlow,1
+Bilbao,IT,AI Engineer,5,14.4,PyTorch,1
+Madrid,E-commerce,AI Researcher,8,26.41,ChatGPT,1
+Seville,Finance,Data Analyst,10,24.04,Azure AI,1
+Palma,Manufacturing,ML Engineer,6,20.06,TensorFlow,1
+Palma,EdTech,ML Engineer,5,17.36,Scikit-learn,1
+Seville,Finance,AI Researcher,0,10.71,Scikit-learn,0
+Palma,Finance,Data Analyst,6,14.66,TensorFlow,1
+Bilbao,Healthcare,Data Analyst,9,21.5,PyTorch,0
+Malaga,Finance,Data Scientist,5,13.99,Azure AI,1
+Palma,Finance,ML Engineer,7,18.55,Azure AI,0
+Madrid,EdTech,ML Engineer,2,11.4,Azure AI,0
+Malaga,Healthcare,Data Scientist,2,10.7,PyTorch,0
+Alicante,Healthcare,Data Scientist,7,17.08,ChatGPT,1
+Malaga,E-commerce,AI Engineer,9,18.04,AWS AI,0
+Malaga,E-commerce,AI Researcher,0,11.65,AWS AI,1
+Palma,Finance,AI Researcher,8,22.9,PyTorch,1
+Barcelona,EdTech,Data Scientist,8,20.11,TensorFlow,1
+Alicante,Manufacturing,AI Researcher,9,24.04,Scikit-learn,0
+Alicante,Finance,ML Engineer,9,25.9,Azure AI,0
+Seville,Healthcare,Data Analyst,4,10.15,TensorFlow,0
+Murcia,Manufacturing,Data Analyst,3,13.56,ChatGPT,0
+Madrid,E-commerce,ML Engineer,0,3.0,Azure AI,1
+Seville,Manufacturing,ML Engineer,11,26.33,ChatGPT,0
+Seville,IT,AI Researcher,6,20.12,TensorFlow,0
+Murcia,Manufacturing,AI Researcher,0,9.71,Scikit-learn,1
+Murcia,E-commerce,Data Analyst,10,22.41,ChatGPT,1
+Valencia,Finance,ML Engineer,1,6.37,ChatGPT,0
+Seville,Manufacturing,Data Analyst,8,18.29,Azure AI,0
+Alicante,Manufacturing,Data Scientist,2,9.65,ChatGPT,1
+Murcia,Manufacturing,Data Scientist,11,25.17,Scikit-learn,1
+Zaragoza,EdTech,Data Scientist,9,20.72,Azure AI,1
+Alicante,Finance,ML Engineer,10,29.43,ChatGPT,1
+Malaga,E-commerce,ML Engineer,0,3.69,AWS AI,0
+Valencia,E-commerce,Data Scientist,0,4.95,Scikit-learn,1
+Madrid,Healthcare,Data Analyst,5,12.42,AWS AI,0
+Palma,Healthcare,AI Researcher,6,21.01,ChatGPT,1
+Murcia,E-commerce,AI Researcher,7,21.97,AWS AI,0
+Alicante,EdTech,AI Engineer,5,16.71,Azure AI,0
+Palma,EdTech,AI Engineer,7,21.46,Azure AI,0
+Madrid,Finance,Data Scientist,0,3.0,PyTorch,0
+Barcelona,Healthcare,Data Analyst,9,20.63,PyTorch,1
+Bilbao,Manufacturing,Data Analyst,11,24.67,ChatGPT,1
+Alicante,EdTech,Data Analyst,2,9.34,PyTorch,1
+Malaga,IT,AI Researcher,11,31.28,Azure AI,1
+Bilbao,E-commerce,AI Researcher,0,10.7,Azure AI,1
+Bilbao,Healthcare,AI Engineer,9,16.15,ChatGPT,0
+Zaragoza,EdTech,ML Engineer,3,9.03,PyTorch,1
+Zaragoza,E-commerce,AI Researcher,5,17.16,ChatGPT,0
+Alicante,EdTech,AI Engineer,4,8.31,Scikit-learn,0
+Murcia,EdTech,Data Analyst,10,21.75,ChatGPT,0
+Valencia,EdTech,Data Scientist,2,7.92,PyTorch,1
+Madrid,Manufacturing,Data Analyst,8,21.82,Azure AI,0
+Zaragoza,IT,Data Scientist,10,22.2,AWS AI,1
+Palma,E-commerce,ML Engineer,6,18.87,AWS AI,1
+Bilbao,E-commerce,ML Engineer,8,21.32,Azure AI,1
+Murcia,Manufacturing,ML Engineer,2,11.06,Azure AI,0
+Madrid,E-commerce,ML Engineer,9,25.9,TensorFlow,0
+Malaga,Finance,Data Analyst,5,12.16,TensorFlow,0
+Madrid,IT,AI Researcher,5,18.87,Scikit-learn,1
+Madrid,Manufacturing,Data Analyst,11,27.66,TensorFlow,1
+Barcelona,EdTech,AI Researcher,0,6.26,Scikit-learn,1
+Zaragoza,Healthcare,AI Engineer,6,17.83,ChatGPT,1
+Seville,EdTech,Data Scientist,3,12.67,Scikit-learn,0
+Zaragoza,Healthcare,AI Researcher,3,15.25,ChatGPT,1
+Bilbao,Healthcare,Data Analyst,5,8.64,Azure AI,0
+Madrid,Finance,AI Researcher,11,29.48,Azure AI,0
+Malaga,EdTech,ML Engineer,11,29.98,PyTorch,1
+Malaga,E-commerce,Data Analyst,6,17.87,TensorFlow,1
+Madrid,EdTech,AI Engineer,9,19.69,Azure AI,0
+Palma,E-commerce,AI Engineer,7,13.67,Scikit-learn,0
+Seville,Finance,AI Engineer,1,7.76,AWS AI,0
+Madrid,Healthcare,ML Engineer,3,11.63,Azure AI,1
+Palma,IT,AI Engineer,6,17.08,PyTorch,0
+Palma,IT,ML Engineer,9,25.58,TensorFlow,0
+Zaragoza,IT,ML Engineer,11,28.49,TensorFlow,1
+Barcelona,Manufacturing,AI Engineer,5,13.65,Scikit-learn,1
+Seville,Healthcare,ML Engineer,1,6.94,ChatGPT,1
+Seville,EdTech,AI Researcher,2,15.53,TensorFlow,1
+Alicante,E-commerce,AI Researcher,4,17.46,TensorFlow,1
+Barcelona,IT,AI Engineer,6,15.26,ChatGPT,1
+Seville,Healthcare,AI Researcher,6,19.43,Scikit-learn,0
+Valencia,Healthcare,Data Scientist,11,27.0,ChatGPT,1
+Palma,Finance,Data Analyst,0,3.51,PyTorch,1
+Bilbao,Healthcare,AI Researcher,3,16.84,ChatGPT,0
+Palma,Healthcare,AI Engineer,5,13.6,Scikit-learn,0
+Palma,E-commerce,AI Researcher,7,26.17,AWS AI,0
+Seville,E-commerce,ML Engineer,8,24.77,Azure AI,1
+Alicante,EdTech,AI Engineer,8,22.0,Azure AI,1
+Zaragoza,Healthcare,ML Engineer,6,21.33,Azure AI,1
+Zaragoza,IT,AI Engineer,11,25.59,Scikit-learn,0
+Valencia,EdTech,AI Researcher,9,25.09,TensorFlow,0
+Bilbao,Finance,AI Researcher,1,9.31,TensorFlow,0
+Alicante,E-commerce,AI Researcher,0,8.66,Scikit-learn,1
+Zaragoza,Healthcare,ML Engineer,9,24.49,AWS AI,1
+Valencia,EdTech,AI Researcher,4,17.77,ChatGPT,0
+Barcelona,Healthcare,Data Analyst,7,20.61,TensorFlow,1
+Malaga,Healthcare,Data Analyst,3,10.07,ChatGPT,0
+Palma,Healthcare,Data Analyst,10,22.97,AWS AI,1
+Murcia,Manufacturing,Data Analyst,0,3.0,ChatGPT,0
+Barcelona,Healthcare,Data Analyst,1,6.32,Scikit-learn,0
+Seville,Healthcare,Data Analyst,4,10.28,ChatGPT,1
+Alicante,EdTech,Data Analyst,1,6.5,PyTorch,0
+Valencia,E-commerce,AI Engineer,0,4.58,AWS AI,1
+Bilbao,Manufacturing,AI Engineer,11,23.18,Azure AI,1
+Seville,IT,AI Engineer,11,27.81,Azure AI,1
+Palma,E-commerce,Data Scientist,1,6.33,PyTorch,0
+Bilbao,Healthcare,AI Researcher,2,13.27,AWS AI,1
+Barcelona,E-commerce,Data Analyst,6,16.04,PyTorch,0
+Bilbao,Healthcare,ML Engineer,4,11.84,ChatGPT,0
+Madrid,Healthcare,AI Engineer,11,25.91,Scikit-learn,0
+Palma,IT,AI Researcher,2,9.32,AWS AI,1
+Madrid,Finance,ML Engineer,2,11.58,PyTorch,0
+Malaga,Healthcare,Data Scientist,11,22.88,PyTorch,0
+Palma,EdTech,Data Scientist,1,3.0,TensorFlow,0
+Murcia,Healthcare,Data Analyst,4,8.89,AWS AI,1
+Madrid,Finance,ML Engineer,1,10.17,PyTorch,0
+Alicante,Manufacturing,Data Scientist,8,23.78,TensorFlow,1
+Barcelona,Finance,ML Engineer,5,17.29,Scikit-learn,1
+Murcia,Finance,AI Engineer,3,12.15,PyTorch,0
+Alicante,IT,Data Analyst,11,25.74,Scikit-learn,1
+Bilbao,Healthcare,AI Engineer,2,4.63,Azure AI,1
+Alicante,EdTech,AI Engineer,1,3.82,ChatGPT,0
+Madrid,EdTech,Data Scientist,1,6.15,Azure AI,0
+Palma,Finance,AI Researcher,5,15.82,TensorFlow,1
+Madrid,EdTech,AI Engineer,5,11.31,PyTorch,1
+Seville,E-commerce,ML Engineer,8,21.87,Azure AI,1
+Bilbao,Healthcare,ML Engineer,8,23.54,Scikit-learn,1
+Zaragoza,E-commerce,AI Engineer,10,23.92,AWS AI,0
+Valencia,IT,AI Researcher,9,26.44,PyTorch,0
+Zaragoza,Finance,AI Engineer,8,16.55,TensorFlow,0
+Murcia,EdTech,AI Engineer,0,3.0,ChatGPT,0
+Madrid,Finance,AI Researcher,5,17.72,PyTorch,0
+Alicante,E-commerce,AI Researcher,8,20.37,AWS AI,0
+Madrid,E-commerce,Data Analyst,0,4.06,Scikit-learn,0
+Murcia,Healthcare,AI Engineer,5,14.13,AWS AI,0
+Madrid,E-commerce,Data Scientist,9,22.68,AWS AI,0
+Valencia,Manufacturing,Data Analyst,9,20.02,TensorFlow,1
+Bilbao,EdTech,AI Researcher,6,19.41,ChatGPT,0
+Palma,EdTech,Data Analyst,8,21.65,ChatGPT,0
+Bilbao,Manufacturing,ML Engineer,0,9.79,Scikit-learn,0
+Malaga,Healthcare,Data Scientist,10,27.42,Scikit-learn,0
+Valencia,Finance,AI Researcher,4,13.16,ChatGPT,1
+Palma,Manufacturing,AI Researcher,5,17.07,PyTorch,1
+Alicante,Manufacturing,Data Scientist,7,15.34,Azure AI,1
+Valencia,E-commerce,Data Analyst,8,18.18,PyTorch,0
+Murcia,Healthcare,ML Engineer,7,22.27,AWS AI,1
+Alicante,Finance,AI Researcher,10,28.81,PyTorch,1
+Seville,EdTech,Data Analyst,1,3.07,Azure AI,0
+Alicante,Finance,ML Engineer,11,26.69,Azure AI,0
+Alicante,Manufacturing,AI Researcher,7,23.78,Scikit-learn,0
+Bilbao,Finance,AI Researcher,0,7.19,AWS AI,0
+Seville,IT,AI Engineer,3,11.27,ChatGPT,0
+Palma,EdTech,AI Engineer,5,12.72,Scikit-learn,1
+Malaga,Finance,ML Engineer,0,9.45,Azure AI,0
+Valencia,Healthcare,Data Scientist,10,23.32,Scikit-learn,1
+Barcelona,Manufacturing,Data Scientist,0,5.01,PyTorch,1
+Valencia,E-commerce,AI Engineer,11,25.78,PyTorch,1
+Malaga,Finance,AI Researcher,6,21.05,Scikit-learn,1
+Murcia,E-commerce,Data Analyst,6,14.61,TensorFlow,0
+Zaragoza,EdTech,AI Researcher,8,22.51,AWS AI,1
+Zaragoza,Finance,AI Engineer,3,9.36,AWS AI,0
+Palma,Manufacturing,Data Analyst,10,25.99,PyTorch,1
+Zaragoza,Finance,Data Analyst,4,12.07,AWS AI,0
+Bilbao,EdTech,Data Analyst,9,17.89,ChatGPT,1
+Valencia,IT,AI Researcher,11,30.86,AWS AI,1
+Madrid,EdTech,Data Scientist,7,17.86,Scikit-learn,0
+Murcia,Healthcare,Data Scientist,1,4.3,Azure AI,1
+Barcelona,Healthcare,Data Scientist,8,20.91,TensorFlow,1
+Alicante,EdTech,AI Researcher,7,23.21,AWS AI,1
+Bilbao,E-commerce,AI Researcher,5,16.82,AWS AI,1
+Barcelona,Finance,AI Engineer,0,3.62,ChatGPT,0
+Alicante,Finance,AI Researcher,0,10.77,Scikit-learn,0
+Alicante,Finance,Data Scientist,8,13.69,PyTorch,0
+Seville,Manufacturing,AI Engineer,2,7.06,ChatGPT,1
+Malaga,Finance,AI Researcher,8,26.89,Scikit-learn,1
+Palma,Finance,Data Scientist,4,10.85,Scikit-learn,0
+Malaga,E-commerce,AI Engineer,1,5.88,Scikit-learn,1
+Valencia,Healthcare,AI Engineer,1,4.07,PyTorch,0
+Bilbao,EdTech,Data Analyst,8,21.18,ChatGPT,0
+Palma,Finance,Data Analyst,3,8.02,Azure AI,1
+Bilbao,IT,Data Scientist,1,6.15,TensorFlow,1
+Zaragoza,IT,AI Researcher,6,22.16,AWS AI,0
+Valencia,Healthcare,Data Scientist,10,23.33,Azure AI,0
+Palma,Healthcare,ML Engineer,4,14.56,AWS AI,1
+Madrid,Healthcare,ML Engineer,1,11.23,Scikit-learn,1
+Bilbao,Finance,ML Engineer,6,19.03,PyTorch,1
+Alicante,Manufacturing,Data Analyst,6,13.66,ChatGPT,1
+Zaragoza,IT,AI Engineer,8,23.19,Azure AI,0
+Bilbao,EdTech,Data Analyst,5,14.36,Azure AI,0
+Valencia,Finance,AI Researcher,10,30.02,TensorFlow,0
+Bilbao,Healthcare,ML Engineer,3,15.1,TensorFlow,0
+Bilbao,IT,AI Engineer,1,6.99,TensorFlow,1
+Seville,Manufacturing,Data Scientist,6,14.97,AWS AI,0
+Murcia,Manufacturing,AI Researcher,0,4.64,TensorFlow,0
+Bilbao,EdTech,Data Scientist,1,3.29,PyTorch,1
+Barcelona,Manufacturing,AI Researcher,9,26.16,ChatGPT,1
+Malaga,EdTech,Data Scientist,8,19.94,PyTorch,0
+Alicante,EdTech,ML Engineer,5,14.49,TensorFlow,1
+Malaga,E-commerce,AI Researcher,7,22.13,AWS AI,0
+Murcia,EdTech,Data Analyst,6,14.86,TensorFlow,0
+Madrid,E-commerce,ML Engineer,3,12.73,PyTorch,0
+Barcelona,Manufacturing,Data Analyst,4,10.16,AWS AI,1
+Madrid,Finance,ML Engineer,9,21.86,PyTorch,1
+Zaragoza,IT,AI Engineer,6,14.66,TensorFlow,1
+Bilbao,Manufacturing,AI Engineer,0,3.0,TensorFlow,1
+Zaragoza,Manufacturing,AI Researcher,0,9.62,PyTorch,0
+Zaragoza,E-commerce,Data Analyst,6,17.8,PyTorch,0
+Seville,Finance,AI Engineer,6,14.16,Azure AI,1
+Valencia,E-commerce,Data Analyst,7,20.0,ChatGPT,0
+Palma,Manufacturing,Data Analyst,9,21.76,TensorFlow,1
+Palma,EdTech,AI Researcher,4,18.58,TensorFlow,0
+Seville,EdTech,AI Engineer,6,14.35,PyTorch,1
+Alicante,IT,Data Scientist,9,22.1,Scikit-learn,0
+Malaga,IT,Data Scientist,6,15.56,AWS AI,0
+Seville,Manufacturing,Data Scientist,6,14.68,AWS AI,1
+Murcia,Healthcare,AI Engineer,7,17.99,Scikit-learn,0
+Seville,Healthcare,Data Analyst,8,21.87,AWS AI,1
+Bilbao,E-commerce,Data Analyst,7,18.08,PyTorch,1
+Bilbao,Manufacturing,AI Engineer,6,12.79,Scikit-learn,1
+Murcia,EdTech,AI Researcher,8,21.6,PyTorch,1
+Valencia,E-commerce,ML Engineer,1,10.01,TensorFlow,1
+Barcelona,EdTech,ML Engineer,9,22.81,PyTorch,0
+Murcia,Manufacturing,Data Scientist,3,5.98,AWS AI,1
+Malaga,IT,AI Researcher,4,17.05,ChatGPT,1
+Valencia,EdTech,AI Researcher,4,15.85,AWS AI,1
+Seville,IT,Data Scientist,2,8.29,Azure AI,0
+Alicante,IT,Data Analyst,10,23.47,Azure AI,0
+Madrid,Manufacturing,ML Engineer,4,14.56,Azure AI,1
+Barcelona,IT,ML Engineer,8,19.48,Scikit-learn,1
+Zaragoza,Manufacturing,ML Engineer,6,16.42,Scikit-learn,1
+Alicante,Finance,Data Analyst,8,15.7,PyTorch,0
+Palma,Finance,AI Researcher,2,15.08,Scikit-learn,1
+Bilbao,EdTech,ML Engineer,0,6.92,Azure AI,1
+Seville,Manufacturing,Data Analyst,9,22.65,Scikit-learn,1
+Valencia,IT,AI Engineer,8,20.25,ChatGPT,1
+Valencia,E-commerce,AI Engineer,6,18.34,PyTorch,1
+Murcia,IT,ML Engineer,10,26.97,Azure AI,1
+Murcia,Manufacturing,AI Researcher,4,15.92,AWS AI,1
+Alicante,Healthcare,Data Scientist,6,15.47,AWS AI,1
+Palma,IT,Data Scientist,2,6.15,ChatGPT,0
+Murcia,Finance,Data Scientist,8,20.89,Scikit-learn,1
+Murcia,EdTech,ML Engineer,1,7.04,Azure AI,1
+Murcia,EdTech,Data Scientist,4,11.38,ChatGPT,1
+Alicante,Finance,ML Engineer,1,12.93,AWS AI,1
+Barcelona,Healthcare,AI Engineer,10,19.54,Scikit-learn,0
+Malaga,Manufacturing,AI Engineer,7,15.41,AWS AI,0
+Barcelona,IT,Data Scientist,6,16.96,AWS AI,0
+Valencia,EdTech,ML Engineer,1,10.81,Azure AI,1
+Seville,Healthcare,ML Engineer,4,14.28,TensorFlow,1
+Palma,Healthcare,Data Scientist,10,21.87,Azure AI,1
+Seville,Healthcare,AI Engineer,7,20.31,Scikit-learn,0
+Alicante,E-commerce,AI Engineer,8,18.68,Scikit-learn,1
+Malaga,Manufacturing,Data Analyst,2,3.82,Scikit-learn,0
+Bilbao,Finance,AI Engineer,7,18.73,PyTorch,0
+Zaragoza,Finance,AI Engineer,5,16.48,Azure AI,1
+Seville,IT,ML Engineer,10,26.02,Azure AI,1
+Seville,EdTech,Data Analyst,2,8.4,AWS AI,1
+Alicante,Healthcare,ML Engineer,0,9.16,Azure AI,0
+Palma,E-commerce,AI Engineer,5,13.2,AWS AI,1
+Madrid,Finance,Data Analyst,6,13.07,Azure AI,1
+Valencia,Healthcare,Data Analyst,1,3.0,ChatGPT,0
+Barcelona,E-commerce,ML Engineer,0,4.38,PyTorch,0
+Zaragoza,Finance,Data Analyst,9,23.88,TensorFlow,0
+Alicante,Healthcare,AI Engineer,6,14.38,PyTorch,1
+Alicante,IT,AI Engineer,0,4.81,TensorFlow,1
+Bilbao,EdTech,AI Researcher,3,12.8,AWS AI,0
+Barcelona,E-commerce,Data Analyst,11,24.43,Azure AI,1
+Barcelona,Healthcare,AI Engineer,11,26.28,AWS AI,1
+Valencia,Manufacturing,Data Scientist,9,17.84,AWS AI,1
+Zaragoza,E-commerce,AI Engineer,6,15.28,PyTorch,0
+Madrid,EdTech,Data Analyst,4,5.56,Scikit-learn,0
+Zaragoza,Healthcare,AI Researcher,9,26.88,Azure AI,0
+Palma,EdTech,ML Engineer,0,7.46,Azure AI,0
+Zaragoza,IT,Data Scientist,7,16.74,ChatGPT,1
+Bilbao,E-commerce,AI Engineer,8,20.93,Azure AI,0
+Palma,Finance,Data Analyst,4,13.32,AWS AI,1
+Murcia,Healthcare,AI Researcher,6,19.95,Azure AI,1
+Alicante,EdTech,AI Researcher,9,29.8,AWS AI,1
+Valencia,IT,Data Scientist,0,3.9,Scikit-learn,1
+Malaga,E-commerce,Data Analyst,5,10.91,ChatGPT,1
+Seville,EdTech,AI Researcher,5,18.2,ChatGPT,1
+Madrid,Healthcare,AI Engineer,0,5.22,Azure AI,1
+Zaragoza,E-commerce,AI Researcher,11,31.45,Azure AI,1
+Murcia,IT,Data Analyst,7,14.28,Scikit-learn,1
+Alicante,Manufacturing,Data Analyst,9,17.93,Scikit-learn,1
+Malaga,E-commerce,AI Engineer,3,7.52,AWS AI,1
+Alicante,Finance,Data Scientist,4,12.53,PyTorch,0
+Valencia,Finance,AI Researcher,4,17.17,AWS AI,0
+Madrid,Healthcare,Data Scientist,1,5.37,Scikit-learn,1
+Valencia,IT,Data Scientist,0,5.3,AWS AI,1
+Madrid,Healthcare,AI Researcher,4,17.1,Scikit-learn,1
+Malaga,Manufacturing,ML Engineer,0,6.68,AWS AI,1
+Barcelona,IT,AI Researcher,6,21.16,PyTorch,0
+Madrid,E-commerce,ML Engineer,8,21.1,TensorFlow,0
+Murcia,E-commerce,ML Engineer,2,11.13,AWS AI,1
+Barcelona,EdTech,AI Engineer,5,12.04,ChatGPT,1
+Valencia,IT,Data Scientist,5,13.64,ChatGPT,0
+Seville,E-commerce,ML Engineer,10,25.98,PyTorch,1
+Malaga,IT,ML Engineer,11,27.87,Scikit-learn,1
+Valencia,Manufacturing,ML Engineer,9,30.2,TensorFlow,1
+Bilbao,IT,ML Engineer,4,15.71,ChatGPT,0
+Barcelona,E-commerce,Data Scientist,11,27.47,TensorFlow,0
+Alicante,Healthcare,ML Engineer,8,23.31,AWS AI,0
+Zaragoza,IT,AI Engineer,2,8.88,AWS AI,1
+Madrid,Manufacturing,AI Researcher,0,4.93,AWS AI,1
+Barcelona,E-commerce,AI Engineer,3,9.12,AWS AI,0
+Madrid,Finance,AI Researcher,9,27.4,ChatGPT,1
+Madrid,EdTech,Data Analyst,3,12.07,TensorFlow,1
+Murcia,Manufacturing,AI Researcher,8,22.71,PyTorch,0
+Palma,IT,Data Scientist,3,9.5,PyTorch,0
+Madrid,Manufacturing,AI Engineer,4,10.08,Scikit-learn,0
+Palma,IT,Data Analyst,5,15.97,ChatGPT,1
+Valencia,E-commerce,Data Analyst,9,20.65,AWS AI,0
+Malaga,E-commerce,AI Engineer,11,25.46,Scikit-learn,0
+Madrid,IT,AI Researcher,3,12.22,PyTorch,1
+Alicante,IT,AI Researcher,5,13.18,PyTorch,0
+Alicante,EdTech,AI Researcher,7,19.55,Scikit-learn,1
+Madrid,Manufacturing,AI Researcher,6,22.31,ChatGPT,1
+Valencia,Finance,AI Researcher,11,30.59,ChatGPT,1
+Murcia,E-commerce,AI Engineer,1,3.58,Scikit-learn,0
+Valencia,Manufacturing,AI Researcher,8,24.48,PyTorch,1
+Zaragoza,Manufacturing,AI Researcher,11,29.94,Azure AI,1
+Madrid,Finance,Data Scientist,11,25.59,Azure AI,0
+Murcia,Manufacturing,ML Engineer,1,9.49,TensorFlow,1
+Malaga,Manufacturing,Data Analyst,3,9.69,Azure AI,0
+Malaga,EdTech,Data Analyst,3,8.2,TensorFlow,1
+Barcelona,Manufacturing,AI Engineer,9,19.71,TensorFlow,1
+Valencia,Healthcare,Data Scientist,1,3.0,PyTorch,1
+Alicante,Healthcare,AI Researcher,5,19.56,PyTorch,0
+Malaga,EdTech,Data Scientist,3,8.94,Scikit-learn,0
+Seville,Healthcare,AI Researcher,2,11.85,PyTorch,1
+Bilbao,EdTech,AI Researcher,2,12.19,PyTorch,0
+Murcia,IT,AI Researcher,8,22.4,TensorFlow,1
+Barcelona,Finance,AI Researcher,1,11.9,Azure AI,0
+Barcelona,Manufacturing,Data Analyst,7,16.17,ChatGPT,1
+Seville,EdTech,AI Researcher,0,4.14,Azure AI,1
+Seville,E-commerce,Data Scientist,4,13.93,PyTorch,1
+Seville,IT,Data Analyst,11,28.4,Scikit-learn,1
+Palma,Finance,Data Scientist,2,5.03,Azure AI,0
+Barcelona,Manufacturing,AI Researcher,3,15.45,Azure AI,0
+Madrid,Healthcare,Data Analyst,2,10.31,AWS AI,1
+Malaga,Healthcare,ML Engineer,10,27.95,AWS AI,0
+Malaga,IT,AI Engineer,9,21.47,ChatGPT,0
+Seville,E-commerce,Data Scientist,7,17.78,ChatGPT,1
+Alicante,Healthcare,AI Engineer,11,26.49,ChatGPT,1
+Seville,IT,AI Engineer,0,3.0,PyTorch,1
+Alicante,Healthcare,Data Scientist,2,9.56,Azure AI,1
+Murcia,IT,AI Engineer,10,24.49,PyTorch,0
+Bilbao,Manufacturing,AI Engineer,5,11.73,ChatGPT,0
+Zaragoza,EdTech,AI Engineer,7,19.01,AWS AI,1
+Seville,IT,AI Engineer,4,9.8,AWS AI,1
+Zaragoza,Manufacturing,Data Analyst,2,7.8,PyTorch,1
+Barcelona,Manufacturing,Data Analyst,7,16.25,Scikit-learn,0
+Bilbao,Manufacturing,AI Researcher,9,24.3,PyTorch,1
+Madrid,IT,Data Analyst,6,16.68,ChatGPT,0
+Murcia,E-commerce,AI Engineer,4,11.79,TensorFlow,1
+Zaragoza,IT,Data Analyst,11,24.12,TensorFlow,1
+Madrid,Finance,ML Engineer,6,20.49,PyTorch,1
+Valencia,Manufacturing,Data Scientist,11,26.02,PyTorch,1
+Palma,Healthcare,Data Scientist,10,24.62,Azure AI,1
+Malaga,Manufacturing,Data Scientist,4,13.86,TensorFlow,1
+Murcia,IT,AI Researcher,4,16.33,TensorFlow,1
+Seville,EdTech,Data Analyst,5,15.68,Scikit-learn,1
+Alicante,IT,Data Scientist,2,6.77,TensorFlow,1
+Alicante,IT,ML Engineer,7,24.08,AWS AI,1
+Palma,Finance,ML Engineer,7,15.04,PyTorch,0
+Murcia,IT,ML Engineer,11,28.16,TensorFlow,0
+Valencia,E-commerce,AI Researcher,1,10.6,Azure AI,1
+Zaragoza,IT,ML Engineer,6,20.06,Scikit-learn,0
+Alicante,E-commerce,AI Engineer,10,25.77,TensorFlow,0
+Murcia,Manufacturing,Data Scientist,0,3.44,TensorFlow,0
+Zaragoza,Finance,AI Engineer,10,21.46,AWS AI,0
+Bilbao,IT,AI Engineer,9,22.98,Azure AI,1
+Valencia,IT,AI Researcher,5,16.58,Scikit-learn,0
+Palma,Healthcare,AI Engineer,3,14.32,TensorFlow,0
+Madrid,Finance,Data Analyst,9,23.11,Azure AI,0
+Seville,EdTech,AI Researcher,9,23.2,PyTorch,1
+Barcelona,E-commerce,Data Scientist,8,17.83,Scikit-learn,0
+Madrid,EdTech,Data Analyst,10,17.84,ChatGPT,1
+Palma,Healthcare,ML Engineer,7,22.12,Azure AI,0
+Palma,IT,Data Scientist,10,27.43,Azure AI,1
+Malaga,EdTech,AI Engineer,9,21.19,AWS AI,0
+Alicante,E-commerce,AI Researcher,3,16.31,TensorFlow,1
+Bilbao,E-commerce,ML Engineer,4,15.05,PyTorch,0
+Valencia,Finance,Data Scientist,6,15.39,Scikit-learn,1
+Valencia,IT,ML Engineer,11,25.61,Azure AI,1
+Barcelona,EdTech,AI Engineer,9,22.4,Scikit-learn,1
+Bilbao,Manufacturing,Data Scientist,2,7.45,Azure AI,1
+Barcelona,Manufacturing,Data Scientist,5,16.46,TensorFlow,0
+Malaga,Healthcare,Data Analyst,1,4.5,ChatGPT,0
+Zaragoza,IT,AI Engineer,1,5.44,Scikit-learn,0
+Malaga,Manufacturing,AI Engineer,7,20.32,TensorFlow,1
+Valencia,E-commerce,Data Analyst,6,16.45,TensorFlow,0
+Valencia,Finance,Data Analyst,3,10.03,ChatGPT,0
+Seville,IT,AI Engineer,4,10.79,TensorFlow,1
+Seville,Manufacturing,Data Scientist,3,9.03,PyTorch,1
+Bilbao,Healthcare,AI Researcher,0,9.42,TensorFlow,0
+Malaga,EdTech,Data Scientist,0,3.0,TensorFlow,0
+Murcia,IT,AI Researcher,9,27.96,AWS AI,1
+Alicante,Manufacturing,AI Researcher,1,11.11,Scikit-learn,1
+Malaga,Manufacturing,Data Scientist,0,3.72,Scikit-learn,1
+Malaga,E-commerce,Data Scientist,4,12.18,TensorFlow,1
+Bilbao,Finance,Data Analyst,8,17.41,Scikit-learn,1
+Zaragoza,Finance,AI Researcher,5,19.18,TensorFlow,1
+Palma,E-commerce,Data Analyst,7,20.53,Scikit-learn,1
+Seville,E-commerce,AI Researcher,9,29.21,ChatGPT,1
+Madrid,Healthcare,Data Analyst,11,25.32,TensorFlow,1
+Madrid,EdTech,ML Engineer,1,7.07,AWS AI,1
+Barcelona,Healthcare,ML Engineer,0,7.37,ChatGPT,0
+Murcia,Manufacturing,AI Researcher,6,23.36,Azure AI,1
+Valencia,Finance,ML Engineer,8,21.36,PyTorch,1
+Murcia,Finance,ML Engineer,10,28.44,PyTorch,0
+Barcelona,EdTech,AI Engineer,2,9.67,TensorFlow,1
+Madrid,Healthcare,Data Analyst,7,17.36,Scikit-learn,0
+Valencia,Manufacturing,AI Researcher,6,19.91,PyTorch,0
+Valencia,IT,AI Engineer,2,5.53,TensorFlow,1
+Madrid,Manufacturing,Data Scientist,6,18.45,Scikit-learn,0
+Bilbao,E-commerce,AI Engineer,8,16.94,AWS AI,1
+Bilbao,Manufacturing,Data Scientist,7,17.14,ChatGPT,0
+Barcelona,IT,AI Engineer,8,22.33,Scikit-learn,0
+Murcia,Finance,AI Engineer,6,16.64,Scikit-learn,0
+Valencia,EdTech,AI Engineer,3,7.15,TensorFlow,0
+Zaragoza,EdTech,AI Researcher,5,17.9,Scikit-learn,0
+Palma,EdTech,Data Scientist,7,17.95,TensorFlow,1
+Seville,Healthcare,Data Analyst,5,16.46,Scikit-learn,0
+Malaga,EdTech,Data Analyst,8,20.68,ChatGPT,0
+Zaragoza,E-commerce,AI Engineer,3,7.96,TensorFlow,1
+Valencia,IT,Data Scientist,0,5.96,Azure AI,1
+Zaragoza,Finance,AI Researcher,10,25.97,Azure AI,1
+Palma,E-commerce,Data Scientist,11,25.73,TensorFlow,1
+Valencia,Finance,Data Scientist,7,16.48,ChatGPT,1
+Murcia,E-commerce,ML Engineer,9,27.82,TensorFlow,1
+Barcelona,IT,ML Engineer,11,24.52,Scikit-learn,0
+Zaragoza,E-commerce,Data Scientist,3,9.19,Scikit-learn,1
+Malaga,IT,Data Analyst,11,25.96,Scikit-learn,0
+Zaragoza,Manufacturing,ML Engineer,3,14.0,AWS AI,0
+Murcia,EdTech,ML Engineer,1,8.74,TensorFlow,1
+Alicante,Healthcare,AI Engineer,7,19.25,Scikit-learn,1
+Palma,Manufacturing,Data Analyst,3,8.92,PyTorch,1
+Murcia,Manufacturing,Data Analyst,11,26.76,TensorFlow,1
+Zaragoza,Manufacturing,ML Engineer,8,23.14,AWS AI,1
+Madrid,EdTech,AI Engineer,11,25.0,AWS AI,0
+Murcia,EdTech,AI Researcher,11,32.85,PyTorch,1
+Zaragoza,EdTech,Data Analyst,2,4.04,PyTorch,1
+Alicante,Manufacturing,ML Engineer,2,11.65,ChatGPT,0
+Seville,Finance,AI Engineer,6,16.35,Azure AI,1
+Murcia,IT,ML Engineer,1,5.82,Azure AI,0
+Barcelona,Manufacturing,Data Scientist,7,18.02,TensorFlow,1
+Zaragoza,Finance,AI Engineer,1,3.0,TensorFlow,1
+Valencia,IT,AI Engineer,0,7.32,Azure AI,1
+Palma,Finance,ML Engineer,11,32.93,ChatGPT,0
+Murcia,EdTech,ML Engineer,6,21.77,AWS AI,1
+Barcelona,Finance,ML Engineer,9,21.16,Scikit-learn,0
+Valencia,EdTech,AI Researcher,1,13.18,Azure AI,0
+Murcia,EdTech,AI Researcher,11,34.1,PyTorch,1
+Murcia,Manufacturing,AI Researcher,11,28.41,Scikit-learn,1
+Barcelona,IT,AI Engineer,8,17.84,Azure AI,1
+Alicante,EdTech,Data Scientist,9,21.94,Scikit-learn,1
+Barcelona,Manufacturing,AI Engineer,10,25.64,ChatGPT,0
+Malaga,EdTech,ML Engineer,3,10.63,TensorFlow,1
+Bilbao,Manufacturing,ML Engineer,6,16.62,AWS AI,0
+Palma,E-commerce,AI Researcher,11,29.95,PyTorch,1
+Alicante,Manufacturing,AI Engineer,7,16.93,TensorFlow,0
+Palma,Finance,AI Researcher,5,17.22,PyTorch,0
+Valencia,E-commerce,AI Engineer,4,15.16,Azure AI,1
+Zaragoza,EdTech,AI Researcher,6,21.41,AWS AI,0
+Madrid,IT,Data Analyst,8,21.09,AWS AI,0
+Murcia,E-commerce,Data Analyst,3,9.55,Azure AI,0
+Bilbao,Finance,AI Researcher,3,12.82,PyTorch,0
+Alicante,E-commerce,AI Researcher,0,8.33,Azure AI,0
+Zaragoza,Healthcare,Data Analyst,5,12.3,Azure AI,1
+Bilbao,E-commerce,AI Researcher,5,18.62,Scikit-learn,0
+Valencia,EdTech,Data Analyst,1,4.53,Azure AI,1
+Valencia,EdTech,Data Scientist,5,10.82,ChatGPT,1
+Valencia,Healthcare,Data Analyst,1,4.91,AWS AI,0
+Murcia,E-commerce,Data Analyst,0,3.17,ChatGPT,0
+Bilbao,EdTech,Data Scientist,8,21.59,PyTorch,1
+Palma,IT,AI Engineer,8,20.33,Azure AI,1
+Zaragoza,Healthcare,Data Scientist,10,25.38,Scikit-learn,0
+Seville,Healthcare,AI Engineer,11,27.05,Scikit-learn,1
+Murcia,IT,AI Engineer,7,14.99,ChatGPT,0
+Alicante,E-commerce,ML Engineer,7,20.91,TensorFlow,0
+Palma,Manufacturing,AI Engineer,2,8.17,TensorFlow,0
+Bilbao,E-commerce,Data Scientist,8,15.21,PyTorch,1
+Bilbao,E-commerce,Data Scientist,8,18.01,TensorFlow,0
+Malaga,Healthcare,AI Engineer,4,10.21,AWS AI,1
+Seville,Manufacturing,ML Engineer,5,16.08,Azure AI,0
+Bilbao,Healthcare,AI Researcher,1,9.38,Azure AI,1
+Alicante,Healthcare,AI Engineer,0,3.0,ChatGPT,0
+Murcia,Manufacturing,ML Engineer,6,17.19,AWS AI,0
+Madrid,E-commerce,AI Engineer,3,10.79,ChatGPT,1
+Murcia,Healthcare,Data Scientist,5,9.65,AWS AI,0
+Palma,Manufacturing,AI Engineer,6,15.32,PyTorch,1
+Seville,Healthcare,AI Researcher,0,14.27,TensorFlow,0
+Barcelona,IT,AI Researcher,5,13.63,Scikit-learn,0
+Madrid,Finance,Data Analyst,8,20.21,ChatGPT,1
+Valencia,IT,ML Engineer,9,23.45,Azure AI,1
+Barcelona,IT,ML Engineer,7,20.6,PyTorch,1
+Malaga,IT,Data Analyst,2,10.79,Azure AI,1
+Bilbao,Healthcare,Data Scientist,8,14.29,PyTorch,1
+Palma,EdTech,Data Scientist,2,9.29,AWS AI,0
+Palma,IT,AI Engineer,0,3.0,ChatGPT,1
+Madrid,EdTech,AI Engineer,10,24.24,PyTorch,1
+Alicante,IT,Data Analyst,1,6.41,TensorFlow,1
+Valencia,Manufacturing,Data Scientist,8,17.64,Azure AI,1
+Madrid,EdTech,ML Engineer,8,20.97,ChatGPT,1
+Bilbao,E-commerce,AI Researcher,5,20.46,ChatGPT,1
+Madrid,IT,AI Engineer,9,19.73,PyTorch,1
+Zaragoza,IT,AI Researcher,7,22.88,AWS AI,0
+Barcelona,E-commerce,Data Analyst,7,17.19,Azure AI,1
+Alicante,E-commerce,Data Analyst,3,8.33,AWS AI,1
+Murcia,Manufacturing,AI Researcher,3,14.18,AWS AI,0
+Seville,Manufacturing,ML Engineer,8,23.74,ChatGPT,1
+Malaga,E-commerce,Data Analyst,6,12.47,AWS AI,0
+Palma,EdTech,AI Researcher,4,18.2,ChatGPT,1
+Madrid,Finance,AI Researcher,11,30.46,PyTorch,1
+Palma,Healthcare,Data Analyst,6,9.68,Scikit-learn,1
+Malaga,E-commerce,ML Engineer,6,16.77,Scikit-learn,1
+Seville,IT,AI Researcher,8,23.19,ChatGPT,1
+Barcelona,Finance,Data Analyst,6,12.27,Scikit-learn,1
+Valencia,EdTech,Data Scientist,3,9.35,Scikit-learn,0
+Alicante,IT,ML Engineer,4,15.89,Scikit-learn,0
+Seville,Healthcare,Data Scientist,0,3.0,PyTorch,1
+Murcia,Finance,Data Analyst,1,6.7,ChatGPT,1
+Valencia,Manufacturing,ML Engineer,0,6.85,PyTorch,0
+Valencia,IT,AI Engineer,11,25.26,ChatGPT,1
+Bilbao,E-commerce,AI Engineer,2,9.21,ChatGPT,0
+Seville,Healthcare,AI Engineer,8,22.38,ChatGPT,1
+Bilbao,EdTech,Data Analyst,9,24.64,TensorFlow,0
+Murcia,IT,AI Researcher,10,27.1,Azure AI,0
+Alicante,Manufacturing,Data Analyst,7,15.1,Scikit-learn,0
+Seville,IT,Data Analyst,9,21.35,Azure AI,1
+Murcia,E-commerce,ML Engineer,8,22.57,Azure AI,1
+Zaragoza,Manufacturing,AI Researcher,10,30.35,Scikit-learn,0
+Seville,E-commerce,Data Scientist,9,20.08,Scikit-learn,0
+Murcia,Finance,AI Engineer,9,23.73,ChatGPT,1
+Bilbao,E-commerce,AI Engineer,0,5.36,AWS AI,0
+Bilbao,E-commerce,AI Engineer,10,23.81,PyTorch,0
+Palma,EdTech,ML Engineer,9,23.14,TensorFlow,1
+Bilbao,Manufacturing,Data Scientist,7,19.3,Azure AI,1
+Palma,Manufacturing,Data Scientist,4,10.24,AWS AI,1
+Zaragoza,Finance,ML Engineer,3,14.14,ChatGPT,1
+Murcia,Healthcare,Data Scientist,5,14.28,TensorFlow,1
+Seville,Healthcare,Data Analyst,4,10.35,PyTorch,1
+Madrid,Healthcare,ML Engineer,0,4.43,Scikit-learn,1
+Valencia,Manufacturing,AI Engineer,4,11.95,Azure AI,0
+Bilbao,Finance,Data Scientist,1,4.81,TensorFlow,1
+Alicante,Finance,AI Engineer,0,3.0,Scikit-learn,1
+Valencia,Finance,AI Researcher,5,19.93,PyTorch,1
+Bilbao,Manufacturing,AI Researcher,4,17.38,AWS AI,1
+Madrid,E-commerce,AI Engineer,2,7.65,ChatGPT,1
+Malaga,Finance,AI Researcher,4,14.1,Scikit-learn,0
+Bilbao,Manufacturing,Data Analyst,2,9.91,Scikit-learn,1
+Seville,Manufacturing,ML Engineer,8,23.75,ChatGPT,0
+Zaragoza,E-commerce,Data Scientist,2,8.18,Azure AI,1
+Seville,E-commerce,AI Engineer,5,13.77,ChatGPT,1
+Alicante,Manufacturing,ML Engineer,9,24.54,ChatGPT,1
+Zaragoza,Finance,AI Engineer,4,11.29,AWS AI,0
+Palma,Finance,Data Scientist,5,13.17,Scikit-learn,1
+Madrid,Finance,ML Engineer,7,22.23,PyTorch,0
+Bilbao,E-commerce,AI Engineer,0,5.64,ChatGPT,0
+Alicante,Manufacturing,AI Researcher,7,21.58,ChatGPT,1
+Seville,Healthcare,Data Analyst,10,23.05,ChatGPT,1
+Seville,Healthcare,ML Engineer,10,23.04,TensorFlow,1
+Malaga,EdTech,ML Engineer,7,25.35,PyTorch,1
+Barcelona,Manufacturing,AI Researcher,6,20.47,AWS AI,0
+Malaga,IT,ML Engineer,0,5.05,TensorFlow,1
+Murcia,Manufacturing,AI Researcher,8,23.93,TensorFlow,1
+Barcelona,E-commerce,AI Engineer,7,12.66,TensorFlow,0
+Bilbao,Finance,Data Analyst,9,20.58,TensorFlow,1
+Barcelona,Manufacturing,AI Researcher,0,6.6,Azure AI,0
+Valencia,E-commerce,AI Engineer,7,18.46,ChatGPT,0
+Palma,Finance,Data Analyst,10,24.73,TensorFlow,0
+Barcelona,Finance,ML Engineer,3,12.75,Azure AI,0
+Murcia,EdTech,AI Engineer,6,12.68,Scikit-learn,0
+Barcelona,Finance,ML Engineer,6,19.92,Azure AI,1
+Barcelona,EdTech,Data Analyst,5,12.84,TensorFlow,1
+Bilbao,Manufacturing,AI Engineer,5,12.9,Scikit-learn,1
+Valencia,EdTech,AI Engineer,8,23.36,AWS AI,1
+Alicante,Manufacturing,AI Researcher,11,33.87,ChatGPT,0
+Alicante,EdTech,Data Scientist,6,12.94,Azure AI,1
+Barcelona,IT,AI Researcher,6,16.51,ChatGPT,1
+Zaragoza,Healthcare,AI Engineer,2,4.87,TensorFlow,0
+Zaragoza,EdTech,AI Researcher,8,22.36,ChatGPT,1
+Valencia,Manufacturing,AI Researcher,9,26.75,ChatGPT,1
+Madrid,Finance,Data Analyst,8,20.42,TensorFlow,0
+Zaragoza,EdTech,Data Analyst,3,10.17,Scikit-learn,1
+Zaragoza,IT,Data Scientist,10,25.86,ChatGPT,1
+Alicante,Manufacturing,ML Engineer,2,10.53,PyTorch,1
+Zaragoza,Manufacturing,ML Engineer,10,29.38,Scikit-learn,1
+Murcia,IT,Data Analyst,0,6.24,PyTorch,1
+Alicante,E-commerce,AI Engineer,7,18.54,Azure AI,1
+Bilbao,Manufacturing,ML Engineer,4,14.81,AWS AI,1
+Alicante,E-commerce,Data Scientist,4,11.41,AWS AI,1
+Barcelona,E-commerce,Data Analyst,5,12.73,TensorFlow,1
+Bilbao,Manufacturing,Data Scientist,1,4.98,ChatGPT,0
+Zaragoza,E-commerce,ML Engineer,6,15.48,TensorFlow,1
+Seville,Manufacturing,AI Engineer,11,23.05,PyTorch,0
+Barcelona,IT,Data Scientist,8,19.25,Azure AI,1
+Madrid,E-commerce,AI Engineer,0,5.77,Azure AI,0
+Alicante,EdTech,AI Engineer,11,23.47,PyTorch,1
+Bilbao,Finance,AI Engineer,6,17.28,AWS AI,1
+Murcia,IT,Data Analyst,2,9.96,ChatGPT,0
+Murcia,EdTech,Data Analyst,3,10.03,TensorFlow,1
+Seville,IT,ML Engineer,4,17.18,Scikit-learn,1
+Murcia,Manufacturing,Data Analyst,4,8.05,Azure AI,0
+Palma,IT,ML Engineer,7,21.99,ChatGPT,0
+Bilbao,Healthcare,AI Engineer,9,20.76,Scikit-learn,1
+Murcia,EdTech,AI Engineer,11,26.78,ChatGPT,1
+Valencia,Healthcare,AI Engineer,0,3.0,Scikit-learn,1
+Palma,IT,Data Scientist,6,14.34,Azure AI,0
+Seville,Healthcare,AI Researcher,0,5.28,Azure AI,1
+Seville,E-commerce,ML Engineer,3,11.28,Azure AI,0
+Palma,IT,ML Engineer,7,21.26,TensorFlow,0
+Palma,E-commerce,ML Engineer,4,15.27,PyTorch,0
+Barcelona,Manufacturing,Data Analyst,0,6.64,Azure AI,1
+Zaragoza,Finance,Data Analyst,1,4.85,PyTorch,0
+Valencia,E-commerce,ML Engineer,2,8.0,ChatGPT,1
+Palma,Manufacturing,ML Engineer,1,13.18,PyTorch,1
+Zaragoza,EdTech,Data Scientist,1,6.86,Azure AI,0
+Murcia,Healthcare,AI Engineer,9,21.37,AWS AI,1
+Zaragoza,Healthcare,ML Engineer,3,9.76,TensorFlow,1
+Alicante,EdTech,Data Scientist,10,22.51,AWS AI,0
+Palma,EdTech,Data Scientist,6,17.76,PyTorch,1
+Seville,IT,ML Engineer,3,16.34,PyTorch,1
+Murcia,EdTech,AI Engineer,11,24.07,ChatGPT,0
+Palma,Finance,AI Researcher,8,20.57,AWS AI,1
+Seville,E-commerce,ML Engineer,4,15.88,AWS AI,0
+Bilbao,Finance,AI Researcher,7,22.52,AWS AI,0
+Valencia,Healthcare,ML Engineer,5,15.78,AWS AI,1
+Alicante,Manufacturing,Data Scientist,11,26.13,ChatGPT,1
+Malaga,E-commerce,AI Researcher,5,18.68,AWS AI,0
+Alicante,E-commerce,Data Analyst,5,12.67,TensorFlow,0
+Malaga,IT,AI Engineer,9,22.23,Azure AI,1
+Zaragoza,E-commerce,AI Researcher,10,27.57,AWS AI,0
+Malaga,Finance,ML Engineer,2,11.92,ChatGPT,1
+Zaragoza,Finance,ML Engineer,8,20.85,Azure AI,0
+Murcia,IT,ML Engineer,8,23.16,AWS AI,0
+Barcelona,EdTech,Data Analyst,2,9.17,PyTorch,0
+Bilbao,Healthcare,AI Engineer,10,23.99,Scikit-learn,0
+Zaragoza,Manufacturing,ML Engineer,8,22.58,TensorFlow,1
+Alicante,Finance,ML Engineer,3,13.51,ChatGPT,0
+Zaragoza,Healthcare,AI Researcher,3,14.53,TensorFlow,0
+Malaga,IT,AI Engineer,11,28.94,ChatGPT,1
+Murcia,Manufacturing,Data Scientist,2,9.04,PyTorch,0
+Valencia,Manufacturing,AI Engineer,4,11.12,Scikit-learn,1
+Alicante,EdTech,AI Engineer,0,6.24,ChatGPT,0
+Murcia,Healthcare,Data Scientist,6,12.2,PyTorch,1
+Palma,Manufacturing,AI Engineer,9,20.4,AWS AI,1
+Alicante,Manufacturing,AI Engineer,5,11.67,AWS AI,0
+Bilbao,Healthcare,Data Analyst,10,26.85,PyTorch,1
+Bilbao,Manufacturing,ML Engineer,1,8.36,ChatGPT,1
+Murcia,Manufacturing,Data Analyst,5,13.01,ChatGPT,0
+Zaragoza,E-commerce,ML Engineer,5,16.51,ChatGPT,1
+Zaragoza,Finance,AI Engineer,5,16.0,Azure AI,0
+Valencia,E-commerce,AI Researcher,0,9.55,PyTorch,1
+Seville,Healthcare,AI Engineer,4,12.2,Azure AI,0
+Bilbao,Manufacturing,Data Scientist,7,19.59,TensorFlow,1
+Palma,Manufacturing,Data Analyst,1,7.74,Scikit-learn,1
+Barcelona,E-commerce,Data Scientist,2,6.79,AWS AI,1
+Zaragoza,Finance,Data Analyst,10,21.93,Azure AI,1
+Bilbao,E-commerce,AI Researcher,3,15.1,TensorFlow,1
+Murcia,Manufacturing,Data Analyst,1,6.26,PyTorch,1
+Barcelona,Healthcare,AI Researcher,3,13.1,Azure AI,1
+Zaragoza,E-commerce,AI Engineer,8,15.18,TensorFlow,1
+Murcia,EdTech,AI Engineer,4,14.75,Azure AI,1
+Madrid,Finance,AI Researcher,4,15.06,AWS AI,1
+Bilbao,E-commerce,AI Engineer,3,10.71,Azure AI,0
+Murcia,E-commerce,Data Scientist,9,23.73,AWS AI,1
+Madrid,Manufacturing,AI Engineer,0,3.74,Azure AI,1
+Madrid,Finance,Data Scientist,4,8.43,PyTorch,0
+Seville,Healthcare,Data Analyst,9,20.93,ChatGPT,1
+Palma,Manufacturing,AI Researcher,9,25.13,PyTorch,1
+Barcelona,Finance,Data Analyst,10,23.13,PyTorch,1
+Valencia,Finance,ML Engineer,7,23.64,PyTorch,1
+Madrid,E-commerce,Data Analyst,6,15.33,ChatGPT,0
+Barcelona,Manufacturing,AI Engineer,9,21.62,PyTorch,0
+Palma,IT,AI Engineer,5,14.29,AWS AI,0
+Zaragoza,EdTech,ML Engineer,2,7.67,PyTorch,0
+Seville,Finance,ML Engineer,10,26.46,TensorFlow,1
+Bilbao,E-commerce,ML Engineer,6,21.27,TensorFlow,1
+Murcia,E-commerce,Data Analyst,2,8.15,ChatGPT,0
+Seville,Healthcare,Data Scientist,11,23.19,Azure AI,0
+Palma,Finance,Data Scientist,8,19.88,TensorFlow,1
+Palma,Healthcare,Data Analyst,11,25.12,AWS AI,1
+Seville,IT,AI Researcher,2,13.32,PyTorch,1
+Palma,Finance,AI Researcher,10,25.78,Scikit-learn,0
+Zaragoza,E-commerce,Data Scientist,4,11.48,Scikit-learn,0
+Palma,IT,ML Engineer,11,30.32,TensorFlow,1
+Palma,Healthcare,Data Scientist,11,28.22,Scikit-learn,0
+Bilbao,Manufacturing,Data Scientist,9,20.51,AWS AI,1
+Alicante,Manufacturing,AI Engineer,2,3.0,TensorFlow,1
+Madrid,E-commerce,Data Scientist,3,8.16,AWS AI,0
+Barcelona,IT,AI Engineer,11,26.47,AWS AI,0
+Bilbao,Healthcare,AI Engineer,10,21.99,Scikit-learn,0
+Murcia,E-commerce,Data Scientist,11,25.15,ChatGPT,1
+Zaragoza,Finance,ML Engineer,10,27.89,AWS AI,1
+Murcia,E-commerce,AI Researcher,5,18.8,Scikit-learn,1
+Valencia,IT,ML Engineer,0,10.2,Scikit-learn,0
+Barcelona,Healthcare,AI Engineer,2,7.55,TensorFlow,0
+Murcia,Manufacturing,AI Researcher,9,28.12,ChatGPT,1
+Zaragoza,Healthcare,Data Analyst,1,3.54,PyTorch,1
+Palma,EdTech,AI Engineer,9,21.47,AWS AI,1
+Barcelona,Healthcare,AI Researcher,2,14.44,AWS AI,1
+Zaragoza,Finance,AI Researcher,11,27.46,ChatGPT,1
+Murcia,Finance,AI Researcher,0,8.58,Azure AI,1
+Alicante,Finance,ML Engineer,11,32.75,PyTorch,0
+Alicante,Healthcare,AI Engineer,4,14.55,TensorFlow,1
+Valencia,EdTech,AI Engineer,0,3.0,TensorFlow,1
+Palma,Finance,AI Engineer,7,16.87,Scikit-learn,1
+Malaga,Healthcare,AI Engineer,9,19.56,AWS AI,0
+Seville,Healthcare,Data Analyst,4,17.45,AWS AI,0
+Murcia,Manufacturing,AI Researcher,2,12.61,Scikit-learn,0
+Alicante,Manufacturing,AI Engineer,5,11.48,ChatGPT,0
+Barcelona,Healthcare,AI Researcher,4,16.7,TensorFlow,1
+Alicante,EdTech,Data Analyst,7,11.32,AWS AI,1
+Murcia,IT,ML Engineer,11,31.76,PyTorch,1
+Valencia,EdTech,Data Analyst,7,16.88,ChatGPT,1
+Alicante,E-commerce,AI Engineer,2,6.76,TensorFlow,0
+Bilbao,Finance,AI Researcher,0,11.4,Azure AI,0
+Zaragoza,Manufacturing,AI Engineer,3,11.75,TensorFlow,1
+Alicante,Healthcare,AI Researcher,4,14.26,PyTorch,0
+Murcia,Healthcare,Data Scientist,11,26.68,PyTorch,1
+Bilbao,IT,ML Engineer,10,27.82,ChatGPT,1
+Madrid,IT,Data Analyst,6,14.52,Azure AI,1
+Malaga,E-commerce,Data Analyst,0,8.2,TensorFlow,0
+Madrid,Healthcare,AI Engineer,4,11.97,TensorFlow,1
+Zaragoza,Healthcare,AI Engineer,4,13.21,TensorFlow,1
+Bilbao,Healthcare,Data Analyst,1,3.0,Azure AI,1
+Barcelona,IT,Data Scientist,11,24.5,TensorFlow,0
+Zaragoza,Finance,Data Scientist,0,3.0,TensorFlow,1
+Madrid,IT,ML Engineer,4,13.51,Azure AI,0
+Murcia,Finance,AI Researcher,1,10.08,ChatGPT,1
+Madrid,EdTech,Data Scientist,8,20.3,Scikit-learn,1
+Alicante,Healthcare,Data Scientist,0,3.0,TensorFlow,0
+Zaragoza,IT,Data Analyst,5,13.53,AWS AI,1
+Barcelona,EdTech,AI Engineer,0,3.0,AWS AI,0
+Valencia,EdTech,AI Engineer,7,15.63,ChatGPT,1
+Murcia,Healthcare,AI Engineer,2,6.34,ChatGPT,1
+Barcelona,IT,AI Researcher,11,27.85,Scikit-learn,1
+Palma,IT,AI Engineer,11,26.05,Scikit-learn,0
+Palma,Healthcare,AI Researcher,10,31.6,TensorFlow,1
+Malaga,Healthcare,ML Engineer,8,18.75,ChatGPT,0
+Malaga,Finance,Data Analyst,11,25.27,ChatGPT,1
+Malaga,Healthcare,Data Scientist,10,25.09,AWS AI,1
+Valencia,IT,AI Researcher,11,34.48,Azure AI,0
+Seville,IT,AI Researcher,5,21.04,PyTorch,0
+Seville,E-commerce,AI Engineer,9,27.82,Scikit-learn,0
+Valencia,IT,AI Researcher,11,28.81,ChatGPT,1
+Murcia,Finance,Data Analyst,9,22.38,ChatGPT,0
+Malaga,Healthcare,AI Researcher,11,30.99,AWS AI,1
+Valencia,Healthcare,AI Researcher,7,25.28,Azure AI,1
+Malaga,Finance,Data Analyst,2,9.96,ChatGPT,1
+Zaragoza,EdTech,Data Scientist,4,7.79,PyTorch,0
+Seville,IT,AI Engineer,3,9.83,AWS AI,1
+Palma,Healthcare,AI Engineer,1,11.21,AWS AI,0
+Murcia,Healthcare,AI Engineer,5,13.15,Azure AI,1
+Barcelona,Manufacturing,AI Engineer,10,23.93,AWS AI,0
+Seville,Healthcare,AI Engineer,1,5.1,AWS AI,0
+Bilbao,Healthcare,Data Scientist,6,11.58,ChatGPT,1
+Valencia,Finance,AI Researcher,9,25.7,ChatGPT,1
+Valencia,Manufacturing,Data Analyst,2,6.93,AWS AI,0
+Alicante,Finance,ML Engineer,0,8.69,Azure AI,0
+Seville,E-commerce,AI Engineer,6,17.06,AWS AI,1
+Madrid,IT,AI Researcher,10,26.08,Azure AI,0
+Valencia,E-commerce,Data Scientist,6,15.45,Azure AI,1
+Barcelona,IT,Data Scientist,3,8.14,TensorFlow,0
+Seville,Finance,AI Engineer,6,14.7,TensorFlow,1
+Seville,Finance,AI Engineer,10,19.07,TensorFlow,1
+Malaga,IT,AI Researcher,1,15.02,PyTorch,1
+Barcelona,EdTech,ML Engineer,1,9.07,PyTorch,1
+Valencia,E-commerce,AI Researcher,10,24.16,AWS AI,1
+Seville,EdTech,Data Scientist,5,14.47,TensorFlow,1
+Bilbao,Manufacturing,AI Researcher,5,20.99,ChatGPT,1
+Palma,EdTech,ML Engineer,5,14.52,PyTorch,0
+Murcia,Healthcare,AI Engineer,0,3.0,AWS AI,1
+Murcia,Healthcare,Data Scientist,8,18.41,Scikit-learn,0
+Barcelona,Healthcare,Data Analyst,0,4.21,ChatGPT,1
+Malaga,EdTech,Data Scientist,10,21.72,PyTorch,1
+Valencia,Manufacturing,AI Engineer,10,25.0,AWS AI,1
+Alicante,E-commerce,AI Researcher,9,23.63,PyTorch,1
+Malaga,IT,AI Engineer,1,3.0,TensorFlow,0
+Alicante,Healthcare,AI Researcher,4,16.68,ChatGPT,1
+Seville,IT,AI Engineer,2,5.63,AWS AI,1
+Murcia,Finance,Data Scientist,5,10.44,AWS AI,0
+Zaragoza,E-commerce,AI Engineer,10,25.31,ChatGPT,1
+Seville,Manufacturing,Data Scientist,3,7.15,Azure AI,1
+Zaragoza,Finance,Data Scientist,5,14.17,TensorFlow,1
+Madrid,E-commerce,ML Engineer,8,25.13,ChatGPT,0
+Seville,E-commerce,Data Analyst,7,18.27,Azure AI,1
+Murcia,Manufacturing,Data Analyst,10,20.23,Azure AI,1
+Madrid,E-commerce,Data Scientist,10,21.7,AWS AI,1
+Murcia,Manufacturing,AI Researcher,4,14.42,Azure AI,1
+Madrid,EdTech,Data Scientist,5,14.86,TensorFlow,1
+Alicante,Finance,AI Researcher,6,18.43,PyTorch,0
+Valencia,Finance,Data Analyst,10,25.03,Scikit-learn,0
+Malaga,IT,ML Engineer,1,10.05,Scikit-learn,1
+Madrid,IT,AI Researcher,9,26.52,AWS AI,0
+Valencia,E-commerce,Data Analyst,5,14.34,Scikit-learn,1
+Palma,Finance,Data Analyst,2,3.9,Azure AI,1
+Palma,Healthcare,Data Analyst,4,13.79,ChatGPT,1
+Valencia,E-commerce,Data Analyst,4,9.03,Scikit-learn,1
+Madrid,IT,ML Engineer,11,27.59,AWS AI,0
+Zaragoza,Healthcare,Data Analyst,9,20.0,AWS AI,0
+Alicante,Manufacturing,Data Scientist,4,14.47,TensorFlow,1
+Seville,E-commerce,AI Researcher,7,23.98,PyTorch,1
+Palma,Healthcare,Data Scientist,3,12.43,TensorFlow,0
+Seville,IT,Data Analyst,6,14.52,Scikit-learn,1
+Bilbao,IT,AI Researcher,6,19.32,Scikit-learn,0
+Madrid,IT,AI Researcher,9,26.69,ChatGPT,1
+Zaragoza,EdTech,AI Engineer,11,27.79,Azure AI,1
+Barcelona,Manufacturing,ML Engineer,1,8.9,Azure AI,0
+Murcia,IT,ML Engineer,6,20.67,AWS AI,0
+Malaga,E-commerce,AI Engineer,7,15.86,ChatGPT,1
+Valencia,Finance,Data Analyst,7,17.49,Scikit-learn,0
+Bilbao,IT,Data Scientist,8,17.36,PyTorch,0
+Malaga,Finance,Data Scientist,1,7.36,TensorFlow,0
+Seville,EdTech,Data Scientist,10,20.44,ChatGPT,1
+Seville,Finance,AI Engineer,6,16.2,ChatGPT,1
+Valencia,IT,AI Researcher,7,21.98,AWS AI,0
+Alicante,Manufacturing,Data Analyst,9,26.44,PyTorch,1
+Valencia,Manufacturing,AI Researcher,8,25.77,ChatGPT,1
+Malaga,Manufacturing,AI Engineer,2,10.39,Scikit-learn,1
+Palma,EdTech,Data Scientist,5,15.32,PyTorch,1
+Valencia,EdTech,AI Engineer,6,15.78,TensorFlow,0
+Valencia,EdTech,AI Researcher,4,16.47,PyTorch,1
+Bilbao,Finance,ML Engineer,9,19.78,Scikit-learn,0
+Seville,Finance,ML Engineer,5,17.29,AWS AI,0
+Palma,IT,AI Researcher,2,12.23,Scikit-learn,0
+Malaga,Finance,ML Engineer,9,25.3,TensorFlow,0
+Bilbao,Finance,Data Analyst,0,3.0,PyTorch,0
+Madrid,Finance,AI Engineer,5,13.98,Scikit-learn,1
+Alicante,Manufacturing,Data Scientist,5,12.23,PyTorch,1
+Malaga,IT,ML Engineer,11,32.12,TensorFlow,0
+Madrid,EdTech,AI Engineer,6,15.69,ChatGPT,0
+Alicante,Manufacturing,ML Engineer,2,9.11,AWS AI,0
+Murcia,Manufacturing,AI Researcher,0,5.89,ChatGPT,1
+Zaragoza,Finance,AI Researcher,5,18.31,AWS AI,0
+Barcelona,E-commerce,Data Scientist,0,4.86,Azure AI,0
+Zaragoza,EdTech,Data Scientist,5,13.2,PyTorch,1
+Valencia,E-commerce,AI Engineer,5,10.48,AWS AI,0
+Malaga,IT,Data Scientist,8,20.76,TensorFlow,0
+Malaga,E-commerce,Data Analyst,5,12.75,Scikit-learn,1
+Seville,Healthcare,Data Analyst,10,24.81,ChatGPT,1
+Palma,E-commerce,ML Engineer,10,27.01,Scikit-learn,0
+Bilbao,E-commerce,Data Analyst,6,14.38,TensorFlow,1
+Madrid,E-commerce,Data Analyst,11,26.19,TensorFlow,1
+Murcia,Manufacturing,Data Analyst,2,6.38,TensorFlow,1
+Seville,Finance,Data Scientist,6,18.76,AWS AI,0
+Malaga,Finance,Data Scientist,4,13.61,TensorFlow,1
+Barcelona,EdTech,AI Engineer,0,5.11,PyTorch,1
+Barcelona,EdTech,Data Analyst,5,14.87,AWS AI,1
+Barcelona,Finance,Data Scientist,7,19.23,ChatGPT,0
+Bilbao,IT,AI Researcher,2,12.02,Azure AI,0
+Zaragoza,Healthcare,AI Engineer,9,22.76,ChatGPT,0
+Barcelona,Finance,Data Scientist,5,15.16,TensorFlow,1
+Bilbao,E-commerce,ML Engineer,0,6.67,AWS AI,1
+Palma,E-commerce,ML Engineer,7,20.89,TensorFlow,1
+Murcia,IT,Data Analyst,9,21.67,TensorFlow,1
+Malaga,EdTech,Data Analyst,0,3.0,Scikit-learn,0
+Seville,Finance,ML Engineer,1,9.17,Azure AI,0
+Madrid,E-commerce,AI Researcher,10,30.91,ChatGPT,1
+Seville,Finance,ML Engineer,10,24.74,Scikit-learn,0
+Palma,Finance,AI Researcher,7,22.54,Scikit-learn,1
+Madrid,Finance,Data Scientist,8,19.27,ChatGPT,1
+Murcia,EdTech,Data Scientist,7,16.36,ChatGPT,0
+Alicante,Finance,AI Engineer,2,6.05,ChatGPT,0
+Malaga,E-commerce,AI Researcher,2,13.33,ChatGPT,0
+Bilbao,Finance,Data Scientist,6,15.62,TensorFlow,0
+Madrid,E-commerce,AI Engineer,9,23.83,ChatGPT,0
+Malaga,EdTech,ML Engineer,7,18.74,Scikit-learn,1
+Madrid,Manufacturing,AI Researcher,8,24.65,Scikit-learn,1
+Murcia,IT,Data Scientist,3,9.64,Azure AI,1
+Alicante,IT,Data Scientist,4,6.7,TensorFlow,1
+Madrid,EdTech,AI Engineer,10,23.89,AWS AI,1
+Bilbao,IT,Data Analyst,7,16.88,Scikit-learn,0
+Murcia,IT,ML Engineer,1,10.18,ChatGPT,0
+Seville,Manufacturing,Data Scientist,6,12.49,Scikit-learn,1
+Valencia,E-commerce,AI Researcher,4,16.34,ChatGPT,0
+Madrid,EdTech,ML Engineer,8,23.42,AWS AI,1
+Alicante,Healthcare,AI Researcher,1,9.32,Azure AI,0
+Seville,EdTech,AI Engineer,0,3.0,ChatGPT,1
+Barcelona,EdTech,ML Engineer,7,20.59,Scikit-learn,1
+Alicante,Finance,AI Engineer,6,18.18,Azure AI,0
+Seville,Healthcare,Data Scientist,8,22.71,ChatGPT,1
+Madrid,Finance,AI Engineer,1,4.63,ChatGPT,1
+Palma,Healthcare,ML Engineer,10,24.23,AWS AI,0
+Madrid,Manufacturing,Data Scientist,0,4.9,TensorFlow,0
+Zaragoza,E-commerce,AI Researcher,6,23.04,Azure AI,1
+Seville,Healthcare,Data Analyst,10,22.11,TensorFlow,1
+Murcia,Manufacturing,AI Engineer,8,20.1,PyTorch,1
+Murcia,IT,Data Scientist,11,26.33,PyTorch,0
+Valencia,Healthcare,Data Analyst,3,9.47,AWS AI,1
+Madrid,Manufacturing,Data Analyst,10,21.51,Scikit-learn,0
+Bilbao,EdTech,AI Engineer,0,5.42,Scikit-learn,0
+Palma,E-commerce,Data Analyst,3,9.39,PyTorch,0
+Malaga,Manufacturing,AI Researcher,2,13.71,PyTorch,0
+Bilbao,EdTech,ML Engineer,6,19.24,PyTorch,0
+Malaga,Finance,Data Analyst,2,3.47,Scikit-learn,1
+Zaragoza,Manufacturing,Data Scientist,10,23.57,PyTorch,1
+Madrid,Healthcare,ML Engineer,0,5.45,TensorFlow,1
+Barcelona,Manufacturing,AI Engineer,8,21.42,Scikit-learn,1
+Valencia,Manufacturing,Data Scientist,0,3.45,AWS AI,0
+Seville,Manufacturing,Data Scientist,0,5.09,ChatGPT,1
+Valencia,IT,AI Engineer,0,3.0,PyTorch,1
+Zaragoza,Manufacturing,ML Engineer,10,25.51,PyTorch,1
+Seville,Healthcare,Data Scientist,2,8.48,ChatGPT,0
+Zaragoza,Manufacturing,AI Engineer,9,24.97,AWS AI,1
+Seville,Healthcare,ML Engineer,10,24.49,AWS AI,0
+Valencia,Manufacturing,Data Scientist,0,4.01,PyTorch,0
+Palma,IT,Data Scientist,9,19.43,TensorFlow,0
+Murcia,Finance,ML Engineer,2,13.96,Scikit-learn,1
+Barcelona,IT,ML Engineer,11,32.02,ChatGPT,1
+Zaragoza,Finance,AI Researcher,2,13.41,Scikit-learn,0
+Murcia,IT,Data Scientist,7,16.97,Azure AI,0
+Palma,E-commerce,Data Scientist,0,3.0,Scikit-learn,0
+Malaga,EdTech,Data Analyst,5,15.06,ChatGPT,1
+Madrid,IT,AI Researcher,9,24.58,ChatGPT,1
+Alicante,Healthcare,AI Researcher,7,24.96,PyTorch,0
+Alicante,IT,ML Engineer,9,26.66,AWS AI,1
+Malaga,E-commerce,ML Engineer,9,27.37,Scikit-learn,1
+Palma,Healthcare,Data Analyst,10,27.29,TensorFlow,1
+Valencia,Healthcare,AI Researcher,4,15.47,AWS AI,0
+Seville,EdTech,ML Engineer,11,28.3,PyTorch,1
+Malaga,EdTech,Data Analyst,1,4.56,ChatGPT,1
+Bilbao,Manufacturing,AI Researcher,2,14.52,TensorFlow,1
+Bilbao,EdTech,AI Engineer,7,16.97,TensorFlow,1
+Barcelona,Finance,AI Researcher,4,13.78,ChatGPT,1
+Zaragoza,E-commerce,AI Engineer,9,22.77,Azure AI,1
+Madrid,Manufacturing,Data Scientist,9,22.05,TensorFlow,1
+Malaga,IT,AI Engineer,2,6.78,Azure AI,1
+Bilbao,IT,AI Researcher,10,29.5,PyTorch,1
+Barcelona,Finance,Data Scientist,9,20.15,Azure AI,1
+Palma,Finance,Data Scientist,8,22.04,TensorFlow,0
+Malaga,IT,ML Engineer,9,24.81,TensorFlow,1
+Barcelona,Finance,Data Analyst,10,25.45,Scikit-learn,1
+Valencia,E-commerce,AI Researcher,0,5.55,AWS AI,0
+Valencia,Healthcare,AI Researcher,10,26.51,ChatGPT,0
+Zaragoza,E-commerce,ML Engineer,2,11.11,Scikit-learn,1
+Alicante,EdTech,ML Engineer,3,10.97,TensorFlow,0
+Zaragoza,EdTech,Data Analyst,2,9.66,AWS AI,1
+Seville,EdTech,AI Engineer,2,6.29,ChatGPT,1
+Bilbao,Finance,ML Engineer,5,19.18,Scikit-learn,1
+Barcelona,E-commerce,AI Engineer,7,16.61,Scikit-learn,0
+Palma,Manufacturing,AI Engineer,9,19.18,ChatGPT,1
+Valencia,Manufacturing,AI Researcher,3,13.31,Scikit-learn,1
+Madrid,EdTech,ML Engineer,1,5.47,ChatGPT,1
+Seville,IT,AI Engineer,0,4.06,PyTorch,1
+Alicante,E-commerce,Data Scientist,5,14.72,ChatGPT,0
+Murcia,IT,AI Engineer,10,22.75,TensorFlow,1
+Palma,Healthcare,ML Engineer,6,17.99,TensorFlow,1
+Bilbao,Healthcare,AI Researcher,0,8.25,Azure AI,1
+Malaga,Manufacturing,ML Engineer,11,26.5,PyTorch,0
+Madrid,E-commerce,AI Engineer,0,3.0,Azure AI,0
+Seville,Healthcare,AI Engineer,1,4.58,Azure AI,1
+Madrid,E-commerce,AI Researcher,8,25.1,TensorFlow,0
+Bilbao,Manufacturing,Data Analyst,8,16.89,TensorFlow,0
+Malaga,IT,ML Engineer,6,19.63,Scikit-learn,1
+Alicante,EdTech,AI Researcher,8,29.5,Scikit-learn,1
+Bilbao,E-commerce,AI Engineer,5,13.15,TensorFlow,0
+Bilbao,Finance,AI Engineer,11,25.47,PyTorch,1
+Malaga,IT,AI Researcher,0,6.48,Azure AI,1
+Zaragoza,EdTech,AI Engineer,7,17.48,PyTorch,1
+Zaragoza,Manufacturing,ML Engineer,9,25.92,TensorFlow,1
+Alicante,EdTech,AI Engineer,10,24.77,TensorFlow,1
+Bilbao,E-commerce,AI Engineer,3,9.63,PyTorch,0
+Palma,EdTech,Data Scientist,4,15.34,AWS AI,0
+Malaga,IT,ML Engineer,10,25.79,ChatGPT,0
+Murcia,E-commerce,Data Scientist,7,15.99,AWS AI,0
+Valencia,Healthcare,Data Analyst,1,4.31,TensorFlow,0
+Palma,E-commerce,ML Engineer,2,8.89,AWS AI,1
+Malaga,EdTech,AI Researcher,11,28.82,Azure AI,1
+Zaragoza,Manufacturing,Data Scientist,6,14.14,PyTorch,1
+Malaga,EdTech,ML Engineer,10,26.6,ChatGPT,0
+Seville,Healthcare,ML Engineer,2,9.04,AWS AI,1
+Barcelona,Healthcare,ML Engineer,5,16.46,TensorFlow,1
+Alicante,Finance,AI Engineer,8,23.8,PyTorch,1
+Zaragoza,E-commerce,Data Analyst,10,22.73,PyTorch,1
+Barcelona,E-commerce,Data Analyst,8,19.45,PyTorch,0
+Seville,IT,ML Engineer,10,23.83,ChatGPT,0
+Barcelona,Manufacturing,Data Analyst,2,7.95,Azure AI,1
+Bilbao,Finance,AI Engineer,5,14.24,ChatGPT,0
+Bilbao,E-commerce,AI Researcher,3,17.06,Azure AI,1
+Bilbao,EdTech,Data Analyst,1,5.23,TensorFlow,0
+Palma,Healthcare,Data Analyst,0,3.0,AWS AI,1
+Alicante,IT,Data Analyst,4,15.45,Azure AI,1
+Bilbao,Healthcare,Data Scientist,2,9.58,TensorFlow,1
+Valencia,IT,ML Engineer,10,26.99,PyTorch,0
+Madrid,Healthcare,Data Analyst,7,18.64,TensorFlow,0
+Palma,Healthcare,Data Analyst,0,4.73,Scikit-learn,1
+Alicante,EdTech,AI Researcher,0,6.15,Azure AI,1
+Valencia,EdTech,ML Engineer,1,10.23,AWS AI,0
+Palma,E-commerce,AI Researcher,1,7.63,ChatGPT,0
+Alicante,Healthcare,AI Researcher,4,18.2,ChatGPT,0
+Bilbao,Finance,AI Researcher,10,26.41,ChatGPT,1
+Alicante,Finance,ML Engineer,5,15.05,Scikit-learn,1
+Palma,Healthcare,ML Engineer,11,30.01,Azure AI,1
+Zaragoza,EdTech,AI Researcher,9,26.31,Azure AI,0
+Zaragoza,Manufacturing,ML Engineer,8,26.62,PyTorch,0
+Palma,EdTech,AI Engineer,7,15.37,AWS AI,1
+Madrid,Healthcare,AI Researcher,4,16.91,AWS AI,1
+Zaragoza,Manufacturing,AI Engineer,2,6.73,ChatGPT,1
+Bilbao,Healthcare,Data Analyst,2,6.7,PyTorch,1
+Alicante,EdTech,Data Analyst,6,21.8,Scikit-learn,1
+Bilbao,IT,AI Researcher,11,29.38,PyTorch,1
+Zaragoza,Manufacturing,ML Engineer,10,28.02,AWS AI,1
+Malaga,Healthcare,ML Engineer,0,3.48,Azure AI,0
+Valencia,Manufacturing,Data Scientist,10,20.15,Azure AI,0
+Bilbao,Manufacturing,ML Engineer,8,19.84,Scikit-learn,0
+Murcia,Healthcare,AI Engineer,0,3.0,TensorFlow,1
+Murcia,EdTech,AI Researcher,4,11.36,Scikit-learn,1
+Malaga,EdTech,Data Analyst,4,11.88,AWS AI,0
+Madrid,Finance,ML Engineer,2,7.26,AWS AI,0
+Murcia,Healthcare,Data Scientist,8,18.61,Scikit-learn,0
+Bilbao,EdTech,Data Analyst,10,26.39,AWS AI,0
+Alicante,Healthcare,ML Engineer,7,21.65,Scikit-learn,1
+Madrid,EdTech,Data Scientist,7,18.23,TensorFlow,1
+Valencia,Finance,AI Engineer,2,5.57,ChatGPT,1
+Alicante,EdTech,ML Engineer,1,8.33,Azure AI,1
+Madrid,Finance,Data Scientist,2,10.15,AWS AI,1
+Bilbao,IT,AI Engineer,3,9.47,ChatGPT,1
+Valencia,IT,AI Researcher,0,5.41,TensorFlow,1
+Valencia,IT,Data Analyst,9,19.84,AWS AI,0
+Zaragoza,Manufacturing,Data Analyst,10,22.48,PyTorch,0
+Malaga,E-commerce,AI Engineer,9,22.47,TensorFlow,1
+Barcelona,Manufacturing,AI Researcher,3,14.56,PyTorch,1
+Barcelona,Finance,Data Scientist,2,5.14,PyTorch,1
+Bilbao,Finance,AI Researcher,4,19.27,AWS AI,0
+Madrid,Manufacturing,Data Analyst,11,26.1,Azure AI,0
+Bilbao,Finance,AI Engineer,3,13.63,Azure AI,1
+Valencia,Finance,Data Scientist,3,8.97,PyTorch,0
+Valencia,IT,Data Analyst,3,8.45,PyTorch,1
+Barcelona,Manufacturing,ML Engineer,5,17.41,ChatGPT,1
+Madrid,Finance,AI Researcher,4,17.66,PyTorch,1
+Seville,Manufacturing,Data Analyst,2,6.18,Azure AI,0
+Murcia,E-commerce,Data Analyst,1,6.18,TensorFlow,1
+Malaga,IT,Data Analyst,7,19.94,TensorFlow,0
+Malaga,IT,AI Researcher,8,26.95,TensorFlow,0
+Palma,E-commerce,AI Engineer,8,17.32,Azure AI,1
+Palma,Finance,AI Researcher,3,12.69,ChatGPT,0
+Madrid,IT,Data Scientist,2,11.29,Scikit-learn,1
+Barcelona,EdTech,AI Researcher,2,13.53,Azure AI,0
+Malaga,IT,Data Analyst,2,9.52,PyTorch,0
+Valencia,Manufacturing,AI Researcher,3,14.63,PyTorch,1
+Palma,Finance,Data Scientist,2,9.15,ChatGPT,1
+Bilbao,EdTech,Data Scientist,0,6.61,PyTorch,1
+Malaga,E-commerce,ML Engineer,4,13.68,PyTorch,0
+Malaga,EdTech,AI Researcher,7,21.78,Azure AI,1
+Zaragoza,Healthcare,AI Engineer,8,18.73,Scikit-learn,1
+Valencia,EdTech,AI Researcher,10,29.27,PyTorch,0
+Alicante,EdTech,AI Researcher,7,21.8,Scikit-learn,0
+Valencia,E-commerce,ML Engineer,1,5.56,ChatGPT,1
+Bilbao,Manufacturing,Data Analyst,1,3.14,Scikit-learn,0
+Madrid,IT,Data Scientist,8,21.93,TensorFlow,1
+Bilbao,EdTech,Data Scientist,3,7.89,Scikit-learn,0
+Valencia,E-commerce,Data Analyst,4,12.72,Scikit-learn,0
+Barcelona,Healthcare,ML Engineer,3,12.89,Azure AI,0
+Murcia,IT,ML Engineer,11,29.09,AWS AI,0
+Barcelona,Healthcare,AI Researcher,5,19.41,Azure AI,0
+Palma,Finance,Data Scientist,0,4.1,TensorFlow,0
+Palma,Manufacturing,Data Scientist,7,16.96,Azure AI,1
+Zaragoza,EdTech,AI Engineer,6,13.43,Azure AI,1
+Zaragoza,E-commerce,Data Scientist,5,11.64,ChatGPT,1
+Madrid,EdTech,ML Engineer,3,11.05,TensorFlow,1
+Madrid,IT,Data Analyst,11,22.12,PyTorch,0
+Alicante,IT,ML Engineer,7,21.26,TensorFlow,0
+Alicante,EdTech,Data Scientist,5,15.63,Azure AI,0
+Malaga,E-commerce,ML Engineer,0,6.34,Scikit-learn,1
+Valencia,Finance,Data Scientist,4,12.93,AWS AI,1
+Malaga,E-commerce,ML Engineer,11,24.27,Azure AI,0
+Bilbao,EdTech,AI Engineer,5,13.69,Scikit-learn,0
+Zaragoza,Manufacturing,AI Engineer,10,20.81,PyTorch,1
+Seville,IT,Data Scientist,7,17.77,PyTorch,1
+Murcia,Finance,AI Engineer,5,13.22,ChatGPT,0
+Barcelona,IT,Data Analyst,2,7.35,AWS AI,1
+Murcia,E-commerce,ML Engineer,8,25.14,ChatGPT,0
+Murcia,Healthcare,Data Scientist,10,24.91,PyTorch,1
+Zaragoza,Healthcare,ML Engineer,4,14.1,TensorFlow,1
+Palma,E-commerce,AI Engineer,7,16.78,AWS AI,0
+Alicante,IT,ML Engineer,5,18.67,AWS AI,1
+Zaragoza,E-commerce,AI Engineer,5,12.65,Scikit-learn,1
+Bilbao,E-commerce,Data Scientist,7,20.99,AWS AI,1
+Seville,Healthcare,Data Analyst,0,3.0,ChatGPT,0
+Palma,EdTech,ML Engineer,5,15.44,Scikit-learn,0
+Seville,Healthcare,Data Scientist,3,10.59,PyTorch,1
+Valencia,E-commerce,Data Analyst,4,11.38,Azure AI,1
+Alicante,Manufacturing,ML Engineer,0,6.57,PyTorch,0
+Alicante,Manufacturing,Data Analyst,5,14.72,AWS AI,1
+Malaga,Healthcare,AI Engineer,10,25.29,PyTorch,1
+Madrid,IT,ML Engineer,0,7.13,Scikit-learn,1
+Palma,Healthcare,Data Scientist,8,19.78,Scikit-learn,0
+Murcia,Healthcare,ML Engineer,5,16.21,AWS AI,1
+Palma,Healthcare,Data Scientist,4,12.0,AWS AI,0
+Palma,EdTech,Data Analyst,8,19.53,TensorFlow,0
+Seville,EdTech,Data Analyst,6,14.45,ChatGPT,0
+Palma,IT,AI Researcher,0,6.79,Azure AI,1
+Madrid,E-commerce,Data Analyst,0,3.0,Scikit-learn,1
+Seville,E-commerce,AI Researcher,10,28.36,TensorFlow,0
+Seville,E-commerce,Data Analyst,10,22.24,TensorFlow,1
+Bilbao,IT,AI Engineer,6,14.52,Scikit-learn,1
+Zaragoza,Finance,AI Researcher,11,29.29,Azure AI,1
+Bilbao,E-commerce,ML Engineer,4,14.16,AWS AI,0
+Valencia,Finance,Data Scientist,3,12.11,Scikit-learn,0
+Alicante,E-commerce,Data Analyst,6,14.66,PyTorch,0
+Murcia,Manufacturing,Data Analyst,4,11.86,AWS AI,1
+Alicante,EdTech,AI Researcher,0,8.15,AWS AI,1
+Murcia,Manufacturing,AI Researcher,4,17.57,ChatGPT,0
+Seville,Healthcare,Data Scientist,9,22.64,AWS AI,1
+Barcelona,E-commerce,AI Engineer,2,5.15,AWS AI,1
+Seville,E-commerce,Data Analyst,7,21.65,Scikit-learn,1
+Madrid,Manufacturing,Data Analyst,0,6.77,TensorFlow,1
+Alicante,EdTech,AI Researcher,5,19.67,Scikit-learn,1
+Seville,Healthcare,Data Scientist,7,14.7,AWS AI,1
+Barcelona,IT,AI Engineer,8,18.66,TensorFlow,1
+Seville,E-commerce,Data Scientist,0,3.0,Azure AI,0
+Murcia,Finance,AI Engineer,11,25.52,Azure AI,0
+Palma,Manufacturing,Data Scientist,4,11.72,TensorFlow,0
+Palma,Manufacturing,ML Engineer,10,25.34,Scikit-learn,1
+Bilbao,IT,Data Analyst,0,3.0,TensorFlow,1
+Madrid,E-commerce,Data Scientist,8,19.82,TensorFlow,1
+Murcia,E-commerce,AI Researcher,6,19.83,Azure AI,0
+Seville,EdTech,ML Engineer,10,30.08,Scikit-learn,1
+Bilbao,IT,AI Engineer,9,23.43,Azure AI,0
+Zaragoza,Healthcare,AI Researcher,7,25.83,Azure AI,1
+Murcia,E-commerce,AI Researcher,3,16.69,AWS AI,1
+Bilbao,EdTech,Data Analyst,8,19.54,TensorFlow,0
+Bilbao,IT,AI Engineer,9,21.99,TensorFlow,1
+Madrid,Finance,ML Engineer,8,21.2,TensorFlow,0
+Valencia,E-commerce,AI Engineer,11,23.64,AWS AI,1
+Bilbao,Finance,ML Engineer,11,30.41,ChatGPT,1
+Seville,Manufacturing,AI Engineer,8,19.73,Azure AI,0
+Seville,Manufacturing,ML Engineer,6,16.01,TensorFlow,1
+Madrid,E-commerce,AI Engineer,4,10.3,ChatGPT,0
+Seville,IT,Data Scientist,5,13.31,Scikit-learn,1
+Malaga,E-commerce,AI Engineer,9,23.72,AWS AI,1
+Barcelona,IT,AI Engineer,9,22.0,Azure AI,1
+Malaga,IT,Data Scientist,1,6.45,PyTorch,1
+Madrid,E-commerce,AI Engineer,2,10.73,Scikit-learn,0
+Alicante,Healthcare,Data Scientist,4,11.25,ChatGPT,0
+Bilbao,EdTech,Data Scientist,8,21.07,PyTorch,1
+Zaragoza,IT,AI Researcher,11,30.19,PyTorch,1
+Alicante,EdTech,AI Researcher,10,29.49,TensorFlow,1
+Malaga,IT,AI Engineer,9,22.12,Scikit-learn,1
+Zaragoza,Manufacturing,AI Researcher,10,30.1,AWS AI,1
+Seville,E-commerce,Data Scientist,3,7.57,TensorFlow,1
+Murcia,IT,AI Researcher,10,28.07,TensorFlow,0
+Bilbao,E-commerce,Data Scientist,10,25.19,Azure AI,0
+Palma,Finance,ML Engineer,0,6.84,TensorFlow,1
+Palma,Healthcare,Data Analyst,3,8.08,ChatGPT,0
+Bilbao,E-commerce,ML Engineer,1,5.42,AWS AI,0
+Zaragoza,Manufacturing,AI Engineer,9,21.42,TensorFlow,1
+Zaragoza,Healthcare,Data Scientist,4,13.75,TensorFlow,1
+Barcelona,Finance,ML Engineer,8,23.28,AWS AI,0
+Madrid,EdTech,Data Analyst,10,25.53,ChatGPT,0
+Murcia,IT,ML Engineer,0,5.49,Scikit-learn,0
+Seville,Healthcare,AI Engineer,4,13.06,Azure AI,0
+Alicante,Finance,Data Scientist,9,18.16,TensorFlow,0
+Palma,EdTech,AI Researcher,3,15.69,Scikit-learn,1
+Alicante,Healthcare,Data Analyst,1,4.04,AWS AI,1
+Malaga,EdTech,ML Engineer,0,7.73,ChatGPT,0
+Malaga,Finance,Data Analyst,6,13.78,TensorFlow,1
+Seville,IT,AI Engineer,3,11.83,ChatGPT,0
+Zaragoza,Healthcare,AI Engineer,9,24.21,AWS AI,1
+Palma,E-commerce,ML Engineer,6,20.28,TensorFlow,1
+Palma,IT,ML Engineer,0,6.91,Scikit-learn,1
+Valencia,EdTech,Data Scientist,4,14.78,Azure AI,1
+Valencia,EdTech,ML Engineer,4,11.43,Azure AI,1
+Zaragoza,E-commerce,ML Engineer,10,27.62,AWS AI,0
+Barcelona,IT,Data Scientist,6,15.71,Scikit-learn,1
+Palma,Healthcare,AI Researcher,7,23.1,AWS AI,1
+Seville,IT,Data Scientist,1,8.75,Azure AI,0
+Seville,EdTech,AI Engineer,4,11.19,TensorFlow,1
+Palma,IT,AI Researcher,9,24.47,Azure AI,1
+Madrid,Finance,ML Engineer,4,15.57,TensorFlow,1
+Bilbao,Manufacturing,ML Engineer,6,18.37,Azure AI,1
+Madrid,Healthcare,AI Engineer,7,19.37,TensorFlow,0
+Madrid,Manufacturing,AI Engineer,7,22.03,TensorFlow,0
+Zaragoza,IT,AI Researcher,9,23.79,TensorFlow,0
+Bilbao,Healthcare,ML Engineer,7,20.76,TensorFlow,0
+Palma,Manufacturing,ML Engineer,5,19.01,AWS AI,1
+Bilbao,Manufacturing,ML Engineer,5,10.97,Scikit-learn,1
+Madrid,Manufacturing,Data Scientist,3,9.98,Azure AI,0
+Palma,Manufacturing,AI Researcher,4,15.72,TensorFlow,0
+Malaga,Healthcare,AI Engineer,4,12.21,Scikit-learn,1
+Valencia,EdTech,Data Analyst,4,10.89,Azure AI,0
+Murcia,Manufacturing,AI Engineer,1,3.0,TensorFlow,0
+Valencia,EdTech,ML Engineer,4,11.19,AWS AI,1
+Valencia,Manufacturing,Data Scientist,1,5.09,TensorFlow,0
+Palma,E-commerce,Data Analyst,3,9.09,Azure AI,0
+Palma,Healthcare,Data Scientist,5,14.85,PyTorch,1
+Valencia,Healthcare,Data Scientist,5,13.97,AWS AI,1
+Alicante,EdTech,ML Engineer,11,28.31,PyTorch,1
+Palma,Finance,AI Researcher,5,14.02,TensorFlow,0
+Malaga,EdTech,AI Engineer,5,14.58,TensorFlow,1
+Valencia,Finance,Data Scientist,5,16.07,PyTorch,1
+Alicante,IT,AI Engineer,1,4.23,Scikit-learn,0
+Palma,Healthcare,Data Analyst,5,15.29,AWS AI,0
+Valencia,EdTech,AI Engineer,3,11.3,ChatGPT,0
+Malaga,Finance,Data Analyst,7,14.93,Azure AI,0
+Malaga,IT,AI Researcher,9,26.3,PyTorch,0
+Bilbao,IT,Data Analyst,7,19.56,PyTorch,0
+Bilbao,IT,Data Analyst,3,6.25,ChatGPT,1
+Zaragoza,E-commerce,ML Engineer,7,18.59,PyTorch,1
+Alicante,Manufacturing,AI Engineer,9,21.95,PyTorch,1
+Murcia,E-commerce,AI Engineer,8,18.21,PyTorch,0
+Madrid,E-commerce,AI Researcher,2,13.77,Scikit-learn,1
+Madrid,Healthcare,ML Engineer,5,16.51,ChatGPT,0
+Madrid,E-commerce,AI Researcher,8,25.57,Scikit-learn,0
+Palma,EdTech,Data Scientist,0,5.85,Azure AI,1
+Malaga,Manufacturing,Data Analyst,4,13.64,ChatGPT,1
+Madrid,EdTech,Data Analyst,0,3.0,Scikit-learn,0
+Seville,EdTech,Data Analyst,0,4.44,AWS AI,1
+Valencia,EdTech,Data Scientist,2,7.31,TensorFlow,1
+Zaragoza,IT,AI Researcher,7,24.45,PyTorch,1
+Seville,Healthcare,Data Analyst,6,14.87,PyTorch,1
+Alicante,IT,Data Scientist,4,13.57,PyTorch,1
+Seville,Manufacturing,ML Engineer,5,15.2,Scikit-learn,0
+Palma,E-commerce,ML Engineer,3,9.7,ChatGPT,1
+Malaga,E-commerce,AI Engineer,5,11.78,Azure AI,0
+Seville,Manufacturing,AI Researcher,8,23.8,ChatGPT,1
+Barcelona,Manufacturing,ML Engineer,0,4.43,ChatGPT,0
+Seville,Finance,ML Engineer,0,3.0,ChatGPT,0
+Seville,Manufacturing,ML Engineer,2,7.59,ChatGPT,0
+Seville,E-commerce,Data Analyst,1,3.0,Scikit-learn,1
+Murcia,IT,Data Analyst,11,29.65,TensorFlow,1
+Barcelona,EdTech,ML Engineer,6,19.71,AWS AI,0
+Malaga,Finance,Data Scientist,11,23.48,ChatGPT,1
+Valencia,EdTech,ML Engineer,4,12.48,Azure AI,0
+Bilbao,E-commerce,Data Analyst,3,13.26,TensorFlow,0
+Zaragoza,Manufacturing,AI Researcher,5,16.5,TensorFlow,1
+Alicante,Finance,AI Researcher,11,30.68,TensorFlow,1
+Bilbao,Healthcare,AI Engineer,8,21.45,AWS AI,1
+Seville,Healthcare,AI Engineer,3,10.76,PyTorch,1
+Seville,IT,Data Analyst,6,14.32,PyTorch,0
+Valencia,Finance,AI Engineer,1,5.96,Scikit-learn,1
+Bilbao,Healthcare,AI Researcher,7,23.16,Scikit-learn,0
+Valencia,E-commerce,Data Analyst,0,5.18,Azure AI,1
+Murcia,Finance,Data Scientist,6,14.62,Scikit-learn,0
+Murcia,Finance,Data Analyst,6,18.96,ChatGPT,1
+Alicante,Manufacturing,Data Analyst,3,7.79,ChatGPT,1
+Murcia,Healthcare,Data Scientist,4,10.15,TensorFlow,0
+Murcia,IT,Data Analyst,5,14.42,AWS AI,0
+Zaragoza,IT,Data Scientist,7,18.26,AWS AI,1
+Alicante,Finance,AI Engineer,6,17.47,Scikit-learn,1
+Seville,EdTech,Data Scientist,1,3.0,ChatGPT,1
+Barcelona,IT,ML Engineer,6,18.78,ChatGPT,1
+Murcia,Finance,Data Analyst,10,25.98,PyTorch,0
+Malaga,E-commerce,AI Engineer,3,11.04,AWS AI,1
+Bilbao,Manufacturing,Data Scientist,6,15.46,PyTorch,1
+Malaga,EdTech,AI Researcher,11,32.42,AWS AI,1
+Bilbao,Finance,ML Engineer,8,21.07,ChatGPT,1
+Murcia,Manufacturing,Data Analyst,6,15.92,Azure AI,1
+Valencia,EdTech,ML Engineer,6,19.14,PyTorch,1
+Valencia,Healthcare,Data Scientist,8,21.28,Scikit-learn,1
+Madrid,E-commerce,Data Scientist,2,10.63,Scikit-learn,1
+Alicante,IT,AI Engineer,10,23.77,Azure AI,1
+Malaga,Healthcare,ML Engineer,3,12.56,Scikit-learn,1
+Murcia,Finance,Data Analyst,3,8.94,ChatGPT,1
+Barcelona,Manufacturing,Data Analyst,9,22.17,AWS AI,1
+Murcia,IT,ML Engineer,6,17.32,AWS AI,0
+Malaga,IT,Data Analyst,2,8.93,Scikit-learn,1
+Palma,IT,Data Scientist,10,22.52,ChatGPT,1
+Palma,IT,Data Analyst,6,14.93,PyTorch,1
+Alicante,Manufacturing,AI Researcher,8,24.94,TensorFlow,1
+Madrid,IT,AI Engineer,8,18.89,AWS AI,1
+Alicante,Healthcare,ML Engineer,5,15.58,Scikit-learn,1
+Zaragoza,IT,Data Scientist,8,22.92,PyTorch,0
+Valencia,E-commerce,AI Researcher,7,20.78,ChatGPT,1
+Murcia,Manufacturing,Data Analyst,6,18.19,AWS AI,0
+Bilbao,IT,ML Engineer,4,17.06,PyTorch,1
+Bilbao,EdTech,ML Engineer,2,11.0,Scikit-learn,0
+Palma,Manufacturing,Data Analyst,3,7.22,Scikit-learn,1
+Seville,IT,Data Scientist,3,12.54,TensorFlow,1
+Murcia,Manufacturing,Data Analyst,6,14.42,AWS AI,1
+Murcia,Healthcare,AI Engineer,10,25.81,TensorFlow,0
+Murcia,EdTech,Data Analyst,6,16.05,PyTorch,1
+Barcelona,Manufacturing,AI Researcher,5,17.13,ChatGPT,1
+Barcelona,Manufacturing,Data Scientist,11,25.48,TensorFlow,0
+Zaragoza,EdTech,Data Analyst,11,25.58,Scikit-learn,1
+Barcelona,Healthcare,AI Engineer,2,8.88,PyTorch,1
+Murcia,Manufacturing,ML Engineer,5,14.04,AWS AI,1
+Zaragoza,Manufacturing,Data Scientist,3,10.75,Azure AI,1
+Valencia,Finance,AI Engineer,6,14.96,TensorFlow,0
+Madrid,IT,AI Engineer,5,13.54,PyTorch,1
+Bilbao,Healthcare,Data Scientist,1,3.24,TensorFlow,1
+Bilbao,Manufacturing,ML Engineer,6,19.48,PyTorch,1
+Malaga,EdTech,ML Engineer,9,22.96,TensorFlow,1
+Barcelona,Healthcare,AI Researcher,9,30.4,TensorFlow,0
+Murcia,E-commerce,Data Analyst,6,13.52,AWS AI,0
+Valencia,EdTech,AI Researcher,11,27.95,AWS AI,0
+Madrid,IT,ML Engineer,2,11.42,PyTorch,1
+Seville,EdTech,ML Engineer,4,13.6,Azure AI,0
+Seville,IT,AI Researcher,7,22.84,PyTorch,1
+Zaragoza,Healthcare,Data Scientist,8,18.66,Scikit-learn,1
+Zaragoza,Manufacturing,AI Engineer,11,26.0,ChatGPT,1
+Bilbao,Finance,AI Engineer,5,11.61,TensorFlow,1
+Malaga,EdTech,ML Engineer,6,16.94,Scikit-learn,1
+Palma,EdTech,Data Scientist,6,15.29,Azure AI,1
+Bilbao,EdTech,AI Engineer,6,16.46,PyTorch,1
+Bilbao,IT,Data Analyst,8,15.55,ChatGPT,1
+Madrid,EdTech,Data Scientist,1,10.01,ChatGPT,0
+Seville,IT,AI Engineer,6,17.69,TensorFlow,1
+Madrid,Manufacturing,Data Scientist,0,3.0,Azure AI,0
+Malaga,Finance,AI Researcher,9,24.66,Azure AI,1
+Madrid,IT,ML Engineer,10,27.96,AWS AI,1
+Bilbao,IT,ML Engineer,9,28.75,Azure AI,0
+Madrid,IT,ML Engineer,1,7.13,PyTorch,0
+Bilbao,E-commerce,AI Engineer,11,25.09,Scikit-learn,1
+Madrid,IT,AI Engineer,2,8.03,TensorFlow,0
+Seville,IT,AI Researcher,9,29.26,PyTorch,1
+Murcia,Manufacturing,Data Scientist,11,25.24,ChatGPT,0
+Murcia,Healthcare,Data Analyst,11,23.58,ChatGPT,1
+Bilbao,Finance,AI Engineer,5,12.39,Scikit-learn,1
+Madrid,EdTech,Data Analyst,9,24.44,PyTorch,0
+Palma,Finance,Data Analyst,0,5.12,TensorFlow,1
+Madrid,Manufacturing,AI Engineer,10,23.46,TensorFlow,1
+Alicante,EdTech,AI Engineer,1,5.63,TensorFlow,0
+Alicante,Manufacturing,Data Scientist,5,11.6,PyTorch,1
+Valencia,E-commerce,AI Engineer,4,11.75,TensorFlow,0
+Zaragoza,Manufacturing,AI Researcher,2,12.21,PyTorch,1
+Malaga,Finance,AI Researcher,9,29.43,PyTorch,1
+Zaragoza,IT,Data Scientist,10,26.65,TensorFlow,1
+Palma,Manufacturing,Data Analyst,9,22.28,Scikit-learn,1
+Barcelona,Manufacturing,Data Analyst,11,25.19,Azure AI,0
+Seville,Manufacturing,Data Scientist,11,22.53,Azure AI,1
+Valencia,Finance,Data Analyst,2,9.1,AWS AI,0
+Seville,IT,Data Scientist,8,22.07,AWS AI,0
+Madrid,EdTech,Data Scientist,11,27.84,AWS AI,0
+Seville,Manufacturing,ML Engineer,0,3.91,AWS AI,1
+Palma,EdTech,AI Engineer,2,5.13,ChatGPT,1
+Valencia,IT,ML Engineer,4,14.9,PyTorch,1
+Malaga,IT,AI Engineer,0,3.0,TensorFlow,0
+Barcelona,EdTech,Data Scientist,3,7.61,Azure AI,0
+Alicante,Finance,Data Scientist,2,8.5,AWS AI,1
+Alicante,Manufacturing,Data Analyst,11,24.9,PyTorch,0
+Zaragoza,Manufacturing,AI Researcher,1,13.64,Azure AI,0
+Zaragoza,Finance,Data Scientist,7,16.63,Azure AI,0
+Zaragoza,EdTech,AI Researcher,6,16.24,ChatGPT,1
+Murcia,Healthcare,Data Scientist,10,25.78,AWS AI,1
+Bilbao,Finance,Data Analyst,6,11.67,Scikit-learn,1
+Seville,Healthcare,AI Engineer,5,13.98,AWS AI,0
+Alicante,IT,Data Analyst,5,10.3,ChatGPT,0
+Murcia,IT,ML Engineer,7,19.22,ChatGPT,0
+Valencia,EdTech,Data Analyst,10,21.31,TensorFlow,1
+Zaragoza,IT,Data Scientist,8,18.59,PyTorch,0
+Palma,E-commerce,ML Engineer,11,25.35,Scikit-learn,0
+Bilbao,EdTech,AI Researcher,8,21.95,PyTorch,1
+Barcelona,EdTech,ML Engineer,6,19.67,PyTorch,0
+Barcelona,IT,Data Scientist,1,3.0,Azure AI,1
+Palma,E-commerce,ML Engineer,1,9.24,Azure AI,0
+Malaga,Healthcare,Data Scientist,4,11.0,Scikit-learn,0
+Alicante,EdTech,ML Engineer,7,21.01,ChatGPT,0
+Alicante,Manufacturing,Data Analyst,7,19.28,TensorFlow,0
+Bilbao,Healthcare,Data Scientist,8,19.63,Scikit-learn,1
+Barcelona,Finance,Data Scientist,10,26.36,TensorFlow,1
+Murcia,Finance,Data Scientist,7,19.27,ChatGPT,0
+Barcelona,E-commerce,Data Analyst,9,21.31,Azure AI,1
+Bilbao,EdTech,AI Engineer,10,24.93,TensorFlow,0
+Seville,EdTech,ML Engineer,8,24.47,AWS AI,0
+Seville,Manufacturing,AI Engineer,0,3.0,TensorFlow,1
+Bilbao,E-commerce,Data Analyst,5,15.18,AWS AI,0
+Barcelona,IT,Data Analyst,2,7.33,Azure AI,0
+Bilbao,Healthcare,ML Engineer,2,11.03,ChatGPT,1
+Seville,Finance,AI Engineer,8,20.68,PyTorch,0
+Murcia,IT,ML Engineer,2,11.98,Scikit-learn,1
+Palma,E-commerce,AI Engineer,1,7.29,ChatGPT,1
+Malaga,Manufacturing,Data Scientist,3,12.75,PyTorch,0
+Barcelona,Healthcare,AI Engineer,7,19.53,AWS AI,1
+Seville,Finance,ML Engineer,7,18.57,PyTorch,1
+Malaga,Finance,ML Engineer,9,24.47,Azure AI,1
+Malaga,Finance,Data Scientist,10,24.19,Scikit-learn,1
+Madrid,Manufacturing,Data Scientist,3,14.24,AWS AI,0
+Madrid,EdTech,AI Researcher,11,29.41,Scikit-learn,1
+Zaragoza,Healthcare,Data Analyst,7,18.26,ChatGPT,0
+Malaga,E-commerce,ML Engineer,9,24.68,PyTorch,0
+Palma,E-commerce,AI Engineer,2,8.93,Scikit-learn,0
+Alicante,E-commerce,AI Researcher,8,26.76,ChatGPT,1
+Malaga,Healthcare,Data Scientist,2,7.21,TensorFlow,1
+Alicante,Healthcare,AI Researcher,10,30.01,Scikit-learn,1
+Alicante,Healthcare,AI Researcher,4,14.48,PyTorch,0
+Malaga,IT,AI Researcher,0,8.87,TensorFlow,1
+Valencia,E-commerce,Data Analyst,0,3.32,TensorFlow,1
+Valencia,IT,ML Engineer,8,24.5,Azure AI,0
+Palma,IT,Data Analyst,11,27.28,TensorFlow,1
+Malaga,Finance,AI Engineer,8,18.02,ChatGPT,1
+Madrid,Manufacturing,AI Engineer,0,3.0,Scikit-learn,1
+Palma,Healthcare,Data Scientist,7,18.78,ChatGPT,1
+Zaragoza,Finance,ML Engineer,2,9.71,Azure AI,1
+Zaragoza,Manufacturing,Data Analyst,8,21.64,Scikit-learn,0
+Zaragoza,EdTech,AI Engineer,5,12.69,ChatGPT,0
+Madrid,IT,ML Engineer,3,12.5,Azure AI,0
+Valencia,IT,Data Analyst,9,21.42,PyTorch,1
+Malaga,Finance,Data Analyst,9,21.31,Azure AI,1
+Barcelona,IT,ML Engineer,2,11.41,Scikit-learn,1
+Palma,Manufacturing,ML Engineer,2,8.52,ChatGPT,1
+Barcelona,Finance,Data Analyst,8,20.16,PyTorch,0
+Murcia,Manufacturing,AI Engineer,4,8.43,ChatGPT,0
+Valencia,Healthcare,AI Engineer,4,12.47,TensorFlow,0
+Alicante,Healthcare,ML Engineer,11,29.84,TensorFlow,0
+Palma,Finance,AI Engineer,2,7.72,Scikit-learn,1
+Madrid,Manufacturing,Data Scientist,3,7.69,Scikit-learn,0
+Malaga,E-commerce,Data Scientist,8,18.14,ChatGPT,0
+Valencia,Healthcare,ML Engineer,11,26.09,TensorFlow,1
+Alicante,Healthcare,AI Engineer,7,18.09,TensorFlow,0
+Malaga,Healthcare,AI Researcher,10,29.7,Azure AI,1
+Murcia,IT,Data Scientist,9,20.52,Scikit-learn,0
+Alicante,Finance,AI Engineer,1,5.13,ChatGPT,0
+Palma,IT,Data Scientist,5,12.4,ChatGPT,1
+Alicante,E-commerce,ML Engineer,0,6.22,TensorFlow,0
+Bilbao,IT,ML Engineer,1,7.54,ChatGPT,0
+Madrid,EdTech,AI Engineer,10,24.27,AWS AI,1
+Palma,E-commerce,Data Analyst,4,9.13,AWS AI,1
+Murcia,EdTech,AI Engineer,11,23.9,PyTorch,1
+Malaga,EdTech,ML Engineer,7,22.28,AWS AI,1
+Malaga,EdTech,Data Analyst,0,5.65,TensorFlow,0
+Zaragoza,Finance,Data Analyst,0,5.41,Scikit-learn,0
+Zaragoza,Healthcare,Data Analyst,7,15.91,TensorFlow,0
+Madrid,EdTech,AI Engineer,7,18.96,Scikit-learn,0
+Palma,E-commerce,Data Analyst,0,5.97,AWS AI,1
+Valencia,E-commerce,Data Scientist,8,18.85,PyTorch,1
+Barcelona,Finance,Data Scientist,8,20.68,Azure AI,1
+Alicante,Manufacturing,Data Analyst,7,15.3,Azure AI,1
+Zaragoza,Healthcare,AI Engineer,2,7.43,AWS AI,1
+Seville,Finance,Data Analyst,11,23.3,ChatGPT,1
+Murcia,E-commerce,ML Engineer,6,17.28,PyTorch,0
+Valencia,Healthcare,AI Researcher,7,23.61,AWS AI,1
+Bilbao,Finance,ML Engineer,2,11.92,AWS AI,1
+Palma,Manufacturing,ML Engineer,10,28.95,ChatGPT,0
+Murcia,EdTech,AI Researcher,0,5.47,Scikit-learn,1
+Palma,E-commerce,AI Engineer,7,16.04,Azure AI,0
+Malaga,Finance,AI Engineer,5,15.1,ChatGPT,1
+Murcia,EdTech,AI Researcher,3,16.79,PyTorch,0
+Barcelona,E-commerce,AI Engineer,4,15.5,TensorFlow,1
+Bilbao,Manufacturing,Data Analyst,9,22.71,AWS AI,1
+Alicante,Healthcare,ML Engineer,3,16.64,AWS AI,1
+Seville,EdTech,AI Engineer,5,12.3,TensorFlow,1
+Palma,E-commerce,AI Engineer,5,11.52,ChatGPT,0
+Murcia,Manufacturing,AI Engineer,2,7.07,AWS AI,1
+Seville,Healthcare,AI Engineer,7,20.52,Scikit-learn,1
+Barcelona,Finance,AI Engineer,3,11.34,TensorFlow,1
+Bilbao,E-commerce,ML Engineer,10,23.71,ChatGPT,1
+Barcelona,IT,Data Analyst,2,8.73,Scikit-learn,0
+Valencia,EdTech,AI Researcher,1,7.8,ChatGPT,1
+Bilbao,E-commerce,Data Scientist,10,22.43,PyTorch,0
+Bilbao,Finance,Data Analyst,3,10.51,PyTorch,1
+Bilbao,Finance,Data Analyst,0,3.38,Azure AI,0
+Barcelona,EdTech,ML Engineer,5,18.51,ChatGPT,1
+Palma,IT,AI Researcher,3,16.16,Scikit-learn,1
+Seville,Finance,ML Engineer,0,12.24,AWS AI,0
+Murcia,Finance,AI Researcher,4,16.58,Scikit-learn,1
+Palma,Manufacturing,Data Analyst,6,18.27,PyTorch,1
+Madrid,EdTech,AI Engineer,7,16.52,PyTorch,0
+Murcia,Finance,Data Analyst,4,11.6,PyTorch,1
+Bilbao,EdTech,ML Engineer,10,27.94,AWS AI,1
+Murcia,Finance,Data Analyst,1,6.09,ChatGPT,0
+Alicante,E-commerce,AI Engineer,11,24.15,ChatGPT,1
+Barcelona,Finance,AI Researcher,1,10.72,ChatGPT,1
+Seville,Healthcare,AI Engineer,5,14.39,ChatGPT,0
+Alicante,E-commerce,Data Analyst,6,17.17,Scikit-learn,1
+Alicante,Healthcare,AI Engineer,6,16.67,ChatGPT,1
+Barcelona,Manufacturing,Data Scientist,10,24.02,AWS AI,0
+Zaragoza,Finance,AI Researcher,7,22.94,PyTorch,0
+Barcelona,EdTech,Data Analyst,3,6.93,AWS AI,1
+Madrid,Healthcare,ML Engineer,2,10.53,Scikit-learn,0
+Barcelona,EdTech,Data Scientist,11,21.13,TensorFlow,0
+Seville,IT,Data Scientist,0,4.66,AWS AI,0
+Madrid,Finance,Data Analyst,6,14.45,PyTorch,0
+Zaragoza,Healthcare,Data Scientist,4,13.99,TensorFlow,1
+Valencia,Healthcare,Data Scientist,0,5.68,TensorFlow,1
+Valencia,Manufacturing,Data Scientist,8,18.13,TensorFlow,1
+Murcia,Healthcare,AI Researcher,9,28.35,Scikit-learn,0
+Madrid,Finance,AI Engineer,3,10.49,Azure AI,0
+Alicante,E-commerce,AI Researcher,11,30.87,TensorFlow,1
+Seville,Manufacturing,Data Scientist,9,18.91,TensorFlow,1
+Barcelona,Manufacturing,Data Analyst,2,6.99,Scikit-learn,1
+Murcia,E-commerce,AI Researcher,3,15.0,ChatGPT,1
+Seville,IT,ML Engineer,4,15.29,Scikit-learn,0
+Malaga,IT,AI Researcher,2,13.29,PyTorch,1
+Barcelona,EdTech,Data Analyst,8,18.34,Azure AI,1
+Zaragoza,Manufacturing,ML Engineer,7,20.13,Azure AI,1
+Murcia,EdTech,AI Researcher,3,12.46,ChatGPT,1
+Palma,Manufacturing,Data Scientist,10,25.03,TensorFlow,1
+Madrid,Manufacturing,Data Scientist,8,21.81,Azure AI,0
+Malaga,IT,ML Engineer,2,9.5,Scikit-learn,0
+Malaga,Finance,ML Engineer,11,29.62,ChatGPT,1
+Alicante,Healthcare,Data Scientist,1,6.39,PyTorch,1
+Murcia,IT,AI Researcher,5,20.82,ChatGPT,0
+Seville,IT,ML Engineer,11,29.27,PyTorch,1
+Barcelona,Manufacturing,Data Scientist,7,16.1,TensorFlow,1
+Barcelona,E-commerce,Data Scientist,4,14.14,ChatGPT,1
+Valencia,EdTech,ML Engineer,5,15.36,PyTorch,1
+Bilbao,Healthcare,Data Analyst,11,29.02,Azure AI,1
+Palma,Finance,Data Scientist,1,3.0,Azure AI,1
+Malaga,IT,ML Engineer,11,26.8,AWS AI,1
+Valencia,IT,Data Scientist,4,13.46,ChatGPT,1
+Bilbao,Manufacturing,Data Scientist,5,14.86,ChatGPT,1
+Zaragoza,IT,Data Scientist,10,23.42,TensorFlow,0
+Zaragoza,E-commerce,AI Engineer,1,8.72,AWS AI,1
+Zaragoza,Healthcare,Data Scientist,8,19.42,ChatGPT,1
+Zaragoza,Finance,Data Scientist,9,23.18,TensorFlow,0
+Zaragoza,EdTech,ML Engineer,9,23.28,ChatGPT,1
+Alicante,EdTech,ML Engineer,8,22.02,TensorFlow,0
+Bilbao,Manufacturing,Data Scientist,6,17.57,AWS AI,0
+Bilbao,Healthcare,ML Engineer,4,11.55,Azure AI,1
+Barcelona,Healthcare,Data Scientist,0,3.0,AWS AI,1
+Valencia,E-commerce,Data Scientist,11,25.66,Azure AI,0
+Bilbao,Finance,AI Researcher,2,11.53,TensorFlow,1
+Barcelona,Healthcare,Data Scientist,7,16.07,Scikit-learn,1
+Palma,Healthcare,AI Engineer,5,13.03,ChatGPT,1
+Palma,EdTech,AI Researcher,11,30.75,Azure AI,1
+Madrid,Manufacturing,AI Engineer,0,6.89,AWS AI,1
+Palma,EdTech,Data Scientist,7,18.74,Scikit-learn,1
+Bilbao,Manufacturing,ML Engineer,0,7.84,TensorFlow,1
+Valencia,Healthcare,AI Engineer,0,3.35,Azure AI,1
+Bilbao,Finance,AI Engineer,7,19.84,Scikit-learn,1
+Murcia,IT,AI Engineer,9,22.59,TensorFlow,1
+Alicante,Finance,AI Researcher,2,15.28,Scikit-learn,1
+Palma,Finance,ML Engineer,9,21.24,TensorFlow,0
+Seville,EdTech,AI Engineer,4,12.76,PyTorch,1
+Madrid,Healthcare,Data Analyst,5,16.03,ChatGPT,1
+Zaragoza,E-commerce,Data Analyst,0,3.0,PyTorch,1
+Malaga,EdTech,Data Scientist,9,21.53,TensorFlow,1
+Murcia,IT,Data Scientist,11,27.06,Azure AI,1
+Malaga,EdTech,AI Researcher,11,29.49,ChatGPT,0
+Barcelona,IT,Data Scientist,9,22.8,PyTorch,0
+Valencia,EdTech,AI Engineer,8,18.5,AWS AI,1
+Alicante,IT,AI Researcher,1,8.33,Azure AI,0
+Bilbao,IT,AI Engineer,8,18.57,Azure AI,1
+Malaga,Manufacturing,Data Analyst,10,23.01,TensorFlow,1
+Malaga,E-commerce,AI Engineer,6,14.91,PyTorch,1
+Murcia,EdTech,Data Analyst,0,3.0,TensorFlow,0
+Madrid,Finance,AI Researcher,10,29.48,Azure AI,0
+Palma,E-commerce,Data Scientist,7,18.12,Azure AI,0
+Seville,E-commerce,AI Researcher,1,11.07,TensorFlow,1
+Bilbao,Healthcare,ML Engineer,11,28.15,TensorFlow,0
+Murcia,Manufacturing,Data Analyst,6,17.53,ChatGPT,1
+Valencia,E-commerce,Data Analyst,11,26.22,ChatGPT,1
+Seville,Finance,Data Analyst,8,18.74,Scikit-learn,1
+Palma,E-commerce,AI Engineer,3,8.56,Scikit-learn,1
+Seville,Manufacturing,AI Researcher,2,8.92,ChatGPT,0
+Seville,IT,ML Engineer,7,18.54,Scikit-learn,1
+Zaragoza,Healthcare,ML Engineer,5,14.54,ChatGPT,1
+Palma,E-commerce,Data Analyst,7,15.3,Azure AI,1
+Valencia,E-commerce,AI Researcher,2,14.05,Azure AI,0
+Zaragoza,IT,Data Scientist,11,26.26,PyTorch,1
+Valencia,IT,AI Researcher,8,29.27,TensorFlow,1
+Murcia,IT,AI Researcher,8,25.73,PyTorch,0
+Barcelona,Manufacturing,AI Researcher,11,30.64,TensorFlow,0
+Barcelona,E-commerce,AI Engineer,1,7.86,AWS AI,1
+Seville,Finance,Data Scientist,11,24.75,TensorFlow,1
+Bilbao,E-commerce,Data Analyst,8,18.79,TensorFlow,0
+Palma,Finance,Data Scientist,0,3.0,Azure AI,1
+Barcelona,Finance,Data Analyst,1,3.0,TensorFlow,1
+Barcelona,Finance,Data Scientist,11,28.38,PyTorch,0
+Alicante,EdTech,Data Analyst,9,22.73,Scikit-learn,0
+Madrid,EdTech,AI Engineer,0,4.0,TensorFlow,1
+Palma,Healthcare,AI Engineer,3,9.44,PyTorch,0
+Barcelona,Finance,AI Researcher,1,10.38,TensorFlow,1
+Barcelona,Manufacturing,ML Engineer,8,20.86,AWS AI,1
+Barcelona,Healthcare,ML Engineer,9,24.04,AWS AI,0
+Alicante,E-commerce,AI Engineer,1,6.59,Scikit-learn,1
+Palma,Healthcare,AI Engineer,2,8.8,TensorFlow,0
+Madrid,E-commerce,Data Scientist,3,10.88,PyTorch,1
+Barcelona,Healthcare,AI Researcher,7,22.2,AWS AI,1
+Seville,Healthcare,Data Scientist,4,8.26,TensorFlow,0
+Valencia,EdTech,AI Engineer,9,21.14,TensorFlow,1
+Alicante,Manufacturing,Data Analyst,2,6.66,AWS AI,1
+Murcia,E-commerce,Data Scientist,1,5.95,Azure AI,1
+Alicante,E-commerce,Data Analyst,8,18.76,PyTorch,0
+Malaga,Healthcare,ML Engineer,0,5.45,AWS AI,1
+Barcelona,EdTech,ML Engineer,1,11.08,Scikit-learn,1
+Murcia,Manufacturing,Data Scientist,9,21.56,PyTorch,0
+Barcelona,Manufacturing,ML Engineer,6,18.53,TensorFlow,1
+Bilbao,IT,ML Engineer,1,8.43,Azure AI,1
+Barcelona,EdTech,Data Scientist,10,22.67,TensorFlow,0
+Murcia,Finance,ML Engineer,11,29.83,TensorFlow,1
+Barcelona,Finance,AI Engineer,11,24.27,Scikit-learn,1
+Valencia,Finance,AI Researcher,8,24.15,Azure AI,1
+Murcia,EdTech,ML Engineer,10,26.76,PyTorch,1
+Madrid,Manufacturing,ML Engineer,11,26.03,Azure AI,1
+Bilbao,EdTech,AI Researcher,8,24.78,Scikit-learn,1
+Valencia,E-commerce,Data Analyst,6,16.75,TensorFlow,1
+Alicante,EdTech,Data Scientist,11,27.06,Scikit-learn,0
+Alicante,Manufacturing,ML Engineer,10,28.49,Scikit-learn,1
+Bilbao,IT,Data Scientist,3,8.79,Scikit-learn,0
+Palma,Healthcare,AI Engineer,9,20.35,AWS AI,1
+Madrid,IT,Data Analyst,3,12.5,TensorFlow,0
+Barcelona,E-commerce,Data Analyst,6,18.45,Azure AI,1
+Seville,EdTech,Data Scientist,11,26.63,AWS AI,0
+Malaga,Finance,AI Engineer,0,3.82,TensorFlow,1
+Murcia,EdTech,AI Researcher,5,17.73,PyTorch,1
+Barcelona,Finance,Data Scientist,1,5.63,PyTorch,1
+Valencia,Finance,AI Engineer,3,12.61,ChatGPT,0
+Malaga,Healthcare,AI Engineer,2,7.5,PyTorch,0
+Barcelona,EdTech,Data Scientist,2,7.28,PyTorch,1
+Barcelona,EdTech,AI Engineer,6,16.47,TensorFlow,0
+Alicante,EdTech,Data Analyst,10,25.56,ChatGPT,1
+Murcia,Healthcare,AI Researcher,3,14.16,PyTorch,1
+Madrid,Finance,Data Analyst,8,19.08,TensorFlow,0
+Valencia,IT,AI Engineer,10,19.97,AWS AI,1
+Zaragoza,Finance,Data Scientist,2,10.49,AWS AI,1
+Barcelona,E-commerce,ML Engineer,7,24.09,ChatGPT,0
+Palma,Healthcare,Data Analyst,8,22.96,PyTorch,1
+Alicante,Manufacturing,Data Analyst,1,7.1,Azure AI,1
+Barcelona,IT,Data Scientist,9,18.86,Azure AI,1
+Madrid,EdTech,Data Scientist,6,18.08,Scikit-learn,1
+Murcia,Manufacturing,Data Scientist,10,21.79,PyTorch,0
+Valencia,Healthcare,Data Scientist,3,10.39,AWS AI,0
+Palma,EdTech,AI Engineer,6,15.34,AWS AI,1
+Madrid,E-commerce,Data Scientist,10,23.27,AWS AI,0
+Murcia,Healthcare,AI Engineer,6,16.09,Scikit-learn,1
+Valencia,Healthcare,Data Scientist,10,23.27,AWS AI,0
+Valencia,IT,Data Analyst,6,12.84,Scikit-learn,0
+Alicante,Finance,Data Analyst,4,9.27,PyTorch,1
+Seville,Finance,Data Scientist,2,8.28,PyTorch,0
+Zaragoza,EdTech,AI Engineer,2,9.78,AWS AI,1
+Zaragoza,EdTech,AI Engineer,4,13.93,ChatGPT,1
+Madrid,E-commerce,AI Engineer,6,16.5,ChatGPT,0
+Seville,E-commerce,Data Scientist,11,26.35,Scikit-learn,1
+Bilbao,Healthcare,ML Engineer,9,25.39,PyTorch,0
+Madrid,EdTech,ML Engineer,8,21.68,AWS AI,1
+Palma,IT,AI Engineer,8,21.07,TensorFlow,0
+Murcia,Finance,AI Engineer,9,17.95,Azure AI,1
+Malaga,Healthcare,Data Analyst,10,22.96,AWS AI,0
+Palma,Manufacturing,AI Engineer,3,8.48,Azure AI,0
+Valencia,Finance,Data Scientist,11,29.1,TensorFlow,1
+Alicante,EdTech,Data Scientist,2,7.94,TensorFlow,0
+Murcia,Finance,Data Analyst,3,9.17,AWS AI,0
+Alicante,Finance,ML Engineer,2,10.73,AWS AI,0
+Barcelona,E-commerce,Data Scientist,9,20.82,ChatGPT,1
+Malaga,EdTech,Data Scientist,1,3.0,Azure AI,1
+Alicante,IT,ML Engineer,2,10.71,TensorFlow,1
+Malaga,EdTech,ML Engineer,2,8.08,Scikit-learn,0
+Madrid,EdTech,AI Engineer,10,21.88,AWS AI,1
+Barcelona,IT,ML Engineer,5,15.57,PyTorch,1
+Murcia,Finance,Data Scientist,2,8.49,Azure AI,0
+Palma,Finance,AI Engineer,7,18.37,PyTorch,1
+Malaga,Finance,AI Engineer,3,7.15,Scikit-learn,1
+Madrid,EdTech,AI Researcher,6,20.39,PyTorch,0
+Barcelona,Healthcare,Data Scientist,7,13.02,Scikit-learn,1
+Valencia,IT,AI Engineer,9,20.58,PyTorch,1
+Alicante,IT,Data Analyst,11,24.77,TensorFlow,0
+Malaga,IT,AI Researcher,2,9.5,PyTorch,0
+Alicante,E-commerce,Data Analyst,5,19.45,TensorFlow,0
+Malaga,Finance,Data Scientist,3,9.89,Scikit-learn,1
+Madrid,EdTech,Data Scientist,5,15.39,PyTorch,1
+Palma,Finance,ML Engineer,3,10.33,ChatGPT,1
+Malaga,IT,Data Analyst,7,17.22,TensorFlow,1
+Zaragoza,Healthcare,ML Engineer,11,30.17,PyTorch,0
+Alicante,Healthcare,AI Engineer,7,18.42,PyTorch,0
+Barcelona,IT,ML Engineer,6,15.23,Azure AI,0
+Barcelona,EdTech,Data Scientist,8,21.27,PyTorch,1
+Barcelona,E-commerce,AI Engineer,0,6.49,TensorFlow,0
+Valencia,IT,Data Analyst,5,14.45,TensorFlow,1
+Palma,Manufacturing,Data Scientist,5,12.29,PyTorch,0
+Madrid,Finance,AI Researcher,6,18.89,Azure AI,1
+Zaragoza,EdTech,AI Engineer,8,21.61,Azure AI,1
+Murcia,IT,AI Engineer,9,22.09,TensorFlow,0
+Seville,Healthcare,AI Researcher,0,9.92,PyTorch,0
+Bilbao,Finance,Data Scientist,4,11.7,AWS AI,1
+Alicante,Manufacturing,Data Scientist,1,7.32,Azure AI,0
+Madrid,Manufacturing,Data Analyst,9,21.64,AWS AI,1
+Seville,Finance,Data Scientist,10,27.61,Scikit-learn,1
+Palma,Manufacturing,AI Researcher,10,25.47,PyTorch,1
+Malaga,IT,Data Scientist,1,6.71,TensorFlow,1
+Madrid,Manufacturing,AI Engineer,7,15.57,AWS AI,0
+Madrid,Manufacturing,Data Scientist,1,4.96,Azure AI,1
+Bilbao,EdTech,Data Scientist,4,9.38,Azure AI,0
+Alicante,E-commerce,Data Analyst,0,3.0,PyTorch,1
+Palma,Finance,ML Engineer,1,5.67,ChatGPT,1
+Malaga,Healthcare,ML Engineer,4,16.28,Scikit-learn,0
+Madrid,Finance,AI Researcher,4,12.92,AWS AI,1
+Malaga,Manufacturing,AI Researcher,8,25.76,Scikit-learn,1
+Palma,IT,Data Analyst,10,22.23,Scikit-learn,0
+Seville,Manufacturing,ML Engineer,8,24.73,Scikit-learn,0
+Murcia,IT,Data Analyst,2,5.72,PyTorch,0
+Valencia,Manufacturing,ML Engineer,2,11.36,Scikit-learn,0
+Madrid,EdTech,Data Scientist,9,24.49,ChatGPT,1
+Palma,Healthcare,Data Analyst,11,25.39,PyTorch,0
+Malaga,IT,AI Engineer,1,7.72,ChatGPT,1
+Madrid,E-commerce,Data Analyst,9,18.57,TensorFlow,0
+Barcelona,IT,AI Engineer,4,14.84,PyTorch,0
+Bilbao,EdTech,AI Researcher,6,22.21,AWS AI,1
+Bilbao,E-commerce,Data Scientist,8,17.44,Scikit-learn,0
+Valencia,Finance,AI Engineer,4,12.23,Azure AI,1
+Alicante,Manufacturing,ML Engineer,9,24.14,AWS AI,1
+Bilbao,E-commerce,AI Engineer,8,16.97,ChatGPT,1
+Malaga,Manufacturing,AI Engineer,1,6.15,Scikit-learn,0
+Malaga,Healthcare,AI Researcher,10,28.23,Scikit-learn,1
+Madrid,E-commerce,AI Engineer,5,12.55,AWS AI,1
+Seville,E-commerce,AI Engineer,5,16.77,PyTorch,1
+Valencia,Finance,AI Engineer,0,4.47,ChatGPT,1
+Malaga,Finance,Data Scientist,5,13.9,PyTorch,0
+Murcia,Manufacturing,AI Researcher,3,14.89,Azure AI,1
+Murcia,E-commerce,AI Researcher,10,30.25,ChatGPT,1
+Malaga,Manufacturing,Data Scientist,5,13.85,ChatGPT,0
+Bilbao,Healthcare,Data Scientist,8,22.69,Azure AI,0
+Palma,E-commerce,AI Researcher,8,28.91,TensorFlow,0
+Valencia,Finance,AI Engineer,10,21.48,ChatGPT,0
+Madrid,Healthcare,AI Researcher,3,11.06,Scikit-learn,0
+Barcelona,EdTech,ML Engineer,7,19.72,TensorFlow,1
+Zaragoza,Manufacturing,Data Scientist,6,13.51,AWS AI,1
+Murcia,Finance,AI Researcher,2,11.85,TensorFlow,1
+Zaragoza,E-commerce,Data Analyst,7,14.18,Azure AI,0
+Palma,Healthcare,Data Scientist,7,14.77,PyTorch,1
+Murcia,Finance,AI Engineer,4,13.2,TensorFlow,1
+Barcelona,IT,ML Engineer,10,26.96,AWS AI,1
+Valencia,E-commerce,Data Scientist,3,8.2,Azure AI,0
+Zaragoza,Healthcare,AI Engineer,5,11.56,PyTorch,0
+Alicante,Finance,AI Researcher,7,24.13,TensorFlow,1
+Seville,Manufacturing,ML Engineer,5,15.64,PyTorch,1
+Valencia,E-commerce,AI Engineer,3,9.47,Azure AI,1
+Murcia,E-commerce,Data Analyst,8,19.06,PyTorch,1
+Murcia,EdTech,AI Engineer,0,3.56,AWS AI,1
+Madrid,IT,Data Analyst,0,4.74,TensorFlow,0
+Murcia,IT,Data Analyst,11,23.45,PyTorch,1
+Murcia,Healthcare,Data Analyst,3,9.9,PyTorch,1
+Alicante,Healthcare,Data Scientist,5,15.78,Scikit-learn,0
+Palma,Finance,Data Scientist,7,17.55,PyTorch,1
+Barcelona,EdTech,AI Researcher,0,8.92,TensorFlow,0
+Seville,EdTech,Data Analyst,3,5.97,TensorFlow,0
+Alicante,Manufacturing,Data Scientist,0,3.0,TensorFlow,1
+Barcelona,Finance,Data Analyst,1,6.56,Scikit-learn,0
+Seville,EdTech,Data Scientist,7,18.22,Azure AI,0
+Alicante,Manufacturing,ML Engineer,11,27.61,TensorFlow,1
+Valencia,Finance,ML Engineer,8,19.52,ChatGPT,0
+Seville,EdTech,ML Engineer,4,10.52,AWS AI,1
+Zaragoza,E-commerce,ML Engineer,0,3.77,Scikit-learn,1
+Murcia,Manufacturing,Data Analyst,1,5.24,TensorFlow,1
+Palma,E-commerce,AI Engineer,1,6.36,TensorFlow,0
+Alicante,IT,AI Researcher,2,12.27,AWS AI,1
+Zaragoza,Finance,Data Scientist,7,20.38,PyTorch,0
+Malaga,IT,AI Researcher,11,27.99,Scikit-learn,1
+Zaragoza,Finance,AI Researcher,0,6.95,TensorFlow,0
+Madrid,Healthcare,AI Engineer,11,25.86,AWS AI,1
+Zaragoza,E-commerce,Data Scientist,1,5.91,ChatGPT,1
+Seville,Finance,Data Analyst,2,7.38,AWS AI,0
+Murcia,IT,AI Researcher,9,26.72,PyTorch,1
+Valencia,Finance,Data Analyst,1,9.4,AWS AI,1
+Barcelona,EdTech,Data Scientist,6,18.09,PyTorch,0
+Bilbao,Manufacturing,AI Researcher,8,26.77,ChatGPT,0
+Bilbao,IT,Data Scientist,4,8.61,Azure AI,0
+Palma,Manufacturing,AI Researcher,9,29.79,Azure AI,0
+Barcelona,E-commerce,Data Analyst,0,3.0,AWS AI,1
+Alicante,Healthcare,Data Analyst,1,6.04,ChatGPT,0
+Malaga,E-commerce,Data Analyst,4,13.4,ChatGPT,0
+Seville,EdTech,AI Researcher,11,31.14,Azure AI,1
+Alicante,E-commerce,Data Scientist,3,9.56,PyTorch,0
+Malaga,Healthcare,AI Engineer,0,6.61,PyTorch,0
+Bilbao,Manufacturing,Data Scientist,7,16.78,ChatGPT,0
+Seville,Finance,AI Researcher,4,18.16,TensorFlow,0
+Valencia,Finance,Data Scientist,6,16.99,Scikit-learn,1
+Malaga,Healthcare,AI Engineer,10,22.17,Azure AI,1
+Palma,E-commerce,Data Scientist,3,7.25,Azure AI,1
+Valencia,Finance,Data Scientist,9,20.79,TensorFlow,0
+Bilbao,Healthcare,ML Engineer,7,21.26,AWS AI,1
+Seville,E-commerce,AI Engineer,1,4.51,AWS AI,0
+Valencia,E-commerce,ML Engineer,3,9.92,PyTorch,0
+Valencia,Healthcare,AI Researcher,4,15.6,ChatGPT,0
+Seville,Finance,AI Researcher,6,21.11,TensorFlow,1
+Malaga,Manufacturing,Data Analyst,4,10.1,AWS AI,1
+Madrid,Finance,Data Scientist,0,3.0,ChatGPT,0
+Madrid,EdTech,Data Analyst,3,10.72,ChatGPT,0
+Alicante,Healthcare,Data Scientist,8,18.21,AWS AI,1
+Zaragoza,EdTech,AI Engineer,8,21.45,Azure AI,1
+Alicante,EdTech,AI Engineer,5,12.2,ChatGPT,1
+Alicante,EdTech,ML Engineer,10,24.54,Scikit-learn,1
+Zaragoza,Manufacturing,Data Analyst,10,21.14,PyTorch,0
+Madrid,IT,AI Engineer,3,9.65,Scikit-learn,1
+Barcelona,E-commerce,AI Researcher,2,14.88,PyTorch,0
+Murcia,IT,AI Engineer,4,15.71,PyTorch,1
+Alicante,Finance,AI Researcher,8,25.34,PyTorch,1
+Barcelona,Manufacturing,ML Engineer,5,18.65,ChatGPT,0
+Madrid,Healthcare,Data Analyst,1,3.43,ChatGPT,1
+Murcia,Healthcare,AI Researcher,7,23.69,AWS AI,0
+Murcia,Manufacturing,ML Engineer,4,13.85,ChatGPT,1
+Zaragoza,Manufacturing,ML Engineer,3,13.92,Scikit-learn,1
+Murcia,Healthcare,ML Engineer,10,26.05,Azure AI,1
+Madrid,E-commerce,AI Researcher,11,29.59,AWS AI,1
+Madrid,E-commerce,Data Analyst,5,12.79,ChatGPT,0
+Bilbao,Manufacturing,ML Engineer,0,3.0,Scikit-learn,1
+Zaragoza,Finance,AI Engineer,10,22.34,AWS AI,1
+Valencia,Healthcare,AI Engineer,11,27.44,PyTorch,1
+Zaragoza,E-commerce,ML Engineer,11,27.84,ChatGPT,1
+Bilbao,Healthcare,Data Scientist,11,20.03,TensorFlow,1
+Seville,Healthcare,AI Engineer,3,9.47,PyTorch,1
+Murcia,Finance,Data Scientist,11,26.83,ChatGPT,0
+Zaragoza,Healthcare,Data Scientist,6,14.01,Scikit-learn,1
+Barcelona,Finance,ML Engineer,10,24.79,AWS AI,0
+Valencia,Manufacturing,ML Engineer,5,17.38,Scikit-learn,0
+Malaga,EdTech,AI Researcher,5,19.07,Scikit-learn,1
+Alicante,Healthcare,Data Analyst,6,12.75,Scikit-learn,1
+Malaga,Finance,ML Engineer,3,16.45,AWS AI,1
+Malaga,Healthcare,AI Engineer,7,17.72,Azure AI,1
+Palma,Healthcare,ML Engineer,4,13.6,AWS AI,1
+Malaga,Finance,ML Engineer,10,28.75,TensorFlow,1
+Palma,E-commerce,Data Scientist,2,9.26,TensorFlow,0
+Malaga,Manufacturing,ML Engineer,5,13.05,TensorFlow,0
+Seville,Healthcare,ML Engineer,10,26.65,Scikit-learn,0
+Murcia,EdTech,Data Analyst,2,6.89,Azure AI,1
+Barcelona,Healthcare,Data Analyst,8,19.87,TensorFlow,0
+Barcelona,Manufacturing,Data Analyst,8,19.58,PyTorch,0
+Malaga,Manufacturing,ML Engineer,5,18.27,Azure AI,1
+Bilbao,Finance,Data Scientist,4,15.25,Azure AI,1
+Seville,IT,AI Researcher,8,25.22,ChatGPT,1
+Madrid,EdTech,Data Analyst,6,10.97,Scikit-learn,1
+Barcelona,E-commerce,Data Analyst,2,7.63,AWS AI,1
+Zaragoza,EdTech,AI Engineer,0,3.0,TensorFlow,1
+Palma,EdTech,Data Analyst,11,27.38,PyTorch,0
+Seville,IT,ML Engineer,5,18.56,Azure AI,0
+Bilbao,Finance,Data Scientist,8,19.29,Scikit-learn,1
+Barcelona,Manufacturing,Data Analyst,2,5.32,Scikit-learn,0
+Murcia,Healthcare,ML Engineer,10,28.06,ChatGPT,1
+Bilbao,EdTech,Data Scientist,9,22.09,PyTorch,1
+Malaga,Manufacturing,Data Scientist,8,20.13,AWS AI,1
+Murcia,Manufacturing,AI Engineer,5,11.33,Scikit-learn,1
+Bilbao,Healthcare,AI Engineer,3,8.1,TensorFlow,1
+Malaga,E-commerce,Data Analyst,11,24.21,AWS AI,0
+Seville,EdTech,Data Scientist,6,15.71,TensorFlow,1
+Madrid,EdTech,AI Engineer,1,6.37,Scikit-learn,1
+Palma,EdTech,Data Analyst,1,8.24,Scikit-learn,0
+Barcelona,Healthcare,AI Researcher,1,8.3,Scikit-learn,0
+Valencia,EdTech,Data Analyst,5,12.72,PyTorch,1
+Barcelona,E-commerce,AI Researcher,7,23.66,PyTorch,0
+Malaga,E-commerce,AI Engineer,6,16.98,ChatGPT,1
+Zaragoza,Healthcare,ML Engineer,3,12.44,ChatGPT,0
+Barcelona,Manufacturing,Data Scientist,9,19.59,Scikit-learn,0
+Murcia,Finance,Data Analyst,6,15.78,TensorFlow,1
+Malaga,Healthcare,Data Analyst,6,15.63,PyTorch,1
+Murcia,E-commerce,AI Researcher,3,13.49,TensorFlow,1
+Palma,Finance,ML Engineer,8,22.68,TensorFlow,1
+Palma,IT,Data Analyst,10,22.46,Scikit-learn,1
+Valencia,EdTech,Data Scientist,1,3.42,TensorFlow,1
+Valencia,EdTech,ML Engineer,6,17.94,TensorFlow,0
+Seville,E-commerce,AI Engineer,0,3.0,AWS AI,0
+Valencia,Healthcare,ML Engineer,8,21.13,Azure AI,0
+Madrid,Finance,Data Analyst,11,26.27,Scikit-learn,0
+Madrid,IT,Data Scientist,2,6.26,Azure AI,1
+Bilbao,IT,AI Engineer,1,7.48,PyTorch,0
+Malaga,E-commerce,Data Scientist,5,15.09,Azure AI,0
+Barcelona,Healthcare,AI Engineer,6,13.8,AWS AI,0
+Bilbao,Manufacturing,Data Analyst,0,4.8,ChatGPT,1
+Zaragoza,Manufacturing,Data Analyst,9,22.58,PyTorch,0
+Valencia,IT,Data Analyst,5,12.85,ChatGPT,1
+Bilbao,Finance,AI Engineer,3,9.61,Azure AI,0
+Seville,Healthcare,Data Analyst,10,24.09,ChatGPT,1
+Seville,Healthcare,AI Researcher,8,22.73,PyTorch,1
+Zaragoza,IT,AI Researcher,11,32.81,Azure AI,0
+Palma,Finance,ML Engineer,7,17.41,Scikit-learn,1
+Barcelona,IT,AI Researcher,6,23.62,Scikit-learn,0
+Barcelona,IT,Data Analyst,4,11.73,TensorFlow,0
+Seville,E-commerce,AI Researcher,6,17.32,AWS AI,1
+Malaga,E-commerce,AI Researcher,6,20.06,Scikit-learn,1
+Alicante,Finance,Data Analyst,8,19.67,AWS AI,0
+Palma,Healthcare,Data Analyst,0,3.0,AWS AI,1
+Alicante,Manufacturing,AI Researcher,9,26.7,AWS AI,0
+Seville,IT,Data Scientist,0,4.16,Azure AI,1
+Seville,Manufacturing,Data Scientist,10,23.13,Scikit-learn,0
+Valencia,E-commerce,Data Analyst,0,3.18,ChatGPT,1
+Palma,E-commerce,Data Scientist,10,19.77,PyTorch,0
+Malaga,EdTech,Data Scientist,0,5.47,Azure AI,0
+Malaga,E-commerce,ML Engineer,8,22.23,AWS AI,1
+Murcia,Healthcare,Data Scientist,9,20.07,Scikit-learn,0
+Murcia,E-commerce,ML Engineer,7,18.57,Scikit-learn,0
+Malaga,EdTech,Data Analyst,3,8.03,AWS AI,0
+Valencia,Healthcare,AI Engineer,0,3.0,AWS AI,1
+Barcelona,E-commerce,Data Scientist,8,20.11,ChatGPT,1
+Barcelona,EdTech,ML Engineer,2,10.68,ChatGPT,1
+Madrid,Finance,AI Engineer,0,3.33,PyTorch,0
+Malaga,EdTech,Data Scientist,1,7.01,TensorFlow,0
+Valencia,Healthcare,AI Engineer,4,10.91,TensorFlow,1
+Palma,E-commerce,Data Scientist,7,19.82,Azure AI,1
+Malaga,IT,AI Engineer,9,21.96,TensorFlow,1
+Zaragoza,IT,ML Engineer,0,7.12,Scikit-learn,0
+Seville,Finance,AI Researcher,4,18.07,ChatGPT,0
+Barcelona,E-commerce,Data Analyst,9,22.6,AWS AI,0
+Barcelona,Healthcare,AI Engineer,11,28.06,PyTorch,1
+Madrid,IT,AI Engineer,11,27.95,PyTorch,1
+Malaga,EdTech,Data Analyst,7,12.04,ChatGPT,1
+Bilbao,EdTech,Data Analyst,2,8.77,AWS AI,1
+Palma,Healthcare,ML Engineer,11,27.81,ChatGPT,0
+Seville,Healthcare,AI Researcher,11,32.28,PyTorch,0
+Malaga,Healthcare,Data Scientist,1,5.79,ChatGPT,0
+Alicante,Finance,Data Scientist,7,16.0,TensorFlow,1
+Madrid,E-commerce,AI Researcher,7,22.9,TensorFlow,0
+Malaga,IT,ML Engineer,3,13.24,Azure AI,1
+Murcia,EdTech,AI Engineer,0,3.0,TensorFlow,1
+Palma,E-commerce,AI Researcher,1,10.31,AWS AI,1
+Murcia,Finance,Data Analyst,8,18.21,ChatGPT,0
+Murcia,Finance,Data Scientist,5,14.95,Azure AI,1
+Seville,EdTech,ML Engineer,1,5.99,ChatGPT,1
+Seville,E-commerce,AI Researcher,9,25.75,ChatGPT,1
+Murcia,IT,Data Analyst,4,9.01,Azure AI,0
+Madrid,EdTech,AI Engineer,8,15.34,Scikit-learn,0
+Zaragoza,E-commerce,ML Engineer,3,9.38,ChatGPT,0
+Seville,Manufacturing,ML Engineer,4,16.16,TensorFlow,0
+Bilbao,E-commerce,AI Engineer,10,25.01,Scikit-learn,0
+Zaragoza,Finance,ML Engineer,9,26.45,Azure AI,0
+Seville,IT,AI Researcher,9,27.18,TensorFlow,0
+Murcia,Manufacturing,AI Engineer,6,15.98,TensorFlow,0
+Bilbao,E-commerce,Data Analyst,6,16.82,AWS AI,0
+Zaragoza,Manufacturing,Data Analyst,11,24.77,AWS AI,0
+Madrid,E-commerce,AI Researcher,7,22.57,TensorFlow,1
+Alicante,E-commerce,ML Engineer,4,13.75,PyTorch,0
+Malaga,E-commerce,AI Engineer,9,24.49,ChatGPT,1
+Seville,Healthcare,Data Scientist,8,22.03,Scikit-learn,1
+Valencia,Finance,Data Scientist,9,23.0,Azure AI,1
+Palma,IT,ML Engineer,2,9.96,Azure AI,1
+Barcelona,E-commerce,ML Engineer,10,27.82,ChatGPT,0
+Zaragoza,Manufacturing,AI Engineer,2,7.45,PyTorch,1
+Zaragoza,EdTech,Data Scientist,7,15.68,ChatGPT,1
+Bilbao,Finance,Data Analyst,3,10.9,Scikit-learn,0
+Madrid,IT,AI Engineer,9,17.4,TensorFlow,0
+Bilbao,IT,AI Engineer,10,22.68,Scikit-learn,1
+Seville,Finance,Data Analyst,6,16.9,Scikit-learn,1
+Zaragoza,IT,Data Analyst,5,14.11,PyTorch,0
+Madrid,Healthcare,Data Scientist,11,24.39,Scikit-learn,1
+Barcelona,EdTech,Data Analyst,1,6.96,AWS AI,1
+Madrid,Manufacturing,Data Scientist,7,17.08,AWS AI,0
+Bilbao,E-commerce,Data Analyst,2,7.24,PyTorch,0
+Malaga,Healthcare,Data Scientist,0,3.0,AWS AI,1
+Bilbao,Manufacturing,Data Analyst,5,14.2,Scikit-learn,0
+Madrid,IT,ML Engineer,5,15.17,AWS AI,1
+Bilbao,IT,ML Engineer,9,27.3,Scikit-learn,1
+Zaragoza,Healthcare,AI Engineer,10,24.66,AWS AI,1
+Palma,Healthcare,ML Engineer,10,26.95,Scikit-learn,0
+Madrid,EdTech,AI Researcher,9,25.29,TensorFlow,1
+Barcelona,IT,AI Researcher,7,22.19,PyTorch,1
+Bilbao,Healthcare,Data Scientist,2,7.5,Scikit-learn,1
+Palma,IT,Data Analyst,6,15.51,Scikit-learn,0
+Madrid,Finance,Data Analyst,4,9.55,TensorFlow,1
+Alicante,Healthcare,AI Researcher,8,24.59,Scikit-learn,1
+Bilbao,E-commerce,Data Analyst,5,16.78,Scikit-learn,0
+Valencia,Healthcare,AI Researcher,4,20.05,AWS AI,0
+Zaragoza,E-commerce,AI Engineer,6,16.81,PyTorch,0
+Palma,Finance,ML Engineer,9,22.28,ChatGPT,1
+Valencia,E-commerce,Data Scientist,0,3.0,ChatGPT,0
+Palma,E-commerce,ML Engineer,1,9.15,ChatGPT,1
+Seville,E-commerce,Data Scientist,9,23.4,Scikit-learn,1
+Seville,Finance,ML Engineer,8,23.72,ChatGPT,1
+Seville,Manufacturing,ML Engineer,10,24.83,Azure AI,1
+Alicante,EdTech,Data Analyst,4,10.85,AWS AI,1
+Valencia,E-commerce,AI Engineer,7,15.6,PyTorch,0
+Seville,IT,ML Engineer,3,13.07,TensorFlow,1
+Palma,Healthcare,Data Scientist,4,11.9,AWS AI,1
+Zaragoza,Manufacturing,Data Scientist,8,18.3,AWS AI,0
+Seville,Manufacturing,AI Engineer,2,6.9,PyTorch,0
+Valencia,Finance,AI Researcher,3,12.52,AWS AI,1
+Alicante,EdTech,ML Engineer,4,13.4,Azure AI,0
+Palma,Manufacturing,Data Analyst,1,5.25,PyTorch,0
+Madrid,Healthcare,Data Analyst,4,11.06,Scikit-learn,0
+Palma,E-commerce,AI Researcher,8,23.41,ChatGPT,0
+Alicante,Healthcare,Data Analyst,11,23.83,Azure AI,1
+Bilbao,E-commerce,ML Engineer,5,18.63,PyTorch,1
+Malaga,Finance,AI Researcher,3,12.54,PyTorch,1
+Murcia,Healthcare,AI Engineer,2,6.01,AWS AI,0
+Alicante,Healthcare,ML Engineer,0,5.98,Scikit-learn,1
+Zaragoza,Manufacturing,Data Analyst,3,9.77,TensorFlow,1
+Murcia,IT,AI Engineer,11,24.14,Scikit-learn,1
+Bilbao,EdTech,AI Engineer,3,8.68,AWS AI,0
+Bilbao,IT,AI Researcher,5,18.35,TensorFlow,1
+Alicante,EdTech,AI Researcher,1,9.74,AWS AI,0
+Seville,Healthcare,AI Engineer,9,17.98,ChatGPT,0
+Murcia,Finance,AI Engineer,4,11.48,PyTorch,0
+Zaragoza,IT,ML Engineer,8,24.3,ChatGPT,0
+Madrid,IT,AI Researcher,1,13.04,PyTorch,1
+Bilbao,IT,ML Engineer,7,20.05,AWS AI,1
+Murcia,IT,AI Engineer,9,18.98,PyTorch,1
+Zaragoza,E-commerce,AI Engineer,8,17.97,AWS AI,1
+Bilbao,EdTech,AI Researcher,3,14.33,PyTorch,1
+Valencia,E-commerce,Data Analyst,2,6.0,Azure AI,0
+Murcia,Finance,Data Scientist,8,18.6,Scikit-learn,1
+Valencia,Manufacturing,ML Engineer,6,19.62,AWS AI,1
+Valencia,EdTech,AI Researcher,8,27.49,AWS AI,1
+Barcelona,Manufacturing,AI Engineer,10,23.94,PyTorch,1
+Palma,IT,AI Researcher,6,18.44,TensorFlow,1
+Murcia,Manufacturing,Data Scientist,5,14.05,Scikit-learn,1
+Barcelona,IT,AI Engineer,0,4.11,PyTorch,1
+Madrid,IT,ML Engineer,9,24.83,Scikit-learn,1
+Alicante,Manufacturing,Data Analyst,7,17.59,ChatGPT,1
+Seville,EdTech,Data Scientist,2,7.76,Azure AI,1
+Seville,E-commerce,AI Engineer,7,18.24,Scikit-learn,1
+Palma,Healthcare,Data Analyst,7,18.77,PyTorch,1
+Valencia,E-commerce,ML Engineer,0,9.2,AWS AI,0
+Valencia,EdTech,Data Scientist,3,8.49,Azure AI,1
+Valencia,Healthcare,AI Researcher,6,19.74,PyTorch,1
+Zaragoza,EdTech,Data Analyst,7,19.17,Azure AI,1
+Bilbao,Healthcare,AI Researcher,10,29.87,AWS AI,0
+Malaga,Healthcare,Data Analyst,10,23.62,PyTorch,1
+Malaga,IT,ML Engineer,3,10.1,AWS AI,0
+Valencia,E-commerce,ML Engineer,8,21.91,AWS AI,0
+Madrid,Finance,ML Engineer,5,19.81,TensorFlow,0
+Madrid,E-commerce,Data Scientist,5,14.84,TensorFlow,1
+Valencia,IT,Data Scientist,0,3.0,Scikit-learn,0
+Alicante,IT,ML Engineer,6,20.09,Azure AI,1
+Barcelona,IT,Data Analyst,8,21.86,AWS AI,0
+Murcia,EdTech,Data Scientist,6,15.07,AWS AI,1
+Madrid,Healthcare,Data Scientist,11,22.63,TensorFlow,0
+Malaga,Healthcare,Data Scientist,7,20.03,Azure AI,1
+Barcelona,EdTech,Data Scientist,7,16.4,ChatGPT,1
+Valencia,EdTech,Data Scientist,3,6.56,Azure AI,0
+Seville,Finance,ML Engineer,0,5.68,TensorFlow,1
+Valencia,E-commerce,Data Analyst,4,9.42,PyTorch,0
+Palma,Finance,AI Researcher,1,8.45,Azure AI,1
+Murcia,Finance,AI Researcher,10,24.04,AWS AI,1
+Malaga,Finance,Data Scientist,9,23.17,Scikit-learn,0
+Seville,Finance,AI Engineer,1,5.17,TensorFlow,1
+Barcelona,E-commerce,Data Analyst,5,16.9,AWS AI,1
+Palma,IT,Data Analyst,5,14.43,PyTorch,0
+Seville,Finance,Data Analyst,7,19.66,TensorFlow,0
+Madrid,EdTech,Data Analyst,9,19.91,Scikit-learn,0
+Alicante,EdTech,ML Engineer,8,23.4,TensorFlow,1
+Malaga,E-commerce,AI Engineer,6,15.99,Azure AI,0
+Valencia,E-commerce,Data Scientist,8,25.36,AWS AI,1
+Murcia,Finance,Data Analyst,11,27.21,AWS AI,1
+Alicante,Healthcare,ML Engineer,4,14.99,TensorFlow,1
+Murcia,IT,Data Analyst,0,5.21,AWS AI,1
+Valencia,Healthcare,ML Engineer,0,6.8,PyTorch,1
+Barcelona,Healthcare,Data Scientist,5,14.16,AWS AI,1
+Zaragoza,Healthcare,Data Analyst,6,16.45,AWS AI,1
+Palma,EdTech,Data Analyst,2,8.83,AWS AI,1
+Valencia,Healthcare,Data Analyst,3,9.12,Azure AI,0
+Bilbao,Manufacturing,AI Engineer,2,8.39,ChatGPT,1
+Madrid,Finance,Data Analyst,6,16.5,PyTorch,0
+Valencia,E-commerce,Data Analyst,8,15.43,AWS AI,0
+Palma,EdTech,AI Engineer,11,27.16,PyTorch,0
+Valencia,Finance,AI Researcher,5,18.27,AWS AI,1
+Palma,E-commerce,AI Researcher,2,11.48,Azure AI,1
+Alicante,Manufacturing,Data Analyst,7,15.85,TensorFlow,1
+Bilbao,Manufacturing,AI Researcher,9,27.73,PyTorch,1
+Seville,Healthcare,AI Engineer,2,4.58,PyTorch,1
+Alicante,Finance,AI Researcher,3,11.7,Scikit-learn,0
+Bilbao,Manufacturing,ML Engineer,8,23.24,Scikit-learn,1
+Palma,EdTech,Data Scientist,2,7.04,PyTorch,1
+Murcia,Healthcare,Data Scientist,8,18.76,Azure AI,1
+Bilbao,Finance,AI Researcher,8,26.4,ChatGPT,0
+Bilbao,IT,AI Engineer,10,22.02,Azure AI,1
+Palma,EdTech,AI Researcher,3,12.82,Scikit-learn,1
+Bilbao,Healthcare,AI Engineer,8,20.75,TensorFlow,1
+Barcelona,EdTech,Data Analyst,5,13.95,TensorFlow,1
+Valencia,EdTech,Data Scientist,11,30.95,Scikit-learn,1
+Barcelona,Finance,Data Scientist,9,23.45,AWS AI,0
+Palma,Manufacturing,Data Scientist,3,12.61,ChatGPT,1
+Murcia,EdTech,AI Researcher,8,23.02,PyTorch,1
+Bilbao,Healthcare,Data Scientist,5,14.0,Scikit-learn,0
+Madrid,Healthcare,Data Analyst,6,16.81,Scikit-learn,0
+Barcelona,Finance,AI Engineer,9,19.65,ChatGPT,1
+Palma,Healthcare,Data Analyst,4,10.96,AWS AI,1
+Palma,IT,Data Scientist,9,22.4,TensorFlow,0
+Murcia,E-commerce,Data Scientist,7,19.48,PyTorch,1
+Zaragoza,Finance,AI Researcher,0,9.5,PyTorch,0
+Malaga,E-commerce,Data Analyst,4,8.7,TensorFlow,1
+Alicante,Manufacturing,Data Scientist,2,3.03,TensorFlow,1
+Zaragoza,Healthcare,Data Analyst,11,25.26,AWS AI,0
+Bilbao,Finance,AI Researcher,8,25.06,ChatGPT,0
+Madrid,EdTech,Data Analyst,5,16.43,Scikit-learn,0
+Malaga,Finance,AI Engineer,2,7.94,PyTorch,0
+Barcelona,IT,ML Engineer,6,14.04,PyTorch,1
+Valencia,Healthcare,ML Engineer,0,8.56,Scikit-learn,1
+Murcia,Healthcare,ML Engineer,0,6.26,TensorFlow,0
+Bilbao,IT,AI Engineer,3,8.58,AWS AI,0
+Barcelona,IT,AI Researcher,0,10.68,TensorFlow,1
+Barcelona,Healthcare,Data Scientist,11,24.29,AWS AI,1
+Alicante,Manufacturing,Data Scientist,1,10.07,AWS AI,1
+Alicante,E-commerce,AI Researcher,1,12.74,ChatGPT,0
+Madrid,Healthcare,AI Researcher,7,20.09,ChatGPT,1
+Seville,EdTech,ML Engineer,1,9.09,PyTorch,1
+Valencia,EdTech,ML Engineer,10,29.02,Azure AI,1
+Malaga,IT,AI Researcher,3,10.58,PyTorch,1
+Seville,Healthcare,ML Engineer,1,8.97,TensorFlow,1
+Alicante,Healthcare,AI Researcher,7,24.25,Scikit-learn,0
+Palma,E-commerce,AI Researcher,11,31.15,Scikit-learn,1
+Seville,Manufacturing,ML Engineer,2,7.21,ChatGPT,1
+Valencia,E-commerce,Data Analyst,9,18.36,PyTorch,1
+Valencia,Finance,ML Engineer,8,19.26,AWS AI,0
+Seville,Finance,AI Engineer,7,19.21,Scikit-learn,1
+Seville,Manufacturing,AI Engineer,4,10.78,ChatGPT,1
+Murcia,E-commerce,Data Scientist,2,10.5,Scikit-learn,1
+Zaragoza,Manufacturing,ML Engineer,11,29.81,ChatGPT,0
+Alicante,IT,Data Scientist,7,17.16,Scikit-learn,0
+Valencia,E-commerce,Data Analyst,6,15.57,AWS AI,0
+Alicante,Healthcare,Data Scientist,11,26.54,PyTorch,0
+Bilbao,E-commerce,AI Engineer,5,16.61,PyTorch,0
+Valencia,E-commerce,AI Engineer,0,7.82,PyTorch,1
+Alicante,EdTech,ML Engineer,8,23.25,Scikit-learn,1
+Zaragoza,E-commerce,AI Researcher,10,28.16,ChatGPT,1
+Palma,EdTech,AI Engineer,3,10.84,AWS AI,1
+Seville,Finance,AI Researcher,8,27.45,Azure AI,0
+Zaragoza,EdTech,ML Engineer,2,10.6,ChatGPT,0
+Madrid,EdTech,ML Engineer,6,17.16,ChatGPT,1
+Alicante,IT,AI Researcher,3,18.19,Azure AI,1
+Zaragoza,IT,AI Engineer,0,6.93,Scikit-learn,1
+Malaga,IT,AI Engineer,5,13.73,ChatGPT,0
+Alicante,Healthcare,AI Engineer,5,14.9,TensorFlow,1
+Seville,EdTech,Data Analyst,10,22.53,PyTorch,1
+Bilbao,Finance,AI Engineer,10,22.09,Scikit-learn,1
+Murcia,IT,AI Engineer,7,17.52,AWS AI,0
+Madrid,EdTech,AI Engineer,1,3.61,AWS AI,1
+Barcelona,E-commerce,Data Analyst,10,23.22,PyTorch,0
+Bilbao,EdTech,AI Researcher,2,9.39,ChatGPT,1
+Valencia,Healthcare,Data Analyst,8,20.72,TensorFlow,0
+Alicante,EdTech,Data Analyst,7,16.78,TensorFlow,0
+Zaragoza,Manufacturing,AI Researcher,11,34.5,TensorFlow,1
+Murcia,E-commerce,Data Analyst,6,14.19,Scikit-learn,0
+Zaragoza,Finance,AI Researcher,11,32.26,AWS AI,0
+Barcelona,Finance,Data Scientist,8,17.44,Azure AI,0
+Palma,IT,AI Engineer,11,23.57,ChatGPT,0
+Palma,Finance,AI Researcher,4,15.1,AWS AI,1
+Palma,Finance,Data Scientist,7,14.22,AWS AI,1
+Alicante,Finance,AI Researcher,4,17.03,Scikit-learn,1
+Murcia,Healthcare,AI Engineer,11,23.62,PyTorch,0
+Palma,E-commerce,Data Analyst,4,8.83,ChatGPT,0
+Palma,Healthcare,AI Engineer,11,25.55,Azure AI,1
+Madrid,E-commerce,Data Analyst,3,7.48,ChatGPT,1
+Zaragoza,Healthcare,AI Researcher,7,25.93,PyTorch,0
+Barcelona,Finance,Data Scientist,5,15.89,PyTorch,1
+Seville,IT,AI Engineer,8,20.56,Azure AI,1
+Palma,IT,AI Researcher,11,29.28,ChatGPT,1
+Barcelona,Healthcare,Data Scientist,9,22.76,PyTorch,0
+Seville,IT,Data Analyst,9,18.65,Scikit-learn,1
+Palma,Finance,AI Engineer,11,26.65,Scikit-learn,0
+Zaragoza,EdTech,Data Analyst,1,3.0,PyTorch,1
+Seville,EdTech,AI Engineer,5,12.4,ChatGPT,1
+Murcia,E-commerce,Data Analyst,3,3.96,AWS AI,0
+Murcia,EdTech,Data Analyst,6,14.75,AWS AI,0
+Alicante,E-commerce,Data Analyst,9,22.33,PyTorch,0
+Valencia,Finance,AI Researcher,6,22.33,PyTorch,1
+Malaga,EdTech,ML Engineer,4,18.6,Scikit-learn,0
+Seville,Manufacturing,Data Scientist,2,7.59,Scikit-learn,0
+Seville,Manufacturing,Data Analyst,11,22.25,TensorFlow,1
+Valencia,Finance,ML Engineer,3,9.41,PyTorch,1
+Malaga,Healthcare,Data Analyst,3,9.6,TensorFlow,0
+Palma,Healthcare,AI Engineer,1,3.89,ChatGPT,0
+Zaragoza,Manufacturing,Data Analyst,8,19.34,ChatGPT,1
+Zaragoza,E-commerce,Data Scientist,2,3.59,ChatGPT,0
+Bilbao,Manufacturing,Data Scientist,1,3.0,ChatGPT,0
+Palma,E-commerce,Data Analyst,9,26.71,AWS AI,0
+Barcelona,E-commerce,Data Scientist,0,5.0,PyTorch,1
+Bilbao,IT,AI Engineer,9,23.48,AWS AI,0
+Alicante,E-commerce,AI Engineer,9,21.03,PyTorch,0
+Palma,Finance,Data Scientist,9,22.18,ChatGPT,1
+Bilbao,Healthcare,AI Researcher,6,21.39,ChatGPT,1
+Murcia,Manufacturing,Data Scientist,2,6.64,AWS AI,0
+Seville,IT,Data Scientist,9,23.38,AWS AI,0
+Seville,Manufacturing,AI Researcher,0,7.81,AWS AI,1
+Valencia,Manufacturing,AI Engineer,3,9.93,PyTorch,0
+Malaga,Manufacturing,Data Scientist,1,3.0,Scikit-learn,0
+Seville,EdTech,Data Analyst,5,15.91,TensorFlow,1
+Madrid,IT,Data Analyst,9,22.31,Scikit-learn,1
+Alicante,IT,AI Researcher,9,26.71,AWS AI,1
+Barcelona,E-commerce,Data Scientist,4,14.71,Azure AI,1
+Seville,Manufacturing,ML Engineer,2,12.29,ChatGPT,1
+Malaga,Healthcare,AI Researcher,2,13.22,Azure AI,0
+Valencia,Manufacturing,ML Engineer,1,4.43,ChatGPT,1
+Barcelona,Manufacturing,AI Engineer,7,16.02,AWS AI,0
+Seville,IT,Data Scientist,4,9.93,ChatGPT,0
+Malaga,EdTech,AI Researcher,9,24.9,Azure AI,0
+Palma,Manufacturing,AI Researcher,9,26.34,ChatGPT,0
+Seville,Manufacturing,Data Analyst,8,20.28,PyTorch,1
+Barcelona,Manufacturing,ML Engineer,8,19.58,PyTorch,1
+Valencia,IT,AI Engineer,4,13.76,TensorFlow,0
+Valencia,Finance,Data Scientist,5,15.08,TensorFlow,0
+Bilbao,E-commerce,Data Analyst,9,20.24,PyTorch,0
+Barcelona,Healthcare,Data Analyst,1,3.38,AWS AI,0
+Seville,EdTech,Data Scientist,6,13.73,ChatGPT,1
+Seville,Manufacturing,AI Engineer,11,26.31,ChatGPT,0
+Barcelona,Healthcare,ML Engineer,3,15.29,Scikit-learn,1
+Madrid,E-commerce,ML Engineer,6,15.71,Azure AI,1
+Palma,E-commerce,ML Engineer,11,26.38,PyTorch,0
+Seville,Healthcare,AI Researcher,4,16.66,ChatGPT,1
+Valencia,IT,AI Researcher,10,31.12,Azure AI,0
+Alicante,E-commerce,ML Engineer,8,24.47,AWS AI,1
+Palma,IT,AI Engineer,10,23.92,Scikit-learn,1
+Zaragoza,Manufacturing,Data Analyst,4,12.86,AWS AI,1
+Malaga,Manufacturing,AI Researcher,1,10.39,PyTorch,0
+Alicante,E-commerce,AI Engineer,11,28.59,TensorFlow,0
+Barcelona,E-commerce,AI Researcher,9,26.28,ChatGPT,0
+Madrid,E-commerce,ML Engineer,4,17.53,TensorFlow,0
+Bilbao,IT,Data Analyst,1,6.11,Scikit-learn,1
+Zaragoza,IT,Data Analyst,10,23.29,PyTorch,1
+Zaragoza,Healthcare,ML Engineer,2,8.54,AWS AI,1
+Barcelona,Manufacturing,AI Engineer,1,5.32,ChatGPT,0
+Madrid,Finance,AI Researcher,4,14.38,Azure AI,1
+Seville,IT,Data Analyst,10,26.65,AWS AI,0
+Murcia,E-commerce,ML Engineer,0,8.36,AWS AI,1
+Palma,E-commerce,Data Scientist,8,15.6,ChatGPT,1
+Murcia,IT,AI Researcher,4,14.78,ChatGPT,0
+Bilbao,Finance,AI Engineer,9,18.41,PyTorch,1
+Palma,IT,ML Engineer,7,20.0,Scikit-learn,0
+Barcelona,Healthcare,Data Scientist,1,4.42,PyTorch,0
+Zaragoza,IT,Data Scientist,2,9.8,ChatGPT,1
+Seville,Finance,ML Engineer,4,12.35,AWS AI,0
+Valencia,Finance,Data Scientist,7,17.37,AWS AI,0
+Malaga,Finance,AI Researcher,4,13.05,AWS AI,1
+Zaragoza,E-commerce,AI Engineer,1,3.45,TensorFlow,1
+Murcia,EdTech,AI Researcher,0,8.64,TensorFlow,1
+Madrid,Manufacturing,AI Engineer,11,21.94,TensorFlow,1
+Valencia,Finance,Data Scientist,10,21.64,Azure AI,0
+Murcia,EdTech,AI Researcher,6,18.41,PyTorch,1
+Zaragoza,Manufacturing,Data Scientist,8,18.99,AWS AI,1
+Madrid,EdTech,AI Researcher,6,21.21,PyTorch,0
+Alicante,EdTech,AI Researcher,5,17.29,ChatGPT,0
+Zaragoza,Manufacturing,ML Engineer,3,12.43,Azure AI,1
+Malaga,Healthcare,AI Researcher,6,20.94,Scikit-learn,1
+Seville,Finance,AI Researcher,6,21.63,Scikit-learn,1
+Seville,IT,ML Engineer,1,7.79,AWS AI,0
+Palma,Manufacturing,Data Scientist,2,8.13,AWS AI,0
+Palma,Finance,Data Scientist,5,13.34,Scikit-learn,1
+Bilbao,Manufacturing,AI Researcher,10,27.7,Azure AI,0
+Barcelona,Finance,Data Scientist,0,3.0,AWS AI,1
+Palma,Manufacturing,ML Engineer,4,13.59,PyTorch,0
+Zaragoza,Finance,Data Scientist,4,13.9,Azure AI,1
+Zaragoza,Finance,ML Engineer,2,10.27,Azure AI,1
+Madrid,E-commerce,AI Researcher,6,19.8,ChatGPT,0
+Palma,EdTech,Data Scientist,5,10.36,ChatGPT,1
+Zaragoza,IT,AI Engineer,5,13.33,ChatGPT,1
+Murcia,E-commerce,AI Engineer,11,26.32,PyTorch,1
+Valencia,Manufacturing,AI Researcher,0,8.59,AWS AI,1
+Valencia,Healthcare,Data Analyst,1,3.0,Scikit-learn,0
+Alicante,Healthcare,AI Engineer,5,12.31,Azure AI,1
+Bilbao,Healthcare,Data Analyst,3,9.12,TensorFlow,0
+Barcelona,IT,Data Scientist,0,3.0,Azure AI,1
+Valencia,Healthcare,AI Researcher,7,22.78,AWS AI,0
+Seville,IT,AI Engineer,9,25.36,TensorFlow,0
+Malaga,Finance,AI Researcher,1,12.38,Azure AI,1
+Palma,EdTech,AI Engineer,4,9.76,AWS AI,0
+Valencia,E-commerce,AI Researcher,3,10.49,Scikit-learn,0
+Zaragoza,Manufacturing,Data Analyst,3,10.57,PyTorch,0
+Murcia,E-commerce,Data Analyst,7,15.47,AWS AI,0
+Murcia,IT,Data Scientist,10,24.49,Azure AI,1
+Alicante,IT,Data Scientist,4,11.71,TensorFlow,0
+Murcia,Healthcare,ML Engineer,8,24.55,TensorFlow,0
+Barcelona,IT,Data Analyst,9,23.33,ChatGPT,0
+Madrid,EdTech,ML Engineer,2,10.32,ChatGPT,0
+Malaga,Manufacturing,AI Engineer,11,23.21,Azure AI,1
+Barcelona,E-commerce,Data Scientist,6,13.25,ChatGPT,0
+Seville,IT,AI Researcher,2,13.08,PyTorch,1
+Palma,Finance,AI Engineer,4,11.65,TensorFlow,0
+Madrid,Finance,Data Analyst,2,6.72,PyTorch,0
+Palma,EdTech,Data Analyst,2,7.78,PyTorch,0
+Madrid,E-commerce,AI Engineer,1,4.43,TensorFlow,0
+Zaragoza,E-commerce,ML Engineer,1,10.01,AWS AI,1
+Barcelona,IT,AI Engineer,4,11.52,TensorFlow,1
+Seville,Finance,AI Researcher,11,34.86,ChatGPT,0
+Alicante,EdTech,AI Engineer,3,6.67,TensorFlow,0
+Zaragoza,EdTech,AI Engineer,2,7.18,Azure AI,1
+Malaga,EdTech,Data Scientist,10,21.85,Scikit-learn,1
+Zaragoza,Manufacturing,Data Analyst,2,4.93,PyTorch,1
+Zaragoza,EdTech,AI Engineer,8,17.82,Scikit-learn,0
+Barcelona,IT,Data Analyst,8,19.29,AWS AI,1
+Valencia,E-commerce,AI Researcher,7,20.86,PyTorch,1
+Bilbao,EdTech,Data Scientist,7,18.53,TensorFlow,1
+Murcia,Manufacturing,AI Engineer,1,4.12,TensorFlow,1
+Malaga,Healthcare,AI Researcher,5,18.15,Scikit-learn,1
+Zaragoza,Manufacturing,Data Scientist,6,15.09,TensorFlow,0
+Malaga,IT,AI Researcher,8,24.31,Azure AI,0
+Palma,Manufacturing,AI Engineer,11,23.02,TensorFlow,1
+Valencia,IT,Data Analyst,0,5.46,Scikit-learn,1
+Alicante,Finance,Data Analyst,10,24.93,ChatGPT,1
+Seville,Finance,Data Scientist,7,15.44,ChatGPT,1
+Bilbao,Finance,Data Analyst,9,23.92,PyTorch,0
+Valencia,Healthcare,AI Researcher,1,15.08,TensorFlow,0
+Valencia,Finance,Data Analyst,5,13.92,TensorFlow,0
+Malaga,Manufacturing,AI Researcher,7,22.25,Scikit-learn,0
+Murcia,Healthcare,ML Engineer,5,17.79,ChatGPT,1
+Barcelona,Healthcare,Data Scientist,10,23.78,TensorFlow,1
+Seville,Healthcare,AI Engineer,10,18.91,TensorFlow,1
+Zaragoza,E-commerce,Data Analyst,10,25.24,Azure AI,0
+Alicante,Finance,ML Engineer,1,5.42,TensorFlow,1
+Malaga,Finance,Data Analyst,7,18.59,Azure AI,1
+Zaragoza,EdTech,Data Scientist,0,7.19,Azure AI,1
+Malaga,Finance,ML Engineer,5,14.9,PyTorch,1
+Murcia,EdTech,ML Engineer,7,23.13,Azure AI,0
+Madrid,E-commerce,AI Researcher,6,20.31,PyTorch,1
+Seville,E-commerce,AI Researcher,6,20.57,Azure AI,1
+Madrid,Healthcare,AI Researcher,9,26.23,AWS AI,0
+Zaragoza,IT,AI Engineer,2,5.63,ChatGPT,1
+Barcelona,Healthcare,ML Engineer,9,24.32,PyTorch,1
+Bilbao,Healthcare,Data Scientist,8,20.97,TensorFlow,1
+Madrid,IT,Data Analyst,3,9.31,PyTorch,0
+Malaga,EdTech,AI Engineer,5,13.43,TensorFlow,0
+Malaga,E-commerce,ML Engineer,2,9.86,ChatGPT,1
+Barcelona,E-commerce,Data Analyst,8,19.17,TensorFlow,1
+Valencia,Manufacturing,AI Researcher,10,29.88,Azure AI,1
+Barcelona,Healthcare,ML Engineer,8,20.03,PyTorch,0
+Bilbao,E-commerce,Data Scientist,4,12.38,TensorFlow,0
+Seville,Manufacturing,ML Engineer,5,16.37,PyTorch,1
+Zaragoza,Manufacturing,Data Analyst,7,19.3,Azure AI,1
+Madrid,Manufacturing,AI Researcher,5,23.88,Azure AI,1
+Seville,Finance,AI Engineer,3,5.91,PyTorch,1
+Murcia,IT,Data Scientist,4,11.78,TensorFlow,1
+Valencia,Manufacturing,AI Engineer,10,22.31,Azure AI,1
+Palma,Finance,AI Engineer,4,15.48,TensorFlow,1
+Valencia,EdTech,AI Engineer,11,24.91,PyTorch,0
+Seville,E-commerce,Data Analyst,2,6.76,Scikit-learn,0
+Seville,E-commerce,Data Scientist,9,19.78,Scikit-learn,0
+Seville,Healthcare,Data Scientist,10,26.63,AWS AI,0
+Bilbao,IT,Data Scientist,3,8.8,ChatGPT,0
+Zaragoza,IT,Data Analyst,3,8.51,ChatGPT,1
+Madrid,Manufacturing,AI Engineer,9,20.97,TensorFlow,1
+Seville,IT,AI Engineer,1,3.47,PyTorch,1
+Zaragoza,Finance,AI Engineer,9,18.87,AWS AI,1
+Murcia,Manufacturing,AI Engineer,6,14.19,PyTorch,1
+Valencia,Manufacturing,ML Engineer,9,23.85,TensorFlow,0
+Valencia,Healthcare,AI Researcher,7,23.89,ChatGPT,0
+Valencia,Healthcare,ML Engineer,1,11.24,TensorFlow,1
+Valencia,E-commerce,Data Analyst,6,15.02,Azure AI,1
+Murcia,Finance,AI Researcher,8,27.15,PyTorch,1
+Seville,Manufacturing,Data Scientist,10,23.43,AWS AI,0
+Malaga,E-commerce,AI Engineer,7,16.7,Scikit-learn,1
+Alicante,E-commerce,ML Engineer,8,20.74,TensorFlow,1
+Alicante,Manufacturing,Data Analyst,2,9.48,Azure AI,0
+Palma,IT,AI Engineer,9,21.34,Scikit-learn,1
+Zaragoza,Finance,AI Engineer,11,26.45,PyTorch,1
+Barcelona,Healthcare,AI Researcher,2,12.77,ChatGPT,1
+Zaragoza,Finance,Data Scientist,0,4.05,AWS AI,0
+Bilbao,EdTech,AI Researcher,11,33.31,ChatGPT,1
+Zaragoza,IT,AI Engineer,7,17.07,Azure AI,0
+Murcia,E-commerce,Data Analyst,0,3.0,PyTorch,0
+Seville,Finance,Data Scientist,5,9.7,TensorFlow,1
+Seville,Finance,AI Researcher,3,14.26,Scikit-learn,1
+Seville,Finance,ML Engineer,2,9.34,ChatGPT,1
+Palma,Finance,AI Researcher,5,24.67,AWS AI,1
+Seville,Manufacturing,AI Researcher,2,11.44,Scikit-learn,1
+Seville,Finance,AI Engineer,2,7.08,TensorFlow,0
+Palma,Healthcare,AI Researcher,6,22.84,AWS AI,1
+Palma,EdTech,AI Engineer,10,25.13,Azure AI,0
+Palma,Finance,AI Engineer,6,18.81,Azure AI,1
+Madrid,EdTech,Data Scientist,1,5.74,Azure AI,1
+Bilbao,E-commerce,ML Engineer,3,13.84,Azure AI,1
+Palma,EdTech,Data Analyst,10,20.82,PyTorch,1
+Bilbao,Finance,AI Engineer,9,21.18,TensorFlow,0
+Malaga,EdTech,ML Engineer,1,7.34,Scikit-learn,1
+Malaga,E-commerce,Data Analyst,11,26.67,Scikit-learn,0
+Alicante,E-commerce,AI Engineer,8,16.66,Azure AI,1
+Bilbao,Finance,Data Analyst,8,19.52,AWS AI,1
+Seville,IT,ML Engineer,10,23.4,ChatGPT,1
+Malaga,IT,Data Scientist,1,3.65,PyTorch,1
+Valencia,IT,AI Engineer,9,20.32,Azure AI,0
+Barcelona,EdTech,Data Scientist,11,24.06,Scikit-learn,0
+Seville,Finance,Data Analyst,7,17.95,Scikit-learn,1
+Zaragoza,Manufacturing,Data Analyst,6,14.08,TensorFlow,1
+Malaga,EdTech,AI Researcher,2,12.84,Scikit-learn,1
+Malaga,EdTech,AI Engineer,4,10.1,PyTorch,1
+Valencia,EdTech,AI Engineer,6,15.41,Azure AI,1
+Madrid,Healthcare,Data Analyst,0,4.45,Scikit-learn,0
+Seville,Healthcare,AI Engineer,4,8.8,ChatGPT,0
+Valencia,EdTech,Data Scientist,11,26.49,AWS AI,0
+Murcia,EdTech,AI Engineer,2,5.71,ChatGPT,0
+Murcia,Manufacturing,ML Engineer,10,29.16,ChatGPT,1
+Barcelona,Healthcare,ML Engineer,9,23.21,AWS AI,0
+Alicante,Manufacturing,Data Analyst,3,11.37,AWS AI,1
+Malaga,Finance,Data Scientist,4,15.02,AWS AI,1
+Murcia,E-commerce,AI Researcher,7,20.81,Azure AI,1
+Malaga,Finance,AI Researcher,0,7.89,Scikit-learn,1
+Seville,E-commerce,Data Scientist,11,25.03,PyTorch,1
+Zaragoza,E-commerce,Data Analyst,6,15.66,TensorFlow,1
+Murcia,Finance,AI Researcher,5,17.53,Scikit-learn,0
+Zaragoza,Healthcare,AI Engineer,1,8.96,ChatGPT,1
+Bilbao,EdTech,ML Engineer,3,13.27,Scikit-learn,1
+Valencia,E-commerce,AI Researcher,0,10.63,ChatGPT,0
+Palma,E-commerce,Data Scientist,6,14.25,AWS AI,0
+Malaga,EdTech,Data Scientist,1,5.53,TensorFlow,1
+Barcelona,Healthcare,Data Scientist,9,20.64,Azure AI,0
+Barcelona,E-commerce,AI Researcher,10,32.44,Azure AI,1
+Madrid,Healthcare,AI Engineer,11,23.7,ChatGPT,0
+Murcia,IT,AI Engineer,0,6.79,Azure AI,1
+Barcelona,E-commerce,AI Engineer,4,9.54,ChatGPT,1
+Zaragoza,Healthcare,AI Researcher,2,11.79,ChatGPT,1
+Murcia,Manufacturing,ML Engineer,3,12.54,PyTorch,0
+Alicante,Manufacturing,AI Researcher,1,9.3,AWS AI,0
+Palma,IT,ML Engineer,1,7.9,TensorFlow,1
+Palma,EdTech,Data Analyst,0,3.0,AWS AI,1
+Valencia,Finance,Data Analyst,1,5.2,AWS AI,1
+Madrid,EdTech,Data Scientist,5,13.8,AWS AI,0
+Barcelona,E-commerce,Data Analyst,7,19.18,Scikit-learn,1
+Zaragoza,Healthcare,AI Engineer,3,10.39,AWS AI,0
+Valencia,Manufacturing,Data Analyst,3,8.14,PyTorch,1
+Murcia,Manufacturing,Data Analyst,10,23.99,TensorFlow,1
+Alicante,IT,AI Researcher,5,16.46,Scikit-learn,0
+Seville,Finance,AI Researcher,9,26.23,Azure AI,0
+Palma,Manufacturing,Data Analyst,4,14.03,AWS AI,1
+Palma,Manufacturing,Data Scientist,2,11.39,TensorFlow,0
+Seville,IT,Data Analyst,8,19.01,Scikit-learn,0
+Alicante,E-commerce,AI Engineer,6,13.08,Scikit-learn,1
+Madrid,E-commerce,AI Researcher,6,24.65,AWS AI,1
+Barcelona,E-commerce,AI Researcher,8,24.57,Scikit-learn,1
+Murcia,IT,AI Engineer,10,22.27,ChatGPT,1
+Bilbao,IT,ML Engineer,10,27.15,AWS AI,0
+Alicante,EdTech,ML Engineer,6,19.51,TensorFlow,1
+Murcia,E-commerce,AI Engineer,4,10.81,TensorFlow,0
+Barcelona,EdTech,AI Engineer,6,12.82,AWS AI,0
+Palma,EdTech,ML Engineer,1,7.12,Scikit-learn,1
+Murcia,IT,AI Engineer,1,6.86,TensorFlow,0
+Alicante,E-commerce,AI Engineer,6,15.59,Azure AI,1
+Barcelona,Healthcare,AI Researcher,3,14.01,Azure AI,0
+Palma,EdTech,AI Researcher,3,12.47,Azure AI,0
+Barcelona,Finance,AI Researcher,6,20.62,PyTorch,1
+Barcelona,Healthcare,Data Analyst,1,5.33,TensorFlow,0
+Malaga,Finance,AI Engineer,4,15.15,PyTorch,1
+Zaragoza,EdTech,Data Scientist,11,29.57,Azure AI,0
+Alicante,IT,Data Scientist,2,6.17,AWS AI,0
+Madrid,IT,ML Engineer,11,26.55,TensorFlow,1
+Zaragoza,EdTech,AI Researcher,6,19.66,Azure AI,1
+Bilbao,EdTech,AI Engineer,9,19.01,Azure AI,1
+Palma,Manufacturing,Data Scientist,10,22.76,Azure AI,1
+Seville,Healthcare,ML Engineer,10,24.13,PyTorch,1
+Madrid,Manufacturing,AI Researcher,3,12.74,AWS AI,0
+Valencia,Healthcare,Data Scientist,11,22.71,PyTorch,1
+Zaragoza,Manufacturing,AI Engineer,0,4.45,TensorFlow,0
+Bilbao,Finance,Data Scientist,11,26.29,ChatGPT,1
+Malaga,Healthcare,Data Analyst,6,10.88,AWS AI,1
+Alicante,Manufacturing,Data Scientist,8,22.03,TensorFlow,0
+Valencia,E-commerce,AI Engineer,7,18.42,PyTorch,1
+Bilbao,Healthcare,AI Researcher,0,8.35,ChatGPT,0
+Madrid,EdTech,Data Scientist,4,11.6,ChatGPT,1
+Barcelona,EdTech,Data Scientist,0,3.0,TensorFlow,1
+Madrid,IT,Data Analyst,1,7.0,ChatGPT,0
+Malaga,IT,Data Scientist,7,17.99,Scikit-learn,1
+Alicante,E-commerce,Data Analyst,1,5.12,ChatGPT,1
+Malaga,IT,AI Engineer,11,23.7,AWS AI,1
+Palma,IT,AI Engineer,8,17.95,PyTorch,1
+Murcia,Manufacturing,Data Analyst,9,23.2,PyTorch,0
+Murcia,Finance,Data Analyst,5,15.87,Scikit-learn,1
+Malaga,Manufacturing,Data Scientist,10,24.13,AWS AI,0
+Madrid,Finance,ML Engineer,5,18.4,PyTorch,1
+Madrid,Healthcare,AI Researcher,5,19.75,ChatGPT,0
+Alicante,Finance,Data Analyst,2,6.67,ChatGPT,1
+Bilbao,IT,AI Engineer,4,12.77,TensorFlow,1
+Valencia,E-commerce,AI Engineer,3,9.98,Azure AI,1
+Malaga,Manufacturing,Data Scientist,11,26.41,ChatGPT,0
+Zaragoza,Manufacturing,AI Engineer,7,18.89,Azure AI,0
+Murcia,EdTech,Data Analyst,0,3.0,AWS AI,1
+Seville,IT,AI Engineer,6,18.27,PyTorch,1
+Valencia,Manufacturing,ML Engineer,11,27.48,PyTorch,1
+Alicante,Manufacturing,AI Engineer,8,22.77,PyTorch,1
+Alicante,E-commerce,ML Engineer,4,10.09,Azure AI,1
+Palma,Healthcare,Data Scientist,2,9.06,Azure AI,1
+Bilbao,EdTech,Data Scientist,2,6.67,PyTorch,1
+Malaga,Healthcare,AI Researcher,4,14.62,PyTorch,0
+Murcia,Manufacturing,Data Scientist,9,20.54,ChatGPT,0
+Murcia,E-commerce,Data Scientist,1,3.88,Scikit-learn,1
+Alicante,Finance,Data Scientist,1,6.97,Azure AI,1
+Murcia,EdTech,AI Researcher,5,18.03,ChatGPT,1
+Barcelona,Finance,AI Researcher,1,12.41,ChatGPT,0
+Palma,Finance,Data Analyst,8,19.82,TensorFlow,1
+Alicante,IT,Data Analyst,11,25.88,TensorFlow,0
+Barcelona,Manufacturing,AI Engineer,6,14.1,AWS AI,1
+Malaga,Manufacturing,Data Analyst,7,17.53,TensorFlow,0
+Bilbao,Manufacturing,Data Scientist,6,14.65,AWS AI,0
+Malaga,Finance,Data Analyst,11,25.01,AWS AI,0
+Valencia,EdTech,ML Engineer,0,7.87,Scikit-learn,0
+Palma,Manufacturing,AI Engineer,6,21.06,AWS AI,1
+Zaragoza,Healthcare,ML Engineer,2,11.59,PyTorch,0
+Barcelona,Manufacturing,Data Analyst,4,9.84,Azure AI,1
+Valencia,IT,Data Scientist,6,12.25,PyTorch,0
+Murcia,EdTech,ML Engineer,2,4.66,AWS AI,1
+Malaga,Manufacturing,Data Scientist,4,12.65,Azure AI,0
+Valencia,IT,AI Researcher,11,30.67,TensorFlow,0
+Zaragoza,EdTech,Data Scientist,6,16.18,PyTorch,0
+Madrid,Healthcare,ML Engineer,2,14.24,Azure AI,1
+Murcia,Finance,ML Engineer,11,27.7,PyTorch,1
+Seville,Finance,AI Researcher,11,33.61,Azure AI,1
+Alicante,EdTech,Data Scientist,4,11.23,TensorFlow,1
+Bilbao,EdTech,AI Engineer,0,6.87,PyTorch,0
+Valencia,E-commerce,Data Analyst,3,8.78,Azure AI,1
+Seville,Manufacturing,AI Engineer,1,7.65,TensorFlow,1
+Palma,IT,ML Engineer,4,16.14,ChatGPT,1
+Barcelona,Manufacturing,ML Engineer,5,17.78,TensorFlow,1
+Palma,EdTech,ML Engineer,2,10.87,AWS AI,0
+Murcia,Manufacturing,Data Analyst,9,22.53,Scikit-learn,1
+Bilbao,Healthcare,Data Analyst,8,16.2,Scikit-learn,1
+Zaragoza,Finance,Data Analyst,10,25.3,Azure AI,0
+Bilbao,Finance,Data Scientist,10,28.05,Scikit-learn,1
+Madrid,Manufacturing,ML Engineer,5,16.86,Azure AI,1
+Alicante,Healthcare,Data Scientist,0,3.0,AWS AI,0
+Valencia,IT,AI Researcher,3,15.28,Scikit-learn,0
+Valencia,E-commerce,ML Engineer,3,12.02,ChatGPT,0
+Barcelona,Finance,AI Engineer,4,10.05,PyTorch,0
+Palma,Healthcare,AI Researcher,10,27.88,ChatGPT,0
+Madrid,IT,Data Scientist,5,13.81,AWS AI,1
+Valencia,EdTech,AI Engineer,11,27.06,AWS AI,0
+Valencia,IT,Data Scientist,3,7.68,PyTorch,0
+Palma,Healthcare,Data Scientist,0,4.71,PyTorch,1
+Zaragoza,IT,ML Engineer,1,8.02,AWS AI,0
+Murcia,Healthcare,Data Scientist,4,10.0,PyTorch,0
+Palma,Finance,Data Scientist,8,21.0,ChatGPT,0
+Barcelona,Healthcare,Data Scientist,11,23.12,Azure AI,0
+Malaga,Healthcare,Data Scientist,6,15.19,PyTorch,1
+Alicante,E-commerce,AI Researcher,8,26.42,Azure AI,0
+Bilbao,EdTech,AI Engineer,2,5.05,AWS AI,1
+Madrid,E-commerce,Data Scientist,8,22.21,Azure AI,0
+Alicante,EdTech,Data Scientist,0,3.76,TensorFlow,0
+Zaragoza,EdTech,AI Researcher,3,18.96,TensorFlow,1
+Zaragoza,Manufacturing,AI Engineer,1,5.56,PyTorch,1
+Madrid,Manufacturing,AI Engineer,4,10.05,Azure AI,1
+Alicante,Healthcare,Data Analyst,3,10.03,AWS AI,0
+Murcia,IT,AI Researcher,10,29.68,TensorFlow,0
+Alicante,Manufacturing,Data Analyst,7,16.3,TensorFlow,0
+Palma,IT,AI Researcher,2,13.97,Azure AI,1
+Palma,Manufacturing,AI Engineer,6,20.61,AWS AI,0
+Madrid,EdTech,AI Engineer,10,21.91,AWS AI,0
+Murcia,Finance,Data Analyst,6,18.12,Scikit-learn,1
+Alicante,Healthcare,ML Engineer,2,9.75,TensorFlow,0
+Bilbao,EdTech,ML Engineer,5,17.71,Azure AI,0
+Zaragoza,Healthcare,AI Researcher,1,10.85,TensorFlow,1
+Palma,IT,Data Analyst,0,7.72,Scikit-learn,0
+Madrid,EdTech,ML Engineer,4,14.69,AWS AI,1
+Bilbao,IT,AI Researcher,6,22.28,Azure AI,0
+Zaragoza,E-commerce,Data Scientist,11,25.31,PyTorch,1
+Barcelona,EdTech,AI Engineer,3,7.21,ChatGPT,1
+Murcia,Finance,Data Scientist,0,3.19,Azure AI,1
+Barcelona,IT,AI Engineer,3,8.86,AWS AI,0
+Valencia,Healthcare,AI Researcher,0,6.56,AWS AI,0
+Zaragoza,EdTech,ML Engineer,11,28.2,Azure AI,0
+Valencia,Finance,AI Researcher,4,17.87,PyTorch,0
+Madrid,Finance,AI Engineer,2,7.74,Azure AI,1
+Palma,Manufacturing,Data Scientist,6,16.64,Azure AI,0
+Alicante,Healthcare,Data Scientist,1,9.02,Scikit-learn,1
+Alicante,Finance,Data Scientist,5,10.42,Azure AI,0
+Alicante,EdTech,Data Scientist,8,21.13,Scikit-learn,1
+Bilbao,Healthcare,Data Scientist,3,9.57,AWS AI,1
+Zaragoza,Healthcare,Data Analyst,3,10.08,Azure AI,0
+Malaga,Finance,AI Researcher,4,17.14,PyTorch,1
+Zaragoza,E-commerce,ML Engineer,0,6.75,AWS AI,1
+Valencia,Finance,Data Scientist,9,24.11,PyTorch,1
+Valencia,Finance,AI Engineer,10,24.4,PyTorch,0
+Malaga,Manufacturing,AI Researcher,2,12.63,TensorFlow,0
+Zaragoza,E-commerce,ML Engineer,7,19.22,ChatGPT,0
+Palma,IT,Data Scientist,5,14.14,TensorFlow,1
+Palma,EdTech,ML Engineer,5,16.97,PyTorch,0
+Malaga,E-commerce,ML Engineer,10,27.62,Scikit-learn,0
+Barcelona,Manufacturing,AI Researcher,3,13.71,PyTorch,0
+Valencia,Manufacturing,Data Analyst,6,16.75,ChatGPT,1
+Alicante,Healthcare,ML Engineer,10,26.31,Scikit-learn,0
+Malaga,Manufacturing,AI Researcher,3,16.28,AWS AI,1
+Madrid,EdTech,AI Researcher,1,11.62,ChatGPT,1
+Barcelona,Healthcare,AI Engineer,4,14.28,Scikit-learn,1
+Bilbao,Healthcare,AI Researcher,4,16.66,TensorFlow,1
+Zaragoza,IT,Data Analyst,6,11.6,Azure AI,1
+Bilbao,Finance,Data Scientist,7,17.55,PyTorch,1
+Zaragoza,EdTech,AI Engineer,7,15.78,Scikit-learn,1
+Murcia,Healthcare,ML Engineer,0,5.9,Scikit-learn,1
+Alicante,IT,Data Analyst,3,8.16,Scikit-learn,1
+Murcia,Manufacturing,AI Researcher,4,14.16,AWS AI,1
+Alicante,Manufacturing,Data Scientist,0,3.0,ChatGPT,0
+Zaragoza,Manufacturing,Data Scientist,1,4.18,AWS AI,0
+Murcia,Healthcare,ML Engineer,9,27.48,Azure AI,0
+Malaga,EdTech,AI Researcher,10,28.81,PyTorch,1
+Madrid,Finance,Data Analyst,1,4.6,ChatGPT,1
+Barcelona,E-commerce,Data Analyst,4,14.04,TensorFlow,1
+Palma,Healthcare,AI Engineer,1,7.82,PyTorch,1
+Seville,Finance,ML Engineer,8,21.87,TensorFlow,0
+Barcelona,Manufacturing,AI Researcher,1,8.57,ChatGPT,1
+Palma,IT,AI Engineer,5,11.42,Azure AI,0
+Madrid,Manufacturing,Data Scientist,0,4.14,Azure AI,0
+Madrid,EdTech,Data Scientist,3,5.23,PyTorch,1
+Palma,EdTech,Data Scientist,0,3.0,Scikit-learn,0
+Malaga,Manufacturing,AI Engineer,9,21.53,TensorFlow,0
+Seville,IT,Data Scientist,11,24.89,ChatGPT,1
+Valencia,Finance,Data Analyst,11,22.91,ChatGPT,0
+Valencia,Finance,AI Researcher,8,24.81,Scikit-learn,1
+Alicante,E-commerce,ML Engineer,4,13.42,AWS AI,0
+Madrid,EdTech,ML Engineer,10,26.78,Azure AI,1
+Barcelona,Manufacturing,AI Engineer,7,17.49,Scikit-learn,1
+Zaragoza,Healthcare,AI Researcher,1,10.34,Azure AI,1
+Bilbao,Healthcare,AI Engineer,10,22.7,PyTorch,1
+Bilbao,Healthcare,AI Engineer,5,13.06,Scikit-learn,0
+Zaragoza,Finance,Data Scientist,9,19.88,ChatGPT,0
+Bilbao,Healthcare,AI Researcher,8,23.35,TensorFlow,0
+Bilbao,Finance,AI Engineer,6,14.57,Azure AI,0
+Seville,E-commerce,AI Researcher,4,17.76,Scikit-learn,1
+Murcia,Finance,AI Engineer,7,18.32,Scikit-learn,0
+Zaragoza,Manufacturing,AI Researcher,2,13.74,PyTorch,1
+Seville,Healthcare,AI Researcher,6,19.66,TensorFlow,1
+Bilbao,Manufacturing,AI Researcher,2,11.73,Azure AI,1
+Murcia,E-commerce,AI Researcher,7,23.7,PyTorch,0
+Alicante,EdTech,AI Researcher,5,20.09,AWS AI,0
+Valencia,Healthcare,AI Engineer,11,22.09,TensorFlow,0
+Valencia,Finance,Data Analyst,11,22.66,PyTorch,1
+Murcia,Finance,AI Researcher,1,11.08,TensorFlow,0
+Palma,E-commerce,AI Engineer,3,8.28,Azure AI,1
+Alicante,E-commerce,Data Analyst,7,14.5,TensorFlow,0
+Bilbao,Healthcare,AI Researcher,4,17.21,ChatGPT,1
+Barcelona,Manufacturing,AI Researcher,8,21.68,PyTorch,1
+Seville,Manufacturing,AI Researcher,7,22.28,ChatGPT,1
+Murcia,Finance,AI Engineer,2,10.05,PyTorch,0
+Madrid,IT,Data Analyst,1,4.72,AWS AI,0
+Zaragoza,EdTech,ML Engineer,0,7.24,TensorFlow,1
+Bilbao,Manufacturing,Data Analyst,5,14.3,Azure AI,1
+Zaragoza,Finance,AI Researcher,11,32.86,Azure AI,0
+Malaga,E-commerce,AI Researcher,10,27.18,Scikit-learn,0
+Alicante,IT,Data Analyst,0,3.69,Scikit-learn,1
+Valencia,Manufacturing,AI Researcher,4,14.67,PyTorch,0
+Alicante,E-commerce,ML Engineer,0,3.0,Scikit-learn,0
+Palma,Manufacturing,ML Engineer,1,5.89,ChatGPT,1
+Murcia,Manufacturing,AI Researcher,0,5.04,AWS AI,0
+Palma,Finance,AI Researcher,6,19.61,Scikit-learn,0
+Madrid,EdTech,Data Scientist,9,19.67,Scikit-learn,1
+Barcelona,Finance,ML Engineer,10,28.04,Scikit-learn,0
+Malaga,IT,Data Analyst,8,19.86,PyTorch,0
+Palma,Finance,Data Scientist,2,10.12,PyTorch,1
+Seville,Finance,AI Engineer,11,24.01,AWS AI,1
+Palma,Manufacturing,AI Researcher,10,25.71,Azure AI,1
+Valencia,IT,AI Engineer,1,6.49,Scikit-learn,0
+Murcia,EdTech,AI Engineer,10,23.32,PyTorch,0
+Malaga,E-commerce,AI Engineer,10,19.67,ChatGPT,0
+Zaragoza,IT,AI Researcher,8,25.26,PyTorch,1
+Bilbao,Finance,AI Engineer,9,22.91,ChatGPT,1
+Madrid,Healthcare,AI Engineer,6,15.53,AWS AI,1
+Malaga,Finance,Data Scientist,1,3.51,AWS AI,1
+Seville,E-commerce,AI Researcher,8,24.02,TensorFlow,1
+Seville,Finance,Data Analyst,1,6.23,Azure AI,1
+Murcia,EdTech,Data Analyst,11,27.21,Scikit-learn,0
+Alicante,Finance,ML Engineer,8,22.22,Azure AI,1
+Murcia,IT,AI Engineer,7,16.1,Azure AI,0
+Zaragoza,E-commerce,AI Researcher,8,25.86,Scikit-learn,1
+Alicante,E-commerce,ML Engineer,7,21.02,Azure AI,1
+Seville,Finance,Data Scientist,10,20.42,TensorFlow,1
+Zaragoza,IT,ML Engineer,8,23.85,ChatGPT,0
+Valencia,EdTech,Data Scientist,5,11.94,PyTorch,1
+Madrid,Healthcare,Data Analyst,4,12.23,AWS AI,0
+Valencia,IT,Data Analyst,10,27.28,PyTorch,1
+Palma,Finance,Data Analyst,9,19.4,AWS AI,1
+Malaga,Manufacturing,Data Analyst,0,5.91,Scikit-learn,1
+Zaragoza,Healthcare,AI Engineer,3,11.25,TensorFlow,1
+Bilbao,EdTech,ML Engineer,8,20.98,Scikit-learn,1
+Seville,EdTech,Data Scientist,2,7.51,Azure AI,1
+Bilbao,Manufacturing,ML Engineer,5,16.16,ChatGPT,1
+Murcia,Healthcare,Data Scientist,5,12.04,Scikit-learn,1
+Madrid,E-commerce,Data Analyst,2,5.06,Scikit-learn,0
+Palma,Finance,ML Engineer,8,22.79,PyTorch,1
+Madrid,Finance,ML Engineer,7,20.27,ChatGPT,1
+Valencia,IT,Data Scientist,1,6.55,TensorFlow,1
+Palma,EdTech,Data Scientist,8,20.23,AWS AI,1
+Seville,Manufacturing,AI Engineer,2,7.67,ChatGPT,1
+Malaga,E-commerce,ML Engineer,7,18.14,Scikit-learn,0
+Alicante,Manufacturing,AI Researcher,7,21.87,ChatGPT,1
+Palma,E-commerce,Data Scientist,0,5.98,TensorFlow,1
+Madrid,Manufacturing,Data Scientist,10,23.35,PyTorch,1
+Madrid,Manufacturing,AI Engineer,8,17.74,Scikit-learn,0
+Zaragoza,EdTech,ML Engineer,7,22.13,TensorFlow,1
+Barcelona,Finance,ML Engineer,6,15.57,Azure AI,0
+Murcia,EdTech,Data Scientist,9,21.85,AWS AI,1
+Malaga,Healthcare,AI Engineer,9,20.71,Azure AI,0
+Murcia,EdTech,AI Engineer,11,25.35,Scikit-learn,0
+Murcia,Finance,AI Engineer,0,4.26,AWS AI,0
+Palma,E-commerce,Data Analyst,1,6.7,Scikit-learn,0
+Seville,IT,Data Analyst,10,22.51,Scikit-learn,0
+Bilbao,Manufacturing,AI Engineer,1,5.04,AWS AI,0
+Seville,Healthcare,Data Analyst,5,9.94,Scikit-learn,0
+Alicante,IT,ML Engineer,10,23.22,ChatGPT,1
+Alicante,EdTech,Data Analyst,4,10.42,PyTorch,1
+Bilbao,Healthcare,AI Engineer,7,18.43,PyTorch,0
+Murcia,IT,ML Engineer,10,28.36,AWS AI,0
+Zaragoza,Finance,AI Engineer,3,12.79,Azure AI,0
+Alicante,IT,ML Engineer,3,12.2,PyTorch,0
+Alicante,IT,AI Engineer,4,12.84,TensorFlow,1
+Malaga,E-commerce,AI Researcher,11,30.48,PyTorch,1
+Alicante,Manufacturing,AI Researcher,5,17.04,AWS AI,1
+Zaragoza,Healthcare,AI Researcher,2,14.51,TensorFlow,1
+Alicante,Healthcare,AI Engineer,7,17.8,ChatGPT,0
+Palma,Healthcare,AI Engineer,5,11.19,ChatGPT,1
+Murcia,Manufacturing,AI Researcher,8,27.0,AWS AI,0
+Malaga,Healthcare,ML Engineer,2,13.65,Scikit-learn,1
+Palma,Manufacturing,Data Analyst,8,14.84,PyTorch,0
+Palma,EdTech,ML Engineer,7,21.99,ChatGPT,0
+Barcelona,E-commerce,ML Engineer,7,24.24,ChatGPT,1
+Valencia,Healthcare,Data Scientist,7,19.96,AWS AI,1
+Seville,IT,AI Engineer,11,26.85,Scikit-learn,1
+Malaga,E-commerce,AI Researcher,1,13.88,Scikit-learn,0
+Zaragoza,E-commerce,ML Engineer,7,23.04,PyTorch,1
+Murcia,Finance,Data Analyst,7,17.94,Scikit-learn,1
+Valencia,Healthcare,Data Analyst,7,18.01,TensorFlow,0
+Murcia,Manufacturing,Data Scientist,6,15.77,ChatGPT,1
+Seville,IT,ML Engineer,3,13.71,AWS AI,1
+Alicante,EdTech,Data Analyst,10,25.48,Azure AI,0
+Zaragoza,EdTech,AI Researcher,0,10.1,Azure AI,0
+Barcelona,Finance,Data Analyst,8,21.47,ChatGPT,0
+Alicante,E-commerce,Data Analyst,2,9.72,Scikit-learn,1
+Valencia,IT,ML Engineer,9,23.81,AWS AI,1
+Malaga,Manufacturing,Data Analyst,1,5.29,Scikit-learn,1
+Bilbao,Healthcare,Data Analyst,1,6.72,AWS AI,0
+Malaga,EdTech,ML Engineer,0,5.49,TensorFlow,0
+Barcelona,IT,AI Engineer,9,26.94,TensorFlow,1
+Valencia,Finance,AI Researcher,7,24.66,Scikit-learn,0
+Palma,Healthcare,AI Researcher,1,11.13,TensorFlow,1
+Malaga,Finance,Data Analyst,5,13.9,Scikit-learn,1
+Valencia,IT,AI Engineer,11,24.49,AWS AI,1
+Murcia,E-commerce,ML Engineer,0,4.71,AWS AI,1
+Seville,E-commerce,AI Researcher,9,24.1,Azure AI,1
+Barcelona,Manufacturing,AI Engineer,10,24.2,Azure AI,0
+Malaga,Manufacturing,Data Analyst,10,22.9,PyTorch,0
+Zaragoza,Manufacturing,Data Scientist,6,17.41,Azure AI,0
+Zaragoza,E-commerce,ML Engineer,11,27.55,Scikit-learn,0
+Murcia,Manufacturing,Data Analyst,5,15.51,TensorFlow,0
+Valencia,E-commerce,ML Engineer,5,18.38,AWS AI,0
+Murcia,Healthcare,AI Engineer,3,11.23,AWS AI,1
+Bilbao,EdTech,Data Scientist,7,21.11,PyTorch,1
+Seville,Finance,AI Engineer,5,11.24,TensorFlow,0
+Zaragoza,Finance,AI Researcher,6,20.33,PyTorch,1
+Alicante,Healthcare,AI Engineer,2,8.11,ChatGPT,0
+Bilbao,IT,AI Engineer,10,24.57,PyTorch,1
+Barcelona,EdTech,AI Engineer,1,7.51,Azure AI,1
+Seville,EdTech,Data Analyst,9,25.07,Azure AI,1
+Palma,EdTech,Data Analyst,10,23.38,AWS AI,1
+Seville,EdTech,ML Engineer,7,19.65,Scikit-learn,1
+Malaga,Healthcare,AI Researcher,9,26.4,Azure AI,1
+Zaragoza,Manufacturing,AI Engineer,5,13.12,Azure AI,1
+Valencia,Manufacturing,AI Researcher,3,11.5,Scikit-learn,1
+Zaragoza,Healthcare,AI Engineer,6,16.49,Azure AI,1
+Palma,Healthcare,ML Engineer,4,8.82,TensorFlow,0
+Madrid,IT,Data Scientist,8,23.71,AWS AI,1
+Seville,Healthcare,AI Researcher,10,28.03,ChatGPT,1
+Valencia,Finance,AI Researcher,2,14.31,Scikit-learn,0
+Palma,EdTech,Data Scientist,7,19.49,Azure AI,1
+Barcelona,Finance,AI Engineer,5,11.69,PyTorch,0
+Barcelona,Healthcare,AI Engineer,2,7.61,ChatGPT,1
+Alicante,Healthcare,Data Scientist,6,16.95,AWS AI,1
+Seville,Manufacturing,AI Engineer,7,18.14,TensorFlow,0
+Seville,E-commerce,Data Scientist,2,9.84,PyTorch,0
+Malaga,EdTech,AI Researcher,1,8.41,Azure AI,1
+Bilbao,Manufacturing,ML Engineer,6,20.48,PyTorch,0
+Malaga,EdTech,Data Analyst,8,21.84,Azure AI,0
+Palma,EdTech,Data Analyst,10,24.4,ChatGPT,0
+Barcelona,Healthcare,Data Scientist,4,10.83,TensorFlow,0
+Valencia,Manufacturing,AI Researcher,1,7.22,AWS AI,1
+Palma,Finance,AI Engineer,11,28.24,TensorFlow,1
+Seville,E-commerce,AI Researcher,10,28.57,Azure AI,0
+Alicante,Finance,AI Researcher,1,10.6,AWS AI,1
+Zaragoza,Finance,AI Researcher,5,17.71,ChatGPT,1
+Seville,Manufacturing,ML Engineer,11,27.11,ChatGPT,0
+Alicante,Healthcare,Data Scientist,8,17.48,PyTorch,1
+Madrid,Manufacturing,AI Researcher,4,14.65,TensorFlow,0
+Malaga,Healthcare,AI Researcher,10,25.78,TensorFlow,1
+Palma,Healthcare,ML Engineer,9,28.05,ChatGPT,1
+Valencia,Manufacturing,ML Engineer,11,31.21,AWS AI,0
+Barcelona,Healthcare,AI Engineer,3,13.68,AWS AI,0
+Malaga,IT,AI Engineer,8,18.53,Azure AI,1
+Barcelona,Healthcare,AI Engineer,5,9.03,ChatGPT,1
+Malaga,Finance,AI Engineer,9,21.7,AWS AI,0
+Seville,E-commerce,AI Researcher,8,18.32,Azure AI,0
+Madrid,E-commerce,Data Analyst,1,5.93,Azure AI,1
+Alicante,Finance,ML Engineer,6,18.39,Azure AI,0
+Alicante,Manufacturing,Data Analyst,6,12.45,Scikit-learn,0
+Alicante,E-commerce,Data Analyst,8,16.09,ChatGPT,0
+Palma,Manufacturing,Data Analyst,5,10.93,Azure AI,1
+Madrid,EdTech,Data Scientist,3,11.0,Azure AI,0
+Palma,Finance,AI Engineer,2,7.45,Azure AI,1
+Bilbao,E-commerce,Data Scientist,9,20.37,Azure AI,1
+Madrid,IT,ML Engineer,2,7.08,AWS AI,0
+Seville,Finance,AI Engineer,9,20.45,ChatGPT,1
+Malaga,Manufacturing,Data Analyst,1,5.07,TensorFlow,1
+Palma,Healthcare,ML Engineer,7,18.89,TensorFlow,1
+Valencia,Finance,ML Engineer,6,18.45,Scikit-learn,1
+Zaragoza,Healthcare,ML Engineer,10,26.58,ChatGPT,1
+Palma,IT,AI Researcher,6,17.99,Scikit-learn,0
+Zaragoza,EdTech,ML Engineer,7,18.47,Scikit-learn,0
+Alicante,Finance,AI Researcher,9,25.17,TensorFlow,1
+Zaragoza,Manufacturing,AI Researcher,4,16.15,ChatGPT,1
+Zaragoza,Healthcare,AI Engineer,9,19.78,AWS AI,0
+Zaragoza,Manufacturing,AI Researcher,1,9.98,TensorFlow,0
+Alicante,E-commerce,AI Engineer,5,13.42,Azure AI,0
+Malaga,E-commerce,Data Scientist,5,11.34,TensorFlow,1
+Alicante,EdTech,AI Researcher,11,28.94,Scikit-learn,0
+Zaragoza,Finance,AI Researcher,8,24.05,AWS AI,0
+Barcelona,Finance,ML Engineer,4,15.55,TensorFlow,0
+Alicante,Healthcare,Data Analyst,2,8.75,PyTorch,0
+Malaga,E-commerce,AI Researcher,9,25.9,TensorFlow,0
+Barcelona,E-commerce,AI Engineer,6,15.88,ChatGPT,0
+Zaragoza,IT,Data Analyst,1,3.0,PyTorch,0
+Zaragoza,Healthcare,Data Analyst,4,13.87,TensorFlow,1
+Valencia,E-commerce,Data Analyst,9,19.08,AWS AI,1
+Alicante,Finance,Data Analyst,2,9.55,Scikit-learn,0
+Bilbao,Healthcare,AI Researcher,2,12.97,Azure AI,1
+Valencia,E-commerce,AI Engineer,5,12.6,Scikit-learn,1
+Madrid,Finance,AI Engineer,0,3.0,PyTorch,1
+Palma,EdTech,AI Engineer,11,23.07,TensorFlow,0
+Valencia,Manufacturing,Data Scientist,10,22.22,TensorFlow,0
+Murcia,IT,AI Researcher,1,8.08,Scikit-learn,1
+Palma,Healthcare,ML Engineer,9,23.82,Scikit-learn,0
+Murcia,IT,Data Scientist,4,13.25,Scikit-learn,1
+Zaragoza,EdTech,AI Researcher,5,19.13,TensorFlow,1
+Alicante,Finance,Data Analyst,7,12.43,AWS AI,1
+Palma,IT,ML Engineer,3,17.09,PyTorch,1
+Barcelona,EdTech,AI Engineer,1,7.6,AWS AI,1
+Malaga,EdTech,ML Engineer,1,9.49,AWS AI,0
+Zaragoza,Healthcare,AI Researcher,7,21.56,PyTorch,1
+Murcia,Manufacturing,AI Researcher,5,21.27,ChatGPT,1
+Madrid,EdTech,ML Engineer,8,24.97,ChatGPT,0
+Murcia,E-commerce,Data Analyst,2,8.6,Scikit-learn,0
+Seville,Healthcare,Data Scientist,5,12.36,Scikit-learn,1
+Zaragoza,Healthcare,AI Engineer,1,3.59,AWS AI,0
+Malaga,E-commerce,AI Engineer,0,3.0,TensorFlow,0
+Valencia,IT,Data Analyst,7,14.19,ChatGPT,0
+Murcia,EdTech,AI Engineer,0,3.26,ChatGPT,1
+Malaga,E-commerce,Data Scientist,0,4.03,Scikit-learn,1
+Murcia,EdTech,AI Engineer,10,26.36,TensorFlow,1
+Malaga,IT,Data Scientist,6,16.97,Azure AI,0
+Malaga,EdTech,Data Analyst,5,13.71,Azure AI,0
+Alicante,Healthcare,ML Engineer,2,11.94,TensorFlow,0
+Valencia,EdTech,AI Engineer,6,15.53,ChatGPT,1
+Madrid,IT,AI Researcher,11,36.42,PyTorch,1
+Murcia,Manufacturing,AI Researcher,10,26.78,Scikit-learn,0
+Madrid,IT,AI Engineer,9,19.51,Azure AI,0
+Murcia,Manufacturing,AI Engineer,0,3.0,PyTorch,1
+Madrid,Manufacturing,ML Engineer,9,23.06,TensorFlow,1
+Valencia,Finance,AI Engineer,0,3.91,ChatGPT,0
+Seville,EdTech,AI Engineer,10,23.99,AWS AI,1
+Valencia,Healthcare,Data Scientist,11,26.62,PyTorch,0
+Alicante,Finance,AI Researcher,4,17.98,Azure AI,1
+Madrid,Finance,AI Engineer,0,5.36,PyTorch,0
+Seville,IT,Data Analyst,0,6.02,AWS AI,1
+Malaga,Manufacturing,Data Scientist,0,5.06,Azure AI,0
+Valencia,Finance,Data Analyst,7,15.37,Azure AI,1
+Bilbao,E-commerce,ML Engineer,10,24.93,Azure AI,1
+Murcia,Finance,Data Analyst,1,4.15,Scikit-learn,0
+Malaga,Healthcare,AI Engineer,4,9.45,PyTorch,1
+Malaga,E-commerce,ML Engineer,1,8.32,AWS AI,1
+Seville,Finance,AI Researcher,2,13.47,TensorFlow,1
+Valencia,EdTech,ML Engineer,7,24.14,AWS AI,1
+Alicante,Healthcare,Data Scientist,2,9.79,ChatGPT,0
+Alicante,Manufacturing,ML Engineer,6,17.2,ChatGPT,1
+Bilbao,Manufacturing,AI Engineer,6,12.3,TensorFlow,1
+Malaga,Healthcare,AI Researcher,3,13.28,Azure AI,1
+Palma,E-commerce,Data Analyst,2,10.19,Azure AI,1
+Murcia,E-commerce,AI Engineer,3,10.54,AWS AI,0
+Murcia,Healthcare,Data Scientist,5,14.06,Azure AI,1
+Murcia,E-commerce,AI Engineer,3,9.74,AWS AI,1
+Zaragoza,IT,Data Scientist,8,19.54,Azure AI,0
+Malaga,IT,Data Scientist,4,9.98,Azure AI,1
+Bilbao,E-commerce,AI Researcher,10,29.1,ChatGPT,0
+Murcia,Manufacturing,Data Analyst,4,11.86,AWS AI,0
+Malaga,Finance,Data Analyst,1,5.97,ChatGPT,0
+Malaga,EdTech,Data Scientist,3,9.87,ChatGPT,1
+Barcelona,Manufacturing,Data Scientist,8,19.04,AWS AI,1
+Valencia,Healthcare,AI Researcher,4,14.52,Scikit-learn,1
+Seville,Finance,ML Engineer,11,30.32,Azure AI,1
+Valencia,Finance,AI Researcher,8,22.25,Azure AI,1
+Palma,Manufacturing,ML Engineer,0,3.85,TensorFlow,1
+Barcelona,E-commerce,Data Scientist,5,13.13,AWS AI,1
+Malaga,EdTech,Data Analyst,11,24.23,PyTorch,0
+Madrid,E-commerce,AI Researcher,2,12.13,TensorFlow,1
+Zaragoza,IT,ML Engineer,7,20.8,AWS AI,1
+Murcia,Finance,AI Researcher,1,11.21,TensorFlow,0
+Murcia,EdTech,Data Scientist,11,27.65,TensorFlow,0
+Zaragoza,EdTech,ML Engineer,7,22.42,TensorFlow,1
+Malaga,Manufacturing,Data Scientist,8,18.57,Azure AI,0
+Barcelona,EdTech,Data Scientist,11,28.64,TensorFlow,1
+Malaga,Manufacturing,Data Analyst,5,12.46,Azure AI,1
+Zaragoza,E-commerce,AI Engineer,2,7.99,Azure AI,0
+Murcia,Finance,AI Researcher,0,7.4,PyTorch,1
+Murcia,E-commerce,Data Scientist,11,25.02,Scikit-learn,0
+Madrid,EdTech,AI Researcher,11,29.96,TensorFlow,1
+Alicante,Manufacturing,Data Scientist,2,7.82,PyTorch,1
+Barcelona,E-commerce,AI Engineer,2,7.7,TensorFlow,0
+Bilbao,Finance,Data Analyst,1,4.3,PyTorch,1
+Zaragoza,E-commerce,Data Scientist,2,3.43,Azure AI,0
+Seville,IT,Data Scientist,5,13.49,PyTorch,1
+Alicante,EdTech,Data Analyst,5,14.71,Azure AI,1
+Murcia,EdTech,ML Engineer,9,21.09,ChatGPT,1
+Madrid,Manufacturing,ML Engineer,8,21.87,Azure AI,0
+Madrid,EdTech,Data Scientist,6,13.3,Scikit-learn,1
+Madrid,Finance,ML Engineer,9,25.59,Scikit-learn,1
+Malaga,EdTech,AI Researcher,3,14.83,Azure AI,1
+Bilbao,Healthcare,Data Scientist,4,13.43,TensorFlow,0
+Palma,EdTech,Data Analyst,10,23.22,PyTorch,1
+Valencia,Finance,Data Analyst,9,19.11,ChatGPT,1
+Barcelona,IT,Data Analyst,11,25.4,Scikit-learn,1
+Barcelona,Finance,AI Researcher,10,28.34,Azure AI,1
+Palma,E-commerce,Data Analyst,10,25.88,PyTorch,1
+Valencia,EdTech,Data Scientist,10,21.49,ChatGPT,1
+Barcelona,EdTech,ML Engineer,11,26.21,TensorFlow,1
+Barcelona,IT,Data Scientist,2,9.77,TensorFlow,1
+Palma,IT,AI Engineer,3,5.99,Azure AI,1
+Malaga,E-commerce,Data Analyst,7,15.71,Azure AI,1
+Alicante,EdTech,Data Analyst,4,9.72,Azure AI,1
+Seville,E-commerce,Data Analyst,7,20.02,Scikit-learn,1
+Zaragoza,E-commerce,ML Engineer,11,28.14,ChatGPT,0
+Barcelona,E-commerce,AI Engineer,11,26.83,Scikit-learn,0
+Barcelona,Finance,AI Researcher,1,10.57,Scikit-learn,1
+Seville,IT,AI Engineer,7,20.24,TensorFlow,0
+Alicante,Finance,AI Engineer,9,21.77,PyTorch,1
+Bilbao,E-commerce,ML Engineer,8,25.61,Azure AI,1
+Seville,Manufacturing,AI Engineer,8,20.01,Scikit-learn,0
+Barcelona,E-commerce,AI Engineer,4,10.99,TensorFlow,0
+Malaga,Healthcare,Data Analyst,2,7.96,AWS AI,1
+Palma,Finance,AI Researcher,5,17.33,Azure AI,1
+Bilbao,EdTech,ML Engineer,6,17.63,AWS AI,1
+Madrid,Finance,AI Engineer,0,3.0,Azure AI,1
+Palma,IT,AI Engineer,6,16.08,Scikit-learn,0
+Alicante,EdTech,ML Engineer,11,28.41,AWS AI,1
+Malaga,Healthcare,Data Analyst,0,3.0,AWS AI,1
+Seville,IT,ML Engineer,5,16.57,PyTorch,0
+Malaga,Healthcare,Data Analyst,1,4.29,PyTorch,1
+Malaga,Finance,ML Engineer,1,8.89,Azure AI,1
+Murcia,Manufacturing,AI Researcher,4,16.03,Azure AI,1
+Zaragoza,Finance,AI Engineer,3,7.97,ChatGPT,1
+Barcelona,E-commerce,Data Analyst,4,12.65,Azure AI,0
+Alicante,EdTech,AI Engineer,9,22.87,Azure AI,0
+Alicante,Manufacturing,AI Researcher,1,10.44,PyTorch,0
+Malaga,EdTech,AI Researcher,1,11.5,PyTorch,1
+Palma,IT,AI Engineer,8,21.51,Azure AI,0
+Madrid,Healthcare,Data Scientist,9,18.37,AWS AI,1
+Palma,IT,ML Engineer,10,25.2,Scikit-learn,0
+Madrid,IT,Data Scientist,7,17.68,TensorFlow,0
+Zaragoza,Manufacturing,AI Engineer,2,8.46,Scikit-learn,0
+Bilbao,Healthcare,AI Researcher,6,20.38,TensorFlow,0
+Valencia,EdTech,AI Researcher,1,9.41,Scikit-learn,1
+Madrid,E-commerce,Data Analyst,1,5.94,Azure AI,1
+Zaragoza,EdTech,ML Engineer,9,27.64,AWS AI,1
+Alicante,Manufacturing,AI Researcher,2,12.98,PyTorch,1
+Murcia,EdTech,Data Scientist,9,21.44,Scikit-learn,0
+Madrid,Finance,Data Scientist,5,15.04,ChatGPT,0
+Seville,IT,AI Researcher,6,22.69,TensorFlow,1
+Murcia,Healthcare,AI Researcher,9,25.58,PyTorch,1
+Barcelona,E-commerce,Data Scientist,11,25.41,PyTorch,1
+Malaga,Manufacturing,ML Engineer,10,24.38,Azure AI,0
+Zaragoza,IT,Data Analyst,6,19.02,AWS AI,1
+Murcia,Healthcare,AI Engineer,9,18.88,Scikit-learn,1
+Malaga,E-commerce,AI Engineer,10,23.25,TensorFlow,1
+Malaga,Manufacturing,AI Engineer,9,21.65,Azure AI,0
+Valencia,Healthcare,AI Researcher,4,16.76,PyTorch,1
+Seville,Finance,AI Engineer,10,26.35,Scikit-learn,0
+Zaragoza,Finance,Data Analyst,7,14.94,Scikit-learn,1
+Barcelona,EdTech,Data Scientist,3,9.57,Azure AI,0
+Palma,Finance,ML Engineer,4,16.94,AWS AI,0
+Murcia,E-commerce,Data Analyst,0,3.53,AWS AI,1
+Zaragoza,Finance,AI Researcher,1,12.57,AWS AI,1
+Alicante,IT,AI Engineer,0,4.89,Scikit-learn,0
+Madrid,Finance,Data Analyst,11,23.82,PyTorch,0
+Seville,E-commerce,Data Analyst,0,3.0,Azure AI,0
+Bilbao,Finance,AI Engineer,3,9.24,Azure AI,1
+Seville,Manufacturing,ML Engineer,2,10.59,AWS AI,1
+Palma,Manufacturing,Data Analyst,11,27.68,Scikit-learn,1
+Alicante,Finance,Data Analyst,10,21.71,AWS AI,1
+Murcia,EdTech,Data Analyst,11,28.78,Azure AI,1
+Malaga,EdTech,Data Analyst,5,18.14,PyTorch,0
+Zaragoza,IT,Data Analyst,3,9.97,ChatGPT,0
+Madrid,Manufacturing,AI Researcher,0,7.08,ChatGPT,0
+Barcelona,IT,ML Engineer,8,24.79,TensorFlow,0
+Malaga,Finance,Data Scientist,4,13.5,Azure AI,0
+Palma,E-commerce,ML Engineer,0,5.89,PyTorch,1
+Seville,Healthcare,AI Researcher,8,23.34,AWS AI,1
+Seville,Manufacturing,Data Analyst,6,13.02,Scikit-learn,0
+Valencia,E-commerce,AI Researcher,7,21.69,Scikit-learn,0
+Madrid,EdTech,ML Engineer,0,5.44,Scikit-learn,1
+Madrid,Finance,Data Analyst,11,25.74,PyTorch,1
+Valencia,IT,ML Engineer,0,5.73,ChatGPT,0
+Valencia,IT,Data Scientist,11,27.27,AWS AI,0
+Zaragoza,EdTech,AI Researcher,4,15.69,ChatGPT,1
+Valencia,EdTech,AI Researcher,1,10.3,PyTorch,1
+Alicante,Healthcare,ML Engineer,1,9.12,Azure AI,0
+Palma,EdTech,Data Scientist,7,17.36,Azure AI,1
+Malaga,IT,Data Scientist,4,11.39,Azure AI,0
+Murcia,Healthcare,AI Researcher,8,26.29,AWS AI,1
+Murcia,EdTech,AI Researcher,3,13.39,ChatGPT,1
+Alicante,EdTech,ML Engineer,7,23.96,ChatGPT,1
+Barcelona,Finance,Data Analyst,0,3.22,TensorFlow,0
+Madrid,Manufacturing,ML Engineer,9,24.7,Azure AI,1
+Zaragoza,E-commerce,ML Engineer,10,24.68,Scikit-learn,1
+Valencia,E-commerce,AI Engineer,4,9.85,PyTorch,1
+Madrid,Manufacturing,AI Engineer,11,25.51,Scikit-learn,1
+Alicante,EdTech,ML Engineer,3,9.49,PyTorch,1
+Murcia,IT,Data Analyst,2,5.23,Scikit-learn,0
+Malaga,Healthcare,Data Scientist,10,22.24,PyTorch,1
+Malaga,IT,AI Engineer,6,14.25,Scikit-learn,0
+Palma,EdTech,ML Engineer,1,5.61,PyTorch,1
+Murcia,Healthcare,ML Engineer,9,23.37,ChatGPT,1
+Bilbao,Manufacturing,ML Engineer,4,13.33,Azure AI,1
+Barcelona,E-commerce,AI Engineer,9,23.89,PyTorch,0
+Seville,E-commerce,AI Engineer,9,26.73,Azure AI,1
+Murcia,Manufacturing,ML Engineer,2,9.35,TensorFlow,1
+Seville,IT,Data Analyst,5,14.4,AWS AI,0
+Bilbao,E-commerce,AI Researcher,11,29.82,PyTorch,1
+Zaragoza,Manufacturing,Data Scientist,5,11.48,TensorFlow,0
+Madrid,EdTech,ML Engineer,1,8.08,PyTorch,1
+Bilbao,IT,Data Scientist,6,15.03,TensorFlow,0
+Murcia,Healthcare,Data Scientist,6,14.18,PyTorch,1
+Zaragoza,Healthcare,ML Engineer,11,26.6,PyTorch,0
+Seville,Manufacturing,ML Engineer,3,14.8,ChatGPT,1
+Palma,Manufacturing,AI Researcher,7,21.72,Azure AI,0
+Seville,Healthcare,Data Analyst,2,8.89,TensorFlow,1
+Zaragoza,EdTech,AI Engineer,8,16.68,Scikit-learn,1
+Barcelona,Healthcare,AI Researcher,10,29.61,ChatGPT,0
+Palma,Finance,ML Engineer,5,14.37,AWS AI,1
+Malaga,Healthcare,Data Analyst,0,3.49,TensorFlow,1
+Bilbao,Finance,Data Analyst,9,22.58,PyTorch,0
+Palma,EdTech,Data Scientist,9,21.96,ChatGPT,0
+Valencia,Finance,ML Engineer,5,15.36,Scikit-learn,1
+Valencia,EdTech,Data Scientist,9,22.91,ChatGPT,0
+Bilbao,EdTech,ML Engineer,0,7.7,TensorFlow,1
+Murcia,Finance,AI Researcher,11,29.45,ChatGPT,1
+Palma,Healthcare,ML Engineer,4,13.97,ChatGPT,1
+Seville,Finance,Data Analyst,6,13.55,AWS AI,1
+Murcia,Finance,Data Scientist,5,15.31,Scikit-learn,1
+Madrid,E-commerce,AI Researcher,7,21.0,TensorFlow,1
+Seville,Manufacturing,ML Engineer,8,22.99,AWS AI,1
+Madrid,E-commerce,Data Analyst,8,22.02,Azure AI,1
+Zaragoza,Manufacturing,ML Engineer,7,22.93,Azure AI,1
+Seville,Manufacturing,AI Researcher,8,25.03,Scikit-learn,1
+Alicante,Manufacturing,AI Researcher,11,31.67,Azure AI,1
+Zaragoza,Finance,AI Researcher,11,28.32,Azure AI,1
+Valencia,E-commerce,Data Scientist,10,22.15,ChatGPT,0
+Murcia,Manufacturing,ML Engineer,10,22.91,AWS AI,1
+Madrid,Manufacturing,AI Engineer,6,16.43,PyTorch,1
+Palma,IT,Data Analyst,11,23.93,ChatGPT,1
+Malaga,Healthcare,ML Engineer,1,7.17,ChatGPT,0
+Murcia,Finance,AI Researcher,11,32.43,Scikit-learn,1
+Bilbao,Finance,Data Analyst,2,9.06,ChatGPT,0
+Alicante,IT,ML Engineer,2,10.1,ChatGPT,0
+Zaragoza,Finance,ML Engineer,2,14.08,TensorFlow,0
+Valencia,IT,ML Engineer,1,7.24,Scikit-learn,0
+Murcia,EdTech,Data Scientist,9,17.51,AWS AI,1
+Alicante,IT,ML Engineer,11,27.74,Scikit-learn,0
+Seville,E-commerce,AI Engineer,6,18.11,ChatGPT,1
+Seville,EdTech,Data Scientist,0,4.99,AWS AI,0
+Seville,Healthcare,ML Engineer,1,7.8,ChatGPT,1
+Valencia,EdTech,Data Scientist,3,10.87,Azure AI,1
+Bilbao,Finance,AI Researcher,5,17.37,TensorFlow,0
+Madrid,Finance,AI Engineer,8,19.14,TensorFlow,1
+Murcia,Manufacturing,Data Scientist,4,12.65,Scikit-learn,1
+Malaga,IT,AI Engineer,8,17.31,ChatGPT,1
+Murcia,IT,ML Engineer,10,25.46,Scikit-learn,0
+Seville,E-commerce,AI Researcher,0,6.64,ChatGPT,1
+Madrid,Manufacturing,ML Engineer,7,19.9,Azure AI,0
+Alicante,Finance,Data Analyst,9,23.63,ChatGPT,0
+Valencia,Finance,AI Engineer,11,27.02,PyTorch,1
+Madrid,IT,Data Scientist,10,23.82,AWS AI,1
+Barcelona,Healthcare,AI Researcher,4,14.98,ChatGPT,1
+Palma,EdTech,ML Engineer,7,20.9,AWS AI,0
+Alicante,EdTech,Data Analyst,4,12.5,Azure AI,1
+Malaga,Finance,Data Analyst,9,17.81,PyTorch,0
+Valencia,Manufacturing,Data Scientist,3,10.92,Azure AI,1
+Zaragoza,Healthcare,AI Researcher,0,6.76,Scikit-learn,0
+Bilbao,EdTech,AI Researcher,7,25.61,PyTorch,0
+Valencia,Manufacturing,Data Scientist,4,10.78,PyTorch,0
+Bilbao,Healthcare,Data Scientist,3,5.99,Scikit-learn,1
+Zaragoza,Finance,AI Researcher,2,15.83,Azure AI,1
+Bilbao,IT,AI Engineer,7,21.09,TensorFlow,0
+Murcia,Finance,ML Engineer,10,23.64,Azure AI,0
+Malaga,E-commerce,AI Researcher,3,12.63,PyTorch,0
+Murcia,Manufacturing,Data Scientist,5,15.06,Scikit-learn,1
+Valencia,EdTech,AI Researcher,3,10.02,Azure AI,1
+Madrid,Manufacturing,AI Engineer,5,12.38,ChatGPT,1
+Valencia,EdTech,Data Scientist,0,4.69,ChatGPT,1
+Malaga,E-commerce,Data Analyst,10,22.98,AWS AI,0
+Valencia,EdTech,AI Engineer,11,22.85,PyTorch,1
+Malaga,Healthcare,AI Researcher,5,17.74,AWS AI,1
+Valencia,Healthcare,Data Scientist,7,21.05,ChatGPT,0
+Alicante,Healthcare,AI Engineer,2,6.84,Azure AI,1
+Madrid,Manufacturing,AI Engineer,9,21.15,TensorFlow,0
+Valencia,IT,Data Analyst,11,23.02,ChatGPT,1
+Barcelona,E-commerce,ML Engineer,2,9.78,TensorFlow,1
+Seville,EdTech,ML Engineer,4,11.69,PyTorch,0
+Alicante,IT,AI Researcher,10,31.0,PyTorch,0
+Zaragoza,Finance,ML Engineer,5,15.57,AWS AI,1
+Seville,EdTech,Data Analyst,9,22.41,Scikit-learn,1
+Palma,Manufacturing,Data Scientist,9,20.72,Scikit-learn,1
+Seville,Manufacturing,AI Engineer,7,17.76,PyTorch,1
+Zaragoza,Healthcare,Data Analyst,6,16.4,Azure AI,1
+Bilbao,Healthcare,AI Engineer,0,3.0,AWS AI,0
+Murcia,EdTech,Data Analyst,6,12.58,TensorFlow,1
+Barcelona,IT,Data Scientist,7,18.13,TensorFlow,0
+Seville,IT,ML Engineer,11,29.67,AWS AI,1
+Bilbao,Healthcare,Data Scientist,7,17.32,AWS AI,0
+Malaga,Manufacturing,Data Analyst,4,13.83,TensorFlow,1
+Malaga,IT,ML Engineer,1,5.56,Azure AI,1
+Barcelona,EdTech,AI Engineer,11,24.78,ChatGPT,0
+Murcia,EdTech,Data Scientist,4,13.31,Scikit-learn,1
+Zaragoza,Healthcare,AI Engineer,9,23.98,AWS AI,1
+Zaragoza,Manufacturing,AI Engineer,3,13.35,TensorFlow,1
+Murcia,Finance,Data Analyst,3,7.48,Scikit-learn,1
+Alicante,E-commerce,Data Analyst,0,10.6,Scikit-learn,0
+Valencia,Healthcare,AI Engineer,9,19.22,Azure AI,1
+Murcia,Healthcare,Data Analyst,4,11.24,Scikit-learn,0
+Murcia,IT,AI Engineer,3,7.22,TensorFlow,0
+Barcelona,Healthcare,Data Scientist,10,25.58,Scikit-learn,1
+Seville,Manufacturing,AI Researcher,8,20.23,Azure AI,0
+Murcia,EdTech,AI Engineer,6,16.51,TensorFlow,1
+Zaragoza,IT,AI Researcher,1,9.42,Azure AI,1
+Zaragoza,Finance,ML Engineer,7,21.23,Scikit-learn,1
+Alicante,Finance,Data Analyst,5,13.65,TensorFlow,1
+Zaragoza,Healthcare,ML Engineer,11,31.23,AWS AI,1
+Seville,IT,Data Scientist,3,12.32,PyTorch,1
+Barcelona,IT,ML Engineer,9,27.58,AWS AI,1
+Zaragoza,IT,ML Engineer,9,24.93,PyTorch,1
+Bilbao,Finance,ML Engineer,3,14.85,Scikit-learn,0
+Seville,Healthcare,Data Scientist,2,11.26,Azure AI,0
+Palma,E-commerce,Data Scientist,1,7.68,TensorFlow,0
+Palma,IT,Data Analyst,9,24.51,TensorFlow,0
+Barcelona,Finance,ML Engineer,6,15.71,Azure AI,0
+Valencia,E-commerce,AI Engineer,5,14.76,ChatGPT,1
+Zaragoza,IT,AI Researcher,3,14.68,Azure AI,0
+Zaragoza,Manufacturing,ML Engineer,11,31.13,Azure AI,1
+Zaragoza,Manufacturing,Data Analyst,0,5.68,Azure AI,1
+Murcia,EdTech,Data Scientist,2,10.03,Azure AI,1
+Madrid,Manufacturing,AI Researcher,10,25.99,PyTorch,0
+Zaragoza,EdTech,Data Scientist,7,19.63,AWS AI,0
+Madrid,Finance,AI Researcher,1,8.6,Azure AI,1
+Malaga,IT,AI Researcher,7,20.83,Azure AI,0
+Seville,Finance,AI Engineer,7,18.14,Scikit-learn,0
+Bilbao,Healthcare,AI Engineer,11,27.08,TensorFlow,0
+Barcelona,E-commerce,Data Scientist,4,13.32,AWS AI,0
+Alicante,Healthcare,ML Engineer,6,17.08,TensorFlow,1
+Barcelona,EdTech,Data Scientist,3,10.31,PyTorch,0
+Bilbao,EdTech,AI Engineer,9,21.05,TensorFlow,0
+Valencia,IT,AI Engineer,9,26.15,ChatGPT,1
+Zaragoza,E-commerce,AI Researcher,6,19.63,PyTorch,1
+Murcia,Manufacturing,Data Scientist,4,5.53,PyTorch,0
+Malaga,Healthcare,AI Engineer,1,4.5,PyTorch,1
+Zaragoza,Manufacturing,Data Analyst,6,17.38,Scikit-learn,1
+Alicante,Healthcare,AI Engineer,9,22.6,AWS AI,1
+Malaga,Healthcare,AI Researcher,5,22.08,ChatGPT,0
+Valencia,E-commerce,Data Scientist,4,10.52,Scikit-learn,0
+Zaragoza,Finance,AI Engineer,11,27.32,Scikit-learn,1
+Murcia,EdTech,AI Engineer,6,16.61,AWS AI,0
+Bilbao,IT,ML Engineer,2,10.85,Azure AI,1
+Seville,Manufacturing,Data Scientist,2,9.96,AWS AI,1
+Murcia,Healthcare,AI Researcher,0,9.85,ChatGPT,0
+Bilbao,E-commerce,AI Engineer,6,14.52,AWS AI,1
+Malaga,Finance,Data Analyst,5,12.7,Scikit-learn,0
+Bilbao,IT,Data Analyst,9,19.54,ChatGPT,1
+Palma,IT,AI Researcher,4,17.7,ChatGPT,0
+Madrid,IT,Data Scientist,0,4.91,TensorFlow,1
+Bilbao,Finance,AI Engineer,1,8.89,ChatGPT,0
+Malaga,EdTech,ML Engineer,7,21.51,ChatGPT,1
+Murcia,Manufacturing,AI Researcher,2,11.49,TensorFlow,1
+Seville,Healthcare,ML Engineer,4,11.17,ChatGPT,1
+Bilbao,IT,ML Engineer,0,4.95,PyTorch,0
+Barcelona,Manufacturing,AI Engineer,0,3.49,PyTorch,1
+Valencia,IT,ML Engineer,7,19.33,TensorFlow,0
+Valencia,IT,Data Analyst,10,23.08,PyTorch,0
+Bilbao,E-commerce,Data Analyst,2,9.62,Azure AI,1
+Bilbao,Healthcare,AI Researcher,10,25.91,TensorFlow,1
+Bilbao,IT,Data Analyst,2,6.71,Azure AI,1
+Bilbao,Finance,Data Analyst,6,15.48,Scikit-learn,0
+Barcelona,EdTech,AI Engineer,0,4.71,Azure AI,0
+Valencia,Healthcare,ML Engineer,2,15.26,AWS AI,0
+Seville,Healthcare,AI Engineer,0,5.82,TensorFlow,0
+Barcelona,Manufacturing,Data Scientist,8,20.03,Azure AI,1
+Alicante,Healthcare,Data Analyst,7,20.5,AWS AI,0
+Valencia,Manufacturing,AI Researcher,2,13.99,AWS AI,1
+Barcelona,Healthcare,AI Researcher,7,24.5,ChatGPT,0
+Valencia,Manufacturing,Data Analyst,9,23.83,Azure AI,1
+Barcelona,E-commerce,Data Scientist,8,18.39,Scikit-learn,0
+Zaragoza,IT,Data Scientist,0,4.74,PyTorch,0
+Seville,IT,Data Scientist,10,25.4,TensorFlow,1
+Malaga,E-commerce,AI Researcher,2,10.14,Azure AI,1
+Valencia,Manufacturing,AI Researcher,9,25.64,Scikit-learn,0
+Seville,EdTech,AI Researcher,9,25.41,AWS AI,0
+Murcia,Healthcare,Data Scientist,8,19.21,AWS AI,0
+Madrid,EdTech,AI Engineer,7,16.8,Scikit-learn,0
+Valencia,IT,Data Analyst,10,23.04,Azure AI,1
+Madrid,Manufacturing,AI Engineer,10,24.52,PyTorch,1
+Madrid,E-commerce,Data Analyst,7,15.73,AWS AI,0
+Murcia,E-commerce,AI Engineer,2,6.88,ChatGPT,0
+Seville,Healthcare,AI Engineer,0,4.23,AWS AI,1
+Bilbao,Healthcare,AI Engineer,6,14.43,AWS AI,1
+Malaga,E-commerce,AI Researcher,6,20.77,AWS AI,0
+Palma,IT,Data Analyst,0,3.0,AWS AI,0
+Palma,Manufacturing,Data Analyst,7,17.46,ChatGPT,1
+Valencia,IT,AI Engineer,0,4.07,Azure AI,1
+Valencia,Healthcare,AI Engineer,1,8.93,AWS AI,0
+Madrid,E-commerce,AI Engineer,9,20.73,AWS AI,1
+Alicante,Manufacturing,Data Analyst,2,4.4,Azure AI,1
+Bilbao,E-commerce,Data Analyst,5,12.99,Scikit-learn,1
+Madrid,EdTech,ML Engineer,11,24.23,AWS AI,1
+Palma,Healthcare,AI Researcher,8,28.26,TensorFlow,1
+Bilbao,EdTech,AI Engineer,3,8.75,PyTorch,0
+Murcia,EdTech,AI Researcher,9,28.71,PyTorch,0
+Bilbao,IT,Data Scientist,1,3.0,Azure AI,1
+Bilbao,Finance,AI Researcher,8,26.56,ChatGPT,0
+Malaga,IT,Data Scientist,3,9.76,PyTorch,0
+Bilbao,EdTech,AI Researcher,3,11.76,Azure AI,0
+Murcia,Manufacturing,Data Scientist,1,6.2,Scikit-learn,0
+Valencia,Healthcare,ML Engineer,6,15.02,TensorFlow,1
+Malaga,Manufacturing,Data Analyst,5,15.91,ChatGPT,0
+Alicante,IT,AI Engineer,11,25.96,AWS AI,0
+Barcelona,EdTech,ML Engineer,2,9.13,Scikit-learn,1
+Madrid,EdTech,Data Scientist,1,7.51,PyTorch,0
+Murcia,Finance,AI Engineer,8,17.53,Azure AI,1
+Murcia,Healthcare,Data Analyst,4,11.86,Azure AI,1
+Murcia,Healthcare,AI Engineer,10,22.37,Azure AI,1
+Barcelona,EdTech,Data Analyst,4,11.35,PyTorch,0
+Valencia,Healthcare,AI Researcher,2,13.78,ChatGPT,1
+Madrid,Healthcare,Data Analyst,2,6.56,Azure AI,1
+Barcelona,Finance,Data Analyst,8,16.97,Scikit-learn,1
+Zaragoza,Healthcare,AI Researcher,2,12.5,AWS AI,1
+Zaragoza,IT,Data Scientist,8,18.45,TensorFlow,0
+Bilbao,Healthcare,ML Engineer,11,28.22,AWS AI,0
+Malaga,Healthcare,Data Scientist,3,6.35,Azure AI,1
+Bilbao,EdTech,ML Engineer,2,13.75,Scikit-learn,0
+Zaragoza,E-commerce,Data Scientist,1,3.1,TensorFlow,1
+Murcia,E-commerce,ML Engineer,3,11.29,PyTorch,1
+Malaga,Manufacturing,Data Scientist,9,23.84,Scikit-learn,1
+Palma,EdTech,Data Scientist,3,8.68,ChatGPT,1
+Alicante,Finance,AI Engineer,11,24.24,TensorFlow,1
+Barcelona,EdTech,AI Researcher,6,17.5,PyTorch,1
+Valencia,EdTech,Data Analyst,1,4.13,Azure AI,1
+Valencia,Finance,ML Engineer,3,11.38,TensorFlow,0
+Bilbao,E-commerce,AI Researcher,10,30.92,AWS AI,0
+Bilbao,Manufacturing,ML Engineer,8,22.6,AWS AI,1
+Malaga,Manufacturing,AI Engineer,5,14.31,Scikit-learn,1
+Madrid,Healthcare,AI Researcher,7,23.67,TensorFlow,1
+Palma,EdTech,AI Researcher,6,22.53,TensorFlow,1
+Seville,Healthcare,Data Scientist,5,9.71,AWS AI,0
+Zaragoza,Finance,AI Engineer,8,17.13,ChatGPT,0
+Alicante,Finance,ML Engineer,8,25.05,ChatGPT,0
+Valencia,Manufacturing,AI Engineer,4,11.32,TensorFlow,0
+Barcelona,Finance,Data Analyst,8,19.19,Azure AI,1
+Bilbao,Finance,ML Engineer,1,8.81,PyTorch,0
+Madrid,Healthcare,Data Analyst,4,10.31,ChatGPT,0
+Alicante,Finance,AI Engineer,11,27.51,Scikit-learn,1
+Madrid,Finance,Data Scientist,3,8.35,PyTorch,1
+Madrid,EdTech,Data Scientist,5,14.99,ChatGPT,1
+Malaga,EdTech,AI Researcher,1,10.42,Scikit-learn,0
+Murcia,Healthcare,ML Engineer,10,27.56,TensorFlow,1
+Murcia,EdTech,Data Scientist,8,20.52,Scikit-learn,1
+Palma,IT,Data Scientist,10,23.64,Scikit-learn,1
+Madrid,EdTech,AI Researcher,0,9.43,ChatGPT,0
+Valencia,Manufacturing,ML Engineer,3,10.33,Scikit-learn,1
+Bilbao,Manufacturing,Data Scientist,7,16.34,Scikit-learn,0
+Zaragoza,Manufacturing,AI Researcher,7,23.28,PyTorch,1
+Madrid,E-commerce,Data Scientist,4,10.38,AWS AI,0
+Madrid,IT,ML Engineer,0,5.57,Azure AI,0
+Madrid,Manufacturing,Data Analyst,8,20.98,Azure AI,0
+Zaragoza,Manufacturing,Data Scientist,0,3.18,TensorFlow,1
+Zaragoza,Healthcare,AI Engineer,10,26.92,ChatGPT,0
+Valencia,E-commerce,Data Scientist,8,19.79,PyTorch,1
+Seville,IT,ML Engineer,11,30.97,Scikit-learn,0
+Murcia,E-commerce,AI Researcher,10,28.2,AWS AI,0
+Madrid,IT,Data Scientist,1,5.59,Azure AI,1
+Bilbao,Manufacturing,Data Scientist,3,7.45,TensorFlow,0
+Bilbao,EdTech,AI Researcher,3,14.27,TensorFlow,0
+Madrid,EdTech,Data Scientist,0,3.0,PyTorch,1
+Bilbao,Manufacturing,Data Scientist,7,18.03,AWS AI,1
+Palma,IT,Data Scientist,4,11.74,AWS AI,1
+Bilbao,Manufacturing,AI Engineer,9,22.44,TensorFlow,1
+Madrid,E-commerce,AI Engineer,6,14.45,ChatGPT,1
+Bilbao,Finance,ML Engineer,8,21.21,TensorFlow,0
+Alicante,Manufacturing,Data Analyst,5,13.66,ChatGPT,1
+Barcelona,EdTech,Data Analyst,3,10.5,Azure AI,0
+Murcia,Healthcare,ML Engineer,5,19.85,AWS AI,0
+Alicante,Manufacturing,ML Engineer,3,11.91,Azure AI,0
+Seville,E-commerce,Data Scientist,1,3.93,PyTorch,1
+Barcelona,Finance,Data Scientist,0,4.6,PyTorch,0
+Alicante,E-commerce,Data Analyst,7,15.88,Scikit-learn,1
+Murcia,Healthcare,AI Engineer,4,11.97,AWS AI,0
+Madrid,EdTech,AI Researcher,1,10.16,PyTorch,1
+Barcelona,IT,AI Researcher,10,28.59,TensorFlow,1
+Seville,EdTech,AI Researcher,1,12.31,AWS AI,1
+Zaragoza,EdTech,Data Scientist,3,6.59,PyTorch,0
+Zaragoza,Finance,AI Researcher,7,21.78,PyTorch,0
+Zaragoza,Finance,Data Analyst,10,24.52,AWS AI,1
+Barcelona,Finance,Data Analyst,3,9.09,Azure AI,1
+Murcia,Healthcare,Data Analyst,7,18.03,Scikit-learn,0
+Seville,E-commerce,Data Analyst,5,11.81,Scikit-learn,1
+Alicante,E-commerce,ML Engineer,11,30.04,Scikit-learn,0
+Alicante,Healthcare,ML Engineer,9,22.56,Azure AI,1
+Murcia,IT,Data Analyst,3,12.95,ChatGPT,1
+Zaragoza,Healthcare,Data Analyst,1,6.89,Azure AI,1
+Madrid,Healthcare,Data Analyst,10,26.94,Scikit-learn,1
+Valencia,Finance,Data Analyst,0,7.18,PyTorch,1
+Zaragoza,Healthcare,AI Researcher,4,15.75,Scikit-learn,1
+Madrid,Finance,Data Scientist,7,16.88,ChatGPT,1
+Seville,EdTech,ML Engineer,1,9.69,PyTorch,1
+Valencia,EdTech,AI Researcher,9,28.57,ChatGPT,1
+Malaga,Manufacturing,ML Engineer,5,16.55,PyTorch,1
+Barcelona,Manufacturing,AI Researcher,4,16.67,Azure AI,1
+Malaga,Finance,AI Engineer,0,3.0,PyTorch,0
+Zaragoza,Healthcare,AI Researcher,0,5.85,Azure AI,1
+Malaga,EdTech,AI Engineer,10,24.16,AWS AI,0
+Alicante,EdTech,Data Analyst,5,11.18,TensorFlow,0
+Barcelona,Manufacturing,AI Researcher,2,16.39,ChatGPT,1
+Malaga,Healthcare,Data Analyst,0,3.0,Azure AI,1
+Seville,Manufacturing,AI Researcher,0,12.23,TensorFlow,1
+Palma,Finance,AI Engineer,1,5.08,AWS AI,0
+Bilbao,Manufacturing,AI Researcher,6,15.9,PyTorch,1
+Zaragoza,Finance,Data Scientist,0,3.0,AWS AI,1
+Seville,IT,Data Analyst,10,25.54,AWS AI,1
+Alicante,E-commerce,AI Engineer,2,6.38,TensorFlow,1
+Zaragoza,EdTech,Data Scientist,10,22.51,ChatGPT,1
+Alicante,Healthcare,Data Analyst,0,3.0,AWS AI,1
+Malaga,EdTech,AI Researcher,1,10.08,Scikit-learn,0
+Malaga,E-commerce,Data Scientist,0,3.0,Azure AI,1
+Seville,EdTech,Data Analyst,2,7.21,ChatGPT,0
+Bilbao,EdTech,ML Engineer,9,25.24,ChatGPT,1
+Barcelona,Finance,AI Researcher,1,11.34,ChatGPT,0
+Seville,EdTech,AI Researcher,10,32.86,Azure AI,0
+Seville,IT,Data Analyst,3,9.76,ChatGPT,0
+Palma,IT,Data Scientist,10,24.42,PyTorch,1
+Barcelona,EdTech,ML Engineer,7,19.22,AWS AI,1
+Murcia,IT,ML Engineer,3,17.23,Azure AI,1
+Seville,E-commerce,AI Engineer,4,6.66,PyTorch,1
+Malaga,E-commerce,ML Engineer,9,22.8,TensorFlow,0
+Murcia,IT,Data Analyst,4,13.83,TensorFlow,1
+Zaragoza,Finance,AI Researcher,6,18.6,Azure AI,1
+Madrid,Finance,Data Analyst,1,4.87,PyTorch,1
+Malaga,EdTech,AI Engineer,5,14.79,TensorFlow,0
+Madrid,E-commerce,ML Engineer,0,6.85,TensorFlow,1
+Malaga,IT,AI Researcher,8,26.91,Azure AI,1
+Madrid,E-commerce,AI Engineer,3,5.89,AWS AI,1
+Bilbao,EdTech,AI Engineer,8,22.05,AWS AI,0
+Alicante,Finance,Data Analyst,1,8.06,Scikit-learn,0
+Zaragoza,E-commerce,Data Scientist,9,18.57,TensorFlow,0
+Palma,E-commerce,AI Researcher,10,29.54,Scikit-learn,0
+Alicante,E-commerce,ML Engineer,9,27.17,Azure AI,1
+Seville,IT,AI Engineer,4,10.01,ChatGPT,0
+Palma,E-commerce,Data Analyst,2,5.48,PyTorch,1
+Palma,E-commerce,ML Engineer,6,15.65,Scikit-learn,0
+Palma,EdTech,AI Researcher,0,4.54,ChatGPT,1
+Palma,Finance,AI Engineer,10,27.0,Scikit-learn,1
+Seville,EdTech,AI Engineer,3,10.13,PyTorch,1
+Murcia,IT,Data Scientist,6,12.15,AWS AI,0
+Alicante,Healthcare,AI Engineer,6,14.85,TensorFlow,1
+Madrid,IT,AI Engineer,4,10.05,ChatGPT,0
+Malaga,IT,AI Researcher,6,20.16,Azure AI,0
+Seville,EdTech,AI Researcher,0,10.65,AWS AI,0
+Bilbao,EdTech,Data Analyst,11,24.67,ChatGPT,0
+Palma,IT,Data Scientist,11,25.52,ChatGPT,0
+Palma,E-commerce,ML Engineer,4,13.69,TensorFlow,0
+Seville,Manufacturing,Data Scientist,4,10.71,TensorFlow,0
+Malaga,Manufacturing,Data Analyst,9,21.73,TensorFlow,1
+Zaragoza,EdTech,Data Analyst,2,9.66,AWS AI,1
+Bilbao,E-commerce,AI Researcher,7,20.24,ChatGPT,0
+Bilbao,Manufacturing,AI Engineer,6,20.11,PyTorch,0
+Zaragoza,E-commerce,Data Scientist,11,22.86,TensorFlow,1
+Valencia,E-commerce,AI Researcher,4,19.61,TensorFlow,1
+Alicante,EdTech,AI Engineer,11,26.25,PyTorch,0
+Malaga,EdTech,ML Engineer,11,27.55,Azure AI,0
+Bilbao,Manufacturing,AI Engineer,11,26.67,TensorFlow,1
+Murcia,Healthcare,Data Analyst,4,10.77,Azure AI,0
+Palma,Finance,Data Scientist,2,4.47,AWS AI,1
+Zaragoza,EdTech,Data Analyst,9,24.6,Scikit-learn,1
+Alicante,E-commerce,AI Researcher,7,23.55,PyTorch,0
+Madrid,EdTech,AI Engineer,3,10.07,Azure AI,0
+Malaga,IT,ML Engineer,2,8.18,TensorFlow,0
+Seville,Finance,ML Engineer,5,13.5,Scikit-learn,1
+Barcelona,Manufacturing,AI Engineer,11,26.1,AWS AI,1
+Madrid,Finance,AI Engineer,3,9.35,Azure AI,0
+Murcia,E-commerce,AI Researcher,9,24.65,TensorFlow,1
+Bilbao,Healthcare,Data Analyst,9,20.97,AWS AI,1
+Alicante,IT,Data Scientist,8,18.08,TensorFlow,1
+Bilbao,Finance,AI Researcher,8,24.6,Scikit-learn,1
+Alicante,EdTech,Data Scientist,7,19.17,Azure AI,0
+Barcelona,E-commerce,AI Engineer,2,6.48,PyTorch,0
+Seville,Manufacturing,AI Engineer,1,8.99,Scikit-learn,0
+Palma,E-commerce,Data Analyst,1,4.87,ChatGPT,0
+Zaragoza,IT,ML Engineer,10,23.9,AWS AI,0
+Zaragoza,E-commerce,AI Researcher,4,14.87,ChatGPT,0
+Murcia,Manufacturing,AI Engineer,8,18.96,Azure AI,1
+Palma,Healthcare,ML Engineer,10,28.52,TensorFlow,0
+Palma,Finance,Data Analyst,7,16.67,PyTorch,0
+Malaga,IT,AI Researcher,4,16.24,Scikit-learn,1
+Bilbao,Healthcare,ML Engineer,0,4.65,Azure AI,1
+Valencia,Healthcare,Data Analyst,2,9.07,ChatGPT,0
+Zaragoza,E-commerce,AI Engineer,0,3.0,Azure AI,1
+Murcia,Finance,AI Researcher,5,21.29,PyTorch,1
+Palma,EdTech,AI Engineer,6,16.69,TensorFlow,1
+Zaragoza,E-commerce,AI Engineer,7,16.12,Scikit-learn,0
+Barcelona,Finance,Data Scientist,5,11.47,Scikit-learn,1
+Madrid,EdTech,ML Engineer,7,20.39,Azure AI,0
+Zaragoza,EdTech,Data Scientist,6,18.93,ChatGPT,1
+Zaragoza,Healthcare,ML Engineer,4,12.05,PyTorch,0
+Murcia,Manufacturing,Data Scientist,11,28.18,PyTorch,1
+Seville,E-commerce,Data Analyst,4,12.56,PyTorch,0
+Barcelona,EdTech,AI Engineer,3,12.63,AWS AI,0
+Bilbao,EdTech,ML Engineer,10,23.99,ChatGPT,1
+Malaga,Manufacturing,Data Scientist,1,3.03,ChatGPT,0
+Barcelona,Healthcare,AI Engineer,1,9.45,Scikit-learn,1
+Seville,Manufacturing,AI Researcher,4,18.75,PyTorch,0
+Zaragoza,EdTech,AI Researcher,9,26.59,ChatGPT,1
+Palma,E-commerce,Data Analyst,6,16.26,PyTorch,0
+Murcia,IT,AI Engineer,2,9.01,Azure AI,1
+Madrid,Healthcare,AI Engineer,10,22.43,TensorFlow,0
+Alicante,Manufacturing,Data Scientist,3,6.12,ChatGPT,1
+Seville,E-commerce,ML Engineer,2,10.26,ChatGPT,0
+Palma,Manufacturing,Data Scientist,1,7.52,ChatGPT,0
+Barcelona,E-commerce,AI Researcher,4,18.04,Azure AI,0
+Madrid,EdTech,Data Analyst,6,19.4,ChatGPT,1
+Malaga,Healthcare,ML Engineer,1,10.83,Scikit-learn,1
+Murcia,Finance,Data Scientist,4,15.81,Azure AI,1
+Bilbao,Finance,AI Researcher,10,26.57,PyTorch,0
+Murcia,E-commerce,AI Engineer,9,20.44,TensorFlow,1
+Valencia,EdTech,AI Researcher,2,14.82,TensorFlow,0
+Madrid,E-commerce,ML Engineer,9,26.07,Scikit-learn,0
+Alicante,EdTech,AI Engineer,8,17.99,ChatGPT,0
+Alicante,E-commerce,AI Researcher,10,29.17,ChatGPT,0
+Zaragoza,EdTech,ML Engineer,10,28.59,ChatGPT,0
+Valencia,E-commerce,AI Researcher,0,8.32,TensorFlow,0
+Palma,Manufacturing,Data Analyst,6,17.39,AWS AI,1
+Seville,E-commerce,Data Scientist,4,10.91,TensorFlow,1
+Zaragoza,IT,Data Analyst,4,10.0,Scikit-learn,1
+Alicante,E-commerce,AI Researcher,0,11.13,AWS AI,0
+Zaragoza,Healthcare,ML Engineer,10,25.21,PyTorch,0
+Malaga,Finance,ML Engineer,2,9.11,AWS AI,0
+Seville,EdTech,AI Engineer,2,7.29,Azure AI,1
+Seville,E-commerce,ML Engineer,3,10.57,PyTorch,1
+Alicante,IT,AI Engineer,10,25.8,TensorFlow,0
+Madrid,E-commerce,Data Analyst,8,22.84,AWS AI,1
+Barcelona,Finance,ML Engineer,8,21.02,Scikit-learn,0
+Alicante,Healthcare,ML Engineer,6,18.36,TensorFlow,1
+Seville,Finance,Data Analyst,0,3.0,PyTorch,0
+Alicante,EdTech,AI Researcher,9,25.31,ChatGPT,1
+Malaga,Healthcare,Data Scientist,9,20.28,AWS AI,0
+Murcia,Finance,AI Engineer,8,16.0,Azure AI,1
+Zaragoza,E-commerce,Data Analyst,10,21.3,Scikit-learn,1
+Alicante,IT,Data Scientist,8,19.4,ChatGPT,0
+Valencia,Manufacturing,Data Analyst,4,12.79,ChatGPT,0
+Valencia,Finance,Data Scientist,9,23.06,Scikit-learn,0
+Malaga,Finance,Data Scientist,7,13.36,PyTorch,1
+Alicante,E-commerce,Data Analyst,7,16.43,Azure AI,1
+Madrid,EdTech,AI Researcher,10,28.99,Azure AI,1
+Barcelona,Finance,Data Analyst,5,15.6,TensorFlow,0
+Zaragoza,Manufacturing,AI Engineer,8,15.12,Scikit-learn,0
+Zaragoza,IT,Data Scientist,6,15.38,Scikit-learn,0
+Alicante,E-commerce,ML Engineer,5,16.37,AWS AI,0
+Zaragoza,IT,AI Engineer,1,3.0,Scikit-learn,1
+Zaragoza,Manufacturing,AI Engineer,11,28.27,Azure AI,0
+Palma,Finance,ML Engineer,10,25.5,ChatGPT,1
+Malaga,Manufacturing,Data Scientist,6,17.38,TensorFlow,1
+Barcelona,EdTech,Data Analyst,7,21.21,Scikit-learn,1
+Zaragoza,Healthcare,AI Researcher,4,18.9,TensorFlow,0
+Palma,IT,AI Researcher,10,26.25,Scikit-learn,1
+Barcelona,IT,ML Engineer,11,25.41,PyTorch,1
+Zaragoza,Finance,AI Researcher,0,6.97,Azure AI,0
+Murcia,Manufacturing,AI Engineer,4,15.94,Scikit-learn,1
+Alicante,Healthcare,ML Engineer,4,17.07,ChatGPT,1
+Bilbao,EdTech,Data Analyst,10,25.83,ChatGPT,1
+Malaga,EdTech,AI Researcher,3,15.09,Azure AI,0
+Alicante,IT,Data Analyst,10,21.42,Azure AI,0
+Barcelona,Healthcare,ML Engineer,1,10.63,Scikit-learn,1
+Murcia,E-commerce,ML Engineer,8,23.71,PyTorch,1
+Murcia,Manufacturing,Data Scientist,4,11.11,Scikit-learn,0
+Bilbao,E-commerce,Data Scientist,7,17.02,ChatGPT,1
+Bilbao,Finance,AI Engineer,10,20.71,PyTorch,1
+Bilbao,IT,AI Engineer,2,6.55,PyTorch,0
+Seville,Finance,AI Researcher,1,8.77,PyTorch,0
+Barcelona,EdTech,AI Engineer,2,7.06,Scikit-learn,1
+Zaragoza,IT,AI Researcher,0,9.73,AWS AI,1
+Zaragoza,EdTech,AI Engineer,11,23.8,Azure AI,0
+Barcelona,E-commerce,Data Scientist,10,24.34,ChatGPT,1
+Madrid,EdTech,AI Researcher,0,11.29,Azure AI,1
+Bilbao,IT,ML Engineer,4,14.46,Azure AI,1
+Alicante,IT,ML Engineer,8,24.57,AWS AI,1
+Valencia,EdTech,AI Researcher,8,25.97,ChatGPT,1
+Malaga,Finance,Data Analyst,11,22.84,Azure AI,1
+Madrid,Finance,AI Researcher,8,26.53,AWS AI,1
+Madrid,Finance,Data Scientist,11,23.43,TensorFlow,0
+Zaragoza,E-commerce,Data Scientist,1,6.62,PyTorch,1
+Seville,Healthcare,Data Scientist,4,10.62,TensorFlow,1
+Madrid,E-commerce,ML Engineer,7,26.22,TensorFlow,1
+Seville,Manufacturing,AI Researcher,7,24.05,PyTorch,0
+Barcelona,IT,ML Engineer,0,3.0,AWS AI,0
+Barcelona,E-commerce,Data Scientist,4,14.37,TensorFlow,0
+Alicante,EdTech,Data Scientist,6,13.23,Scikit-learn,0
+Malaga,E-commerce,Data Analyst,0,4.48,Azure AI,1
+Valencia,E-commerce,Data Analyst,8,20.56,Scikit-learn,0
+Zaragoza,E-commerce,Data Analyst,7,17.4,PyTorch,0
+Barcelona,Manufacturing,Data Scientist,6,13.2,TensorFlow,0
+Madrid,E-commerce,Data Scientist,5,17.28,Azure AI,0
+Palma,Healthcare,Data Analyst,5,15.23,Azure AI,0
+Madrid,EdTech,ML Engineer,7,18.31,AWS AI,0
+Bilbao,Finance,ML Engineer,10,25.96,Scikit-learn,0
+Barcelona,Manufacturing,ML Engineer,7,19.53,AWS AI,0
+Barcelona,Healthcare,AI Researcher,6,17.07,Scikit-learn,1
+Zaragoza,E-commerce,Data Scientist,1,4.66,PyTorch,1
+Barcelona,EdTech,ML Engineer,0,4.2,AWS AI,1
+Alicante,E-commerce,ML Engineer,10,26.96,TensorFlow,0
+Madrid,Healthcare,ML Engineer,4,11.47,TensorFlow,0
+Palma,E-commerce,Data Analyst,6,16.18,Scikit-learn,1
+Zaragoza,EdTech,Data Analyst,2,9.74,TensorFlow,0
+Palma,IT,AI Engineer,6,17.36,TensorFlow,1
+Murcia,Manufacturing,Data Analyst,7,17.18,AWS AI,1
+Barcelona,IT,ML Engineer,7,20.61,ChatGPT,1
+Zaragoza,EdTech,AI Engineer,9,21.63,ChatGPT,0
+Zaragoza,E-commerce,ML Engineer,3,9.39,Scikit-learn,1
+Seville,E-commerce,AI Engineer,9,21.59,Azure AI,0
+Palma,IT,Data Scientist,11,27.76,Scikit-learn,1
+Seville,Manufacturing,Data Analyst,7,17.52,Azure AI,1
+Murcia,Finance,AI Engineer,9,22.75,AWS AI,1
+Valencia,EdTech,AI Researcher,3,13.97,ChatGPT,1
+Murcia,IT,AI Researcher,11,31.04,Azure AI,1
+Malaga,E-commerce,ML Engineer,2,10.41,Azure AI,0
+Seville,Finance,Data Analyst,8,18.86,Azure AI,1
+Murcia,IT,ML Engineer,5,16.27,PyTorch,1
+Bilbao,Manufacturing,AI Engineer,4,10.43,Scikit-learn,1
+Murcia,EdTech,ML Engineer,9,25.2,AWS AI,1
+Seville,E-commerce,ML Engineer,5,15.68,Scikit-learn,1
+Murcia,IT,AI Engineer,9,23.16,TensorFlow,1
+Seville,Manufacturing,Data Analyst,0,5.11,Azure AI,1
+Barcelona,E-commerce,ML Engineer,5,15.89,PyTorch,0
+Malaga,Healthcare,Data Scientist,5,13.6,TensorFlow,1
+Valencia,IT,Data Scientist,5,12.76,TensorFlow,1
+Madrid,E-commerce,Data Analyst,7,18.47,AWS AI,1
+Zaragoza,Finance,ML Engineer,6,19.52,Scikit-learn,1
+Barcelona,E-commerce,Data Scientist,10,22.7,AWS AI,0
+Malaga,Finance,Data Analyst,5,15.17,Azure AI,1
+Madrid,Finance,AI Researcher,4,13.95,AWS AI,0
+Murcia,Manufacturing,AI Engineer,3,7.87,ChatGPT,0
+Bilbao,Finance,ML Engineer,11,28.38,Scikit-learn,0
+Alicante,E-commerce,ML Engineer,8,19.92,AWS AI,1
+Malaga,Manufacturing,AI Engineer,0,3.79,ChatGPT,0
+Zaragoza,Manufacturing,ML Engineer,6,19.77,Azure AI,0
+Palma,IT,AI Engineer,5,13.81,Azure AI,1
+Murcia,IT,Data Scientist,11,26.08,AWS AI,0
+Bilbao,Manufacturing,AI Researcher,2,11.38,Scikit-learn,1
+Bilbao,E-commerce,Data Analyst,2,9.31,TensorFlow,0
+Madrid,E-commerce,AI Researcher,11,29.74,TensorFlow,0
+Murcia,Healthcare,AI Researcher,5,22.57,Scikit-learn,0
+Valencia,Healthcare,AI Researcher,3,14.44,Scikit-learn,1
+Valencia,EdTech,Data Analyst,7,19.41,ChatGPT,1
+Palma,E-commerce,Data Scientist,1,5.04,Scikit-learn,1
+Zaragoza,IT,AI Researcher,8,22.8,ChatGPT,0
+Palma,Finance,ML Engineer,3,12.82,PyTorch,0
+Zaragoza,Finance,Data Scientist,9,21.05,AWS AI,1
+Palma,Manufacturing,AI Researcher,0,9.59,TensorFlow,1
+Valencia,E-commerce,AI Engineer,0,3.0,Scikit-learn,1
+Valencia,E-commerce,AI Researcher,1,14.89,ChatGPT,0
+Murcia,Manufacturing,AI Researcher,8,24.84,PyTorch,0
+Malaga,Manufacturing,ML Engineer,7,17.79,Azure AI,0
+Alicante,Finance,AI Researcher,6,24.16,Scikit-learn,0
+Alicante,E-commerce,Data Analyst,9,22.15,ChatGPT,1
+Madrid,E-commerce,AI Researcher,8,21.16,PyTorch,1
+Malaga,Manufacturing,AI Engineer,9,24.22,TensorFlow,1
+Zaragoza,Healthcare,ML Engineer,3,12.82,TensorFlow,0
+Zaragoza,E-commerce,AI Engineer,4,7.35,AWS AI,1
+Malaga,IT,AI Engineer,0,3.0,ChatGPT,0
+Seville,Manufacturing,Data Analyst,10,22.33,PyTorch,0
+Zaragoza,E-commerce,AI Researcher,7,23.16,ChatGPT,1
+Alicante,Finance,Data Scientist,5,14.59,ChatGPT,0
+Alicante,EdTech,AI Engineer,4,11.13,Azure AI,1
+Valencia,Healthcare,Data Analyst,2,8.03,ChatGPT,1
+Bilbao,E-commerce,ML Engineer,4,15.24,Scikit-learn,0
+Palma,E-commerce,AI Engineer,11,24.08,ChatGPT,0
+Murcia,EdTech,AI Researcher,3,17.04,Azure AI,1
+Madrid,Finance,AI Engineer,7,15.8,AWS AI,0
+Barcelona,Manufacturing,Data Analyst,2,6.19,ChatGPT,0
+Alicante,Manufacturing,AI Engineer,4,12.24,ChatGPT,1
+Zaragoza,EdTech,AI Researcher,8,20.52,AWS AI,1
+Malaga,Healthcare,AI Researcher,0,9.55,PyTorch,1
+Barcelona,E-commerce,Data Analyst,7,17.33,Azure AI,1
+Madrid,Finance,Data Scientist,0,6.0,PyTorch,0
+Bilbao,Manufacturing,AI Engineer,8,19.66,AWS AI,0
+Bilbao,EdTech,AI Engineer,11,27.16,Azure AI,0
+Seville,E-commerce,ML Engineer,0,6.26,PyTorch,1
+Alicante,Finance,Data Analyst,2,6.88,Azure AI,1
+Zaragoza,Manufacturing,AI Engineer,2,5.32,AWS AI,1
+Seville,Manufacturing,AI Engineer,1,7.65,AWS AI,1
+Bilbao,EdTech,Data Scientist,2,6.93,ChatGPT,1
+Barcelona,Healthcare,Data Scientist,4,12.5,ChatGPT,1
+Palma,IT,ML Engineer,4,14.25,ChatGPT,0
+Zaragoza,Finance,Data Scientist,3,9.17,TensorFlow,0
+Palma,Finance,AI Engineer,0,3.79,Scikit-learn,1
+Bilbao,E-commerce,Data Scientist,7,22.0,ChatGPT,1
+Valencia,EdTech,ML Engineer,7,15.8,Scikit-learn,1
+Barcelona,Manufacturing,AI Engineer,11,28.59,TensorFlow,1
+Murcia,IT,Data Analyst,0,5.06,TensorFlow,0
+Palma,Finance,Data Analyst,1,7.54,Azure AI,1
+Barcelona,E-commerce,Data Scientist,6,12.92,PyTorch,0
+Bilbao,EdTech,ML Engineer,5,14.98,TensorFlow,0
+Madrid,Finance,AI Engineer,7,17.5,PyTorch,0
+Seville,Manufacturing,AI Researcher,5,17.12,TensorFlow,1
+Madrid,Finance,Data Analyst,11,24.19,Azure AI,0
+Valencia,Healthcare,Data Scientist,6,15.73,PyTorch,0
+Seville,Finance,Data Analyst,5,10.4,TensorFlow,0
+Alicante,Healthcare,Data Analyst,3,11.52,TensorFlow,0
+Malaga,E-commerce,AI Engineer,11,24.03,TensorFlow,1
+Malaga,IT,AI Engineer,7,14.22,TensorFlow,0
+Barcelona,E-commerce,Data Scientist,11,25.33,ChatGPT,1
+Seville,Healthcare,ML Engineer,5,15.22,Azure AI,1
+Bilbao,IT,Data Scientist,6,14.62,ChatGPT,1
+Madrid,Healthcare,AI Engineer,4,7.52,PyTorch,0
+Malaga,Manufacturing,Data Scientist,11,23.52,AWS AI,1
+Barcelona,Manufacturing,AI Researcher,7,20.75,Azure AI,0
+Alicante,EdTech,ML Engineer,10,29.71,AWS AI,1
+Murcia,Healthcare,ML Engineer,5,15.66,PyTorch,0
+Madrid,E-commerce,AI Engineer,11,24.62,ChatGPT,0
+Valencia,Healthcare,ML Engineer,6,15.1,AWS AI,1
+Seville,EdTech,Data Scientist,1,5.69,Scikit-learn,1
+Valencia,Healthcare,Data Scientist,6,13.46,Scikit-learn,0
+Seville,IT,ML Engineer,4,13.09,AWS AI,1
+Bilbao,Finance,ML Engineer,6,21.74,TensorFlow,1
+Palma,Healthcare,ML Engineer,6,19.25,Azure AI,1
+Malaga,Healthcare,ML Engineer,8,23.2,TensorFlow,0
+Malaga,IT,Data Analyst,10,22.32,TensorFlow,1
+Seville,Manufacturing,ML Engineer,6,18.71,AWS AI,0
+Madrid,E-commerce,AI Researcher,2,13.09,TensorFlow,1
+Valencia,Finance,Data Analyst,3,9.86,AWS AI,1
+Valencia,IT,AI Researcher,10,26.63,Scikit-learn,1
+Seville,Healthcare,Data Scientist,3,7.66,Scikit-learn,1
+Bilbao,E-commerce,Data Analyst,3,9.17,PyTorch,0
+Valencia,EdTech,ML Engineer,4,14.81,PyTorch,0
+Madrid,Healthcare,Data Scientist,7,17.75,PyTorch,1
+Barcelona,Finance,Data Analyst,10,20.14,PyTorch,0
+Bilbao,Manufacturing,ML Engineer,10,24.54,Azure AI,1
+Barcelona,Healthcare,Data Scientist,8,18.43,TensorFlow,0
+Zaragoza,IT,ML Engineer,1,9.34,Scikit-learn,1
+Seville,IT,AI Engineer,5,11.86,AWS AI,1
+Zaragoza,E-commerce,AI Engineer,3,10.82,Scikit-learn,1
+Murcia,Healthcare,Data Scientist,6,11.68,ChatGPT,1
+Valencia,Manufacturing,ML Engineer,7,20.11,Azure AI,1
+Madrid,Manufacturing,ML Engineer,3,15.35,Azure AI,0
+Barcelona,IT,AI Engineer,2,8.83,Azure AI,1
+Valencia,Finance,AI Engineer,0,3.42,PyTorch,1
+Madrid,E-commerce,AI Engineer,3,8.34,Scikit-learn,1
+Madrid,Finance,Data Analyst,11,25.74,Azure AI,0
+Barcelona,IT,Data Analyst,9,22.25,Azure AI,0
+Valencia,Finance,AI Researcher,0,11.86,ChatGPT,0
+Malaga,Manufacturing,Data Analyst,4,9.79,Azure AI,1
+Seville,EdTech,ML Engineer,6,15.7,Scikit-learn,1
+Murcia,IT,Data Scientist,6,14.2,TensorFlow,1
+Murcia,Manufacturing,AI Engineer,7,15.38,Azure AI,1
+Malaga,Healthcare,Data Scientist,11,27.83,ChatGPT,1
+Malaga,Healthcare,ML Engineer,4,13.79,PyTorch,1
+Alicante,EdTech,ML Engineer,9,21.36,AWS AI,1
+Bilbao,IT,Data Analyst,7,14.44,ChatGPT,1
+Barcelona,E-commerce,Data Analyst,2,5.73,Azure AI,0
+Valencia,Healthcare,AI Researcher,6,19.93,Azure AI,1
+Murcia,IT,AI Researcher,1,12.55,PyTorch,1
+Madrid,EdTech,Data Analyst,10,19.26,PyTorch,0
+Zaragoza,Finance,AI Engineer,7,15.99,TensorFlow,0
+Murcia,Healthcare,Data Analyst,6,13.45,PyTorch,1
+Valencia,E-commerce,AI Researcher,8,23.04,AWS AI,0
+Zaragoza,E-commerce,ML Engineer,11,29.69,AWS AI,0
+Malaga,IT,Data Scientist,10,25.4,AWS AI,0
+Bilbao,Healthcare,AI Engineer,6,15.93,ChatGPT,1
+Bilbao,IT,ML Engineer,8,21.14,TensorFlow,0
+Alicante,Manufacturing,AI Engineer,7,14.33,ChatGPT,1
+Madrid,Manufacturing,AI Engineer,11,24.45,TensorFlow,0
+Valencia,EdTech,ML Engineer,6,26.07,TensorFlow,1
+Alicante,Finance,AI Engineer,2,4.39,ChatGPT,0
+Palma,E-commerce,Data Analyst,0,3.0,TensorFlow,1
+Zaragoza,IT,AI Researcher,8,24.79,PyTorch,1
+Alicante,IT,AI Researcher,4,12.85,PyTorch,1
+Zaragoza,Manufacturing,Data Analyst,10,25.31,Scikit-learn,1
+Malaga,Manufacturing,Data Analyst,7,20.09,TensorFlow,0
+Zaragoza,Finance,AI Engineer,4,10.88,ChatGPT,1
+Alicante,Finance,ML Engineer,8,24.7,AWS AI,1
+Bilbao,IT,AI Engineer,6,14.94,AWS AI,1
+Malaga,IT,Data Analyst,11,22.65,Scikit-learn,1
+Barcelona,E-commerce,AI Researcher,7,21.5,Azure AI,0
+Seville,E-commerce,ML Engineer,1,7.0,PyTorch,1
+Seville,Finance,AI Engineer,11,26.72,PyTorch,0
+Madrid,Finance,AI Engineer,2,6.04,AWS AI,0
+Valencia,IT,AI Engineer,4,8.82,TensorFlow,0
+Alicante,EdTech,AI Engineer,3,8.43,AWS AI,0
+Malaga,Finance,Data Analyst,11,26.09,PyTorch,1
+Bilbao,EdTech,AI Researcher,1,11.54,TensorFlow,0
+Seville,Healthcare,ML Engineer,0,11.05,TensorFlow,1
+Alicante,Finance,Data Analyst,6,15.17,Azure AI,0
+Malaga,Healthcare,Data Scientist,8,19.2,Azure AI,1
+Bilbao,Manufacturing,AI Engineer,4,11.35,ChatGPT,1
+Bilbao,E-commerce,ML Engineer,10,25.06,AWS AI,1
+Alicante,E-commerce,Data Analyst,11,25.79,PyTorch,0
+Bilbao,IT,Data Analyst,7,18.45,ChatGPT,1
+Bilbao,IT,Data Analyst,5,14.01,Scikit-learn,0
+Malaga,EdTech,ML Engineer,1,7.37,TensorFlow,1
+Zaragoza,Healthcare,ML Engineer,9,27.56,AWS AI,1
+Malaga,IT,AI Researcher,5,19.23,AWS AI,0
+Bilbao,Manufacturing,ML Engineer,1,9.81,Scikit-learn,0
+Alicante,Manufacturing,AI Engineer,9,19.57,TensorFlow,0
+Madrid,E-commerce,Data Scientist,5,12.53,Scikit-learn,0
+Barcelona,E-commerce,Data Scientist,9,20.64,PyTorch,1
+Malaga,Finance,AI Engineer,3,7.7,Scikit-learn,1
+Malaga,E-commerce,ML Engineer,7,17.52,PyTorch,0
+Alicante,IT,AI Researcher,1,10.33,ChatGPT,0
+Palma,Finance,AI Researcher,6,19.85,PyTorch,1
+Seville,IT,Data Scientist,9,20.22,ChatGPT,0
+Seville,IT,Data Analyst,0,3.0,Azure AI,0
+Madrid,Healthcare,AI Researcher,3,16.17,TensorFlow,1
+Malaga,Healthcare,Data Analyst,4,13.91,ChatGPT,0
+Seville,Finance,Data Analyst,2,6.82,Scikit-learn,1
+Murcia,IT,Data Analyst,6,14.25,Scikit-learn,1
+Murcia,IT,Data Analyst,4,11.58,Scikit-learn,1
+Malaga,Healthcare,AI Researcher,10,30.07,Scikit-learn,1
+Alicante,Healthcare,ML Engineer,0,9.0,Azure AI,0
+Murcia,Manufacturing,AI Engineer,8,19.01,TensorFlow,1
+Seville,Finance,AI Researcher,6,20.89,Scikit-learn,0
+Malaga,EdTech,Data Analyst,3,10.51,Scikit-learn,0
+Murcia,EdTech,AI Researcher,7,21.0,PyTorch,0
+Malaga,IT,AI Researcher,10,29.5,AWS AI,1
+Madrid,EdTech,ML Engineer,10,28.51,Scikit-learn,1
+Palma,EdTech,Data Analyst,8,20.54,Azure AI,1
+Alicante,Healthcare,ML Engineer,11,25.84,ChatGPT,1
+Valencia,Finance,AI Researcher,5,20.36,AWS AI,0
+Bilbao,Healthcare,AI Engineer,7,20.17,PyTorch,1
+Malaga,Healthcare,Data Scientist,4,11.15,TensorFlow,0
+Seville,E-commerce,AI Researcher,0,9.09,TensorFlow,1
+Madrid,Healthcare,ML Engineer,5,17.18,AWS AI,0
+Palma,E-commerce,ML Engineer,1,7.38,Azure AI,0
+Murcia,Healthcare,ML Engineer,4,13.77,TensorFlow,1
+Bilbao,EdTech,AI Researcher,7,23.85,Azure AI,1
+Palma,IT,ML Engineer,4,13.95,TensorFlow,1
+Bilbao,EdTech,Data Scientist,2,8.63,TensorFlow,1
+Alicante,IT,Data Scientist,0,3.66,PyTorch,1
+Valencia,E-commerce,AI Engineer,8,17.85,PyTorch,0
+Palma,IT,AI Researcher,5,16.68,TensorFlow,1
+Palma,Finance,Data Analyst,0,4.95,AWS AI,0
+Seville,Finance,ML Engineer,9,25.21,Scikit-learn,1
+Barcelona,Healthcare,AI Engineer,2,7.73,ChatGPT,0
+Madrid,Manufacturing,AI Engineer,2,7.29,ChatGPT,0
+Valencia,IT,Data Analyst,2,6.02,AWS AI,1
+Barcelona,E-commerce,ML Engineer,11,25.88,AWS AI,0
+Murcia,Finance,AI Researcher,10,26.07,Scikit-learn,0
+Seville,EdTech,Data Scientist,2,6.01,TensorFlow,1
+Madrid,Finance,AI Researcher,11,26.86,ChatGPT,1
+Barcelona,EdTech,AI Engineer,2,10.37,Scikit-learn,1
+Zaragoza,Finance,ML Engineer,8,22.31,Scikit-learn,1
+Murcia,EdTech,ML Engineer,7,19.54,Azure AI,1
+Murcia,EdTech,Data Analyst,5,10.65,Azure AI,1
+Seville,E-commerce,ML Engineer,11,25.61,Scikit-learn,0
+Valencia,Manufacturing,Data Scientist,10,22.88,TensorFlow,1
+Malaga,Finance,AI Engineer,5,13.52,Scikit-learn,1
+Bilbao,Manufacturing,AI Researcher,10,28.92,Azure AI,0
+Madrid,EdTech,Data Scientist,7,15.16,AWS AI,1
+Barcelona,E-commerce,AI Researcher,5,19.63,AWS AI,0
+Zaragoza,E-commerce,AI Engineer,7,15.58,ChatGPT,1
+Madrid,EdTech,ML Engineer,2,12.08,AWS AI,0
+Seville,E-commerce,AI Researcher,9,27.74,AWS AI,1
+Seville,E-commerce,AI Researcher,11,29.62,PyTorch,1
+Bilbao,IT,Data Analyst,10,25.56,Scikit-learn,1
+Alicante,IT,ML Engineer,4,11.19,AWS AI,1
+Zaragoza,Manufacturing,AI Engineer,11,23.39,ChatGPT,1
+Murcia,IT,Data Analyst,2,9.46,Scikit-learn,0
+Murcia,Healthcare,AI Researcher,4,15.74,AWS AI,0
+Bilbao,Healthcare,ML Engineer,8,22.77,TensorFlow,1
+Seville,IT,AI Engineer,0,3.0,AWS AI,0
+Barcelona,IT,Data Analyst,8,22.4,TensorFlow,1
+Alicante,E-commerce,AI Engineer,5,16.56,AWS AI,1
+Zaragoza,Manufacturing,Data Analyst,11,29.14,Azure AI,1
+Madrid,EdTech,Data Analyst,10,21.26,Azure AI,0
+Valencia,Manufacturing,Data Scientist,5,15.92,TensorFlow,1
+Zaragoza,Healthcare,AI Engineer,6,17.88,Azure AI,1
+Alicante,Manufacturing,AI Researcher,5,20.3,Scikit-learn,0
+Valencia,E-commerce,Data Analyst,1,7.68,PyTorch,1
+Murcia,IT,AI Engineer,10,26.49,Scikit-learn,1
+Barcelona,E-commerce,ML Engineer,4,15.2,PyTorch,0
+Bilbao,EdTech,AI Engineer,3,6.67,AWS AI,0
+Zaragoza,EdTech,Data Scientist,9,21.75,TensorFlow,1
+Bilbao,Manufacturing,Data Scientist,5,13.88,PyTorch,0
+Zaragoza,Finance,Data Analyst,5,11.95,Scikit-learn,0
+Alicante,Manufacturing,ML Engineer,9,21.21,Scikit-learn,1
+Seville,E-commerce,AI Engineer,3,9.41,Azure AI,0
+Bilbao,EdTech,ML Engineer,2,9.16,ChatGPT,1
+Palma,Healthcare,Data Scientist,10,25.85,TensorFlow,0
+Alicante,IT,AI Researcher,6,19.2,Scikit-learn,0
+Alicante,IT,ML Engineer,6,14.06,ChatGPT,0
+Seville,Finance,Data Analyst,7,17.94,Azure AI,0
+Madrid,Healthcare,AI Researcher,3,17.04,Scikit-learn,1
+Bilbao,Finance,Data Scientist,5,15.65,AWS AI,0
+Valencia,Healthcare,AI Engineer,8,22.48,Azure AI,1
+Zaragoza,Healthcare,AI Researcher,5,20.43,ChatGPT,1
+Valencia,Manufacturing,AI Engineer,11,25.08,TensorFlow,1
+Palma,Healthcare,ML Engineer,5,17.31,AWS AI,0
+Madrid,Finance,Data Analyst,1,7.41,TensorFlow,1
+Madrid,E-commerce,ML Engineer,5,21.67,PyTorch,0
+Palma,Finance,ML Engineer,1,7.79,ChatGPT,0
+Zaragoza,Healthcare,AI Researcher,0,7.11,Scikit-learn,1
+Barcelona,IT,Data Scientist,8,23.71,Azure AI,0
+Seville,Healthcare,Data Analyst,3,6.09,TensorFlow,1
+Madrid,Manufacturing,Data Scientist,5,10.7,AWS AI,0
+Zaragoza,Finance,Data Analyst,9,21.64,ChatGPT,0
+Alicante,Manufacturing,Data Scientist,5,10.64,TensorFlow,1
+Seville,IT,ML Engineer,0,12.37,AWS AI,1
+Malaga,Healthcare,AI Researcher,10,31.62,Scikit-learn,1
+Bilbao,IT,Data Analyst,9,20.48,TensorFlow,1
+Murcia,Finance,Data Scientist,9,23.05,ChatGPT,0
+Madrid,Healthcare,Data Analyst,10,23.99,Azure AI,0
+Zaragoza,Finance,Data Scientist,2,9.56,AWS AI,1
+Madrid,E-commerce,Data Analyst,7,16.48,PyTorch,1
+Barcelona,Manufacturing,Data Scientist,3,10.74,Azure AI,0
+Alicante,E-commerce,Data Analyst,1,4.6,PyTorch,0
+Valencia,EdTech,Data Analyst,3,9.95,Scikit-learn,0
+Barcelona,Manufacturing,AI Engineer,2,9.65,TensorFlow,1
+Seville,E-commerce,AI Engineer,0,3.55,ChatGPT,1
+Seville,E-commerce,AI Researcher,3,14.63,Scikit-learn,1
+Murcia,EdTech,Data Scientist,10,28.51,Azure AI,1
+Barcelona,IT,Data Analyst,1,5.82,TensorFlow,1
+Malaga,Manufacturing,AI Researcher,9,23.26,PyTorch,1
+Barcelona,E-commerce,AI Engineer,8,23.09,TensorFlow,1
+Palma,Manufacturing,AI Engineer,10,23.34,PyTorch,1
+Alicante,Finance,Data Analyst,10,24.2,Azure AI,1
+Palma,E-commerce,AI Engineer,4,11.25,AWS AI,1
+Madrid,Finance,Data Analyst,1,6.64,TensorFlow,1
+Barcelona,Manufacturing,ML Engineer,2,11.07,TensorFlow,1
+Alicante,Healthcare,Data Scientist,11,22.57,AWS AI,0
+Murcia,EdTech,Data Scientist,3,9.61,Scikit-learn,1
+Seville,EdTech,AI Researcher,2,9.67,ChatGPT,0
+Malaga,Healthcare,AI Engineer,5,11.23,Scikit-learn,1
+Zaragoza,IT,AI Researcher,6,20.98,TensorFlow,1
+Seville,EdTech,ML Engineer,10,29.9,Scikit-learn,1
+Palma,Healthcare,AI Researcher,7,24.95,ChatGPT,0
+Bilbao,Finance,Data Scientist,10,22.3,AWS AI,0
+Murcia,Finance,Data Scientist,9,19.88,Scikit-learn,1
+Barcelona,EdTech,Data Scientist,10,23.01,PyTorch,1
+Valencia,EdTech,AI Engineer,3,9.43,PyTorch,1
+Barcelona,EdTech,Data Analyst,5,10.61,Scikit-learn,1
+Malaga,Healthcare,AI Engineer,1,5.17,ChatGPT,1
+Barcelona,Healthcare,AI Researcher,9,27.7,Scikit-learn,1
+Zaragoza,E-commerce,Data Scientist,9,24.92,TensorFlow,1
+Palma,EdTech,AI Researcher,9,26.74,ChatGPT,1
+Murcia,EdTech,Data Analyst,9,18.79,TensorFlow,1
+Seville,Finance,Data Analyst,4,10.47,TensorFlow,1
+Alicante,Manufacturing,Data Analyst,6,15.76,Azure AI,1
+Palma,IT,Data Scientist,11,27.4,PyTorch,0
+Alicante,Healthcare,ML Engineer,9,22.64,TensorFlow,1
+Bilbao,Finance,AI Engineer,11,24.86,PyTorch,1
+Murcia,Manufacturing,AI Engineer,0,3.0,AWS AI,0
+Palma,Finance,Data Analyst,5,17.24,PyTorch,0
+Bilbao,Manufacturing,AI Researcher,11,28.51,AWS AI,1
+Alicante,E-commerce,Data Analyst,8,18.48,AWS AI,0
+Murcia,Healthcare,AI Researcher,7,21.27,TensorFlow,0
+Seville,Finance,AI Engineer,9,21.84,PyTorch,0
+Palma,Healthcare,AI Researcher,0,7.26,ChatGPT,0
+Murcia,E-commerce,AI Engineer,5,12.43,ChatGPT,0
+Madrid,E-commerce,Data Scientist,5,12.86,Azure AI,1
+Valencia,Healthcare,ML Engineer,10,26.68,AWS AI,0
+Seville,IT,Data Analyst,10,23.17,AWS AI,1
+Palma,IT,Data Scientist,5,14.28,Scikit-learn,1
+Malaga,Healthcare,Data Analyst,4,13.35,ChatGPT,1
+Murcia,Finance,ML Engineer,8,21.66,ChatGPT,0
+Barcelona,Manufacturing,Data Analyst,4,10.96,AWS AI,1
+Malaga,IT,AI Engineer,6,15.41,Scikit-learn,1
+Barcelona,Manufacturing,AI Researcher,2,11.59,Scikit-learn,0
+Madrid,Healthcare,Data Analyst,10,22.27,Azure AI,0
+Alicante,Manufacturing,Data Scientist,10,24.05,ChatGPT,0
+Alicante,EdTech,AI Researcher,5,16.9,AWS AI,1
+Malaga,Finance,Data Scientist,9,18.14,AWS AI,1
+Murcia,E-commerce,Data Scientist,10,23.65,TensorFlow,1
+Valencia,E-commerce,Data Scientist,0,3.0,TensorFlow,0
+Seville,EdTech,Data Scientist,4,7.32,Azure AI,1
+Zaragoza,IT,ML Engineer,8,21.9,PyTorch,1
+Seville,Finance,Data Scientist,10,26.2,Scikit-learn,0
+Murcia,EdTech,ML Engineer,4,14.27,AWS AI,1
+Barcelona,E-commerce,ML Engineer,4,15.77,Azure AI,0
+Valencia,Healthcare,Data Scientist,8,19.28,TensorFlow,0
+Valencia,Finance,ML Engineer,5,16.0,ChatGPT,0
+Palma,Finance,Data Analyst,8,17.75,Scikit-learn,1
+Malaga,Manufacturing,Data Analyst,11,23.41,Azure AI,1
+Murcia,Healthcare,AI Researcher,5,18.29,AWS AI,1
+Madrid,Manufacturing,AI Researcher,4,12.43,PyTorch,0
+Zaragoza,EdTech,ML Engineer,0,9.36,ChatGPT,0
+Barcelona,Healthcare,AI Engineer,4,7.98,Azure AI,1
+Barcelona,EdTech,AI Engineer,3,10.03,AWS AI,0
+Zaragoza,Manufacturing,ML Engineer,4,14.2,TensorFlow,1
+Barcelona,IT,AI Researcher,6,23.81,AWS AI,0
+Murcia,Finance,AI Researcher,9,27.36,ChatGPT,1
+Zaragoza,IT,AI Researcher,7,22.27,TensorFlow,1
+Valencia,E-commerce,AI Researcher,0,10.71,Azure AI,1
+Madrid,E-commerce,Data Scientist,3,9.33,Scikit-learn,0
+Madrid,Manufacturing,AI Researcher,0,8.17,AWS AI,1
+Palma,Manufacturing,Data Scientist,8,17.53,Scikit-learn,1
+Palma,Finance,Data Analyst,6,16.85,AWS AI,0
+Alicante,Finance,AI Researcher,2,11.64,Azure AI,1
+Murcia,Healthcare,ML Engineer,6,20.33,TensorFlow,0
+Murcia,Healthcare,AI Researcher,7,21.03,TensorFlow,1
+Palma,EdTech,ML Engineer,6,19.16,ChatGPT,1
+Palma,Healthcare,ML Engineer,7,21.25,AWS AI,1
+Palma,IT,Data Analyst,11,24.05,TensorFlow,1
+Zaragoza,Finance,ML Engineer,9,25.05,TensorFlow,1
+Valencia,E-commerce,AI Engineer,7,18.16,ChatGPT,1
+Madrid,Healthcare,ML Engineer,3,13.39,PyTorch,1
+Malaga,E-commerce,Data Analyst,5,18.27,ChatGPT,1
+Zaragoza,EdTech,AI Engineer,6,13.78,ChatGPT,1
+Palma,E-commerce,AI Researcher,1,6.37,AWS AI,0
+Valencia,EdTech,Data Scientist,11,25.33,Azure AI,1
+Barcelona,IT,AI Engineer,6,17.03,Azure AI,1
+Murcia,IT,Data Scientist,8,20.31,AWS AI,0
+Palma,EdTech,ML Engineer,10,24.78,ChatGPT,1
+Valencia,Manufacturing,ML Engineer,2,10.16,ChatGPT,1
+Murcia,Manufacturing,ML Engineer,10,26.23,Scikit-learn,0
+Palma,IT,Data Analyst,5,14.05,Scikit-learn,1
+Alicante,E-commerce,ML Engineer,9,25.87,ChatGPT,1
+Seville,IT,ML Engineer,11,29.49,ChatGPT,1
+Murcia,E-commerce,AI Researcher,8,24.99,Azure AI,0
+Valencia,E-commerce,AI Engineer,1,6.34,TensorFlow,0
+Malaga,Healthcare,AI Researcher,3,16.06,TensorFlow,1
+Alicante,Finance,AI Engineer,1,7.31,Scikit-learn,0
+Seville,Manufacturing,Data Scientist,7,16.0,PyTorch,1
+Bilbao,E-commerce,ML Engineer,3,13.65,Azure AI,0
+Malaga,Finance,Data Analyst,9,23.14,TensorFlow,0
+Murcia,EdTech,AI Engineer,1,7.17,AWS AI,1
+Barcelona,Manufacturing,AI Researcher,7,24.65,Scikit-learn,0
+Palma,EdTech,Data Analyst,10,22.97,ChatGPT,1
+Barcelona,Finance,Data Analyst,3,8.84,AWS AI,0
+Madrid,E-commerce,ML Engineer,11,29.01,Scikit-learn,1
+Madrid,Healthcare,Data Scientist,11,24.73,AWS AI,1
+Valencia,Manufacturing,Data Analyst,2,9.41,TensorFlow,1
+Alicante,IT,Data Scientist,5,12.86,Scikit-learn,1
+Zaragoza,EdTech,Data Analyst,4,14.04,Scikit-learn,0
+Madrid,Manufacturing,Data Analyst,0,3.39,Scikit-learn,0
+Barcelona,Healthcare,AI Engineer,11,27.25,Scikit-learn,1
+Alicante,Manufacturing,AI Researcher,10,28.04,TensorFlow,1
