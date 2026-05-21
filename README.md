@@ -1,5 +1,7 @@
 # [Mastering Streamlit | Hands-on](https://www.thinkrook.com/course/MasteringStreamlitHands-on-108469)
 
+![MasteringStreamlitHandsOn](https://socialify.git.ci/thinknyx-technologies-llp/MasteringStreamlitHandsOn/image?font=Raleway&language=1&logo=https%3A%2F%2Fstreamlit.io%2Fimages%2Fbrand%2Fstreamlit-mark-color.png&name=1&pattern=Plus&theme=Light)
+
 ## What you'll learn
 
 * Understand the fundamentals of Streamlit and how it simplifies web app development with Python
